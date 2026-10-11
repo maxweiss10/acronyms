@@ -81,7 +81,7 @@ function segment(w){
 }
 function decodeToken(tok){
   const k=norm(tok); if(!k) return null;
-  if(LEX[k]) return {t:tok,exact:LEX[k]};
+  if(LEX[k]){ const ex=LEX[k].filter(e=>e.a.toLowerCase()===tok); const by=(x,y)=>y.spec.split(", ").length-x.spec.split(", ").length; return {t:tok,exact:(ex.length?ex:LEX[k]).slice().sort(by)}; }
   const seg=segment(k);
   if(seg&&seg.length>1) return {t:tok,seg:seg.map(s=>({k:s,e:LEX[s][0]}))};
   return {t:tok,none:true};
@@ -93,7 +93,10 @@ const t=$("t"),q=$("q"),none=$("none"),dec=$("dec"),spec=$("spec"),count=$("coun
 [...new Set(ENTRIES.flatMap(e=>e[2].split(", ")).concat(["Compound modifier"]))].sort().forEach(s=>{
   const o=document.createElement("option");o.value=s;o.textContent=s;spec.append(o);
 });
-const SPEC_ABBR={"Cardiology":"Cards","Electrophysiology":"EP","Interventional Cardiology":"Interv","Cardiac Imaging":"Imaging","Heart Failure":"HF","Cardiac Surgery":"CT Surg","Vascular Surgery":"Vasc","Pulmonology":"Pulm","Sleep Medicine":"Sleep","Critical Care":"CC","Nephrology":"Neph","Gastroenterology":"GI","Hepatology":"Hep","Endocrinology":"Endo","Hematology":"Heme","Oncology":"Onc","Transplant":"Transplant","Infectious Disease":"ID","Rheumatology":"Rheum","Allergy & Immunology":"Allergy","Neurology":"Neuro","Neurosurgery":"NSG","Psychiatry":"Psych","Addiction Medicine":"Addiction","Emergency Medicine":"EM","Toxicology":"Tox","Anesthesiology":"Anesth","General Surgery":"Gen Surg","Trauma Surgery":"Trauma","Orthopedics":"Ortho","Sports Medicine":"Sports","Physical Medicine & Rehab":"PM&R","Urology":"Uro","Obstetrics":"OB","Gynecology":"Gyn","Pediatrics":"Peds","Neonatology":"Neo","Genetics":"Genetics","Geriatrics":"Geri","Palliative Care":"Palliative","Pain Medicine":"Pain","Dermatology":"Derm","Plastic Surgery":"Plastics","Ophthalmology":"Ophth","Otolaryngology":"ENT","Dentistry":"Dental","Radiology":"Rad","Pathology":"Path","Laboratory Medicine":"Lab","Pharmacology":"Pharm","Nutrition":"Nutr","Public Health":"PH","Health Administration":"Admin","Hospital Medicine":"Hosp Med","Nursing":"Nursing","Compound modifier":"Compound"};
+const SPEC_ABBR={"Cardiology":"Cards","Electrophysiology":"EP","Interventional Cardiology":"Interv","Cardiac Imaging":"Imaging","Heart Failure":"HF","Cardiac Surgery":"CT Surg","Vascular Surgery":"Vasc","Pulmonology":"Pulm","Sleep Medicine":"Sleep","Critical Care":"CC","Nephrology":"Neph","Gastroenterology":"GI","Hepatology":"Hep","Endocrinology":"Endo","Hematology":"Heme","Oncology":"Onc","Transplant":"Transplant","Infectious Disease":"ID","Rheumatology":"Rheum","Allergy & Immunology":"Allergy","Neurology":"Neuro","Neurosurgery":"NSG","Psychiatry":"Psych","Addiction Medicine":"Addiction","Emergency Medicine":"EM","Toxicology":"Tox","Anesthesiology":"Anesth","General Surgery":"Gen Surg","Trauma Surgery":"Trauma","Orthopedics":"Ortho","Sports Medicine":"Sports","Physical Medicine & Rehab":"PM&R","Urology":"Uro","Obstetrics":"OB","Gynecology":"Gyn","Pediatrics":"Peds","Neonatology":"Neo","Genetics":"Genetics","Geriatrics":"Geri","Palliative Care":"Palliative","Pain Medicine":"Pain","Dermatology":"Derm","Plastic Surgery":"Plastics","Ophthalmology":"Ophth","Otolaryngology":"ENT","Dentistry":"Dental","Radiology":"Rad","Pathology":"Path","Laboratory Medicine":"Lab","Pharmacology":"Pharm","Nutrition":"Nutr","Public Health":"PH","Health Administration":"Admin","Hospital Medicine":"Hosp Med","Nursing":"Nursing","Physical Therapy":"PT","Occupational Therapy":"OT","Speech-Language Pathology":"SLP","Respiratory Therapy":"RT","Social Work & Case Management":"SW/CM","Chaplaincy & Spiritual Care":"Chaplain","Health Insurance & Billing":"Insurance","Podiatry":"Podiatry","Orthotics & Prosthetics":"O&P","Evidence-Based Medicine":"EBM","Chart Shorthand":"Chart","Compound modifier":"Compound"};
+// exact typed forms (keeps slashes/case-folded), so "c/f" is looked up whole instead of split
+const RAW=new Set(ENTRIES.map(e=>e[0].toLowerCase()));
+const RAWN=new Set(ENTRIES.map(e=>norm(e[0])));
 const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 function render(){
@@ -102,8 +105,9 @@ function render(){
 
   // decoder: multi-token input, or a single token that is not a whole entry
   if(raw){
-    const toks=raw.replace(/s\/p/g,"sp").split(/[\s\/+,;&]+/).filter(Boolean);
-    if(toks.length>1||!LEX[n]){
+    // whole-word lookup first (s/p, c/o, A&Ox3); split on / + & only when the word is not itself an entry
+    const toks=raw.split(/[\s,;]+/).flatMap(w=>RAW.has(w)||!/[\/+&]/.test(w)?[w]:w.split(/[\/+&]+/)).filter(Boolean);
+    if(!RAW.has(raw)&&(toks.length>1||!RAWN.has(n))){
       toks.map(decodeToken).filter(Boolean).forEach(o=>{
         const d=document.createElement("div");
         if(o.exact) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.exact.map(e=>esc(e.m)+` <span class="g">(${esc(e.spec)})</span>`).join("; ")}`;
@@ -119,9 +123,9 @@ function render(){
   if(raw){
     rows=rows.map(e=>{const na=norm(e[0]);
       let s=9;
-      if(na===n) s=0; else if(na.startsWith(n)) s=1;
+      if(e[0].toLowerCase()===raw) s=0; else if(na===n) s=1; else if(na.startsWith(n)) s=2;
       return [s,e];
-    }).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
+    }).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||(x[0]<2?y[1][2].split(", ").length-x[1][2].split(", ").length:0)||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
   } else rows=rows.slice().sort((x,y)=>x[0].localeCompare(y[0]));
   if(sp) rows=rows.filter(e=>e[2].split(", ").includes(sp));
 

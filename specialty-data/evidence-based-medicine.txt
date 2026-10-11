@@ -1,0 +1,691 @@
+EBM|Evidence-based medicine|Evidence-Based Medicine
+EBP|Evidence-based practice|Evidence-Based Medicine
+EBG|Evidence-based guideline|Evidence-Based Medicine
+CPG|Clinical practice guideline|Evidence-Based Medicine
+CDS|Clinical decision support|Evidence-Based Medicine
+CDSS|Clinical decision support system|Evidence-Based Medicine
+BPA|Best practice advisory|Evidence-Based Medicine
+CPR|Clinical prediction rule|Evidence-Based Medicine
+CDR|Clinical decision rule|Evidence-Based Medicine
+PPV|Positive predictive value|Evidence-Based Medicine
+NPV|Negative predictive value|Evidence-Based Medicine
+Sn|Sensitivity|Evidence-Based Medicine
+Sp|Specificity|Evidence-Based Medicine
+Sens|Sensitivity|Evidence-Based Medicine
+Spec|Specificity|Evidence-Based Medicine
+LR|Likelihood ratio|Evidence-Based Medicine
+LR+|Positive likelihood ratio|Evidence-Based Medicine
+LR-|Negative likelihood ratio|Evidence-Based Medicine
+PLR|Positive likelihood ratio|Evidence-Based Medicine
+NLR|Negative likelihood ratio|Evidence-Based Medicine
+DOR|Diagnostic odds ratio|Evidence-Based Medicine
+DOR|Duration of response|Evidence-Based Medicine
+AUC|Area under the curve|Evidence-Based Medicine
+AUROC|Area under the receiver operating characteristic curve|Evidence-Based Medicine
+ROC|Receiver operating characteristic|Evidence-Based Medicine
+AUPRC|Area under the precision-recall curve|Evidence-Based Medicine
+PRC|Precision-recall curve|Evidence-Based Medicine
+C-statistic|Concordance statistic|Evidence-Based Medicine
+C-index|Concordance index|Evidence-Based Medicine
+PTP|Pretest probability|Evidence-Based Medicine
+TP|True positive|Evidence-Based Medicine
+TN|True negative|Evidence-Based Medicine
+FP|False positive|Evidence-Based Medicine
+FN|False negative|Evidence-Based Medicine
+TPR|True positive rate|Evidence-Based Medicine
+TNR|True negative rate|Evidence-Based Medicine
+FPR|False positive rate|Evidence-Based Medicine
+FNR|False negative rate|Evidence-Based Medicine
+FDR|False discovery rate|Evidence-Based Medicine
+NRI|Net reclassification improvement|Evidence-Based Medicine
+IDI|Integrated discrimination improvement|Evidence-Based Medicine
+NB|Net benefit|Evidence-Based Medicine
+DCA|Decision curve analysis|Evidence-Based Medicine
+SpPin|Specific test, positive result rules in|Evidence-Based Medicine
+SnNout|Sensitive test, negative result rules out|Evidence-Based Medicine
+STARD|Standards for reporting of diagnostic accuracy studies|Evidence-Based Medicine
+QUADAS-2|Quality assessment of diagnostic accuracy studies 2|Evidence-Based Medicine
+PROBAST|Prediction model risk of bias assessment tool|Evidence-Based Medicine
+MCC|Matthews correlation coefficient|Evidence-Based Medicine
+F1|F1 score (harmonic mean of precision and recall)|Evidence-Based Medicine
+RR|Relative risk|Evidence-Based Medicine
+RR|Risk ratio|Evidence-Based Medicine
+RR|Rate ratio|Evidence-Based Medicine
+RRR|Relative risk reduction|Evidence-Based Medicine
+ARR|Absolute risk reduction|Evidence-Based Medicine
+ARI|Absolute risk increase|Evidence-Based Medicine
+RRI|Relative risk increase|Evidence-Based Medicine
+AR|Absolute risk|Evidence-Based Medicine
+AR|Attributable risk|Evidence-Based Medicine
+AF|Attributable fraction|Evidence-Based Medicine
+PAF|Population attributable fraction|Evidence-Based Medicine
+PAR|Population attributable risk|Evidence-Based Medicine
+NNT|Number needed to treat|Evidence-Based Medicine
+NNH|Number needed to harm|Evidence-Based Medicine
+NNS|Number needed to screen|Evidence-Based Medicine
+NNV|Number needed to vaccinate|Evidence-Based Medicine
+NNTB|Number needed to treat for an additional beneficial outcome|Evidence-Based Medicine
+NNTH|Number needed to treat for an additional harmful outcome|Evidence-Based Medicine
+NND|Number needed to diagnose|Evidence-Based Medicine
+OR|Odds ratio|Evidence-Based Medicine
+aOR|Adjusted odds ratio|Evidence-Based Medicine
+HR|Hazard ratio|Evidence-Based Medicine
+aHR|Adjusted hazard ratio|Evidence-Based Medicine
+IRR|Incidence rate ratio|Evidence-Based Medicine
+IRD|Incidence rate difference|Evidence-Based Medicine
+IR|Incidence rate|Evidence-Based Medicine
+CIR|Cumulative incidence ratio|Evidence-Based Medicine
+RD|Risk difference|Evidence-Based Medicine
+MD|Mean difference|Evidence-Based Medicine
+WMD|Weighted mean difference|Evidence-Based Medicine
+SMD|Standardized mean difference|Evidence-Based Medicine
+ES|Effect size|Evidence-Based Medicine
+MCID|Minimal clinically important difference|Evidence-Based Medicine
+MID|Minimal important difference|Evidence-Based Medicine
+ITT|Intention to treat|Evidence-Based Medicine
+mITT|Modified intention to treat|Evidence-Based Medicine
+PP|Per protocol|Evidence-Based Medicine
+PP|Posterior probability|Evidence-Based Medicine
+AT|As treated|Evidence-Based Medicine
+LTFU|Lost to follow-up|Evidence-Based Medicine
+LOCF|Last observation carried forward|Evidence-Based Medicine
+BOCF|Baseline observation carried forward|Evidence-Based Medicine
+MI|Multiple imputation|Evidence-Based Medicine
+MAR|Missing at random|Evidence-Based Medicine
+MCAR|Missing completely at random|Evidence-Based Medicine
+MNAR|Missing not at random|Evidence-Based Medicine
+MMRM|Mixed model for repeated measures|Evidence-Based Medicine
+ANCOVA|Analysis of covariance|Evidence-Based Medicine
+ANOVA|Analysis of variance|Evidence-Based Medicine
+MANOVA|Multivariate analysis of variance|Evidence-Based Medicine
+GLM|Generalized linear model|Evidence-Based Medicine
+GEE|Generalized estimating equations|Evidence-Based Medicine
+GLMM|Generalized linear mixed model|Evidence-Based Medicine
+LMM|Linear mixed model|Evidence-Based Medicine
+GAM|Generalized additive model|Evidence-Based Medicine
+PH|Proportional hazards|Evidence-Based Medicine
+KM|Kaplan-Meier|Evidence-Based Medicine
+TTE|Time to event|Evidence-Based Medicine
+RMST|Restricted mean survival time|Evidence-Based Medicine
+AFT|Accelerated failure time|Evidence-Based Medicine
+CIF|Cumulative incidence function|Evidence-Based Medicine
+sHR|Subdistribution hazard ratio|Evidence-Based Medicine
+PFS|Progression-free survival|Evidence-Based Medicine
+OS|Overall survival|Evidence-Based Medicine
+DFS|Disease-free survival|Evidence-Based Medicine
+EFS|Event-free survival|Evidence-Based Medicine
+RFS|Recurrence-free survival|Evidence-Based Medicine
+MFS|Metastasis-free survival|Evidence-Based Medicine
+TTP|Time to progression|Evidence-Based Medicine
+TTF|Time to treatment failure|Evidence-Based Medicine
+TTR|Time to response|Evidence-Based Medicine
+ORR|Objective response rate|Evidence-Based Medicine
+ORR|Overall response rate|Evidence-Based Medicine
+CR|Complete response|Evidence-Based Medicine
+PR|Partial response|Evidence-Based Medicine
+SD|Stable disease|Evidence-Based Medicine
+SD|Standard deviation|Evidence-Based Medicine
+PD|Progressive disease|Evidence-Based Medicine
+PD|Pharmacodynamics|Evidence-Based Medicine
+DCR|Disease control rate|Evidence-Based Medicine
+CBR|Clinical benefit rate|Evidence-Based Medicine
+pCR|Pathologic complete response|Evidence-Based Medicine
+MRD|Minimal residual disease|Evidence-Based Medicine
+RECIST|Response evaluation criteria in solid tumors|Evidence-Based Medicine
+MACE|Major adverse cardiovascular events|Evidence-Based Medicine
+QALY|Quality-adjusted life year|Evidence-Based Medicine
+DALY|Disability-adjusted life year|Evidence-Based Medicine
+YLL|Years of life lost|Evidence-Based Medicine
+YLD|Years lived with disability|Evidence-Based Medicine
+LYG|Life years gained|Evidence-Based Medicine
+LYS|Life years saved|Evidence-Based Medicine
+ICER|Incremental cost-effectiveness ratio|Evidence-Based Medicine
+CEA|Cost-effectiveness analysis|Evidence-Based Medicine
+CUA|Cost-utility analysis|Evidence-Based Medicine
+CBA|Cost-benefit analysis|Evidence-Based Medicine
+CMA|Cost-minimization analysis|Evidence-Based Medicine
+BIA|Budget impact analysis|Evidence-Based Medicine
+WTP|Willingness to pay|Evidence-Based Medicine
+NMB|Net monetary benefit|Evidence-Based Medicine
+CEAC|Cost-effectiveness acceptability curve|Evidence-Based Medicine
+PSA|Probabilistic sensitivity analysis|Evidence-Based Medicine
+HRQoL|Health-related quality of life|Evidence-Based Medicine
+QoL|Quality of life|Evidence-Based Medicine
+PRO|Patient-reported outcome|Evidence-Based Medicine
+PROM|Patient-reported outcome measure|Evidence-Based Medicine
+PREM|Patient-reported experience measure|Evidence-Based Medicine
+PROMIS|Patient-reported outcomes measurement information system|Evidence-Based Medicine
+PGIC|Patient global impression of change|Evidence-Based Medicine
+CGI|Clinical global impression|Evidence-Based Medicine
+VAS|Visual analog scale|Evidence-Based Medicine
+NRS|Numeric rating scale|Evidence-Based Medicine
+RCT|Randomized controlled trial|Evidence-Based Medicine
+cRCT|Cluster randomized controlled trial|Evidence-Based Medicine
+CRT|Cluster randomized trial|Evidence-Based Medicine
+SW-CRT|Stepped-wedge cluster randomized trial|Evidence-Based Medicine
+PCT|Pragmatic clinical trial|Evidence-Based Medicine
+PRECIS-2|Pragmatic explanatory continuum indicator summary 2|Evidence-Based Medicine
+NI|Non-inferiority|Evidence-Based Medicine
+NIM|Non-inferiority margin|Evidence-Based Medicine
+SMART|Sequential multiple assignment randomized trial|Evidence-Based Medicine
+RWE|Real-world evidence|Evidence-Based Medicine
+RWD|Real-world data|Evidence-Based Medicine
+EHR|Electronic health record|Evidence-Based Medicine
+EMR|Electronic medical record|Evidence-Based Medicine
+NCC|Nested case-control|Evidence-Based Medicine
+SR|Systematic review|Evidence-Based Medicine
+MA|Meta-analysis|Evidence-Based Medicine
+SR/MA|Systematic review and meta-analysis|Evidence-Based Medicine
+SRMA|Systematic review and meta-analysis|Evidence-Based Medicine
+NMA|Network meta-analysis|Evidence-Based Medicine
+MTC|Mixed treatment comparison|Evidence-Based Medicine
+SUCRA|Surface under the cumulative ranking curve|Evidence-Based Medicine
+IPD|Individual participant data|Evidence-Based Medicine
+IPD-MA|Individual participant data meta-analysis|Evidence-Based Medicine
+AD|Aggregate data|Evidence-Based Medicine
+HTA|Health technology assessment|Evidence-Based Medicine
+PICO|Population, intervention, comparison, outcome|Evidence-Based Medicine
+PICOT|Population, intervention, comparison, outcome, time|Evidence-Based Medicine
+PICOS|Population, intervention, comparison, outcome, study design|Evidence-Based Medicine
+PECO|Population, exposure, comparison, outcome|Evidence-Based Medicine
+SPIDER|Sample, phenomenon of interest, design, evaluation, research type|Evidence-Based Medicine
+PRISMA|Preferred reporting items for systematic reviews and meta-analyses|Evidence-Based Medicine
+PRISMA-P|Preferred reporting items for systematic review and meta-analysis protocols|Evidence-Based Medicine
+PRISMA-ScR|Preferred reporting items for systematic reviews and meta-analyses extension for scoping reviews|Evidence-Based Medicine
+MOOSE|Meta-analysis of observational studies in epidemiology|Evidence-Based Medicine
+CONSORT|Consolidated standards of reporting trials|Evidence-Based Medicine
+STROBE|Strengthening the reporting of observational studies in epidemiology|Evidence-Based Medicine
+SPIRIT|Standard protocol items: recommendations for interventional trials|Evidence-Based Medicine
+ARRIVE|Animal research: reporting of in vivo experiments|Evidence-Based Medicine
+CHEERS|Consolidated health economic evaluation reporting standards|Evidence-Based Medicine
+SQUIRE|Standards for quality improvement reporting excellence|Evidence-Based Medicine
+CARE|Case report guidelines|Evidence-Based Medicine
+COREQ|Consolidated criteria for reporting qualitative research|Evidence-Based Medicine
+RECORD|Reporting of studies conducted using observational routinely collected data|Evidence-Based Medicine
+EQUATOR|Enhancing the quality and transparency of health research|Evidence-Based Medicine
+AGREE II|Appraisal of guidelines for research and evaluation II|Evidence-Based Medicine
+GRADE|Grading of recommendations assessment, development and evaluation|Evidence-Based Medicine
+GRADEpro|GRADE profiler guideline development tool|Evidence-Based Medicine
+SoF|Summary of findings|Evidence-Based Medicine
+EtD|Evidence to decision|Evidence-Based Medicine
+CoE|Certainty of evidence|Evidence-Based Medicine
+QoE|Quality of evidence|Evidence-Based Medicine
+LoE|Level of evidence|Evidence-Based Medicine
+LOE|Level of evidence|Evidence-Based Medicine
+COR|Class of recommendation|Evidence-Based Medicine
+LOE A|Level of evidence A (high-quality evidence from more than one RCT or meta-analyses)|Evidence-Based Medicine
+LOE B-R|Level of evidence B, randomized (moderate-quality evidence from one or more RCTs)|Evidence-Based Medicine
+LOE B-NR|Level of evidence B, nonrandomized (moderate-quality evidence from nonrandomized studies)|Evidence-Based Medicine
+LOE C-LD|Level of evidence C, limited data|Evidence-Based Medicine
+LOE C-EO|Level of evidence C, expert opinion|Evidence-Based Medicine
+Class I|Class I recommendation (strong; benefit greatly exceeds risk; is recommended)|Evidence-Based Medicine
+Class IIa|Class IIa recommendation (moderate; is reasonable)|Evidence-Based Medicine
+Class IIb|Class IIb recommendation (weak; may be considered)|Evidence-Based Medicine
+Class III|Class III recommendation (no benefit or harm; not recommended)|Evidence-Based Medicine
+USPSTF|United States Preventive Services Task Force|Evidence-Based Medicine
+USPSTF A|USPSTF grade A (high certainty of substantial net benefit; recommend)|Evidence-Based Medicine
+USPSTF B|USPSTF grade B (moderate or substantial net benefit; recommend)|Evidence-Based Medicine
+USPSTF C|USPSTF grade C (small net benefit; offer selectively)|Evidence-Based Medicine
+USPSTF D|USPSTF grade D (no net benefit or harms outweigh; recommend against)|Evidence-Based Medicine
+USPSTF I|USPSTF I statement (insufficient evidence to assess)|Evidence-Based Medicine
+NCCN|National Comprehensive Cancer Network|Evidence-Based Medicine
+NCCN 1|NCCN category 1 (high-level evidence, uniform consensus)|Evidence-Based Medicine
+NCCN 2A|NCCN category 2A (lower-level evidence, uniform consensus)|Evidence-Based Medicine
+NCCN 2B|NCCN category 2B (lower-level evidence, consensus)|Evidence-Based Medicine
+NCCN 3|NCCN category 3 (major disagreement about appropriateness)|Evidence-Based Medicine
+CEBM|Centre for Evidence-Based Medicine (Oxford)|Evidence-Based Medicine
+OCEBM|Oxford Centre for Evidence-Based Medicine|Evidence-Based Medicine
+AMSTAR 2|A measurement tool to assess systematic reviews 2|Evidence-Based Medicine
+RoB 2|Cochrane risk of bias tool for randomized trials, version 2|Evidence-Based Medicine
+RoB|Risk of bias|Evidence-Based Medicine
+ROBINS-I|Risk of bias in non-randomized studies of interventions|Evidence-Based Medicine
+ROBINS-E|Risk of bias in non-randomized studies of exposures|Evidence-Based Medicine
+NOS|Newcastle-Ottawa scale|Evidence-Based Medicine
+QUIPS|Quality in prognosis studies|Evidence-Based Medicine
+JBI|Joanna Briggs Institute|Evidence-Based Medicine
+CDSR|Cochrane Database of Systematic Reviews|Evidence-Based Medicine
+CENTRAL|Cochrane Central Register of Controlled Trials|Evidence-Based Medicine
+MEDLINE|Medical Literature Analysis and Retrieval System Online|Evidence-Based Medicine
+EMBASE|Excerpta Medica database|Evidence-Based Medicine
+CINAHL|Cumulative Index to Nursing and Allied Health Literature|Evidence-Based Medicine
+WoS|Web of Science|Evidence-Based Medicine
+MeSH|Medical subject headings|Evidence-Based Medicine
+DOI|Digital object identifier|Evidence-Based Medicine
+PMID|PubMed identifier|Evidence-Based Medicine
+PMCID|PubMed Central identifier|Evidence-Based Medicine
+PMC|PubMed Central|Evidence-Based Medicine
+IF|Impact factor|Evidence-Based Medicine
+JIF|Journal impact factor|Evidence-Based Medicine
+OA|Open access|Evidence-Based Medicine
+SSRN|Social Science Research Network|Evidence-Based Medicine
+NCT|National clinical trial number (ClinicalTrials.gov identifier)|Evidence-Based Medicine
+EudraCT|European Union drug regulating authorities clinical trials database|Evidence-Based Medicine
+ISRCTN|International standard randomised controlled trial number|Evidence-Based Medicine
+WHO ICTRP|WHO International Clinical Trials Registry Platform|Evidence-Based Medicine
+PROSPERO|International prospective register of systematic reviews|Evidence-Based Medicine
+IRB|Institutional review board|Evidence-Based Medicine
+REB|Research ethics board|Evidence-Based Medicine
+REC|Research ethics committee|Evidence-Based Medicine
+DSMB|Data safety monitoring board|Evidence-Based Medicine
+DMC|Data monitoring committee|Evidence-Based Medicine
+IDMC|Independent data monitoring committee|Evidence-Based Medicine
+CEC|Clinical events committee|Evidence-Based Medicine
+CRO|Contract research organization|Evidence-Based Medicine
+CRA|Clinical research associate|Evidence-Based Medicine
+CRC|Clinical research coordinator|Evidence-Based Medicine
+PI|Principal investigator|Evidence-Based Medicine
+Co-I|Co-investigator|Evidence-Based Medicine
+Sub-I|Sub-investigator|Evidence-Based Medicine
+GCP|Good clinical practice|Evidence-Based Medicine
+ICH|International Council for Harmonisation|Evidence-Based Medicine
+ICH-GCP|International Council for Harmonisation good clinical practice|Evidence-Based Medicine
+ICH E9|ICH guideline E9: statistical principles for clinical trials|Evidence-Based Medicine
+E9(R1)|ICH E9 addendum R1 on estimands and sensitivity analysis|Evidence-Based Medicine
+ICE|Intercurrent event|Evidence-Based Medicine
+SAP|Statistical analysis plan|Evidence-Based Medicine
+CRF|Case report form|Evidence-Based Medicine
+eCRF|Electronic case report form|Evidence-Based Medicine
+EDC|Electronic data capture|Evidence-Based Medicine
+SAE|Serious adverse event|Evidence-Based Medicine
+AE|Adverse event|Evidence-Based Medicine
+TEAE|Treatment-emergent adverse event|Evidence-Based Medicine
+ADR|Adverse drug reaction|Evidence-Based Medicine
+SUSAR|Suspected unexpected serious adverse reaction|Evidence-Based Medicine
+CTCAE|Common terminology criteria for adverse events|Evidence-Based Medicine
+FDA|Food and Drug Administration|Evidence-Based Medicine
+EMA|European Medicines Agency|Evidence-Based Medicine
+NDA|New drug application|Evidence-Based Medicine
+BLA|Biologics license application|Evidence-Based Medicine
+IND|Investigational new drug|Evidence-Based Medicine
+IDE|Investigational device exemption|Evidence-Based Medicine
+PMA|Premarket approval|Evidence-Based Medicine
+510(k)|Premarket notification (FDA device clearance pathway)|Evidence-Based Medicine
+EUA|Emergency use authorization|Evidence-Based Medicine
+REMS|Risk evaluation and mitigation strategy|Evidence-Based Medicine
+FAERS|FDA adverse event reporting system|Evidence-Based Medicine
+VAERS|Vaccine adverse event reporting system|Evidence-Based Medicine
+FIH|First-in-human|Evidence-Based Medicine
+MTD|Maximum tolerated dose|Evidence-Based Medicine
+DLT|Dose-limiting toxicity|Evidence-Based Medicine
+RP2D|Recommended phase 2 dose|Evidence-Based Medicine
+PK|Pharmacokinetics|Evidence-Based Medicine
+PK/PD|Pharmacokinetics/pharmacodynamics|Evidence-Based Medicine
+Cmax|Maximum plasma concentration|Evidence-Based Medicine
+Cmin|Minimum plasma concentration|Evidence-Based Medicine
+Tmax|Time to maximum plasma concentration|Evidence-Based Medicine
+t1/2|Half-life|Evidence-Based Medicine
+CL|Clearance|Evidence-Based Medicine
+Vd|Volume of distribution|Evidence-Based Medicine
+BE|Bioequivalence|Evidence-Based Medicine
+TDM|Therapeutic drug monitoring|Evidence-Based Medicine
+CI|Confidence interval|Evidence-Based Medicine
+95% CI|95% confidence interval|Evidence-Based Medicine
+CrI|Credible interval|Evidence-Based Medicine
+HPD|Highest posterior density interval|Evidence-Based Medicine
+SE|Standard error|Evidence-Based Medicine
+SEM|Standard error of the mean|Evidence-Based Medicine
+IQR|Interquartile range|Evidence-Based Medicine
+Q1|First quartile|Evidence-Based Medicine
+Q3|Third quartile|Evidence-Based Medicine
+CV|Coefficient of variation|Evidence-Based Medicine
+CV|Cross-validation|Evidence-Based Medicine
+df|Degrees of freedom|Evidence-Based Medicine
+NS|Not significant|Evidence-Based Medicine
+n.s.|Not significant|Evidence-Based Medicine
+SS|Statistically significant|Evidence-Based Medicine
+NR|Not reported|Evidence-Based Medicine
+NA|Not applicable|Evidence-Based Medicine
+N/A|Not applicable|Evidence-Based Medicine
+NE|Not estimable|Evidence-Based Medicine
+NE|Not evaluable|Evidence-Based Medicine
+ND|No data|Evidence-Based Medicine
+NC|Not calculated|Evidence-Based Medicine
+TBD|To be determined|Evidence-Based Medicine
+vs|Versus|Evidence-Based Medicine
+cf|Compare (confer)|Evidence-Based Medicine
+et al|And others (et alii)|Evidence-Based Medicine
+ibid|In the same source (ibidem)|Evidence-Based Medicine
+pts|Patients|Evidence-Based Medicine
+HCP|Health care professional|Evidence-Based Medicine
+approx|Approximately|Evidence-Based Medicine
+X2|Chi-square|Evidence-Based Medicine
+MWU|Mann-Whitney U test|Evidence-Based Medicine
+KW|Kruskal-Wallis test|Evidence-Based Medicine
+ICC|Intraclass correlation coefficient|Evidence-Based Medicine
+LoA|Limits of agreement|Evidence-Based Medicine
+R2|Coefficient of determination|Evidence-Based Medicine
+AIC|Akaike information criterion|Evidence-Based Medicine
+BIC|Bayesian information criterion|Evidence-Based Medicine
+LRT|Likelihood ratio test|Evidence-Based Medicine
+MLE|Maximum likelihood estimation|Evidence-Based Medicine
+OLS|Ordinary least squares|Evidence-Based Medicine
+WLS|Weighted least squares|Evidence-Based Medicine
+GLS|Generalized least squares|Evidence-Based Medicine
+LASSO|Least absolute shrinkage and selection operator|Evidence-Based Medicine
+ML|Machine learning|Evidence-Based Medicine
+ML|Maximum likelihood|Evidence-Based Medicine
+AI|Artificial intelligence|Evidence-Based Medicine
+DL|Deep learning|Evidence-Based Medicine
+DL|DerSimonian-Laird (random-effects meta-analysis method)|Evidence-Based Medicine
+NN|Neural network|Evidence-Based Medicine
+CNN|Convolutional neural network|Evidence-Based Medicine
+RNN|Recurrent neural network|Evidence-Based Medicine
+LLM|Large language model|Evidence-Based Medicine
+NLP|Natural language processing|Evidence-Based Medicine
+RF|Random forest|Evidence-Based Medicine
+SVM|Support vector machine|Evidence-Based Medicine
+k-NN|k-nearest neighbors|Evidence-Based Medicine
+LOOCV|Leave-one-out cross-validation|Evidence-Based Medicine
+LOO|Leave-one-out|Evidence-Based Medicine
+SHAP|Shapley additive explanations|Evidence-Based Medicine
+BF|Bayes factor|Evidence-Based Medicine
+MCMC|Markov chain Monte Carlo|Evidence-Based Medicine
+HTE|Heterogeneity of treatment effect|Evidence-Based Medicine
+EM|Effect modification|Evidence-Based Medicine
+EMM|Effect measure modification|Evidence-Based Medicine
+DAG|Directed acyclic graph|Evidence-Based Medicine
+PS|Propensity score|Evidence-Based Medicine
+PSM|Propensity score matching|Evidence-Based Medicine
+IPTW|Inverse probability of treatment weighting|Evidence-Based Medicine
+IPW|Inverse probability weighting|Evidence-Based Medicine
+IPCW|Inverse probability of censoring weighting|Evidence-Based Medicine
+ATE|Average treatment effect|Evidence-Based Medicine
+ATT|Average treatment effect on the treated|Evidence-Based Medicine
+CATE|Conditional average treatment effect|Evidence-Based Medicine
+SMR|Standardized mortality ratio|Evidence-Based Medicine
+SIR|Standardized incidence ratio|Evidence-Based Medicine
+IV|Instrumental variable|Evidence-Based Medicine
+MR|Mendelian randomization|Evidence-Based Medicine
+RDD|Regression discontinuity design|Evidence-Based Medicine
+DiD|Difference-in-differences|Evidence-Based Medicine
+DID|Difference-in-differences|Evidence-Based Medicine
+ITS|Interrupted time series|Evidence-Based Medicine
+SCM|Synthetic control method|Evidence-Based Medicine
+TMLE|Targeted maximum likelihood estimation|Evidence-Based Medicine
+MSM|Marginal structural model|Evidence-Based Medicine
+NDE|Natural direct effect|Evidence-Based Medicine
+NIE|Natural indirect effect|Evidence-Based Medicine
+CDE|Controlled direct effect|Evidence-Based Medicine
+TE|Total effect|Evidence-Based Medicine
+SCCS|Self-controlled case series|Evidence-Based Medicine
+CCO|Case-crossover|Evidence-Based Medicine
+CFR|Case fatality rate|Evidence-Based Medicine
+IFR|Infection fatality rate|Evidence-Based Medicine
+R0|Basic reproduction number|Evidence-Based Medicine
+Rt|Effective reproduction number at time t|Evidence-Based Medicine
+Re|Effective reproduction number|Evidence-Based Medicine
+SAR|Secondary attack rate|Evidence-Based Medicine
+VE|Vaccine efficacy|Evidence-Based Medicine
+VE|Vaccine effectiveness|Evidence-Based Medicine
+TND|Test-negative design|Evidence-Based Medicine
+I2|I-squared (percentage of variability due to heterogeneity)|Evidence-Based Medicine
+tau2|Tau-squared (between-study variance)|Evidence-Based Medicine
+Q|Cochran's Q statistic|Evidence-Based Medicine
+RE|Random effects|Evidence-Based Medicine
+REM|Random-effects model|Evidence-Based Medicine
+FE|Fixed effect|Evidence-Based Medicine
+FEM|Fixed-effect model|Evidence-Based Medicine
+REML|Restricted maximum likelihood|Evidence-Based Medicine
+HKSJ|Hartung-Knapp-Sidik-Jonkman adjustment|Evidence-Based Medicine
+IVhet|Inverse variance heterogeneity model|Evidence-Based Medicine
+GOSH|Graphical display of study heterogeneity|Evidence-Based Medicine
+PI|Prediction interval|Evidence-Based Medicine
+TSA|Trial sequential analysis|Evidence-Based Medicine
+OIS|Optimal information size|Evidence-Based Medicine
+RIS|Required information size|Evidence-Based Medicine
+FI|Fragility index|Evidence-Based Medicine
+FQ|Fragility quotient|Evidence-Based Medicine
+RFI|Reverse fragility index|Evidence-Based Medicine
+O-E|Observed minus expected|Evidence-Based Medicine
+O/E|Observed to expected ratio|Evidence-Based Medicine
+CUSUM|Cumulative sum control chart|Evidence-Based Medicine
+VLAD|Variable life-adjusted display|Evidence-Based Medicine
+SPC|Statistical process control|Evidence-Based Medicine
+PDSA|Plan-do-study-act|Evidence-Based Medicine
+PDCA|Plan-do-check-act|Evidence-Based Medicine
+QI|Quality improvement|Evidence-Based Medicine
+QA|Quality assurance|Evidence-Based Medicine
+QIP|Quality improvement project|Evidence-Based Medicine
+CQI|Continuous quality improvement|Evidence-Based Medicine
+DMAIC|Define, measure, analyze, improve, control|Evidence-Based Medicine
+RCA|Root cause analysis|Evidence-Based Medicine
+FMEA|Failure mode and effects analysis|Evidence-Based Medicine
+HFMEA|Healthcare failure mode and effects analysis|Evidence-Based Medicine
+SBAR|Situation, background, assessment, recommendation|Evidence-Based Medicine
+M&M|Morbidity and mortality conference|Evidence-Based Medicine
+PSI|Patient safety indicator|Evidence-Based Medicine
+HAC|Hospital-acquired condition|Evidence-Based Medicine
+NQF|National Quality Forum|Evidence-Based Medicine
+CMS|Centers for Medicare and Medicaid Services|Evidence-Based Medicine
+HCAHPS|Hospital Consumer Assessment of Healthcare Providers and Systems|Evidence-Based Medicine
+HEDIS|Healthcare Effectiveness Data and Information Set|Evidence-Based Medicine
+MIPS|Merit-based Incentive Payment System|Evidence-Based Medicine
+IHI|Institute for Healthcare Improvement|Evidence-Based Medicine
+SMART|Specific, measurable, achievable, relevant, time-bound|Evidence-Based Medicine
+KPI|Key performance indicator|Evidence-Based Medicine
+ACIP|Advisory Committee on Immunization Practices|Evidence-Based Medicine
+NICE|National Institute for Health and Care Excellence|Evidence-Based Medicine
+SIGN|Scottish Intercollegiate Guidelines Network|Evidence-Based Medicine
+WHO|World Health Organization|Evidence-Based Medicine
+CDC|Centers for Disease Control and Prevention|Evidence-Based Medicine
+NIH|National Institutes of Health|Evidence-Based Medicine
+AHRQ|Agency for Healthcare Research and Quality|Evidence-Based Medicine
+PCORI|Patient-Centered Outcomes Research Institute|Evidence-Based Medicine
+NHLBI|National Heart, Lung, and Blood Institute|Evidence-Based Medicine
+NCI|National Cancer Institute|Evidence-Based Medicine
+IOM|Institute of Medicine|Evidence-Based Medicine
+NAM|National Academy of Medicine|Evidence-Based Medicine
+ACC|American College of Cardiology|Evidence-Based Medicine
+AHA|American Heart Association|Evidence-Based Medicine
+ACC/AHA|American College of Cardiology/American Heart Association|Evidence-Based Medicine
+ESC|European Society of Cardiology|Evidence-Based Medicine
+HFSA|Heart Failure Society of America|Evidence-Based Medicine
+HRS|Heart Rhythm Society|Evidence-Based Medicine
+ADA|American Diabetes Association|Evidence-Based Medicine
+AACE|American Association of Clinical Endocrinology|Evidence-Based Medicine
+KDIGO|Kidney Disease: Improving Global Outcomes|Evidence-Based Medicine
+KDOQI|Kidney Disease Outcomes Quality Initiative|Evidence-Based Medicine
+GOLD|Global Initiative for Chronic Obstructive Lung Disease|Evidence-Based Medicine
+GINA|Global Initiative for Asthma|Evidence-Based Medicine
+ATS|American Thoracic Society|Evidence-Based Medicine
+ERS|European Respiratory Society|Evidence-Based Medicine
+ATS/ERS|American Thoracic Society/European Respiratory Society|Evidence-Based Medicine
+CHEST|American College of Chest Physicians|Evidence-Based Medicine
+ACCP|American College of Chest Physicians|Evidence-Based Medicine
+IDSA|Infectious Diseases Society of America|Evidence-Based Medicine
+SHEA|Society for Healthcare Epidemiology of America|Evidence-Based Medicine
+ACP|American College of Physicians|Evidence-Based Medicine
+AAFP|American Academy of Family Physicians|Evidence-Based Medicine
+ACOG|American College of Obstetricians and Gynecologists|Evidence-Based Medicine
+AAP|American Academy of Pediatrics|Evidence-Based Medicine
+ACG|American College of Gastroenterology|Evidence-Based Medicine
+AGA|American Gastroenterological Association|Evidence-Based Medicine
+AASLD|American Association for the Study of Liver Diseases|Evidence-Based Medicine
+ASGE|American Society for Gastrointestinal Endoscopy|Evidence-Based Medicine
+ASCO|American Society of Clinical Oncology|Evidence-Based Medicine
+ESMO|European Society for Medical Oncology|Evidence-Based Medicine
+ASH|American Society of Hematology|Evidence-Based Medicine
+ASN|American Society of Nephrology|Evidence-Based Medicine
+AAN|American Academy of Neurology|Evidence-Based Medicine
+ACR|American College of Rheumatology|Evidence-Based Medicine
+EULAR|European Alliance of Associations for Rheumatology|Evidence-Based Medicine
+ASA|American Stroke Association|Evidence-Based Medicine
+APA|American Psychiatric Association|Evidence-Based Medicine
+SCCM|Society of Critical Care Medicine|Evidence-Based Medicine
+SSC|Surviving Sepsis Campaign|Evidence-Based Medicine
+ESICM|European Society of Intensive Care Medicine|Evidence-Based Medicine
+SHM|Society of Hospital Medicine|Evidence-Based Medicine
+AGS|American Geriatrics Society|Evidence-Based Medicine
+ASCVD|Atherosclerotic cardiovascular disease|Evidence-Based Medicine
+SoC|Standard of care|Evidence-Based Medicine
+SOC|Standard of care|Evidence-Based Medicine
+UC|Usual care|Evidence-Based Medicine
+TAU|Treatment as usual|Evidence-Based Medicine
+BSC|Best supportive care|Evidence-Based Medicine
+PC|Placebo-controlled|Evidence-Based Medicine
+DB|Double-blind|Evidence-Based Medicine
+DBPC|Double-blind placebo-controlled|Evidence-Based Medicine
+SB|Single-blind|Evidence-Based Medicine
+OL|Open-label|Evidence-Based Medicine
+OLE|Open-label extension|Evidence-Based Medicine
+PBO|Placebo|Evidence-Based Medicine
+Pbo|Placebo|Evidence-Based Medicine
+PROBE|Prospective randomized open blinded end-point|Evidence-Based Medicine
+BICR|Blinded independent central review|Evidence-Based Medicine
+EOT|End of treatment|Evidence-Based Medicine
+EOS|End of study|Evidence-Based Medicine
+FU|Follow-up|Evidence-Based Medicine
+F/U|Follow-up|Evidence-Based Medicine
+BL|Baseline|Evidence-Based Medicine
+Tx|Treatment|Evidence-Based Medicine
+Rx|Treatment|Evidence-Based Medicine
+MITT|Modified intention to treat|Evidence-Based Medicine
+FAS|Full analysis set|Evidence-Based Medicine
+PPS|Per-protocol set|Evidence-Based Medicine
+SS|Safety set|Evidence-Based Medicine
+ICD|International Classification of Diseases|Evidence-Based Medicine
+ICD-10|International Classification of Diseases, 10th revision|Evidence-Based Medicine
+ICD-10-CM|International Classification of Diseases, 10th revision, clinical modification|Evidence-Based Medicine
+CPT|Current procedural terminology|Evidence-Based Medicine
+SNOMED CT|Systematized nomenclature of medicine clinical terms|Evidence-Based Medicine
+LOINC|Logical observation identifiers names and codes|Evidence-Based Medicine
+NHANES|National Health and Nutrition Examination Survey|Evidence-Based Medicine
+NIS|National Inpatient Sample|Evidence-Based Medicine
+SEER|Surveillance, Epidemiology, and End Results program|Evidence-Based Medicine
+NSQIP|National Surgical Quality Improvement Program|Evidence-Based Medicine
+GWTG|Get With The Guidelines|Evidence-Based Medicine
+NCDR|National Cardiovascular Data Registry|Evidence-Based Medicine
+UKB|UK Biobank|Evidence-Based Medicine
+GBD|Global Burden of Disease study|Evidence-Based Medicine
+MIMIC|Medical Information Mart for Intensive Care|Evidence-Based Medicine
+HIPAA|Health Insurance Portability and Accountability Act|Evidence-Based Medicine
+PHI|Protected health information|Evidence-Based Medicine
+PII|Personally identifiable information|Evidence-Based Medicine
+GDPR|General Data Protection Regulation|Evidence-Based Medicine
+COI|Conflict of interest|Evidence-Based Medicine
+ICMJE|International Committee of Medical Journal Editors|Evidence-Based Medicine
+CONSORT-PRO|CONSORT extension for patient-reported outcomes|Evidence-Based Medicine
+TIDieR|Template for intervention description and replication|Evidence-Based Medicine
+SRQR|Standards for reporting qualitative research|Evidence-Based Medicine
+CHERRIES|Checklist for reporting results of internet e-surveys|Evidence-Based Medicine
+RECIST 1.1|Response evaluation criteria in solid tumors, version 1.1|Evidence-Based Medicine
+iRECIST|Immune response evaluation criteria in solid tumors|Evidence-Based Medicine
+ECOG PS|Eastern Cooperative Oncology Group performance status|Evidence-Based Medicine
+KPS|Karnofsky performance status|Evidence-Based Medicine
+NIHSS|National Institutes of Health Stroke Scale|Evidence-Based Medicine
+mRS|Modified Rankin Scale|Evidence-Based Medicine
+GOS|Glasgow Outcome Scale|Evidence-Based Medicine
+SF-36|36-item Short Form Health Survey|Evidence-Based Medicine
+EQ-5D|EuroQol five-dimension questionnaire|Evidence-Based Medicine
+KCCQ|Kansas City Cardiomyopathy Questionnaire|Evidence-Based Medicine
+MLHFQ|Minnesota Living with Heart Failure Questionnaire|Evidence-Based Medicine
+PHQ-9|Patient Health Questionnaire-9|Evidence-Based Medicine
+GAD-7|Generalized Anxiety Disorder 7-item scale|Evidence-Based Medicine
+HAM-D|Hamilton Depression Rating Scale|Evidence-Based Medicine
+MADRS|Montgomery-Asberg Depression Rating Scale|Evidence-Based Medicine
+WOMAC|Western Ontario and McMaster Universities Osteoarthritis Index|Evidence-Based Medicine
+ODI|Oswestry Disability Index|Evidence-Based Medicine
+CAT|COPD Assessment Test|Evidence-Based Medicine
+mMRC|Modified Medical Research Council dyspnea scale|Evidence-Based Medicine
+ACT|Asthma Control Test|Evidence-Based Medicine
+AUDIT|Alcohol Use Disorders Identification Test|Evidence-Based Medicine
+CAGE|Cut down, annoyed, guilty, eye-opener questionnaire|Evidence-Based Medicine
+MMSE|Mini-Mental State Examination|Evidence-Based Medicine
+MoCA|Montreal Cognitive Assessment|Evidence-Based Medicine
+CAM|Confusion Assessment Method|Evidence-Based Medicine
+CAM-ICU|Confusion Assessment Method for the ICU|Evidence-Based Medicine
+RASS|Richmond Agitation-Sedation Scale|Evidence-Based Medicine
+SOFA|Sequential Organ Failure Assessment|Evidence-Based Medicine
+qSOFA|Quick Sequential Organ Failure Assessment|Evidence-Based Medicine
+APACHE II|Acute Physiology and Chronic Health Evaluation II|Evidence-Based Medicine
+SAPS II|Simplified Acute Physiology Score II|Evidence-Based Medicine
+CCI|Charlson Comorbidity Index|Evidence-Based Medicine
+ASA PS|American Society of Anesthesiologists physical status classification|Evidence-Based Medicine
+RCRI|Revised Cardiac Risk Index|Evidence-Based Medicine
+MELD|Model for End-Stage Liver Disease|Evidence-Based Medicine
+MELD-Na|Model for End-Stage Liver Disease sodium|Evidence-Based Medicine
+CTP|Child-Turcotte-Pugh score|Evidence-Based Medicine
+CURB-65|Confusion, urea, respiratory rate, blood pressure, age 65 score|Evidence-Based Medicine
+PSI/PORT|Pneumonia Severity Index/Pneumonia Patient Outcomes Research Team score|Evidence-Based Medicine
+HEART|History, ECG, age, risk factors, troponin score|Evidence-Based Medicine
+TIMI|Thrombolysis in Myocardial Infarction risk score|Evidence-Based Medicine
+GRACE|Global Registry of Acute Coronary Events risk score|Evidence-Based Medicine
+CHA2DS2-VASc|Congestive heart failure, hypertension, age, diabetes, stroke, vascular disease, sex category score|Evidence-Based Medicine
+HAS-BLED|Hypertension, abnormal renal/liver function, stroke, bleeding, labile INR, elderly, drugs/alcohol score|Evidence-Based Medicine
+PESI|Pulmonary Embolism Severity Index|Evidence-Based Medicine
+sPESI|Simplified Pulmonary Embolism Severity Index|Evidence-Based Medicine
+PERC|Pulmonary embolism rule-out criteria|Evidence-Based Medicine
+FRAX|Fracture Risk Assessment Tool|Evidence-Based Medicine
+PREVENT|Predicting Risk of Cardiovascular Disease Events equations|Evidence-Based Medicine
+PCE|Pooled cohort equations|Evidence-Based Medicine
+GFR|Glomerular filtration rate|Evidence-Based Medicine
+eGFR|Estimated glomerular filtration rate|Evidence-Based Medicine
+CKD-EPI|Chronic Kidney Disease Epidemiology Collaboration equation|Evidence-Based Medicine
+MDRD|Modification of Diet in Renal Disease equation|Evidence-Based Medicine
+BMI|Body mass index|Evidence-Based Medicine
+BSA|Body surface area|Evidence-Based Medicine
+SES|Socioeconomic status|Evidence-Based Medicine
+SDOH|Social determinants of health|Evidence-Based Medicine
+ADI|Area deprivation index|Evidence-Based Medicine
+SVI|Social vulnerability index|Evidence-Based Medicine
+LOS|Length of stay|Evidence-Based Medicine
+ALOS|Average length of stay|Evidence-Based Medicine
+ICU-LOS|Intensive care unit length of stay|Evidence-Based Medicine
+VFD|Ventilator-free days|Evidence-Based Medicine
+DAOH|Days alive and out of hospital|Evidence-Based Medicine
+ED|Emergency department|Evidence-Based Medicine
+HF|Heart failure|Evidence-Based Medicine
+HFH|Heart failure hospitalization|Evidence-Based Medicine
+CVD|Cardiovascular disease|Evidence-Based Medicine
+ACM|All-cause mortality|Evidence-Based Medicine
+ACD|All-cause death|Evidence-Based Medicine
+NACE|Net adverse clinical events|Evidence-Based Medicine
+MAKE|Major adverse kidney events|Evidence-Based Medicine
+MALE|Major adverse limb events|Evidence-Based Medicine
+3P-MACE|Three-point major adverse cardiovascular events|Evidence-Based Medicine
+4P-MACE|Four-point major adverse cardiovascular events|Evidence-Based Medicine
+CVOT|Cardiovascular outcome trial|Evidence-Based Medicine
+POEM|Patient-oriented evidence that matters|Evidence-Based Medicine
+DOE|Disease-oriented evidence|Evidence-Based Medicine
+SORT|Strength of recommendation taxonomy|Evidence-Based Medicine
+NRS|Non-randomized study|Evidence-Based Medicine
+NRSI|Non-randomized study of interventions|Evidence-Based Medicine
+UBA|Uncontrolled before-after study|Evidence-Based Medicine
+QES|Quasi-experimental study|Evidence-Based Medicine
+TTR|Time in therapeutic range|Evidence-Based Medicine
+LPLV|Last patient last visit|Evidence-Based Medicine
+FPFV|First patient first visit|Evidence-Based Medicine
+IA|Interim analysis|Evidence-Based Medicine
+FA|Final analysis|Evidence-Based Medicine
+DCO|Data cutoff|Evidence-Based Medicine
+DBL|Database lock|Evidence-Based Medicine
+CSR|Clinical study report|Evidence-Based Medicine
+IB|Investigator's brochure|Evidence-Based Medicine
+ICF|Informed consent form|Evidence-Based Medicine
+LAR|Legally authorized representative|Evidence-Based Medicine
+EFIC|Exception from informed consent|Evidence-Based Medicine
+HIC|High-income country|Evidence-Based Medicine
+LMIC|Low- and middle-income country|Evidence-Based Medicine
+DUA|Data use agreement|Evidence-Based Medicine
+CER|Comparative effectiveness research|Evidence-Based Medicine
+PCOR|Patient-centered outcomes research|Evidence-Based Medicine
+HSR|Health services research|Evidence-Based Medicine
+IS|Implementation science|Evidence-Based Medicine
+RE-AIM|Reach, effectiveness, adoption, implementation, maintenance|Evidence-Based Medicine
+CFIR|Consolidated Framework for Implementation Research|Evidence-Based Medicine
+CTSA|Clinical and Translational Science Award|Evidence-Based Medicine
+CTSI|Clinical and Translational Science Institute|Evidence-Based Medicine
+GWAS|Genome-wide association study|Evidence-Based Medicine
+PRS|Polygenic risk score|Evidence-Based Medicine
+SNP|Single nucleotide polymorphism|Evidence-Based Medicine
+WGS|Whole genome sequencing|Evidence-Based Medicine
+WES|Whole exome sequencing|Evidence-Based Medicine
+NGS|Next-generation sequencing|Evidence-Based Medicine
+TB|Triple-blind|Evidence-Based Medicine
+AMSTAR|A measurement tool to assess systematic reviews|Evidence-Based Medicine
+ROBIS|Risk of bias in systematic reviews|Evidence-Based Medicine
+CASP|Critical Appraisal Skills Programme|Evidence-Based Medicine
+NIHR|National Institute for Health and Care Research|Evidence-Based Medicine
+MRC|Medical Research Council|Evidence-Based Medicine
+CIHR|Canadian Institutes of Health Research|Evidence-Based Medicine
+CTFPHC|Canadian Task Force on Preventive Health Care|Evidence-Based Medicine

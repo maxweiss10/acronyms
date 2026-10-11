@@ -1,0 +1,887 @@
+CMS|Centers for Medicare & Medicaid Services|Health Insurance & Billing
+HHS|Department of Health and Human Services|Health Insurance & Billing
+CMMI|Center for Medicare and Medicaid Innovation|Health Insurance & Billing
+CCIIO|Center for Consumer Information and Insurance Oversight|Health Insurance & Billing
+CPI|Center for Program Integrity (CMS)|Health Insurance & Billing
+MedPAC|Medicare Payment Advisory Commission|Health Insurance & Billing
+MACPAC|Medicaid and CHIP Payment and Access Commission|Health Insurance & Billing
+GAO|Government Accountability Office|Health Insurance & Billing
+DOL|Department of Labor|Health Insurance & Billing
+EBSA|Employee Benefits Security Administration|Health Insurance & Billing
+SSA|Social Security Administration|Health Insurance & Billing
+SSI|Supplemental Security Income|Health Insurance & Billing
+SSDI|Social Security Disability Insurance|Health Insurance & Billing
+HRSA|Health Resources and Services Administration|Health Insurance & Billing
+AHRQ|Agency for Healthcare Research and Quality|Health Insurance & Billing
+NHSC|National Health Service Corps|Health Insurance & Billing
+HPSA|Health professional shortage area|Health Insurance & Billing
+MUA|Medically underserved area|Health Insurance & Billing
+MUP|Medically underserved population|Health Insurance & Billing
+Part A|Medicare hospital insurance|Health Insurance & Billing
+Part B|Medicare medical insurance|Health Insurance & Billing
+Part C|Medicare Advantage|Health Insurance & Billing
+Part D|Medicare prescription drug coverage|Health Insurance & Billing
+MA|Medicare Advantage|Health Insurance & Billing
+MAO|Medicare Advantage organization|Health Insurance & Billing
+MAPD|Medicare Advantage prescription drug plan|Health Insurance & Billing
+MA-PD|Medicare Advantage prescription drug plan|Health Insurance & Billing
+PDP|Prescription drug plan (stand-alone Part D)|Health Insurance & Billing
+PFFS|Private fee-for-service plan|Health Insurance & Billing
+FFS|Fee-for-service|Health Insurance & Billing
+SNP|Special needs plan|Health Insurance & Billing
+D-SNP|Dual eligible special needs plan|Health Insurance & Billing
+C-SNP|Chronic condition special needs plan|Health Insurance & Billing
+I-SNP|Institutional special needs plan|Health Insurance & Billing
+FIDE-SNP|Fully integrated dual eligible special needs plan|Health Insurance & Billing
+HIDE-SNP|Highly integrated dual eligible special needs plan|Health Insurance & Billing
+EGWP|Employer group waiver plan|Health Insurance & Billing
+MSA|Medicare medical savings account plan|Health Insurance & Billing
+MSA|Medicare set-aside|Health Insurance & Billing
+WCMSA|Workers' compensation Medicare set-aside|Health Insurance & Billing
+Medigap|Medicare supplement insurance|Health Insurance & Billing
+MSP|Medicare Savings Program|Health Insurance & Billing
+MSP|Medicare Secondary Payer|Health Insurance & Billing
+MSPQ|Medicare Secondary Payer questionnaire|Health Insurance & Billing
+BCRC|Benefits Coordination & Recovery Center|Health Insurance & Billing
+CWF|Common Working File|Health Insurance & Billing
+QMB|Qualified Medicare Beneficiary|Health Insurance & Billing
+SLMB|Specified Low-Income Medicare Beneficiary|Health Insurance & Billing
+QI|Qualifying Individual (Medicare Savings Program)|Health Insurance & Billing
+QDWI|Qualified Disabled and Working Individual|Health Insurance & Billing
+LIS|Low-income subsidy (Part D Extra Help)|Health Insurance & Billing
+IRMAA|Income-related monthly adjustment amount|Health Insurance & Billing
+LEP|Late enrollment penalty|Health Insurance & Billing
+LRD|Lifetime reserve days|Health Insurance & Billing
+ESRD|End-stage renal disease (Medicare entitlement category)|Health Insurance & Billing
+MBI|Medicare Beneficiary Identifier|Health Insurance & Billing
+HICN|Health insurance claim number|Health Insurance & Billing
+MSN|Medicare Summary Notice|Health Insurance & Billing
+IEP|Initial enrollment period|Health Insurance & Billing
+ICEP|Initial coverage election period|Health Insurance & Billing
+GEP|General enrollment period|Health Insurance & Billing
+AEP|Annual enrollment period|Health Insurance & Billing
+OEP|Open enrollment period|Health Insurance & Billing
+SEP|Special enrollment period|Health Insurance & Billing
+QLE|Qualifying life event|Health Insurance & Billing
+ANOC|Annual Notice of Change|Health Insurance & Billing
+EOC|Evidence of coverage|Health Insurance & Billing
+SBC|Summary of benefits and coverage|Health Insurance & Billing
+SPD|Summary plan description|Health Insurance & Billing
+TrOOP|True out-of-pocket costs (Part D)|Health Insurance & Billing
+ICL|Initial coverage limit (Part D)|Health Insurance & Billing
+MPPP|Medicare Prescription Payment Plan|Health Insurance & Billing
+DIR|Direct and indirect remuneration|Health Insurance & Billing
+PDE|Prescription drug event|Health Insurance & Billing
+SPAP|State pharmaceutical assistance program|Health Insurance & Billing
+PAP|Patient assistance program|Health Insurance & Billing
+SSBCI|Special supplemental benefits for the chronically ill|Health Insurance & Billing
+VBID|Value-Based Insurance Design|Health Insurance & Billing
+HOS|Health Outcomes Survey|Health Insurance & Billing
+CMS-40B|Application for enrollment in Medicare Part B|Health Insurance & Billing
+CMS-L564|Request for employment information (Part B special enrollment)|Health Insurance & Billing
+IM|Important Message from Medicare|Health Insurance & Billing
+MOON|Medicare Outpatient Observation Notice|Health Insurance & Billing
+ABN|Advance Beneficiary Notice of Noncoverage|Health Insurance & Billing
+CMS-R-131|Advance Beneficiary Notice of Noncoverage form|Health Insurance & Billing
+SNFABN|Skilled Nursing Facility Advance Beneficiary Notice|Health Insurance & Billing
+HHABN|Home Health Advance Beneficiary Notice|Health Insurance & Billing
+HHCCN|Home Health Change of Care Notice|Health Insurance & Billing
+NOMNC|Notice of Medicare Non-Coverage|Health Insurance & Billing
+DENC|Detailed Explanation of Non-Coverage|Health Insurance & Billing
+HINN|Hospital-Issued Notice of Noncoverage|Health Insurance & Billing
+QIO|Quality Improvement Organization|Health Insurance & Billing
+BFCC-QIO|Beneficiary and Family Centered Care Quality Improvement Organization|Health Insurance & Billing
+QIN-QIO|Quality Innovation Network Quality Improvement Organization|Health Insurance & Billing
+MAC|Medicare Administrative Contractor|Health Insurance & Billing
+MAC|Medicare Appeals Council|Health Insurance & Billing
+MAC|Maximum allowable cost (pharmacy pricing)|Health Insurance & Billing
+DME MAC|Durable medical equipment Medicare Administrative Contractor|Health Insurance & Billing
+JE|Jurisdiction E (Noridian Part A/B MAC covering California)|Health Insurance & Billing
+JD|Jurisdiction D (Noridian DME MAC covering California)|Health Insurance & Billing
+LCD|Local coverage determination|Health Insurance & Billing
+LCA|Local coverage article|Health Insurance & Billing
+NCD|National coverage determination|Health Insurance & Billing
+NCA|National coverage analysis|Health Insurance & Billing
+CED|Coverage with evidence development|Health Insurance & Billing
+MCD|Medicare Coverage Database|Health Insurance & Billing
+MolDX|Molecular diagnostics program (MAC coverage program)|Health Insurance & Billing
+IOM|Internet-Only Manual (CMS)|Health Insurance & Billing
+MLN|Medicare Learning Network|Health Insurance & Billing
+NCCI|National Correct Coding Initiative|Health Insurance & Billing
+CCI|Correct Coding Initiative|Health Insurance & Billing
+PTP|Procedure-to-procedure edit (NCCI)|Health Insurance & Billing
+PTP|Primary treating physician (workers' compensation)|Health Insurance & Billing
+MUE|Medically unlikely edit|Health Insurance & Billing
+OCE|Outpatient Code Editor|Health Insurance & Billing
+MCE|Medicare Code Editor|Health Insurance & Billing
+MPFS|Medicare Physician Fee Schedule|Health Insurance & Billing
+PFS|Physician Fee Schedule|Health Insurance & Billing
+PFS|Patient financial services|Health Insurance & Billing
+CF|Conversion factor|Health Insurance & Billing
+RVU|Relative value unit|Health Insurance & Billing
+wRVU|Work relative value unit|Health Insurance & Billing
+PE RVU|Practice expense relative value unit|Health Insurance & Billing
+MP RVU|Malpractice relative value unit|Health Insurance & Billing
+RBRVS|Resource-based relative value scale|Health Insurance & Billing
+GPCI|Geographic practice cost index|Health Insurance & Billing
+RUC|Relative Value Scale Update Committee|Health Insurance & Billing
+CLFS|Clinical Laboratory Fee Schedule|Health Insurance & Billing
+PAMA|Protecting Access to Medicare Act|Health Insurance & Billing
+AUC|Appropriate use criteria|Health Insurance & Billing
+CDSM|Clinical decision support mechanism|Health Insurance & Billing
+MIPS|Merit-based Incentive Payment System|Health Insurance & Billing
+MVP|MIPS Value Pathway|Health Insurance & Billing
+IA|Improvement activities (MIPS category)|Health Insurance & Billing
+PI|Promoting Interoperability|Health Insurance & Billing
+PI|Payer initiated reduction (claim adjustment group code)|Health Insurance & Billing
+APM|Alternative payment model|Health Insurance & Billing
+AAPM|Advanced alternative payment model|Health Insurance & Billing
+QP|Qualifying APM participant|Health Insurance & Billing
+QPP|Quality Payment Program|Health Insurance & Billing
+MACRA|Medicare Access and CHIP Reauthorization Act|Health Insurance & Billing
+SGR|Sustainable growth rate|Health Insurance & Billing
+PQRS|Physician Quality Reporting System|Health Insurance & Billing
+QCDR|Qualified clinical data registry|Health Insurance & Billing
+QRDA|Quality Reporting Document Architecture|Health Insurance & Billing
+CQM|Clinical quality measure|Health Insurance & Billing
+eCQM|Electronic clinical quality measure|Health Insurance & Billing
+NQF|National Quality Forum|Health Insurance & Billing
+VBP|Value-based purchasing|Health Insurance & Billing
+VBC|Value-based care|Health Insurance & Billing
+HVBP|Hospital Value-Based Purchasing|Health Insurance & Billing
+HHVBP|Home Health Value-Based Purchasing|Health Insurance & Billing
+HRRP|Hospital Readmissions Reduction Program|Health Insurance & Billing
+HAC|Hospital-acquired condition|Health Insurance & Billing
+HACRP|Hospital-Acquired Condition Reduction Program|Health Insurance & Billing
+HAI|Healthcare-associated infection|Health Insurance & Billing
+NHSN|National Healthcare Safety Network|Health Insurance & Billing
+PSI|Patient safety indicator|Health Insurance & Billing
+PSI-90|Patient Safety and Adverse Events Composite|Health Insurance & Billing
+POA|Present on admission|Health Insurance & Billing
+HCAHPS|Hospital Consumer Assessment of Healthcare Providers and Systems|Health Insurance & Billing
+CAHPS|Consumer Assessment of Healthcare Providers and Systems|Health Insurance & Billing
+CG-CAHPS|Clinician and Group Consumer Assessment of Healthcare Providers and Systems|Health Insurance & Billing
+HEDIS|Healthcare Effectiveness Data and Information Set|Health Insurance & Billing
+NCQA|National Committee for Quality Assurance|Health Insurance & Billing
+PCMH|Patient-centered medical home|Health Insurance & Billing
+URAC|Utilization Review Accreditation Commission|Health Insurance & Billing
+TJC|The Joint Commission|Health Insurance & Billing
+JCAHO|Joint Commission on Accreditation of Healthcare Organizations|Health Insurance & Billing
+DNV|Det Norske Veritas (hospital accreditor)|Health Insurance & Billing
+ACGME|Accreditation Council for Graduate Medical Education|Health Insurance & Billing
+CoPs|Conditions of Participation|Health Insurance & Billing
+CfCs|Conditions for Coverage|Health Insurance & Billing
+CMS-2567|Statement of deficiencies and plan of correction (survey form)|Health Insurance & Billing
+SOD|Statement of deficiencies|Health Insurance & Billing
+IJ|Immediate jeopardy|Health Insurance & Billing
+POC|Plan of correction|Health Insurance & Billing
+POC|Plan of care|Health Insurance & Billing
+EMTALA|Emergency Medical Treatment and Labor Act|Health Insurance & Billing
+MSE|Medical screening examination|Health Insurance & Billing
+Stark|Physician Self-Referral Law (Stark Law)|Health Insurance & Billing
+AKS|Anti-Kickback Statute|Health Insurance & Billing
+FCA|False Claims Act|Health Insurance & Billing
+OIG|Office of Inspector General|Health Insurance & Billing
+CMP|Civil monetary penalty|Health Insurance & Billing
+CIA|Corporate integrity agreement|Health Insurance & Billing
+LEIE|List of Excluded Individuals/Entities|Health Insurance & Billing
+SDP|Self-Disclosure Protocol (OIG)|Health Insurance & Billing
+SRDP|Self-Referral Disclosure Protocol|Health Insurance & Billing
+Sunshine Act|Physician Payments Sunshine Act (Open Payments)|Health Insurance & Billing
+RAC|Recovery Audit Contractor|Health Insurance & Billing
+CERT|Comprehensive Error Rate Testing|Health Insurance & Billing
+TPE|Targeted Probe and Educate|Health Insurance & Billing
+UPIC|Unified Program Integrity Contractor|Health Insurance & Billing
+ZPIC|Zone Program Integrity Contractor|Health Insurance & Billing
+SMRC|Supplemental Medical Review Contractor|Health Insurance & Billing
+MEDIC|Medicare Drug Integrity Contractor|Health Insurance & Billing
+ADR|Additional documentation request|Health Insurance & Billing
+PEPPER|Program for Evaluating Payment Patterns Electronic Report|Health Insurance & Billing
+QIC|Qualified Independent Contractor (Medicare appeals)|Health Insurance & Billing
+ALJ|Administrative law judge|Health Insurance & Billing
+OMHA|Office of Medicare Hearings and Appeals|Health Insurance & Billing
+DAB|Departmental Appeals Board|Health Insurance & Billing
+PRRB|Provider Reimbursement Review Board|Health Insurance & Billing
+CDI|Clinical documentation integrity|Health Insurance & Billing
+CDI|Clinical documentation improvement|Health Insurance & Billing
+CDI|California Department of Insurance|Health Insurance & Billing
+CDIS|Clinical documentation integrity specialist|Health Insurance & Billing
+CPC|Certified Professional Coder|Health Insurance & Billing
+CCS|Certified Coding Specialist|Health Insurance & Billing
+CRC|Certified Risk Adjustment Coder|Health Insurance & Billing
+CCDS|Certified Clinical Documentation Specialist|Health Insurance & Billing
+CDIP|Certified Documentation Integrity Practitioner|Health Insurance & Billing
+RHIA|Registered Health Information Administrator|Health Insurance & Billing
+RHIT|Registered Health Information Technician|Health Insurance & Billing
+Medi-Cal|California's Medicaid program|Health Insurance & Billing
+Medi-Cal Rx|Medi-Cal pharmacy benefit carved out and administered by DHCS|Health Insurance & Billing
+CDL|Contract Drug List (Medi-Cal Rx)|Health Insurance & Billing
+DHCS|Department of Health Care Services (California)|Health Insurance & Billing
+CDPH|California Department of Public Health|Health Insurance & Billing
+L&C|Licensing and Certification (CDPH)|Health Insurance & Billing
+CDSS|California Department of Social Services|Health Insurance & Billing
+HCAI|Department of Health Care Access and Information (California)|Health Insurance & Billing
+OSHPD|Office of Statewide Health Planning and Development (California, now HCAI)|Health Insurance & Billing
+CalHHS|California Health and Human Services Agency|Health Insurance & Billing
+DDS|Department of Developmental Services (California)|Health Insurance & Billing
+RC|Regional center (California developmental services)|Health Insurance & Billing
+Lanterman|Lanterman Developmental Disabilities Services Act|Health Insurance & Billing
+MBC|Medical Board of California|Health Insurance & Billing
+DCA|Department of Consumer Affairs (California)|Health Insurance & Billing
+DMHC|Department of Managed Health Care (California)|Health Insurance & Billing
+Knox-Keene|Knox-Keene Health Care Service Plan Act (California HMO law)|Health Insurance & Billing
+OPA|Office of the Patient Advocate (California)|Health Insurance & Billing
+OPA|Office of Pharmacy Affairs (HRSA, 340B)|Health Insurance & Billing
+HICAP|Health Insurance Counseling and Advocacy Program (California)|Health Insurance & Billing
+SHIP|State Health Insurance Assistance Program|Health Insurance & Billing
+MCP|Medi-Cal managed care plan|Health Insurance & Billing
+MCP|Making Care Primary (CMS model)|Health Insurance & Billing
+MCO|Managed care organization|Health Insurance & Billing
+COHS|County Organized Health System|Health Insurance & Billing
+GMC|Geographic managed care (Medi-Cal model)|Health Insurance & Billing
+SOC|Share of cost|Health Insurance & Billing
+CHIP|Children's Health Insurance Program|Health Insurance & Billing
+CCS|California Children's Services|Health Insurance & Billing
+GHPP|Genetically Handicapped Persons Program|Health Insurance & Billing
+CHDP|Child Health and Disability Prevention program|Health Insurance & Billing
+EPSDT|Early and Periodic Screening, Diagnostic, and Treatment|Health Insurance & Billing
+PACE|Program of All-Inclusive Care for the Elderly|Health Insurance & Billing
+IHSS|In-Home Supportive Services|Health Insurance & Billing
+MSSP|Multipurpose Senior Services Program|Health Insurance & Billing
+MSSP|Medicare Shared Savings Program|Health Insurance & Billing
+CBAS|Community-Based Adult Services|Health Insurance & Billing
+HCBS|Home and community-based services|Health Insurance & Billing
+HCBA|Home and Community-Based Alternatives waiver|Health Insurance & Billing
+ALW|Assisted Living Waiver|Health Insurance & Billing
+LTSS|Long-term services and supports|Health Insurance & Billing
+MLTSS|Managed long-term services and supports|Health Insurance & Billing
+LTC|Long-term care|Health Insurance & Billing
+1115|Section 1115 Medicaid demonstration waiver|Health Insurance & Billing
+1915(b)|Section 1915(b) Medicaid managed care waiver|Health Insurance & Billing
+1915(c)|Section 1915(c) home and community-based services waiver|Health Insurance & Billing
+1915(i)|Section 1915(i) state plan home and community-based services option|Health Insurance & Billing
+1915(k)|Section 1915(k) Community First Choice option|Health Insurance & Billing
+1135|Section 1135 emergency waiver|Health Insurance & Billing
+1332|Section 1332 state innovation waiver|Health Insurance & Billing
+Section 1557|ACA nondiscrimination provision|Health Insurance & Billing
+42 CFR Part 2|Federal confidentiality rule for substance use disorder treatment records|Health Insurance & Billing
+FFP|Federal financial participation|Health Insurance & Billing
+FMAP|Federal medical assistance percentage|Health Insurance & Billing
+CalAIM|California Advancing and Innovating Medi-Cal|Health Insurance & Billing
+ECM|Enhanced care management|Health Insurance & Billing
+CS|Community Supports (CalAIM)|Health Insurance & Billing
+ILOS|In lieu of services|Health Insurance & Billing
+PHM|Population health management|Health Insurance & Billing
+PRIME|Public Hospital Redesign and Incentives in Medi-Cal|Health Insurance & Billing
+QIP|Quality Incentive Pool (Medi-Cal public hospitals)|Health Insurance & Billing
+ESRD QIP|End-Stage Renal Disease Quality Incentive Program|Health Insurance & Billing
+GPP|Global Payment Program (Medi-Cal public hospital uninsured care)|Health Insurance & Billing
+DPH|Designated public hospital|Health Insurance & Billing
+DPH|Department of Public Health|Health Insurance & Billing
+HQAF|Hospital Quality Assurance Fee (California)|Health Insurance & Billing
+Prop 56|Proposition 56 tobacco tax supplemental Medi-Cal payments|Health Insurance & Billing
+Medi-Medi|Dually eligible for Medicare and Medi-Cal|Health Insurance & Billing
+CMC|Cal MediConnect (former California dual eligible demonstration)|Health Insurance & Billing
+CCT|California Community Transitions|Health Insurance & Billing
+MFP|Money Follows the Person|Health Insurance & Billing
+MAA|Medi-Cal Administrative Activities|Health Insurance & Billing
+TCM|Transitional care management|Health Insurance & Billing
+TCM|Targeted case management (Medi-Cal)|Health Insurance & Billing
+NEMT|Non-emergency medical transportation|Health Insurance & Billing
+NMT|Non-medical transportation|Health Insurance & Billing
+IHA|Initial health appointment (Medi-Cal managed care)|Health Insurance & Billing
+Covered California|California's ACA health insurance marketplace|Health Insurance & Billing
+HBEX|California Health Benefit Exchange|Health Insurance & Billing
+APTC|Advance premium tax credit|Health Insurance & Billing
+PTC|Premium tax credit|Health Insurance & Billing
+CSR|Cost-sharing reduction|Health Insurance & Billing
+FPL|Federal poverty level|Health Insurance & Billing
+MAGI|Modified adjusted gross income|Health Insurance & Billing
+ABD|Aged, blind, and disabled|Health Insurance & Billing
+HPE|Hospital presumptive eligibility|Health Insurance & Billing
+PE|Presumptive eligibility|Health Insurance & Billing
+PE4PW|Presumptive Eligibility for Pregnant Women|Health Insurance & Billing
+BCCTP|Breast and Cervical Cancer Treatment Program|Health Insurance & Billing
+Family PACT|Family Planning, Access, Care, and Treatment program|Health Insurance & Billing
+EWC|Every Woman Counts|Health Insurance & Billing
+MCAP|Medi-Cal Access Program|Health Insurance & Billing
+AIM|Access for Infants and Mothers (former California program, now MCAP)|Health Insurance & Billing
+CCHIP|County Children's Health Initiative Program|Health Insurance & Billing
+CMSP|County Medical Services Program|Health Insurance & Billing
+TAR|Treatment authorization request|Health Insurance & Billing
+SAR|Service authorization request|Health Insurance & Billing
+eTAR|Electronic treatment authorization request|Health Insurance & Billing
+RAD|Remittance advice details (Medi-Cal)|Health Insurance & Billing
+CIN|Client Index Number (Medi-Cal)|Health Insurance & Billing
+CIN|Clinically integrated network|Health Insurance & Billing
+BIC|Benefits Identification Card (Medi-Cal)|Health Insurance & Billing
+AEVS|Automated Eligibility Verification System (Medi-Cal)|Health Insurance & Billing
+MEDS|Medi-Cal Eligibility Data System|Health Insurance & Billing
+CalSAWS|California Statewide Automated Welfare System|Health Insurance & Billing
+SFHP|San Francisco Health Plan|Health Insurance & Billing
+HPSM|Health Plan of San Mateo|Health Insurance & Billing
+IEHP|Inland Empire Health Plan|Health Insurance & Billing
+CalOptima|Orange County Medi-Cal managed care plan|Health Insurance & Billing
+L.A. Care|Los Angeles County Medi-Cal managed care plan|Health Insurance & Billing
+AAH|Alameda Alliance for Health|Health Insurance & Billing
+CCAH|Central California Alliance for Health|Health Insurance & Billing
+PHC|Partnership HealthPlan of California|Health Insurance & Billing
+SCFHP|Santa Clara Family Health Plan|Health Insurance & Billing
+HPSJ|Health Plan of San Joaquin|Health Insurance & Billing
+GCHP|Gold Coast Health Plan|Health Insurance & Billing
+BSC|Blue Shield of California|Health Insurance & Billing
+BSCPHP|Blue Shield of California Promise Health Plan|Health Insurance & Billing
+HN|Health Net|Health Insurance & Billing
+KP|Kaiser Permanente|Health Insurance & Billing
+BCBS|Blue Cross Blue Shield|Health Insurance & Billing
+UHC|UnitedHealthcare|Health Insurance & Billing
+Healthy SF|Healthy San Francisco (access program for uninsured residents)|Health Insurance & Billing
+HSF|Healthy San Francisco|Health Insurance & Billing
+SFDPH|San Francisco Department of Public Health|Health Insurance & Billing
+SFHN|San Francisco Health Network|Health Insurance & Billing
+HSS|San Francisco Health Service System|Health Insurance & Billing
+CalPERS|California Public Employees' Retirement System|Health Insurance & Billing
+UC SHIP|University of California Student Health Insurance Plan|Health Insurance & Billing
+AB 1020|California hospital fair billing and debt collection law (2021)|Health Insurance & Billing
+AB 774|Hospital Fair Pricing Act (California, 2006)|Health Insurance & Billing
+HFPA|Hospital Fair Pricing Act (California)|Health Insurance & Billing
+AB 72|California surprise billing law for non-emergency out-of-network care|Health Insurance & Billing
+AB 1278|California physician Open Payments notice law|Health Insurance & Billing
+SB 855|California mental health parity law (2020)|Health Insurance & Billing
+SB 1120|Physicians Make Decisions Act (California AI in utilization review law)|Health Insurance & Billing
+MICRA|Medical Injury Compensation Reform Act (California)|Health Insurance & Billing
+CMIA|Confidentiality of Medical Information Act (California)|Health Insurance & Billing
+DxF|Data Exchange Framework (California)|Health Insurance & Billing
+CURES|Controlled Substance Utilization Review and Evaluation System (California PDMP)|Health Insurance & Billing
+PDMP|Prescription drug monitoring program|Health Insurance & Billing
+EPCS|Electronic prescribing of controlled substances|Health Insurance & Billing
+ESI|Employer-sponsored insurance|Health Insurance & Billing
+ESI|Express Scripts (pharmacy benefit manager)|Health Insurance & Billing
+HMO|Health maintenance organization|Health Insurance & Billing
+PPO|Preferred provider organization|Health Insurance & Billing
+EPO|Exclusive provider organization|Health Insurance & Billing
+POS|Point of service plan|Health Insurance & Billing
+POS|Place of service|Health Insurance & Billing
+POS 02|Telehealth provided other than in the patient's home (place of service)|Health Insurance & Billing
+POS 10|Telehealth provided in the patient's home (place of service)|Health Insurance & Billing
+HDHP|High-deductible health plan|Health Insurance & Billing
+HSA|Health savings account|Health Insurance & Billing
+HRA|Health reimbursement arrangement|Health Insurance & Billing
+HRA|Health risk assessment|Health Insurance & Billing
+ICHRA|Individual coverage health reimbursement arrangement|Health Insurance & Billing
+QSEHRA|Qualified small employer health reimbursement arrangement|Health Insurance & Billing
+FSA|Flexible spending account|Health Insurance & Billing
+OOP|Out-of-pocket|Health Insurance & Billing
+OOPM|Out-of-pocket maximum|Health Insurance & Billing
+MOOP|Maximum out-of-pocket|Health Insurance & Billing
+AV|Actuarial value|Health Insurance & Billing
+MV|Minimum value|Health Insurance & Billing
+INN|In-network|Health Insurance & Billing
+OON|Out-of-network|Health Insurance & Billing
+UCR|Usual, customary, and reasonable|Health Insurance & Billing
+NSA|No Surprises Act|Health Insurance & Billing
+CAA|Consolidated Appropriations Act (2021)|Health Insurance & Billing
+IDR|Independent dispute resolution|Health Insurance & Billing
+IDRE|Independent dispute resolution entity|Health Insurance & Billing
+QPA|Qualifying payment amount|Health Insurance & Billing
+GFE|Good faith estimate|Health Insurance & Billing
+AEOB|Advanced explanation of benefits|Health Insurance & Billing
+PPDR|Patient-provider dispute resolution|Health Insurance & Billing
+AOB|Assignment of benefits|Health Insurance & Billing
+EOB|Explanation of benefits|Health Insurance & Billing
+EOP|Explanation of payment|Health Insurance & Billing
+RA|Remittance advice|Health Insurance & Billing
+ERA|Electronic remittance advice|Health Insurance & Billing
+EFT|Electronic funds transfer|Health Insurance & Billing
+HPT|Hospital price transparency|Health Insurance & Billing
+MRF|Machine-readable file (price transparency)|Health Insurance & Billing
+TiC|Transparency in Coverage rule|Health Insurance & Billing
+ACO|Accountable care organization|Health Insurance & Billing
+REACH|Realizing Equity, Access, and Community Health (ACO REACH)|Health Insurance & Billing
+DCE|Direct contracting entity|Health Insurance & Billing
+PCF|Primary Care First|Health Insurance & Billing
+CPC+|Comprehensive Primary Care Plus|Health Insurance & Billing
+TCOC|Total cost of care|Health Insurance & Billing
+PMPM|Per member per month|Health Insurance & Billing
+PMPY|Per member per year|Health Insurance & Billing
+PEPM|Per employee per month|Health Insurance & Billing
+RAF|Risk adjustment factor|Health Insurance & Billing
+MRA|Medicare risk adjustment|Health Insurance & Billing
+HCC|Hierarchical condition category|Health Insurance & Billing
+CMS-HCC|CMS hierarchical condition category risk adjustment model|Health Insurance & Billing
+RxHCC|Prescription drug hierarchical condition category model|Health Insurance & Billing
+HHS-HCC|HHS hierarchical condition category model (ACA marketplace)|Health Insurance & Billing
+V24|Version 24 of the CMS-HCC risk adjustment model|Health Insurance & Billing
+V28|Version 28 of the CMS-HCC risk adjustment model|Health Insurance & Billing
+RADV|Risk adjustment data validation|Health Insurance & Billing
+MLR|Medical loss ratio|Health Insurance & Billing
+ERISA|Employee Retirement Income Security Act|Health Insurance & Billing
+TPA|Third-party administrator|Health Insurance & Billing
+ASO|Administrative services only|Health Insurance & Billing
+PBM|Pharmacy benefit manager|Health Insurance & Billing
+P&T|Pharmacy and therapeutics committee|Health Insurance & Billing
+PDL|Preferred drug list|Health Insurance & Billing
+ST|Step therapy|Health Insurance & Billing
+QL|Quantity limit|Health Insurance & Billing
+PA|Prior authorization|Health Insurance & Billing
+PA|Physician assistant|Health Insurance & Billing
+ePA|Electronic prior authorization|Health Insurance & Billing
+RTBT|Real-time benefit tool|Health Insurance & Billing
+P2P|Peer-to-peer review|Health Insurance & Billing
+IMR|Independent medical review|Health Insurance & Billing
+IME|Independent medical examination|Health Insurance & Billing
+IME|Indirect medical education|Health Insurance & Billing
+UM|Utilization management|Health Insurance & Billing
+UR|Utilization review|Health Insurance & Billing
+CM|Case management|Health Insurance & Billing
+LOC|Level of care|Health Insurance & Billing
+MCG|MCG care guidelines (formerly Milliman Care Guidelines)|Health Insurance & Billing
+MN|Medical necessity|Health Insurance & Billing
+OBS|Observation status|Health Insurance & Billing
+IPO|Inpatient-only list|Health Insurance & Billing
+IP|Inpatient|Health Insurance & Billing
+OP|Outpatient|Health Insurance & Billing
+ED|Emergency department|Health Insurance & Billing
+UC|Urgent care|Health Insurance & Billing
+TOC|Transitions of care|Health Insurance & Billing
+MTM|Medication therapy management|Health Insurance & Billing
+CMR|Comprehensive medication review|Health Insurance & Billing
+DUR|Drug utilization review|Health Insurance & Billing
+DAW|Dispense as written|Health Insurance & Billing
+GPI|Generic product identifier|Health Insurance & Billing
+NDC|National Drug Code|Health Insurance & Billing
+WAC|Wholesale acquisition cost|Health Insurance & Billing
+AWP|Average wholesale price|Health Insurance & Billing
+ASP|Average sales price|Health Insurance & Billing
+AMP|Average manufacturer price|Health Insurance & Billing
+NADAC|National Average Drug Acquisition Cost|Health Insurance & Billing
+340B|340B Drug Pricing Program|Health Insurance & Billing
+CE|Covered entity (340B or HIPAA)|Health Insurance & Billing
+OPAIS|340B Office of Pharmacy Affairs Information System|Health Insurance & Billing
+DSH|Disproportionate share hospital|Health Insurance & Billing
+UCC|Uncompensated care|Health Insurance & Billing
+S-10|Medicare cost report worksheet for uncompensated care|Health Insurance & Billing
+MCR|Medicare cost report|Health Insurance & Billing
+CCR|Cost-to-charge ratio|Health Insurance & Billing
+HCRIS|Healthcare Cost Report Information System|Health Insurance & Billing
+GME|Graduate medical education|Health Insurance & Billing
+DGME|Direct graduate medical education|Health Insurance & Billing
+CHGME|Children's Hospitals Graduate Medical Education program|Health Insurance & Billing
+THCGME|Teaching Health Center Graduate Medical Education program|Health Insurance & Billing
+AMC|Academic medical center|Health Insurance & Billing
+CAH|Critical access hospital|Health Insurance & Billing
+SCH|Sole community hospital|Health Insurance & Billing
+MDH|Medicare-dependent hospital|Health Insurance & Billing
+REH|Rural emergency hospital|Health Insurance & Billing
+RHC|Rural health clinic|Health Insurance & Billing
+RHC|Routine home care (hospice level of care)|Health Insurance & Billing
+FQHC|Federally qualified health center|Health Insurance & Billing
+CHC|Community health center|Health Insurance & Billing
+CHC|Continuous home care (hospice level of care)|Health Insurance & Billing
+GIP|General inpatient care (hospice level of care)|Health Insurance & Billing
+IRC|Inpatient respite care (hospice level of care)|Health Insurance & Billing
+SIA|Service intensity add-on (hospice)|Health Insurance & Billing
+NOE|Notice of election (hospice)|Health Insurance & Billing
+NOA|Notice of admission (home health)|Health Insurance & Billing
+F2F|Face-to-face encounter|Health Insurance & Billing
+CTI|Certification of terminal illness|Health Insurance & Billing
+HIS|Hospice Item Set|Health Insurance & Billing
+HOPE|Hospice Outcomes and Patient Evaluation|Health Insurance & Billing
+HQRP|Hospice Quality Reporting Program|Health Insurance & Billing
+PPS|Prospective payment system|Health Insurance & Billing
+IPPS|Inpatient Prospective Payment System|Health Insurance & Billing
+OPPS|Outpatient Prospective Payment System|Health Insurance & Billing
+APC|Ambulatory payment classification|Health Insurance & Billing
+HOPD|Hospital outpatient department|Health Insurance & Billing
+PBD|Provider-based department|Health Insurance & Billing
+ASC|Ambulatory surgical center|Health Insurance & Billing
+IDTF|Independent diagnostic testing facility|Health Insurance & Billing
+CORF|Comprehensive outpatient rehabilitation facility|Health Insurance & Billing
+CMHC|Community mental health center|Health Insurance & Billing
+OTP|Opioid treatment program|Health Insurance & Billing
+IPF|Inpatient psychiatric facility|Health Insurance & Billing
+IRF|Inpatient rehabilitation facility|Health Insurance & Billing
+IRF-PAI|Inpatient Rehabilitation Facility Patient Assessment Instrument|Health Insurance & Billing
+LTCH|Long-term care hospital|Health Insurance & Billing
+LTAC|Long-term acute care|Health Insurance & Billing
+SNF|Skilled nursing facility|Health Insurance & Billing
+NF|Nursing facility|Health Insurance & Billing
+ICF/DD|Intermediate care facility for the developmentally disabled|Health Insurance & Billing
+ALF|Assisted living facility|Health Insurance & Billing
+RCFE|Residential care facility for the elderly (California)|Health Insurance & Billing
+B&C|Board and care|Health Insurance & Billing
+HHA|Home health agency|Health Insurance & Billing
+DME|Durable medical equipment|Health Insurance & Billing
+DMEPOS|Durable medical equipment, prosthetics, orthotics, and supplies|Health Insurance & Billing
+CBA|Competitive bidding area|Health Insurance & Billing
+CBP|Competitive Bidding Program (DMEPOS)|Health Insurance & Billing
+PDGM|Patient-Driven Groupings Model|Health Insurance & Billing
+PDPM|Patient Driven Payment Model|Health Insurance & Billing
+OASIS|Outcome and Assessment Information Set|Health Insurance & Billing
+MDS|Minimum Data Set|Health Insurance & Billing
+RUG|Resource utilization group|Health Insurance & Billing
+Section GG|Functional abilities and goals section of post-acute assessments|Health Insurance & Billing
+QRP|Quality Reporting Program|Health Insurance & Billing
+IMPACT Act|Improving Medicare Post-Acute Care Transformation Act|Health Insurance & Billing
+CMS-485|Home health certification and plan of care|Health Insurance & Billing
+CMS-2728|End Stage Renal Disease Medical Evidence Report|Health Insurance & Billing
+LMN|Letter of medical necessity|Health Insurance & Billing
+LOMN|Letter of medical necessity|Health Insurance & Billing
+CMN|Certificate of medical necessity|Health Insurance & Billing
+DIF|DME information form|Health Insurance & Billing
+DWO|Detailed written order|Health Insurance & Billing
+SWO|Standard written order|Health Insurance & Billing
+DRG|Diagnosis related group|Health Insurance & Billing
+MS-DRG|Medicare severity diagnosis related group|Health Insurance & Billing
+APR-DRG|All patient refined diagnosis related group|Health Insurance & Billing
+AP-DRG|All patient diagnosis related group|Health Insurance & Billing
+CC|Complication or comorbidity|Health Insurance & Billing
+CC|Chief complaint|Health Insurance & Billing
+CC|Charity care|Health Insurance & Billing
+MCC|Major complication or comorbidity|Health Insurance & Billing
+SOI|Severity of illness|Health Insurance & Billing
+ROM|Risk of mortality|Health Insurance & Billing
+CMI|Case mix index|Health Insurance & Billing
+GMLOS|Geometric mean length of stay|Health Insurance & Billing
+AMLOS|Arithmetic mean length of stay|Health Insurance & Billing
+ALOS|Average length of stay|Health Insurance & Billing
+LOS|Length of stay|Health Insurance & Billing
+ADC|Average daily census|Health Insurance & Billing
+UHDDS|Uniform Hospital Discharge Data Set|Health Insurance & Billing
+PDX|Principal diagnosis|Health Insurance & Billing
+SDX|Secondary diagnosis|Health Insurance & Billing
+MedPAR|Medicare Provider Analysis and Review file|Health Insurance & Billing
+ICD-10-CM|International Classification of Diseases, 10th Revision, Clinical Modification|Health Insurance & Billing
+ICD-10-PCS|International Classification of Diseases, 10th Revision, Procedure Coding System|Health Insurance & Billing
+CPT|Current Procedural Terminology|Health Insurance & Billing
+HCPCS|Healthcare Common Procedure Coding System|Health Insurance & Billing
+J-codes|HCPCS Level II codes for injectable and infused drugs|Health Insurance & Billing
+G-codes|HCPCS Level II temporary codes for professional services (CMS)|Health Insurance & Billing
+Q-codes|HCPCS Level II temporary codes for drugs, supplies, and services|Health Insurance & Billing
+S-codes|HCPCS Level II temporary codes used by commercial payers|Health Insurance & Billing
+T-codes|HCPCS Level II codes used by state Medicaid agencies|Health Insurance & Billing
+E-codes|HCPCS Level II codes for durable medical equipment|Health Insurance & Billing
+L-codes|HCPCS Level II codes for orthotics and prosthetics|Health Insurance & Billing
+C-codes|HCPCS Level II codes for OPPS pass-through items|Health Insurance & Billing
+NOC|Not otherwise classified (unlisted code)|Health Insurance & Billing
+CDT|Code on Dental Procedures and Nomenclature|Health Insurance & Billing
+SNOMED CT|Systematized Nomenclature of Medicine Clinical Terms|Health Insurance & Billing
+LOINC|Logical Observation Identifiers Names and Codes|Health Insurance & Billing
+CLIA|Clinical Laboratory Improvement Amendments|Health Insurance & Billing
+Modifier 22|Increased procedural services|Health Insurance & Billing
+Modifier 24|Unrelated E/M service by the same physician during a postoperative period|Health Insurance & Billing
+Modifier 25|Significant, separately identifiable E/M service on the same day as a procedure|Health Insurance & Billing
+Modifier 26|Professional component|Health Insurance & Billing
+Modifier 33|Preventive service|Health Insurance & Billing
+Modifier 50|Bilateral procedure|Health Insurance & Billing
+Modifier 51|Multiple procedures|Health Insurance & Billing
+Modifier 52|Reduced services|Health Insurance & Billing
+Modifier 53|Discontinued procedure|Health Insurance & Billing
+Modifier 57|Decision for surgery|Health Insurance & Billing
+Modifier 59|Distinct procedural service|Health Insurance & Billing
+Modifier 62|Two surgeons|Health Insurance & Billing
+Modifier 66|Surgical team|Health Insurance & Billing
+Modifier 76|Repeat procedure by the same physician|Health Insurance & Billing
+Modifier 77|Repeat procedure by another physician|Health Insurance & Billing
+Modifier 78|Unplanned return to the operating room for a related procedure during the postoperative period|Health Insurance & Billing
+Modifier 79|Unrelated procedure by the same physician during the postoperative period|Health Insurance & Billing
+Modifier 80|Assistant surgeon|Health Insurance & Billing
+Modifier 91|Repeat clinical diagnostic laboratory test|Health Insurance & Billing
+Modifier 93|Synchronous telemedicine service via audio-only|Health Insurance & Billing
+Modifier 95|Synchronous telemedicine service via real-time audio and video|Health Insurance & Billing
+TC|Technical component (modifier)|Health Insurance & Billing
+GC|Service performed in part by a resident under a teaching physician (modifier)|Health Insurance & Billing
+GE|Service performed by a resident under the primary care exception (modifier)|Health Insurance & Billing
+PCE|Primary care exception (teaching physician rules)|Health Insurance & Billing
+FS|Split or shared E/M visit (modifier)|Health Insurance & Billing
+FT|Unrelated E/M visit on the same day as another visit or during a global period, critical care (modifier)|Health Insurance & Billing
+XE|Separate encounter (modifier)|Health Insurance & Billing
+XS|Separate structure (modifier)|Health Insurance & Billing
+XP|Separate practitioner (modifier)|Health Insurance & Billing
+XU|Unusual non-overlapping service (modifier)|Health Insurance & Billing
+QW|CLIA-waived test (modifier)|Health Insurance & Billing
+KX|Requirements specified in the medical policy have been met (modifier)|Health Insurance & Billing
+GA|Waiver of liability statement issued as required by payer policy, ABN on file (modifier)|Health Insurance & Billing
+GX|Notice of liability issued, voluntary under payer policy (modifier)|Health Insurance & Billing
+GY|Item or service statutorily excluded or not a Medicare benefit (modifier)|Health Insurance & Billing
+GZ|Item or service expected to be denied as not reasonable and necessary, no ABN (modifier)|Health Insurance & Billing
+GV|Attending physician not employed or paid by the patient's hospice (modifier)|Health Insurance & Billing
+GW|Service not related to the hospice patient's terminal condition (modifier)|Health Insurance & Billing
+AI|Principal physician of record (modifier)|Health Insurance & Billing
+AQ|Service furnished in a health professional shortage area (modifier)|Health Insurance & Billing
+AS|Non-physician practitioner assistant at surgery (modifier)|Health Insurance & Billing
+Q6|Service furnished under a fee-for-time compensation arrangement, locum tenens (modifier)|Health Insurance & Billing
+GT|Via interactive audio and video telecommunication systems (modifier)|Health Insurance & Billing
+FQ|Telehealth service furnished using audio-only technology (modifier)|Health Insurance & Billing
+FR|Supervising practitioner present through real-time two-way audio and video (modifier)|Health Insurance & Billing
+PD|Diagnostic or related non-diagnostic service in a wholly owned entity within 3 days of admission (modifier)|Health Insurance & Billing
+PD|Permanent disability|Health Insurance & Billing
+PO|Excepted service at an off-campus provider-based department (modifier)|Health Insurance & Billing
+PN|Non-excepted service at an off-campus provider-based department (modifier)|Health Insurance & Billing
+JW|Drug amount discarded and not administered (modifier)|Health Insurance & Billing
+JZ|Zero drug amount discarded (modifier)|Health Insurance & Billing
+CR|Catastrophe or disaster related (modifier)|Health Insurance & Billing
+E/M|Evaluation and management|Health Insurance & Billing
+E&M|Evaluation and management|Health Insurance & Billing
+MDM|Medical decision making|Health Insurance & Billing
+HPI|History of present illness|Health Insurance & Billing
+ROS|Review of systems|Health Insurance & Billing
+PFSH|Past, family, and social history|Health Insurance & Billing
+G2211|Visit complexity add-on for longitudinal care (HCPCS)|Health Insurance & Billing
+G2212|Prolonged office or outpatient E/M service, each additional 15 minutes (HCPCS)|Health Insurance & Billing
+99417|Prolonged outpatient E/M service, each additional 15 minutes (CPT)|Health Insurance & Billing
+99205|New patient office visit, high MDM (CPT)|Health Insurance & Billing
+99213|Established patient office visit, low MDM (CPT)|Health Insurance & Billing
+99214|Established patient office visit, moderate MDM (CPT)|Health Insurance & Billing
+99215|Established patient office visit, high MDM (CPT)|Health Insurance & Billing
+99223|Initial hospital inpatient or observation care, high MDM (CPT)|Health Insurance & Billing
+99232|Subsequent hospital inpatient or observation care, moderate MDM (CPT)|Health Insurance & Billing
+99233|Subsequent hospital inpatient or observation care, high MDM (CPT)|Health Insurance & Billing
+99238|Hospital discharge day management, 30 minutes or less (CPT)|Health Insurance & Billing
+99239|Hospital discharge day management, more than 30 minutes (CPT)|Health Insurance & Billing
+99291|Critical care, first 30 to 74 minutes (CPT)|Health Insurance & Billing
+99292|Critical care, each additional 30 minutes (CPT)|Health Insurance & Billing
+99495|Transitional care management, moderate complexity (CPT)|Health Insurance & Billing
+99496|Transitional care management, high complexity (CPT)|Health Insurance & Billing
+99490|Chronic care management, first 20 minutes of clinical staff time (CPT)|Health Insurance & Billing
+99497|Advance care planning, first 30 minutes (CPT)|Health Insurance & Billing
+G0402|Initial preventive physical examination (HCPCS)|Health Insurance & Billing
+G0438|Annual wellness visit, initial (HCPCS)|Health Insurance & Billing
+G0439|Annual wellness visit, subsequent (HCPCS)|Health Insurance & Billing
+CCM|Chronic care management|Health Insurance & Billing
+CCCM|Complex chronic care management|Health Insurance & Billing
+PCM|Principal care management|Health Insurance & Billing
+APCM|Advanced primary care management|Health Insurance & Billing
+CPO|Care plan oversight|Health Insurance & Billing
+RPM|Remote physiologic monitoring|Health Insurance & Billing
+RTM|Remote therapeutic monitoring|Health Insurance & Billing
+BHI|Behavioral health integration|Health Insurance & Billing
+CoCM|Collaborative care model|Health Insurance & Billing
+AWV|Annual wellness visit|Health Insurance & Billing
+IPPE|Initial preventive physical examination|Health Insurance & Billing
+ACP|Advance care planning|Health Insurance & Billing
+CHI|Community health integration|Health Insurance & Billing
+PIN|Principal illness navigation|Health Insurance & Billing
+SDOH|Social determinants of health|Health Insurance & Billing
+Split/shared|Split or shared E/M visit billed by a physician and non-physician practitioner|Health Insurance & Billing
+Incident-to|Services billed under a supervising physician as incident to physician services|Health Insurance & Billing
+PATH|Physicians at Teaching Hospitals|Health Insurance & Billing
+NPP|Non-physician practitioner|Health Insurance & Billing
+NPP|Notice of privacy practices|Health Insurance & Billing
+APP|Advanced practice provider|Health Insurance & Billing
+PCP|Primary care physician|Health Insurance & Billing
+IPA|Independent practice association|Health Insurance & Billing
+MSO|Management services organization|Health Insurance & Billing
+PHO|Physician hospital organization|Health Insurance & Billing
+RBO|Risk-bearing organization (California)|Health Insurance & Billing
+DOFR|Division of financial responsibility|Health Insurance & Billing
+LOB|Line of business|Health Insurance & Billing
+CDM|Charge description master|Health Insurance & Billing
+Rev code|Revenue code|Health Insurance & Billing
+UB-04|Institutional paper claim form|Health Insurance & Billing
+CMS-1450|Institutional paper claim form (UB-04)|Health Insurance & Billing
+CMS-1500|Professional paper claim form|Health Insurance & Billing
+CMS-855I|Medicare enrollment application for physicians and non-physician practitioners|Health Insurance & Billing
+NUBC|National Uniform Billing Committee|Health Insurance & Billing
+NUCC|National Uniform Claim Committee|Health Insurance & Billing
+WEDI|Workgroup for Electronic Data Interchange|Health Insurance & Billing
+CORE|Committee on Operating Rules for Information Exchange (CAQH CORE)|Health Insurance & Billing
+TOB|Type of bill|Health Insurance & Billing
+DOS|Date of service|Health Insurance & Billing
+DOA|Date of admission|Health Insurance & Billing
+DOD|Date of discharge|Health Insurance & Billing
+DOI|Date of injury|Health Insurance & Billing
+DOI|Department of Insurance|Health Insurance & Billing
+CC44|Condition code 44 (inpatient admission changed to outpatient)|Health Insurance & Billing
+W2|Condition code W2 (Part A inpatient claim denied, rebilled under Part B)|Health Insurance & Billing
+A/B rebilling|Rebilling a denied Part A inpatient stay as Part B outpatient services|Health Insurance & Billing
+TFL|Timely filing limit|Health Insurance & Billing
+CARC|Claim adjustment reason code|Health Insurance & Billing
+RARC|Remittance advice remark code|Health Insurance & Billing
+CAGC|Claim adjustment group code|Health Insurance & Billing
+CO|Contractual obligation (claim adjustment group code)|Health Insurance & Billing
+PR|Patient responsibility (claim adjustment group code)|Health Insurance & Billing
+OA|Other adjustment (claim adjustment group code)|Health Insurance & Billing
+PR-1|Deductible amount (CARC 1, patient responsibility)|Health Insurance & Billing
+PR-2|Coinsurance amount (CARC 2, patient responsibility)|Health Insurance & Billing
+PR-2|Primary treating physician's progress report (California workers' compensation form)|Health Insurance & Billing
+PR-3|Copayment amount (CARC 3, patient responsibility)|Health Insurance & Billing
+PR-4|Primary treating physician's permanent and stationary report (California workers' compensation form)|Health Insurance & Billing
+CO-4|Procedure code inconsistent with modifier (CARC 4)|Health Insurance & Billing
+CO-11|Diagnosis inconsistent with procedure (CARC 11)|Health Insurance & Billing
+CO-15|Authorization number missing, invalid, or does not apply (CARC 15)|Health Insurance & Billing
+CO-16|Claim lacks information needed for adjudication (CARC 16)|Health Insurance & Billing
+CO-18|Duplicate claim or service (CARC 18)|Health Insurance & Billing
+CO-22|Care may be covered by another payer per coordination of benefits (CARC 22)|Health Insurance & Billing
+CO-29|Time limit for filing has expired (CARC 29)|Health Insurance & Billing
+CO-45|Charge exceeds fee schedule or maximum allowable (CARC 45)|Health Insurance & Billing
+CO-50|Non-covered services not deemed medically necessary (CARC 50)|Health Insurance & Billing
+CO-96|Non-covered charges (CARC 96)|Health Insurance & Billing
+CO-97|Benefit included in payment for another service (CARC 97)|Health Insurance & Billing
+CO-151|Information submitted does not support this many or frequency of services (CARC 151)|Health Insurance & Billing
+CO-197|Precertification or authorization absent (CARC 197)|Health Insurance & Billing
+CO-204|Service not covered under the patient's current benefit plan (CARC 204)|Health Insurance & Billing
+CO-236|Procedure not compatible with another procedure on the same day per NCCI (CARC 236)|Health Insurance & Billing
+CO-B7|Provider not certified or eligible to be paid for this service on this date (CARC B7)|Health Insurance & Billing
+FAP|Financial assistance policy|Health Insurance & Billing
+FA|Financial assistance|Health Insurance & Billing
+SFS|Sliding fee scale|Health Insurance & Billing
+501(r)|Internal Revenue Code requirements for tax-exempt hospitals|Health Insurance & Billing
+DNFB|Discharged not final billed|Health Insurance & Billing
+DNB|Discharged not billed|Health Insurance & Billing
+A/R|Accounts receivable|Health Insurance & Billing
+AR|Accounts receivable|Health Insurance & Billing
+DSO|Days sales outstanding|Health Insurance & Billing
+NPR|Net patient revenue|Health Insurance & Billing
+W/O|Write-off|Health Insurance & Billing
+BPCI|Bundled Payments for Care Improvement|Health Insurance & Billing
+BPCI-A|Bundled Payments for Care Improvement Advanced|Health Insurance & Billing
+CJR|Comprehensive Care for Joint Replacement|Health Insurance & Billing
+TEAM|Transforming Episode Accountability Model|Health Insurance & Billing
+PECOS|Provider Enrollment, Chain, and Ownership System|Health Insurance & Billing
+NPPES|National Plan and Provider Enumeration System|Health Insurance & Billing
+NPI|National Provider Identifier|Health Insurance & Billing
+Type 1 NPI|Individual provider National Provider Identifier|Health Insurance & Billing
+Type 2 NPI|Organizational National Provider Identifier|Health Insurance & Billing
+UPIN|Unique physician identification number (retired, replaced by NPI)|Health Insurance & Billing
+TIN|Taxpayer identification number|Health Insurance & Billing
+EIN|Employer identification number|Health Insurance & Billing
+PTAN|Provider transaction access number|Health Insurance & Billing
+CCN|CMS Certification Number|Health Insurance & Billing
+CCN|Community Care Network (VA)|Health Insurance & Billing
+CAQH|Council for Affordable Quality Healthcare|Health Insurance & Billing
+SCA|Single case agreement|Health Insurance & Billing
+LOA|Letter of agreement|Health Insurance & Billing
+COB|Coordination of benefits|Health Insurance & Billing
+TPL|Third party liability|Health Insurance & Billing
+PIP|Personal injury protection|Health Insurance & Billing
+MedPay|Medical payments coverage (auto insurance)|Health Insurance & Billing
+WC|Workers' compensation|Health Insurance & Billing
+MPN|Medical provider network|Health Insurance & Billing
+QME|Qualified medical evaluator|Health Insurance & Billing
+PQME|Panel qualified medical evaluator|Health Insurance & Billing
+AME|Agreed medical evaluator|Health Insurance & Billing
+DFR|Doctor's first report of occupational injury or illness (California)|Health Insurance & Billing
+RFA|Request for authorization (California workers' compensation)|Health Insurance & Billing
+TD|Temporary disability|Health Insurance & Billing
+TTD|Temporary total disability|Health Insurance & Billing
+TPD|Temporary partial disability|Health Insurance & Billing
+PPD|Permanent partial disability|Health Insurance & Billing
+PTD|Permanent total disability|Health Insurance & Billing
+P&S|Permanent and stationary|Health Insurance & Billing
+MMI|Maximum medical improvement|Health Insurance & Billing
+WPI|Whole person impairment|Health Insurance & Billing
+SJDB|Supplemental job displacement benefit|Health Insurance & Billing
+DWC|Division of Workers' Compensation (California)|Health Insurance & Billing
+WCAB|Workers' Compensation Appeals Board|Health Insurance & Billing
+OMFS|Official Medical Fee Schedule (California workers' compensation)|Health Insurance & Billing
+MTUS|Medical Treatment Utilization Schedule|Health Insurance & Billing
+SDI|State Disability Insurance (California)|Health Insurance & Billing
+PFL|Paid Family Leave (California)|Health Insurance & Billing
+EDD|Employment Development Department (California)|Health Insurance & Billing
+FMLA|Family and Medical Leave Act|Health Insurance & Billing
+CFRA|California Family Rights Act|Health Insurance & Billing
+STD|Short-term disability|Health Insurance & Billing
+LTD|Long-term disability|Health Insurance & Billing
+EAP|Employee assistance program|Health Insurance & Billing
+CHAMPVA|Civilian Health and Medical Program of the Department of Veterans Affairs|Health Insurance & Billing
+CHAMPUS|Civilian Health and Medical Program of the Uniformed Services (former name of TRICARE)|Health Insurance & Billing
+TRICARE|Military health care program for service members, retirees, and families|Health Insurance & Billing
+VA|Department of Veterans Affairs|Health Insurance & Billing
+VHA|Veterans Health Administration|Health Insurance & Billing
+IHS|Indian Health Service|Health Insurance & Billing
+FEHB|Federal Employees Health Benefits program|Health Insurance & Billing
+ACA|Affordable Care Act|Health Insurance & Billing
+PPACA|Patient Protection and Affordable Care Act|Health Insurance & Billing
+EHB|Essential health benefits|Health Insurance & Billing
+MEC|Minimum essential coverage|Health Insurance & Billing
+SHOP|Small Business Health Options Program|Health Insurance & Billing
+COBRA|Consolidated Omnibus Budget Reconciliation Act|Health Insurance & Billing
+Cal-COBRA|California continuation coverage law for small employer plans|Health Insurance & Billing
+GINA|Genetic Information Nondiscrimination Act|Health Insurance & Billing
+MHPAEA|Mental Health Parity and Addiction Equity Act|Health Insurance & Billing
+HIPAA|Health Insurance Portability and Accountability Act|Health Insurance & Billing
+PHI|Protected health information|Health Insurance & Billing
+ePHI|Electronic protected health information|Health Insurance & Billing
+BAA|Business associate agreement|Health Insurance & Billing
+TPO|Treatment, payment, and health care operations|Health Insurance & Billing
+OCR|Office for Civil Rights|Health Insurance & Billing
+ASCA|Administrative Simplification Compliance Act|Health Insurance & Billing
+5010|Version 5010 of the HIPAA X12 transaction standards|Health Insurance & Billing
+EDI|Electronic data interchange|Health Insurance & Billing
+X12|ASC X12 electronic data interchange standards|Health Insurance & Billing
+ANSI|American National Standards Institute|Health Insurance & Billing
+NCPDP|National Council for Prescription Drug Programs|Health Insurance & Billing
+835|Electronic remittance advice transaction (X12)|Health Insurance & Billing
+837P|Professional claim transaction (X12)|Health Insurance & Billing
+837I|Institutional claim transaction (X12)|Health Insurance & Billing
+270/271|Eligibility inquiry and response transactions (X12)|Health Insurance & Billing
+276/277|Claim status inquiry and response transactions (X12)|Health Insurance & Billing
+277CA|Claim acknowledgment transaction (X12)|Health Insurance & Billing
+278|Prior authorization and referral request and response transaction (X12)|Health Insurance & Billing
+275|Electronic claim attachment transaction (X12)|Health Insurance & Billing
+834|Benefit enrollment and maintenance transaction (X12)|Health Insurance & Billing
+820|Premium payment transaction (X12)|Health Insurance & Billing
+999|Implementation acknowledgment transaction (X12)|Health Insurance & Billing
+HETS|HIPAA Eligibility Transaction System|Health Insurance & Billing
+DDE|Direct data entry (Medicare claims)|Health Insurance & Billing
+FISS|Fiscal Intermediary Standard System|Health Insurance & Billing
+MCS|Multi-Carrier System|Health Insurance & Billing
+IVR|Interactive voice response|Health Insurance & Billing
+HITECH|Health Information Technology for Economic and Clinical Health Act|Health Insurance & Billing
+ARRA|American Recovery and Reinvestment Act|Health Insurance & Billing
+MU|Meaningful use|Health Insurance & Billing
+CEHRT|Certified electronic health record technology|Health Insurance & Billing
+ONC|Office of the National Coordinator for Health Information Technology|Health Insurance & Billing
+ASTP|Assistant Secretary for Technology Policy|Health Insurance & Billing
+HIE|Health information exchange|Health Insurance & Billing
+HL7|Health Level Seven|Health Insurance & Billing
+FHIR|Fast Healthcare Interoperability Resources|Health Insurance & Billing
+API|Application programming interface|Health Insurance & Billing
+CCD|Continuity of care document|Health Insurance & Billing
+C-CDA|Consolidated Clinical Document Architecture|Health Insurance & Billing
+USCDI|United States Core Data for Interoperability|Health Insurance & Billing
+TEFCA|Trusted Exchange Framework and Common Agreement|Health Insurance & Billing
+QHIN|Qualified Health Information Network|Health Insurance & Billing
+Cures Act|21st Century Cures Act|Health Insurance & Billing
+EHR|Electronic health record|Health Insurance & Billing
+EMR|Electronic medical record|Health Insurance & Billing
+ADT|Admission, discharge, transfer|Health Insurance & Billing
+ROI|Release of information|Health Insurance & Billing
+ROI|Return on investment|Health Insurance & Billing
+HIM|Health information management|Health Insurance & Billing
+MPI|Master patient index|Health Insurance & Billing
+EMPI|Enterprise master patient index|Health Insurance & Billing
+MRN|Medical record number|Health Insurance & Billing
+FIN|Financial number (encounter identifier)|Health Insurance & Billing
+CSN|Contact serial number (Epic encounter identifier)|Health Insurance & Billing
+HAR|Hospital account record (Epic)|Health Insurance & Billing
+HB|Hospital billing (Epic)|Health Insurance & Billing
+PB|Professional billing (Epic)|Health Insurance & Billing
+WQ|Work queue (Epic)|Health Insurance & Billing
+PAS|Patient access services|Health Insurance & Billing
+CBO|Central business office|Health Insurance & Billing
+CBO|Community-based organization|Health Insurance & Billing
+RCM|Revenue cycle management|Health Insurance & Billing
+FC|Financial counselor|Health Insurance & Billing
+FC|Financial class|Health Insurance & Billing
+VOB|Verification of benefits|Health Insurance & Billing
+EV|Eligibility verification|Health Insurance & Billing
+Auth|Authorization|Health Insurance & Billing
+Pre-auth|Preauthorization|Health Insurance & Billing
+Pre-cert|Precertification|Health Insurance & Billing
+Retro-auth|Retroactive authorization|Health Insurance & Billing
+Recert|Recertification|Health Insurance & Billing
+Ref|Referral|Health Insurance & Billing
+RFS|Request for service (referral)|Health Insurance & Billing
+TEFRA|Tax Equity and Fiscal Responsibility Act|Health Insurance & Billing
+BBA|Balanced Budget Act of 1997|Health Insurance & Billing
+MMA|Medicare Modernization Act of 2003|Health Insurance & Billing
+DRA|Deficit Reduction Act of 2005|Health Insurance & Billing
+MIPPA|Medicare Improvements for Patients and Providers Act|Health Insurance & Billing
+IRA|Inflation Reduction Act|Health Insurance & Billing
+FFCRA|Families First Coronavirus Response Act|Health Insurance & Billing
+CARES Act|Coronavirus Aid, Relief, and Economic Security Act|Health Insurance & Billing
+PHE|Public health emergency|Health Insurance & Billing
+OBBBA|One Big Beautiful Bill Act (2025 Medicaid and ACA changes)|Health Insurance & Billing
+NAIC|National Association of Insurance Commissioners|Health Insurance & Billing

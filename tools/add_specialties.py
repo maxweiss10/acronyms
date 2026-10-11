@@ -1,0 +1,59 @@
+#!/usr/bin/env python3
+"""Fold one or more specialty-data/*.txt files into data.js.
+
+An acronym+meaning pair that already exists (case/punctuation-insensitive) gets the new
+specialty appended to its list. A new meaning is inserted after the last existing line
+for that acronym, or appended at the end. Usage: tools/add_specialties.py file.txt ...
+"""
+import re, sys, pathlib
+root = pathlib.Path(__file__).resolve().parent.parent
+djs = root / "data.js"
+src = djs.read_text()
+m = re.search(r"const DICT = `\n(.*?)`", src, re.S)
+head, body, tail = src[:m.start(1)], m.group(1), src[m.end(1):]
+lines = [l for l in body.split("\n") if l.strip()]
+norm = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
+rows = [l.split("|") for l in lines]
+idx = {(norm(a), norm(mn)): i for i, (a, mn, s) in enumerate(rows)}
+last = {}
+for i, (a, mn, s) in enumerate(rows):
+    last[norm(a)] = i
+added = merged = bad = 0
+inserts = {}  # index -> list of new rows to place after it
+appends = []
+for f in sys.argv[1:]:
+    seen = set()
+    for ln in pathlib.Path(f).read_text().splitlines():
+        p = [x.strip() for x in ln.split("|")]
+        if len(p) != 3 or not all(p) or "`" in ln or "\\" in ln:
+            if ln.strip(): bad += 1; print("skip:", ln, file=sys.stderr)
+            continue
+        a, mn, sp = p
+        key = (norm(a), norm(mn))
+        if not key[0] or key in seen: continue
+        seen.add(key)
+        if key in idx:
+            i = idx[key]
+            if i is None:  # already newly added from another file
+                continue
+            if isinstance(i, tuple):
+                r = i[1]
+            else:
+                r = rows[i]
+            specs = r[2].split(", ")
+            if sp not in specs:
+                r[2] = ", ".join(sorted(specs + [sp])); merged += 1
+            continue
+        r = [a, mn, sp]
+        if key[0] in last:
+            inserts.setdefault(last[key[0]], []).append(r)
+        else:
+            appends.append(r)
+        idx[key] = ("new", r); added += 1
+out = []
+for i, r in enumerate(rows):
+    out.append(r)
+    out.extend(inserts.get(i, []))
+out.extend(sorted(appends, key=lambda r: r[0].lower()))
+djs.write_text(head + "\n".join("|".join(r) for r in out) + "\n" + tail)
+print(f"added {added} new meanings, tagged {merged} existing ones, skipped {bad} bad lines; total {len(out)}")

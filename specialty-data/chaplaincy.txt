@@ -1,0 +1,193 @@
+BCC|Board certified chaplain|Chaplaincy & Spiritual Care
+BCCI|Board of Chaplaincy Certification Inc|Chaplaincy & Spiritual Care
+PCHAC|Palliative Care and Hospice Advanced Certification|Chaplaincy & Spiritual Care
+ACPE|Association for Clinical Pastoral Education|Chaplaincy & Spiritual Care
+CPE|Clinical pastoral education|Chaplaincy & Spiritual Care
+CEC|Certified educator candidate (ACPE)|Chaplaincy & Spiritual Care
+IPR|Interpersonal relations group (CPE)|Chaplaincy & Spiritual Care
+MDiv|Master of Divinity|Chaplaincy & Spiritual Care
+DMin|Doctor of Ministry|Chaplaincy & Spiritual Care
+ThM|Master of Theology|Chaplaincy & Spiritual Care
+MTS|Master of Theological Studies|Chaplaincy & Spiritual Care
+EMHC|Extraordinary minister of Holy Communion|Chaplaincy & Spiritual Care
+Rev|Reverend|Chaplaincy & Spiritual Care
+Fr|Father (priest)|Chaplaincy & Spiritual Care
+Sr|Sister (religious)|Chaplaincy & Spiritual Care
+Br|Brother (religious)|Chaplaincy & Spiritual Care
+Msgr|Monsignor|Chaplaincy & Spiritual Care
+FICA|Faith, Importance, Community, Address (spiritual history)|Chaplaincy & Spiritual Care
+HOPE|Hope sources, Organized religion, Personal spirituality, Effects on care (spiritual assessment)|Chaplaincy & Spiritual Care
+SPIRIT|Spiritual belief system, Personal spirituality, Integration with community, Ritualized practices, Implications for care, Terminal events planning|Chaplaincy & Spiritual Care
+FACT|Faith, Availability, Coping, Treatment plan (spiritual assessment)|Chaplaincy & Spiritual Care
+Spiritual AIM|Spiritual Assessment and Intervention Model|Chaplaincy & Spiritual Care
+PC-7|Seven-item spiritual concerns measure for palliative care patients|Chaplaincy & Spiritual Care
+FACIT-Sp|Functional Assessment of Chronic Illness Therapy-Spiritual Well-Being|Chaplaincy & Spiritual Care
+FACIT-Sp-12|Functional Assessment of Chronic Illness Therapy-Spiritual Well-Being, 12-item|Chaplaincy & Spiritual Care
+RCOPE|Religious coping scale|Chaplaincy & Spiritual Care
+Brief RCOPE|14-item religious coping scale|Chaplaincy & Spiritual Care
+SWBS|Spiritual Well-Being Scale|Chaplaincy & Spiritual Care
+DSES|Daily Spiritual Experience Scale|Chaplaincy & Spiritual Care
+DUREL|Duke University Religion Index|Chaplaincy & Spiritual Care
+SNI|Spiritual Needs Inventory|Chaplaincy & Spiritual Care
+SDAT|Spiritual Distress Assessment Tool|Chaplaincy & Spiritual Care
+DT|Distress Thermometer|Chaplaincy & Spiritual Care
+ProQOL|Professional Quality of Life scale|Chaplaincy & Spiritual Care
+QOL|Quality of life|Chaplaincy & Spiritual Care
+R/S|Religion and spirituality|Chaplaincy & Spiritual Care
+SA|Spiritual assessment|Chaplaincy & Spiritual Care
+SH|Spiritual history|Chaplaincy & Spiritual Care
+SD|Spiritual distress|Chaplaincy & Spiritual Care
+SWB|Spiritual well-being|Chaplaincy & Spiritual Care
+SBNR|Spiritual but not religious|Chaplaincy & Spiritual Care
+RC|Roman Catholic|Chaplaincy & Spiritual Care
+RCC|Roman Catholic Church|Chaplaincy & Spiritual Care
+AOS|Anointing of the sick|Chaplaincy & Spiritual Care
+SOTS|Sacrament of the sick|Chaplaincy & Spiritual Care
+HC|Holy Communion|Chaplaincy & Spiritual Care
+EO|Eastern Orthodox|Chaplaincy & Spiritual Care
+OCA|Orthodox Church in America|Chaplaincy & Spiritual Care
+TEC|The Episcopal Church|Chaplaincy & Spiritual Care
+LDS|Latter-day Saints (Church of Jesus Christ of Latter-day Saints)|Chaplaincy & Spiritual Care
+JW|Jehovah's Witness|Chaplaincy & Spiritual Care
+SDA|Seventh-day Adventist|Chaplaincy & Spiritual Care
+COGIC|Church of God in Christ|Chaplaincy & Spiritual Care
+AME|African Methodist Episcopal|Chaplaincy & Spiritual Care
+AMEZ|African Methodist Episcopal Zion|Chaplaincy & Spiritual Care
+CME|Christian Methodist Episcopal|Chaplaincy & Spiritual Care
+UMC|United Methodist Church|Chaplaincy & Spiritual Care
+ELCA|Evangelical Lutheran Church in America|Chaplaincy & Spiritual Care
+LCMS|Lutheran Church-Missouri Synod|Chaplaincy & Spiritual Care
+WELS|Wisconsin Evangelical Lutheran Synod|Chaplaincy & Spiritual Care
+PCUSA|Presbyterian Church (U.S.A.)|Chaplaincy & Spiritual Care
+PCA|Presbyterian Church in America|Chaplaincy & Spiritual Care
+SBC|Southern Baptist Convention|Chaplaincy & Spiritual Care
+ABC|American Baptist Churches|Chaplaincy & Spiritual Care
+NBC|National Baptist Convention|Chaplaincy & Spiritual Care
+UCC|United Church of Christ|Chaplaincy & Spiritual Care
+UU|Unitarian Universalist|Chaplaincy & Spiritual Care
+AG|Assemblies of God|Chaplaincy & Spiritual Care
+UPC|United Pentecostal Church|Chaplaincy & Spiritual Care
+RCA|Reformed Church in America|Chaplaincy & Spiritual Care
+CRC|Christian Reformed Church|Chaplaincy & Spiritual Care
+EFCA|Evangelical Free Church of America|Chaplaincy & Spiritual Care
+C&MA|Christian and Missionary Alliance|Chaplaincy & Spiritual Care
+MCC|Metropolitan Community Church|Chaplaincy & Spiritual Care
+CS|Christian Science|Chaplaincy & Spiritual Care
+NOI|Nation of Islam|Chaplaincy & Spiritual Care
+SGI|Soka Gakkai International|Chaplaincy & Spiritual Care
+ISKCON|International Society for Krishna Consciousness|Chaplaincy & Spiritual Care
+EOL|End of life|Chaplaincy & Spiritual Care
+GOC|Goals of care|Chaplaincy & Spiritual Care
+ACP|Advance care planning|Chaplaincy & Spiritual Care
+SICG|Serious Illness Conversation Guide|Chaplaincy & Spiritual Care
+CMO|Comfort measures only|Chaplaincy & Spiritual Care
+CCO|Comfort care only|Chaplaincy & Spiritual Care
+BSC|Best supportive care|Chaplaincy & Spiritual Care
+DNR|Do not resuscitate|Chaplaincy & Spiritual Care
+DNI|Do not intubate|Chaplaincy & Spiritual Care
+DNAR|Do not attempt resuscitation|Chaplaincy & Spiritual Care
+DNH|Do not hospitalize|Chaplaincy & Spiritual Care
+AND|Allow natural death|Chaplaincy & Spiritual Care
+CPR|Cardiopulmonary resuscitation|Chaplaincy & Spiritual Care
+POLST|Physician Orders for Life-Sustaining Treatment|Chaplaincy & Spiritual Care
+MOLST|Medical Orders for Life-Sustaining Treatment|Chaplaincy & Spiritual Care
+MOST|Medical Orders for Scope of Treatment|Chaplaincy & Spiritual Care
+AD|Advance directive|Chaplaincy & Spiritual Care
+AHCD|Advance health care directive|Chaplaincy & Spiritual Care
+HCP|Health care proxy|Chaplaincy & Spiritual Care
+HCA|Health care agent|Chaplaincy & Spiritual Care
+DPOA-HC|Durable power of attorney for health care|Chaplaincy & Spiritual Care
+SDM|Surrogate decision maker|Chaplaincy & Spiritual Care
+NOK|Next of kin|Chaplaincy & Spiritual Care
+DMC|Decision-making capacity|Chaplaincy & Spiritual Care
+IC|Informed consent|Chaplaincy & Spiritual Care
+SJ|Substituted judgment|Chaplaincy & Spiritual Care
+BIS|Best interest standard|Chaplaincy & Spiritual Care
+TLT|Time-limited trial|Chaplaincy & Spiritual Care
+LST|Life-sustaining treatment|Chaplaincy & Spiritual Care
+LSMT|Life-sustaining medical treatment|Chaplaincy & Spiritual Care
+WLST|Withdrawal of life-sustaining treatment|Chaplaincy & Spiritual Care
+WDLST|Withdrawal of life-sustaining therapy|Chaplaincy & Spiritual Care
+TE|Terminal extubation|Chaplaincy & Spiritual Care
+CE|Compassionate extubation|Chaplaincy & Spiritual Care
+PS|Palliative sedation|Chaplaincy & Spiritual Care
+PST|Palliative sedation therapy|Chaplaincy & Spiritual Care
+ANH|Artificial nutrition and hydration|Chaplaincy & Spiritual Care
+VSED|Voluntarily stopping eating and drinking|Chaplaincy & Spiritual Care
+MAID|Medical aid in dying|Chaplaincy & Spiritual Care
+PAD|Physician aid in dying|Chaplaincy & Spiritual Care
+PAS|Physician-assisted suicide|Chaplaincy & Spiritual Care
+EOLOA|End of Life Option Act (California)|Chaplaincy & Spiritual Care
+DWD|Death with dignity|Chaplaincy & Spiritual Care
+DWDA|Death with Dignity Act (Oregon)|Chaplaincy & Spiritual Care
+PC|Palliative care|Chaplaincy & Spiritual Care
+PC|Pastoral care|Chaplaincy & Spiritual Care
+PCS|Palliative care service|Chaplaincy & Spiritual Care
+HPM|Hospice and palliative medicine|Chaplaincy & Spiritual Care
+GIP|General inpatient care (hospice level of care)|Chaplaincy & Spiritual Care
+MHB|Medicare hospice benefit|Chaplaincy & Spiritual Care
+IDT|Interdisciplinary team|Chaplaincy & Spiritual Care
+IDG|Interdisciplinary group (hospice)|Chaplaincy & Spiritual Care
+FM|Family meeting|Chaplaincy & Spiritual Care
+PFCC|Patient- and family-centered care|Chaplaincy & Spiritual Care
+HEC|Hospital ethics committee|Chaplaincy & Spiritual Care
+ECS|Ethics consultation service|Chaplaincy & Spiritual Care
+EC|Ethics consultation|Chaplaincy & Spiritual Care
+PSDA|Patient Self-Determination Act|Chaplaincy & Spiritual Care
+UDDA|Uniform Determination of Death Act|Chaplaincy & Spiritual Care
+UAGA|Uniform Anatomical Gift Act|Chaplaincy & Spiritual Care
+DDR|Dead donor rule|Chaplaincy & Spiritual Care
+BD|Brain death|Chaplaincy & Spiritual Care
+DNC|Death by neurologic criteria|Chaplaincy & Spiritual Care
+DCD|Donation after circulatory death|Chaplaincy & Spiritual Care
+DCDD|Donation after circulatory determination of death|Chaplaincy & Spiritual Care
+DBD|Donation after brain death|Chaplaincy & Spiritual Care
+NRP|Normothermic regional perfusion|Chaplaincy & Spiritual Care
+OPO|Organ procurement organization|Chaplaincy & Spiritual Care
+DSA|Donation service area|Chaplaincy & Spiritual Care
+FPA|First-person authorization (organ donation)|Chaplaincy & Spiritual Care
+DNW|Donor Network West|Chaplaincy & Spiritual Care
+OPTN|Organ Procurement and Transplantation Network|Chaplaincy & Spiritual Care
+UNOS|United Network for Organ Sharing|Chaplaincy & Spiritual Care
+PVS|Persistent vegetative state|Chaplaincy & Spiritual Care
+MCS|Minimally conscious state|Chaplaincy & Spiritual Care
+UWS|Unresponsive wakefulness syndrome|Chaplaincy & Spiritual Care
+DOC|Disorder of consciousness|Chaplaincy & Spiritual Care
+DOD|Date of death|Chaplaincy & Spiritual Care
+TOD|Time of death|Chaplaincy & Spiritual Care
+ME|Medical examiner|Chaplaincy & Spiritual Care
+OCME|Office of the Chief Medical Examiner|Chaplaincy & Spiritual Care
+FH|Funeral home|Chaplaincy & Spiritual Care
+IUFD|Intrauterine fetal demise|Chaplaincy & Spiritual Care
+NODA|No One Dies Alone|Chaplaincy & Spiritual Care
+PGD|Prolonged grief disorder|Chaplaincy & Spiritual Care
+CG|Complicated grief|Chaplaincy & Spiritual Care
+CISD|Critical incident stress debriefing|Chaplaincy & Spiritual Care
+CISM|Critical incident stress management|Chaplaincy & Spiritual Care
+PFA|Psychological first aid|Chaplaincy & Spiritual Care
+EAP|Employee assistance program|Chaplaincy & Spiritual Care
+STS|Secondary traumatic stress|Chaplaincy & Spiritual Care
+VT|Vicarious trauma|Chaplaincy & Spiritual Care
+CF|Compassion fatigue|Chaplaincy & Spiritual Care
+MI|Moral injury|Chaplaincy & Spiritual Care
+PTSD|Post-traumatic stress disorder|Chaplaincy & Spiritual Care
+SVS|Second victim syndrome|Chaplaincy & Spiritual Care
+WPV|Workplace violence|Chaplaincy & Spiritual Care
+RISE|Resilience in Stressful Events (peer support program)|Chaplaincy & Spiritual Care
+SOAP|Subjective, objective, assessment, plan|Chaplaincy & Spiritual Care
+SC|Spiritual care|Chaplaincy & Spiritual Care
+SCS|Spiritual care services|Chaplaincy & Spiritual Care
+IA|Initial assessment|Chaplaincy & Spiritual Care
+PRN|As needed (visit on request)|Chaplaincy & Spiritual Care
+f/u|Follow-up|Chaplaincy & Spiritual Care
+pt|Patient|Chaplaincy & Spiritual Care
+fam|Family|Chaplaincy & Spiritual Care
+s/p|Status post|Chaplaincy & Spiritual Care
+r/t|Related to|Chaplaincy & Spiritual Care
+d/t|Due to|Chaplaincy & Spiritual Care
+w/|With|Chaplaincy & Spiritual Care
+c/o|Complains of|Chaplaincy & Spiritual Care
+TC|Telephone call|Chaplaincy & Spiritual Care
+VM|Voicemail|Chaplaincy & Spiritual Care
+N/A|Not applicable|Chaplaincy & Spiritual Care
+mtg|Meeting|Chaplaincy & Spiritual Care

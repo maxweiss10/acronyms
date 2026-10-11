@@ -1,0 +1,617 @@
+DPM|Doctor of podiatric medicine|Podiatry
+PMSR|Podiatric medicine and surgery residency|Podiatry
+RRA|Reconstructive rearfoot and ankle (added credential)|Podiatry
+PMSR/RRA|Podiatric medicine and surgery residency with reconstructive rearfoot and ankle credential|Podiatry
+FACFAS|Fellow of the American College of Foot and Ankle Surgeons|Podiatry
+AACFAS|Associate of the American College of Foot and Ankle Surgeons|Podiatry
+ABFAS|American Board of Foot and Ankle Surgery (board certification)|Podiatry
+ABPM|American Board of Podiatric Medicine (board certification)|Podiatry
+DABFAS|Diplomate of the American Board of Foot and Ankle Surgery|Podiatry
+DABPM|Diplomate of the American Board of Podiatric Medicine|Podiatry
+CWS|Certified wound specialist|Podiatry
+CWSP|Certified wound specialist physician|Podiatry
+CWCA|Certified wound care associate|Podiatry
+DFU|Diabetic foot ulcer|Podiatry
+DFI|Diabetic foot infection|Podiatry
+DFO|Diabetic foot osteomyelitis|Podiatry
+DF|Diabetic foot|Podiatry
+DM|Diabetes mellitus|Podiatry
+T1DM|Type 1 diabetes mellitus|Podiatry
+T2DM|Type 2 diabetes mellitus|Podiatry
+IDDM|Insulin-dependent diabetes mellitus|Podiatry
+NIDDM|Non-insulin-dependent diabetes mellitus|Podiatry
+A1c|Hemoglobin A1c (glycated hemoglobin)|Podiatry
+HbA1c|Hemoglobin A1c (glycated hemoglobin)|Podiatry
+UT|University of Texas (diabetic wound classification)|Podiatry
+WIfI|Wound, ischemia, and foot infection (SVS threatened limb classification)|Podiatry
+IDSA|Infectious Diseases Society of America (diabetic foot infection classification)|Podiatry
+IWGDF|International Working Group on the Diabetic Foot (guideline and infection classification)|Podiatry
+SINBAD|Site, ischemia, neuropathy, bacterial infection, area, depth (diabetic foot ulcer score)|Podiatry
+PEDIS|Perfusion, extent, depth, infection, sensation (diabetic foot ulcer classification)|Podiatry
+PAD|Peripheral arterial disease|Podiatry
+PVD|Peripheral vascular disease|Podiatry
+ASO|Arteriosclerosis obliterans|Podiatry
+ABI|Ankle-brachial index|Podiatry
+TBI|Toe-brachial index|Podiatry
+TP|Toe pressure|Podiatry
+TcPO2|Transcutaneous oxygen pressure|Podiatry
+TCOM|Transcutaneous oximetry|Podiatry
+SPP|Skin perfusion pressure|Podiatry
+PVR|Pulse volume recording|Podiatry
+ADUS|Arterial duplex ultrasound|Podiatry
+VDUS|Venous duplex ultrasound|Podiatry
+NIVS|Noninvasive vascular studies|Podiatry
+DP|Dorsalis pedis (artery or pulse)|Podiatry
+PT|Posterior tibial (artery, pulse, or tendon)|Podiatry
+PT|Physical therapy|Podiatry
+DP/PT|Dorsalis pedis and posterior tibial pulses|Podiatry
+CRT|Capillary refill time|Podiatry
+PN|Peripheral neuropathy|Podiatry
+DPN|Diabetic peripheral neuropathy|Podiatry
+DSPN|Distal symmetric polyneuropathy|Podiatry
+LOPS|Loss of protective sensation|Podiatry
+SWMT|Semmes-Weinstein monofilament test|Podiatry
+SWM|Semmes-Weinstein monofilament|Podiatry
+10-g|10-gram monofilament|Podiatry
+VPT|Vibration perception threshold|Podiatry
+NCS|Nerve conduction study|Podiatry
+EMG|Electromyography|Podiatry
+EMG/NCS|Electromyography and nerve conduction study|Podiatry
+CIPN|Chemotherapy-induced peripheral neuropathy|Podiatry
+SFN|Small fiber neuropathy|Podiatry
+HMSN|Hereditary motor and sensory neuropathy|Podiatry
+CMT|Charcot-Marie-Tooth disease|Podiatry
+CN|Charcot neuroarthropathy|Podiatry
+CNA|Charcot neuroarthropathy|Podiatry
+CNO|Charcot neuro-osteoarthropathy|Podiatry
+TCC|Total contact cast|Podiatry
+iTCC|Instant total contact cast|Podiatry
+CROW|Charcot restraint orthotic walker|Podiatry
+RCW|Removable cast walker|Podiatry
+CAM|Controlled ankle motion (boot or walker)|Podiatry
+HBOT|Hyperbaric oxygen therapy|Podiatry
+HBO|Hyperbaric oxygen|Podiatry
+NPWT|Negative pressure wound therapy|Podiatry
+NPWTi|Negative pressure wound therapy with instillation|Podiatry
+NPWTi-d|Negative pressure wound therapy with instillation and dwell|Podiatry
+VAC|Vacuum-assisted closure|Podiatry
+ciNPT|Closed incision negative pressure therapy|Podiatry
+L x W x D|Length by width by depth (wound dimensions)|Podiatry
+LxWxD|Length by width by depth (wound dimensions)|Podiatry
+PTB|Probe to bone|Podiatry
+PTB|Patellar tendon bearing|Podiatry
+OM|Osteomyelitis|Podiatry
+OM|Onychomycosis|Podiatry
+ESR|Erythrocyte sedimentation rate|Podiatry
+CRP|C-reactive protein|Podiatry
+ESR/CRP|Erythrocyte sedimentation rate and C-reactive protein|Podiatry
+WBC|White blood cell (count)|Podiatry
+MRI|Magnetic resonance imaging|Podiatry
+CT|Computed tomography|Podiatry
+XR|X-ray (radiograph)|Podiatry
+AP|Anteroposterior (view)|Podiatry
+AP/LAT|Anteroposterior and lateral (views)|Podiatry
+MO|Medial oblique (view)|Podiatry
+LO|Lateral oblique (view)|Podiatry
+US|Ultrasound|Podiatry
+MSK US|Musculoskeletal ultrasound|Podiatry
+Bx|Biopsy|Podiatry
+Cx|Culture|Podiatry
+C&S|Culture and sensitivity|Podiatry
+GS|Gram stain|Podiatry
+AFB|Acid-fast bacilli|Podiatry
+TMA|Transmetatarsal amputation|Podiatry
+BKA|Below-knee amputation|Podiatry
+AKA|Above-knee amputation|Podiatry
+TTA|Transtibial amputation|Podiatry
+TFA|Transfemoral amputation|Podiatry
+KD|Knee disarticulation|Podiatry
+LEA|Lower extremity amputation|Podiatry
+PFA|Partial foot amputation|Podiatry
+I&D|Incision and drainage|Podiatry
+Deb|Debridement|Podiatry
+CTP|Cellular and/or tissue-based product|Podiatry
+BLCC|Bilayered living cellular construct|Podiatry
+DRT|Dermal regeneration template|Podiatry
+ADM|Acellular dermal matrix|Podiatry
+ECM|Extracellular matrix|Podiatry
+SIS|Small intestinal submucosa|Podiatry
+dHACM|Dehydrated human amnion/chorion membrane|Podiatry
+HSE|Human skin equivalent|Podiatry
+STSG|Split-thickness skin graft|Podiatry
+FTSG|Full-thickness skin graft|Podiatry
+DACC|Dialkylcarbamoyl chloride (bacteria-binding dressing)|Podiatry
+PHMB|Polyhexamethylene biguanide|Podiatry
+PDGF|Platelet-derived growth factor|Podiatry
+rhPDGF|Recombinant human platelet-derived growth factor|Podiatry
+EGF|Epidermal growth factor|Podiatry
+PRP|Platelet-rich plasma|Podiatry
+HA|Hyaluronic acid|Podiatry
+HA|Hallux abductus|Podiatry
+CMC|Carboxymethylcellulose|Podiatry
+CVI|Chronic venous insufficiency|Podiatry
+VI|Venous insufficiency|Podiatry
+VLU|Venous leg ulcer|Podiatry
+VSU|Venous stasis ulcer|Podiatry
+ALU|Arterial leg ulcer|Podiatry
+AU|Arterial ulcer|Podiatry
+PU|Pressure ulcer|Podiatry
+PI|Pressure injury|Podiatry
+PrU|Pressure ulcer|Podiatry
+DTI|Deep tissue injury|Podiatry
+DTPI|Deep tissue pressure injury|Podiatry
+NPIAP|National Pressure Injury Advisory Panel (staging)|Podiatry
+NPUAP|National Pressure Ulcer Advisory Panel (staging)|Podiatry
+MASD|Moisture-associated skin damage|Podiatry
+IAD|Incontinence-associated dermatitis|Podiatry
+MARSI|Medical adhesive-related skin injury|Podiatry
+SAP|Superabsorbent polymer (dressing)|Podiatry
+MMP|Matrix metalloproteinase|Podiatry
+TIMP|Tissue inhibitor of metalloproteinase|Podiatry
+TIME|Tissue, infection/inflammation, moisture, edge (wound bed preparation)|Podiatry
+NERDS|Nonhealing, exudate, red friable tissue, debris, smell (superficial infection signs)|Podiatry
+STONEES|Size, temperature, os (bone), new breakdown, exudate, erythema, smell (deep infection signs)|Podiatry
+WBP|Wound bed preparation|Podiatry
+BWAT|Bates-Jensen wound assessment tool|Podiatry
+PUSH|Pressure ulcer scale for healing|Podiatry
+PAR|Percent area reduction|Podiatry
+ONM|Onychomycosis|Podiatry
+DLSO|Distal lateral subungual onychomycosis|Podiatry
+PSO|Proximal subungual onychomycosis|Podiatry
+WSO|White superficial onychomycosis|Podiatry
+TDO|Total dystrophic onychomycosis|Podiatry
+KOH|Potassium hydroxide (preparation)|Podiatry
+PAS|Periodic acid-Schiff (stain)|Podiatry
+IGTN|Ingrown toenail|Podiatry
+IGN|Ingrown nail|Podiatry
+P&A|Phenol and alcohol (matrixectomy)|Podiatry
+PNA|Partial nail avulsion|Podiatry
+TNA|Total nail avulsion|Podiatry
+HPK|Hyperkeratosis|Podiatry
+IPK|Intractable plantar keratosis|Podiatry
+HD|Heloma durum (hard corn)|Podiatry
+HD|Hemodialysis|Podiatry
+HM|Heloma molle (soft corn)|Podiatry
+HV|Hallux valgus|Podiatry
+TP|Tinea pedis|Podiatry
+TU|Tinea unguium|Podiatry
+VP|Verruca plantaris (plantar wart)|Podiatry
+HPV|Human papillomavirus|Podiatry
+PK|Porokeratosis|Podiatry
+PPK|Palmoplantar keratoderma|Podiatry
+SCC|Squamous cell carcinoma|Podiatry
+BCC|Basal cell carcinoma|Podiatry
+ALM|Acral lentiginous melanoma|Podiatry
+MM|Malignant melanoma|Podiatry
+PPP|Palmoplantar pustulosis|Podiatry
+STJ|Subtalar joint|Podiatry
+MTJ|Midtarsal joint|Podiatry
+MPJ|Metatarsophalangeal joint|Podiatry
+MTPJ|Metatarsophalangeal joint|Podiatry
+MTP|Metatarsophalangeal (joint)|Podiatry
+IPJ|Interphalangeal joint|Podiatry
+PIPJ|Proximal interphalangeal joint|Podiatry
+DIPJ|Distal interphalangeal joint|Podiatry
+PIP|Proximal interphalangeal (joint)|Podiatry
+DIP|Distal interphalangeal (joint)|Podiatry
+TMT|Tarsometatarsal (joint)|Podiatry
+TMTJ|Tarsometatarsal joint|Podiatry
+TNJ|Talonavicular joint|Podiatry
+TN|Talonavicular|Podiatry
+TN|Tibial nerve|Podiatry
+CCJ|Calcaneocuboid joint|Podiatry
+CC|Calcaneocuboid|Podiatry
+NCJ|Naviculocuneiform joint|Podiatry
+NC|Naviculocuneiform|Podiatry
+TCJ|Talocrural joint|Podiatry
+AJ|Ankle joint|Podiatry
+MT|Metatarsal|Podiatry
+1st MT|First metatarsal|Podiatry
+5th MT|Fifth metatarsal|Podiatry
+MTH|Metatarsal head|Podiatry
+HAV|Hallux abducto valgus|Podiatry
+HL|Hallux limitus|Podiatry
+HR|Hallux rigidus|Podiatry
+FHL|Functional hallux limitus|Podiatry
+FHL|Flexor hallucis longus|Podiatry
+FHB|Flexor hallucis brevis|Podiatry
+EHL|Extensor hallucis longus|Podiatry
+EHB|Extensor hallucis brevis|Podiatry
+EDL|Extensor digitorum longus|Podiatry
+EDB|Extensor digitorum brevis|Podiatry
+FDL|Flexor digitorum longus|Podiatry
+FDB|Flexor digitorum brevis|Podiatry
+ADQ|Abductor digiti quinti|Podiatry
+ADM|Abductor digiti minimi|Podiatry
+AbH|Abductor hallucis|Podiatry
+AddH|Adductor hallucis|Podiatry
+PL|Peroneus longus|Podiatry
+PB|Peroneus brevis|Podiatry
+TA|Tibialis anterior|Podiatry
+TA|Tendo Achillis (Achilles tendon)|Podiatry
+TP|Tibialis posterior|Podiatry
+PTT|Posterior tibial tendon|Podiatry
+PTTD|Posterior tibial tendon dysfunction|Podiatry
+AAFD|Adult-acquired flatfoot deformity|Podiatry
+PCFD|Progressive collapsing foot deformity|Podiatry
+PP|Pes planus|Podiatry
+PPV|Pes planovalgus|Podiatry
+PC|Pes cavus|Podiatry
+PCV|Pes cavovarus|Podiatry
+FFF|Flexible flatfoot|Podiatry
+RFF|Rigid flatfoot|Podiatry
+TAL|Tendo Achillis lengthening|Podiatry
+PTAL|Percutaneous tendo Achillis lengthening|Podiatry
+GR|Gastrocnemius recession|Podiatry
+GSR|Gastrocnemius-soleus recession|Podiatry
+RCSP|Resting calcaneal stance position|Podiatry
+NCSP|Neutral calcaneal stance position|Podiatry
+STJN|Subtalar joint neutral|Podiatry
+FF|Forefoot|Podiatry
+MF|Midfoot|Podiatry
+RF|Rearfoot|Podiatry
+HF|Hindfoot|Podiatry
+FFV|Forefoot varus|Podiatry
+FFVal|Forefoot valgus|Podiatry
+RFV|Rearfoot varus|Podiatry
+ROM|Range of motion|Podiatry
+AROM|Active range of motion|Podiatry
+PROM|Passive range of motion|Podiatry
+FROM|Full range of motion|Podiatry
+DF|Dorsiflexion|Podiatry
+PF|Plantarflexion|Podiatry
+PF|Plantar fasciitis|Podiatry
+INV|Inversion|Podiatry
+EV|Eversion|Podiatry
+ABD|Abduction|Podiatry
+ADD|Adduction|Podiatry
+IR|Internal rotation|Podiatry
+ER|External rotation|Podiatry
+MMT|Manual muscle testing|Podiatry
+IMA|Intermetatarsal angle|Podiatry
+IM angle|Intermetatarsal angle|Podiatry
+HAA|Hallux abductus angle|Podiatry
+HIA|Hallux interphalangeus angle|Podiatry
+HVA|Hallux valgus angle|Podiatry
+DMAA|Distal metatarsal articular angle|Podiatry
+PASA|Proximal articular set angle|Podiatry
+DASA|Distal articular set angle|Podiatry
+TSP|Tibial sesamoid position|Podiatry
+MAA|Metatarsus adductus angle|Podiatry
+CIA|Calcaneal inclination angle|Podiatry
+CP|Calcaneal pitch|Podiatry
+TCA|Talocalcaneal angle|Podiatry
+TDA|Talar declination angle|Podiatry
+ADTA|Anterior distal tibial angle|Podiatry
+LDTA|Lateral distal tibial angle|Podiatry
+TC|Tarsal coalition|Podiatry
+TC|Talocalcaneal|Podiatry
+HS|Heel spur|Podiatry
+HSS|Heel spur syndrome|Podiatry
+PHP|Plantar heel pain|Podiatry
+ITCN|Inferior calcaneal nerve|Podiatry
+LPN|Lateral plantar nerve|Podiatry
+MPN|Medial plantar nerve|Podiatry
+MCN|Medial calcaneal nerve|Podiatry
+FBLPN|First branch of the lateral plantar nerve|Podiatry
+TTS|Tarsal tunnel syndrome|Podiatry
+ATTS|Anterior tarsal tunnel syndrome|Podiatry
+PTN|Posterior tibial nerve|Podiatry
+DPN|Deep peroneal nerve|Podiatry
+SPN|Superficial peroneal nerve|Podiatry
+CPN|Common peroneal nerve|Podiatry
+IDN|Intermetatarsal (interdigital) neuroma|Podiatry
+IMN|Intermetatarsal neuroma|Podiatry
+MTSS|Medial tibial stress syndrome|Podiatry
+NSF|Navicular stress fracture|Podiatry
+Fx|Fracture|Podiatry
+OCD|Osteochondral defect|Podiatry
+OCD|Osteochondritis dissecans|Podiatry
+OLT|Osteochondral lesion of the talus|Podiatry
+OCL|Osteochondral lesion|Podiatry
+AVN|Avascular necrosis|Podiatry
+ON|Osteonecrosis|Podiatry
+ATR|Achilles tendon rupture|Podiatry
+AT|Achilles tendon|Podiatry
+AT|Achilles tendinopathy|Podiatry
+IAT|Insertional Achilles tendinopathy|Podiatry
+NIAT|Non-insertional Achilles tendinopathy|Podiatry
+RCB|Retrocalcaneal bursitis|Podiatry
+ATFL|Anterior talofibular ligament|Podiatry
+CFL|Calcaneofibular ligament|Podiatry
+PTFL|Posterior talofibular ligament|Podiatry
+AITFL|Anterior inferior tibiofibular ligament|Podiatry
+PITFL|Posterior inferior tibiofibular ligament|Podiatry
+LAS|Lateral ankle sprain|Podiatry
+CAI|Chronic ankle instability|Podiatry
+CLAI|Chronic lateral ankle instability|Podiatry
+MDCO|Medial displacement calcaneal osteotomy|Podiatry
+MCO|Medializing calcaneal osteotomy|Podiatry
+LCL|Lateral column lengthening|Podiatry
+LCL|Lateral collateral ligament|Podiatry
+FDL transfer|Flexor digitorum longus tendon transfer|Podiatry
+SPLATT|Split anterior tibial tendon transfer|Podiatry
+TTC|Tibiotalocalcaneal (arthrodesis)|Podiatry
+TTCA|Tibiotalocalcaneal arthrodesis|Podiatry
+TAR|Total ankle replacement|Podiatry
+TAA|Total ankle arthroplasty|Podiatry
+STJA|Subtalar joint arthrodesis|Podiatry
+1st MTPJ fusion|First metatarsophalangeal joint arthrodesis|Podiatry
+HT|Hammertoe|Podiatry
+BG|Bone graft|Podiatry
+ICBG|Iliac crest bone graft|Podiatry
+DBM|Demineralized bone matrix|Podiatry
+BMP|Bone morphogenetic protein|Podiatry
+rhBMP-2|Recombinant human bone morphogenetic protein 2|Podiatry
+BMA|Bone marrow aspirate|Podiatry
+BMAC|Bone marrow aspirate concentrate|Podiatry
+BS|Bone stimulator|Podiatry
+LIPUS|Low-intensity pulsed ultrasound|Podiatry
+PEMF|Pulsed electromagnetic field|Podiatry
+ESWT|Extracorporeal shock wave therapy|Podiatry
+ORIF|Open reduction and internal fixation|Podiatry
+CRIF|Closed reduction and internal fixation|Podiatry
+CRPP|Closed reduction and percutaneous pinning|Podiatry
+ex-fix|External fixator|Podiatry
+EF|External fixation|Podiatry
+IMN|Intramedullary nail|Podiatry
+IM nail|Intramedullary nail|Podiatry
+K-wire|Kirschner wire|Podiatry
+KW|Kirschner wire|Podiatry
+HWR|Hardware removal|Podiatry
+ROH|Removal of hardware|Podiatry
+MUA|Manipulation under anesthesia|Podiatry
+MIS|Minimally invasive surgery|Podiatry
+MICA|Minimally invasive chevron and Akin|Podiatry
+Fluoro|Fluoroscopy|Podiatry
+C-arm|Mobile fluoroscopy unit|Podiatry
+MAC|Monitored anesthesia care|Podiatry
+GA|General anesthesia|Podiatry
+PNB|Peripheral nerve block|Podiatry
+RA|Regional anesthesia|Podiatry
+RA|Rheumatoid arthritis|Podiatry
+LA|Local anesthesia|Podiatry
+POS|Post-op shoe|Podiatry
+PS|Posterior splint|Podiatry
+SLC|Short leg cast|Podiatry
+SLWC|Short leg walking cast|Podiatry
+LLC|Long leg cast|Podiatry
+NWB|Non-weight-bearing|Podiatry
+PWB|Partial weight-bearing|Podiatry
+WB|Weight-bearing|Podiatry
+WBAT|Weight-bearing as tolerated|Podiatry
+FWB|Full weight-bearing|Podiatry
+TDWB|Touch-down weight-bearing|Podiatry
+TTWB|Toe-touch weight-bearing|Podiatry
+PRAFO|Pressure relief ankle-foot orthosis|Podiatry
+SACH|Solid ankle cushion heel|Podiatry
+UCBL|University of California Biomechanics Laboratory (orthosis)|Podiatry
+CMO|Custom molded orthotics|Podiatry
+FO|Foot orthosis|Podiatry
+CFO|Custom foot orthosis|Podiatry
+OTC|Over the counter|Podiatry
+AFO|Ankle-foot orthosis|Podiatry
+PLS|Posterior leaf spring (ankle-foot orthosis)|Podiatry
+PLS AFO|Posterior leaf spring ankle-foot orthosis|Podiatry
+SMO|Supramalleolar orthosis|Podiatry
+DAFO|Dynamic ankle-foot orthosis|Podiatry
+GRAFO|Ground reaction ankle-foot orthosis|Podiatry
+Met pad|Metatarsal pad|Podiatry
+HL|Heel lift|Podiatry
+RB|Rocker bottom (sole or deformity)|Podiatry
+EDS|Extra-depth shoes|Podiatry
+TSB|Therapeutic Shoe Bill|Podiatry
+A5500|Diabetic shoe, depth inlay (HCPCS)|Podiatry
+A5501|Diabetic shoe, custom molded (HCPCS)|Podiatry
+A5512|Diabetic insert, prefabricated heat-molded (HCPCS)|Podiatry
+A5513|Diabetic insert, custom molded (HCPCS)|Podiatry
+A5514|Diabetic insert, custom molded, CAD/CAM (HCPCS)|Podiatry
+HCPCS|Healthcare Common Procedure Coding System|Podiatry
+L-code|HCPCS Level II orthotic and prosthetic code|Podiatry
+L codes|HCPCS Level II orthotic and prosthetic codes|Podiatry
+DME|Durable medical equipment|Podiatry
+DMEPOS|Durable medical equipment, prosthetics, orthotics, and supplies|Podiatry
+CLI|Critical limb ischemia|Podiatry
+CLTI|Chronic limb-threatening ischemia|Podiatry
+ALI|Acute limb ischemia|Podiatry
+IC|Intermittent claudication|Podiatry
+SVS|Society for Vascular Surgery (WIfI classification)|Podiatry
+GLASS|Global limb anatomic staging system|Podiatry
+TASC|TransAtlantic Inter-Society Consensus (lesion classification)|Podiatry
+Angio|Angiography|Podiatry
+CTA|Computed tomography angiography|Podiatry
+MRA|Magnetic resonance angiography|Podiatry
+DSA|Digital subtraction angiography|Podiatry
+PTA|Percutaneous transluminal angioplasty|Podiatry
+EVR|Endovascular revascularization|Podiatry
+Revasc|Revascularization|Podiatry
+Fem-pop|Femoropopliteal (bypass)|Podiatry
+Fem-tib|Femorotibial (bypass)|Podiatry
+SFA|Superficial femoral artery|Podiatry
+CFA|Common femoral artery|Podiatry
+ATA|Anterior tibial artery|Podiatry
+PTA|Posterior tibial artery|Podiatry
+TPT|Tibioperoneal trunk|Podiatry
+AT|Anterior tibial (artery)|Podiatry
+LE|Lower extremity|Podiatry
+BLE|Bilateral lower extremities|Podiatry
+LLE|Left lower extremity|Podiatry
+RLE|Right lower extremity|Podiatry
+UE|Upper extremity|Podiatry
+NHW|Non-healing wound|Podiatry
+LS|Limb salvage|Podiatry
+AFS|Amputation-free survival|Podiatry
+MALE|Major adverse limb event|Podiatry
+NSTI|Necrotizing soft tissue infection|Podiatry
+NF|Necrotizing fasciitis|Podiatry
+Nec fasc|Necrotizing fasciitis|Podiatry
+LRINEC|Laboratory risk indicator for necrotizing fasciitis|Podiatry
+SSTI|Skin and soft tissue infection|Podiatry
+ABSSSI|Acute bacterial skin and skin structure infection|Podiatry
+SSI|Surgical site infection|Podiatry
+MRSA|Methicillin-resistant Staphylococcus aureus|Podiatry
+MSSA|Methicillin-sensitive Staphylococcus aureus|Podiatry
+PsA|Pseudomonas aeruginosa|Podiatry
+PsA|Psoriatic arthritis|Podiatry
+PA|Pseudomonas aeruginosa|Podiatry
+GAS|Group A Streptococcus|Podiatry
+GBS|Group B Streptococcus|Podiatry
+GPC|Gram-positive cocci|Podiatry
+GNR|Gram-negative rods|Podiatry
+GNB|Gram-negative bacilli|Podiatry
+Abx|Antibiotics|Podiatry
+ABX|Antibiotics|Podiatry
+OPAT|Outpatient parenteral antimicrobial therapy|Podiatry
+PICC|Peripherally inserted central catheter|Podiatry
+IV abx|Intravenous antibiotics|Podiatry
+PO abx|Oral antibiotics|Podiatry
+ID|Infectious disease (consult)|Podiatry
+Td|Tetanus and diphtheria (toxoid booster)|Podiatry
+DVT|Deep vein thrombosis|Podiatry
+PE|Physical exam|Podiatry
+Ppx|Prophylaxis|Podiatry
+DVT ppx|Deep vein thrombosis prophylaxis|Podiatry
+LMWH|Low molecular weight heparin|Podiatry
+ASA|Aspirin|Podiatry
+ASA|American Society of Anesthesiologists (physical status class)|Podiatry
+SCD|Sequential compression device|Podiatry
+TED|Thromboembolic deterrent (stockings)|Podiatry
+PT/OT|Physical therapy and occupational therapy|Podiatry
+OT|Occupational therapy|Podiatry
+WOC|Wound, ostomy, and continence (nurse)|Podiatry
+WOCN|Wound, ostomy, and continence nurse|Podiatry
+CKD|Chronic kidney disease|Podiatry
+ESRD|End-stage renal disease|Podiatry
+CHF|Congestive heart failure|Podiatry
+OA|Osteoarthritis|Podiatry
+DJD|Degenerative joint disease|Podiatry
+PTOA|Post-traumatic osteoarthritis|Podiatry
+CPPD|Calcium pyrophosphate deposition (disease)|Podiatry
+MSU|Monosodium urate (crystals)|Podiatry
+SLE|Systemic lupus erythematosus|Podiatry
+SSc|Systemic sclerosis|Podiatry
+CTD|Connective tissue disease|Podiatry
+CRPS|Complex regional pain syndrome|Podiatry
+RSD|Reflex sympathetic dystrophy|Podiatry
+LE edema|Lower extremity edema|Podiatry
+BLE edema|Bilateral lower extremity edema|Podiatry
+LD|Lymphedema|Podiatry
+CVD|Chronic venous disease|Podiatry
+CEAP|Clinical, etiologic, anatomic, pathophysiologic (venous classification)|Podiatry
+VV|Varicose veins|Podiatry
+SVT|Superficial vein thrombosis|Podiatry
+PTS|Post-thrombotic syndrome|Podiatry
+LDS|Lipodermatosclerosis|Podiatry
+NLD|Necrobiosis lipoidica diabeticorum|Podiatry
+PG|Pyoderma gangrenosum|Podiatry
+CP|Cerebral palsy|Podiatry
+CTEV|Congenital talipes equinovarus|Podiatry
+TEV|Talipes equinovarus|Podiatry
+MA|Metatarsus adductus|Podiatry
+MPV|Metatarsus primus varus|Podiatry
+CV|Calcaneovalgus|Podiatry
+CVT|Congenital vertical talus|Podiatry
+AN|Accessory navicular|Podiatry
+LLD|Limb length discrepancy|Podiatry
+LLI|Leg length inequality|Podiatry
+SOAP|Subjective, objective, assessment, plan|Podiatry
+A/P|Assessment and plan|Podiatry
+A&P|Assessment and plan|Podiatry
+f/u|Follow up|Podiatry
+F/U|Follow up|Podiatry
+RTC|Return to clinic|Podiatry
+RTO|Return to office|Podiatry
+s/p|Status post|Podiatry
+S/P|Status post|Podiatry
+POD|Postoperative day|Podiatry
+POD#|Postoperative day number|Podiatry
+DOS|Date of surgery|Podiatry
+DOI|Date of injury|Podiatry
+pre-op|Preoperative|Podiatry
+post-op|Postoperative|Podiatry
+ASC|Ambulatory surgery center|Podiatry
+D/C|Discharge|Podiatry
+D/C|Discontinue|Podiatry
+DC|Discharge|Podiatry
+DC|Discontinue|Podiatry
+L|Left|Podiatry
+R|Right|Podiatry
+B|Bilateral|Podiatry
+B/L|Bilateral|Podiatry
+Bilat|Bilateral|Podiatry
+LF|Left foot|Podiatry
+RF|Right foot|Podiatry
+F&A|Foot and ankle|Podiatry
+Prox|Proximal|Podiatry
+Dist|Distal|Podiatry
+Med|Medial|Podiatry
+Lat|Lateral|Podiatry
+Ant|Anterior|Podiatry
+Post|Posterior|Podiatry
+Plant|Plantar|Podiatry
+Dors|Dorsal|Podiatry
+TTP|Tender to palpation|Podiatry
+NTTP|Non-tender to palpation|Podiatry
+NVI|Neurovascularly intact|Podiatry
+NV|Neurovascular|Podiatry
+NVS|Neurovascular status|Podiatry
+CMS|Circulation, motor, sensation|Podiatry
+SILT|Sensation intact to light touch|Podiatry
+DTR|Deep tendon reflex|Podiatry
+WNL|Within normal limits|Podiatry
+NAD|No acute distress|Podiatry
+CDI|Clean, dry, intact|Podiatry
+C/D/I|Clean, dry, intact|Podiatry
+CD&I|Clean, dry, intact|Podiatry
+S/S|Signs and symptoms|Podiatry
+w/u|Workup|Podiatry
+r/o|Rule out|Podiatry
+R/O|Rule out|Podiatry
+BG|Blood glucose|Podiatry
+FSBG|Fingerstick blood glucose|Podiatry
+POC|Point of care|Podiatry
+RF|Rheumatoid factor|Podiatry
+Alb|Albumin|Podiatry
+Prealb|Prealbumin|Podiatry
+NSAID|Nonsteroidal anti-inflammatory drug|Podiatry
+NSAIDs|Nonsteroidal anti-inflammatory drugs|Podiatry
+APAP|Acetaminophen|Podiatry
+CSI|Corticosteroid injection|Podiatry
+IA|Intra-articular (injection)|Podiatry
+IL|Intralesional (injection)|Podiatry
+AB|Ankle block|Podiatry
+DB|Digital block|Podiatry
+RICE|Rest, ice, compression, elevation|Podiatry
+PRICE|Protection, rest, ice, compression, elevation|Podiatry
+HEP|Home exercise program|Podiatry
+TENS|Transcutaneous electrical nerve stimulation|Podiatry
+PT eval|Physical therapy evaluation|Podiatry
+AD|Assistive device|Podiatry
+RW|Rolling walker|Podiatry
+FWW|Front-wheeled walker|Podiatry
+WC|Wheelchair|Podiatry
+SPC|Single-point cane|Podiatry
+ADLs|Activities of daily living|Podiatry
+IADLs|Instrumental activities of daily living|Podiatry
+QOL|Quality of life|Podiatry
+VAS|Visual analog scale|Podiatry
+NRS|Numeric rating scale|Podiatry
+FAAM|Foot and ankle ability measure|Podiatry
+FAOS|Foot and ankle outcome score|Podiatry
+AOFAS score|American Orthopaedic Foot and Ankle Society score|Podiatry
+MOXFQ|Manchester-Oxford foot questionnaire|Podiatry
+FFI|Foot function index|Podiatry
+FPI|Foot posture index|Podiatry
+PROMIS|Patient-reported outcomes measurement information system|Podiatry
+HS|Heel strike|Podiatry
+TO|Toe off|Podiatry
+MS|Midstance|Podiatry
+IC|Initial contact|Podiatry
+BOS|Base of support|Podiatry
+GRF|Ground reaction force|Podiatry
+COP|Center of pressure|Podiatry
+PPP|Peak plantar pressure|Podiatry
+EVA|Ethylene vinyl acetate (orthotic material)|Podiatry
+TPE|Thermoplastic elastomer|Podiatry
+CF|Carbon fiber|Podiatry
+CFP|Carbon fiber plate|Podiatry

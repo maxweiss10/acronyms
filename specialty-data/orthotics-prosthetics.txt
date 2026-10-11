@@ -1,0 +1,410 @@
+CPO|Certified prosthetist orthotist|Orthotics & Prosthetics
+CO|Certified orthotist|Orthotics & Prosthetics
+CP|Certified prosthetist|Orthotics & Prosthetics
+CPed|Certified pedorthist|Orthotics & Prosthetics
+LPO|Licensed prosthetist orthotist|Orthotics & Prosthetics
+LO|Licensed orthotist|Orthotics & Prosthetics
+LP|Licensed prosthetist|Orthotics & Prosthetics
+BOCO|Board of Certification orthotist|Orthotics & Prosthetics
+BOCP|Board of Certification prosthetist|Orthotics & Prosthetics
+BOCPO|Board of Certification prosthetist orthotist|Orthotics & Prosthetics
+BOC|Board of Certification/Accreditation (O&P credentialing body)|Orthotics & Prosthetics
+ABC|American Board for Certification in Orthotics, Prosthetics and Pedorthics|Orthotics & Prosthetics
+CFo|Certified fitter of orthotics|Orthotics & Prosthetics
+CFm|Certified fitter of mastectomy|Orthotics & Prosthetics
+CTO|Certified technician in orthotics|Orthotics & Prosthetics
+CTP|Certified technician in prosthetics|Orthotics & Prosthetics
+CTPO|Certified technician in prosthetics and orthotics|Orthotics & Prosthetics
+MSPO|Master of Science in prosthetics and orthotics|Orthotics & Prosthetics
+NCOPE|National Commission on Orthotic and Prosthetic Education|Orthotics & Prosthetics
+O&P|Orthotics and prosthetics|Orthotics & Prosthetics
+P&O|Prosthetics and orthotics|Orthotics & Prosthetics
+AFO|Ankle-foot orthosis|Orthotics & Prosthetics
+SAFO|Solid ankle-foot orthosis|Orthotics & Prosthetics
+HAFO|Hinged ankle-foot orthosis|Orthotics & Prosthetics
+AAFO|Articulated ankle-foot orthosis|Orthotics & Prosthetics
+PLS|Posterior leaf spring (ankle-foot orthosis)|Orthotics & Prosthetics
+PLS AFO|Posterior leaf spring ankle-foot orthosis|Orthotics & Prosthetics
+GRAFO|Ground reaction ankle-foot orthosis|Orthotics & Prosthetics
+FRAFO|Floor reaction ankle-foot orthosis|Orthotics & Prosthetics
+FRO|Floor reaction orthosis|Orthotics & Prosthetics
+DAFO|Dynamic ankle-foot orthosis|Orthotics & Prosthetics
+PRAFO|Pressure relief ankle-foot orthosis|Orthotics & Prosthetics
+SMO|Supramalleolar orthosis|Orthotics & Prosthetics
+UCBL|University of California Biomechanics Laboratory (foot orthosis)|Orthotics & Prosthetics
+FO|Foot orthosis|Orthotics & Prosthetics
+CFO|Custom foot orthosis|Orthotics & Prosthetics
+KAFO|Knee-ankle-foot orthosis|Orthotics & Prosthetics
+SCKAFO|Stance control knee-ankle-foot orthosis|Orthotics & Prosthetics
+HKAFO|Hip-knee-ankle-foot orthosis|Orthotics & Prosthetics
+THKAFO|Trunk-hip-knee-ankle-foot orthosis|Orthotics & Prosthetics
+RGO|Reciprocating gait orthosis|Orthotics & Prosthetics
+HO|Hip orthosis|Orthotics & Prosthetics
+HO|Heterotopic ossification|Orthotics & Prosthetics
+KO|Knee orthosis|Orthotics & Prosthetics
+ACL brace|Anterior cruciate ligament brace|Orthotics & Prosthetics
+PTB|Patellar tendon bearing|Orthotics & Prosthetics
+PTB brace|Patellar tendon bearing brace|Orthotics & Prosthetics
+PTB cast|Patellar tendon bearing cast|Orthotics & Prosthetics
+CROW|Charcot restraint orthotic walker|Orthotics & Prosthetics
+CAM|Controlled ankle motion (walker)|Orthotics & Prosthetics
+CAM walker|Controlled ankle motion walker|Orthotics & Prosthetics
+RCW|Removable cast walker|Orthotics & Prosthetics
+TCC|Total contact cast|Orthotics & Prosthetics
+SLC|Short leg cast|Orthotics & Prosthetics
+LLC|Long leg cast|Orthotics & Prosthetics
+TLSO|Thoracolumbosacral orthosis|Orthotics & Prosthetics
+LSO|Lumbosacral orthosis|Orthotics & Prosthetics
+CTLSO|Cervicothoracolumbosacral orthosis|Orthotics & Prosthetics
+CTO|Cervicothoracic orthosis|Orthotics & Prosthetics
+CO|Cervical orthosis|Orthotics & Prosthetics
+SO|Sacroiliac orthosis|Orthotics & Prosthetics
+SO|Shoulder orthosis|Orthotics & Prosthetics
+SIO|Sacroiliac orthosis|Orthotics & Prosthetics
+SI belt|Sacroiliac belt|Orthotics & Prosthetics
+TLO|Thoracolumbar orthosis|Orthotics & Prosthetics
+WHO|Wrist-hand orthosis|Orthotics & Prosthetics
+WO|Wrist orthosis|Orthotics & Prosthetics
+RHO|Resting hand orthosis|Orthotics & Prosthetics
+WHFO|Wrist-hand-finger orthosis|Orthotics & Prosthetics
+HFO|Hand-finger orthosis|Orthotics & Prosthetics
+FO|Finger orthosis|Orthotics & Prosthetics
+EO|Elbow orthosis|Orthotics & Prosthetics
+EWHO|Elbow-wrist-hand orthosis|Orthotics & Prosthetics
+SEO|Shoulder-elbow orthosis|Orthotics & Prosthetics
+SEWHO|Shoulder-elbow-wrist-hand orthosis|Orthotics & Prosthetics
+CMC|Carpometacarpal (joint or splint)|Orthotics & Prosthetics
+CMC splint|Carpometacarpal splint|Orthotics & Prosthetics
+MCP|Metacarpophalangeal (joint)|Orthotics & Prosthetics
+PIP|Proximal interphalangeal (joint)|Orthotics & Prosthetics
+DIP|Distal interphalangeal (joint)|Orthotics & Prosthetics
+IP|Interphalangeal (joint)|Orthotics & Prosthetics
+MAS|Mobile arm support|Orthotics & Prosthetics
+BFO|Balanced forearm orthosis|Orthotics & Prosthetics
+FES|Functional electrical stimulation|Orthotics & Prosthetics
+NMES|Neuromuscular electrical stimulation|Orthotics & Prosthetics
+TTA|Transtibial amputation|Orthotics & Prosthetics
+TT|Transtibial|Orthotics & Prosthetics
+BKA|Below-knee amputation|Orthotics & Prosthetics
+BK|Below knee|Orthotics & Prosthetics
+TFA|Transfemoral amputation|Orthotics & Prosthetics
+TF|Transfemoral|Orthotics & Prosthetics
+AKA|Above-knee amputation|Orthotics & Prosthetics
+AK|Above knee|Orthotics & Prosthetics
+KD|Knee disarticulation|Orthotics & Prosthetics
+TKA|Through-knee amputation|Orthotics & Prosthetics
+AD|Ankle disarticulation|Orthotics & Prosthetics
+PFA|Partial foot amputation|Orthotics & Prosthetics
+TMA|Transmetatarsal amputation|Orthotics & Prosthetics
+HD|Hip disarticulation|Orthotics & Prosthetics
+HP|Hemipelvectomy|Orthotics & Prosthetics
+TRA|Transradial amputation|Orthotics & Prosthetics
+TR|Transradial|Orthotics & Prosthetics
+BEA|Below-elbow amputation|Orthotics & Prosthetics
+BE|Below elbow|Orthotics & Prosthetics
+THA|Transhumeral amputation|Orthotics & Prosthetics
+TH|Transhumeral|Orthotics & Prosthetics
+AEA|Above-elbow amputation|Orthotics & Prosthetics
+AE|Above elbow|Orthotics & Prosthetics
+WD|Wrist disarticulation|Orthotics & Prosthetics
+ED|Elbow disarticulation|Orthotics & Prosthetics
+SD|Shoulder disarticulation|Orthotics & Prosthetics
+FQ|Forequarter (amputation)|Orthotics & Prosthetics
+PH|Partial hand (amputation)|Orthotics & Prosthetics
+PHA|Partial hand amputation|Orthotics & Prosthetics
+LEA|Lower extremity amputation|Orthotics & Prosthetics
+UEA|Upper extremity amputation|Orthotics & Prosthetics
+LLA|Lower limb amputation|Orthotics & Prosthetics
+ULA|Upper limb amputation|Orthotics & Prosthetics
+BLA|Bilateral lower-limb amputation|Orthotics & Prosthetics
+IPOP|Immediate postoperative prosthesis|Orthotics & Prosthetics
+EPOP|Early postoperative prosthesis|Orthotics & Prosthetics
+RRD|Rigid removable dressing|Orthotics & Prosthetics
+RD|Rigid dressing|Orthotics & Prosthetics
+SRD|Semi-rigid dressing|Orthotics & Prosthetics
+RL|Residual limb|Orthotics & Prosthetics
+RLL|Residual limb length|Orthotics & Prosthetics
+RLP|Residual limb pain|Orthotics & Prosthetics
+PLP|Phantom limb pain|Orthotics & Prosthetics
+PLS|Phantom limb sensation|Orthotics & Prosthetics
+PTB socket|Patellar tendon bearing socket|Orthotics & Prosthetics
+TSB|Total surface bearing (socket)|Orthotics & Prosthetics
+TSB socket|Total surface bearing socket|Orthotics & Prosthetics
+PTB-SC|Patellar tendon bearing supracondylar (socket)|Orthotics & Prosthetics
+PTB-SCSP|Patellar tendon bearing supracondylar suprapatellar (socket)|Orthotics & Prosthetics
+SC|Supracondylar|Orthotics & Prosthetics
+SCSP|Supracondylar suprapatellar|Orthotics & Prosthetics
+IC|Ischial containment (socket)|Orthotics & Prosthetics
+IC socket|Ischial containment socket|Orthotics & Prosthetics
+Quad socket|Quadrilateral socket|Orthotics & Prosthetics
+EVS|Elevated vacuum suspension|Orthotics & Prosthetics
+EV|Elevated vacuum|Orthotics & Prosthetics
+TES belt|Total elastic suspension belt|Orthotics & Prosthetics
+TES|Total elastic suspension|Orthotics & Prosthetics
+TPE|Thermoplastic elastomer (liner)|Orthotics & Prosthetics
+PU|Polyurethane (liner)|Orthotics & Prosthetics
+PE|Polyethylene|Orthotics & Prosthetics
+PP|Polypropylene|Orthotics & Prosthetics
+EVA|Ethylene vinyl acetate|Orthotics & Prosthetics
+CF|Carbon fiber|Orthotics & Prosthetics
+CFRP|Carbon fiber reinforced polymer|Orthotics & Prosthetics
+CAD/CAM|Computer-aided design and manufacturing|Orthotics & Prosthetics
+CAD|Computer-aided design|Orthotics & Prosthetics
+CAM|Computer-aided manufacturing|Orthotics & Prosthetics
+AM|Additive manufacturing (3D printing)|Orthotics & Prosthetics
+3DP|3D printing|Orthotics & Prosthetics
+SACH|Solid ankle cushion heel (foot)|Orthotics & Prosthetics
+SACH foot|Solid ankle cushion heel foot|Orthotics & Prosthetics
+SAFE|Stationary attachment flexible endoskeletal (foot)|Orthotics & Prosthetics
+SAFE foot|Stationary attachment flexible endoskeletal foot|Orthotics & Prosthetics
+ESAR|Energy storing and return (foot)|Orthotics & Prosthetics
+ESR|Energy storing and return|Orthotics & Prosthetics
+DR|Dynamic response (foot)|Orthotics & Prosthetics
+DR foot|Dynamic response foot|Orthotics & Prosthetics
+DER|Dynamic elastic response (foot)|Orthotics & Prosthetics
+MPF|Microprocessor foot|Orthotics & Prosthetics
+MPA|Microprocessor ankle|Orthotics & Prosthetics
+MPK|Microprocessor knee|Orthotics & Prosthetics
+MPC|Microprocessor controlled|Orthotics & Prosthetics
+MPCK|Microprocessor-controlled knee|Orthotics & Prosthetics
+NMPK|Non-microprocessor knee|Orthotics & Prosthetics
+MLK|Manual locking knee|Orthotics & Prosthetics
+WASC|Weight-activated stance control (knee)|Orthotics & Prosthetics
+SNS|Swing and stance (hydraulic knee)|Orthotics & Prosthetics
+4-bar|Four-bar (polycentric) knee|Orthotics & Prosthetics
+TA|Torque absorber|Orthotics & Prosthetics
+VSP|Vertical shock pylon|Orthotics & Prosthetics
+BOS|Base of support|Orthotics & Prosthetics
+COM|Center of mass|Orthotics & Prosthetics
+COG|Center of gravity|Orthotics & Prosthetics
+COP|Center of pressure|Orthotics & Prosthetics
+GRF|Ground reaction force|Orthotics & Prosthetics
+GRFV|Ground reaction force vector|Orthotics & Prosthetics
+ROM|Range of motion|Orthotics & Prosthetics
+AROM|Active range of motion|Orthotics & Prosthetics
+PROM|Passive range of motion|Orthotics & Prosthetics
+MMT|Manual muscle testing|Orthotics & Prosthetics
+DF|Dorsiflexion|Orthotics & Prosthetics
+PF|Plantarflexion|Orthotics & Prosthetics
+INV|Inversion|Orthotics & Prosthetics
+EV|Eversion|Orthotics & Prosthetics
+ABD|Abduction|Orthotics & Prosthetics
+ADD|Adduction|Orthotics & Prosthetics
+IR|Internal rotation|Orthotics & Prosthetics
+ER|External rotation|Orthotics & Prosthetics
+K-level|Medicare functional classification level (K0 to K4)|Orthotics & Prosthetics
+K0|Functional level 0 (no ability to ambulate or transfer with a prosthesis)|Orthotics & Prosthetics
+K1|Functional level 1 (household ambulator)|Orthotics & Prosthetics
+K2|Functional level 2 (limited community ambulator)|Orthotics & Prosthetics
+K3|Functional level 3 (unlimited community ambulator)|Orthotics & Prosthetics
+K4|Functional level 4 (high activity, child, athlete)|Orthotics & Prosthetics
+MFCL|Medicare functional classification level|Orthotics & Prosthetics
+AMP|Amputee mobility predictor|Orthotics & Prosthetics
+AMPPRO|Amputee mobility predictor with prosthesis|Orthotics & Prosthetics
+AMPnoPRO|Amputee mobility predictor without prosthesis|Orthotics & Prosthetics
+PLUS-M|Prosthetic limb users survey of mobility|Orthotics & Prosthetics
+OPUS|Orthotics and prosthetics users survey|Orthotics & Prosthetics
+TAPES|Trinity amputation and prosthesis experience scales|Orthotics & Prosthetics
+PEQ|Prosthesis evaluation questionnaire|Orthotics & Prosthetics
+PEQ-MS|Prosthesis evaluation questionnaire mobility subscale|Orthotics & Prosthetics
+LCI|Locomotor capabilities index|Orthotics & Prosthetics
+LCI-5|Locomotor capabilities index 5-level version|Orthotics & Prosthetics
+ABC scale|Activities-specific balance confidence scale|Orthotics & Prosthetics
+2MWT|Two-minute walk test|Orthotics & Prosthetics
+6MWT|Six-minute walk test|Orthotics & Prosthetics
+10MWT|Ten-meter walk test|Orthotics & Prosthetics
+TUG|Timed up and go (test)|Orthotics & Prosthetics
+CHAMP|Comprehensive high-level activity mobility predictor|Orthotics & Prosthetics
+SIGAM|Special interest group in amputee medicine (mobility grade)|Orthotics & Prosthetics
+FIM|Functional independence measure|Orthotics & Prosthetics
+BBS|Berg balance scale|Orthotics & Prosthetics
+DGI|Dynamic gait index|Orthotics & Prosthetics
+FGA|Functional gait assessment|Orthotics & Prosthetics
+PROM|Patient-reported outcome measure|Orthotics & Prosthetics
+PROMs|Patient-reported outcome measures|Orthotics & Prosthetics
+BP|Body-powered (prosthesis)|Orthotics & Prosthetics
+VO|Voluntary opening (terminal device)|Orthotics & Prosthetics
+VC|Voluntary closing (terminal device)|Orthotics & Prosthetics
+TD|Terminal device|Orthotics & Prosthetics
+Myo|Myoelectric|Orthotics & Prosthetics
+EMG|Electromyography|Orthotics & Prosthetics
+sEMG|Surface electromyography|Orthotics & Prosthetics
+MPH|Multiarticulating prosthetic hand|Orthotics & Prosthetics
+TMR|Targeted muscle reinnervation|Orthotics & Prosthetics
+TSR|Targeted sensory reinnervation|Orthotics & Prosthetics
+RPNI|Regenerative peripheral nerve interface|Orthotics & Prosthetics
+AMI|Agonist-antagonist myoneural interface|Orthotics & Prosthetics
+OI|Osseointegration|Orthotics & Prosthetics
+PR|Pattern recognition (myoelectric control)|Orthotics & Prosthetics
+DOF|Degrees of freedom|Orthotics & Prosthetics
+ASP|Activity-specific prosthesis|Orthotics & Prosthetics
+UE|Upper extremity|Orthotics & Prosthetics
+LE|Lower extremity|Orthotics & Prosthetics
+UL|Upper limb|Orthotics & Prosthetics
+LL|Lower limb|Orthotics & Prosthetics
+BLE|Bilateral lower extremities|Orthotics & Prosthetics
+BUE|Bilateral upper extremities|Orthotics & Prosthetics
+LLE|Left lower extremity|Orthotics & Prosthetics
+RLE|Right lower extremity|Orthotics & Prosthetics
+LUE|Left upper extremity|Orthotics & Prosthetics
+RUE|Right upper extremity|Orthotics & Prosthetics
+L|Left|Orthotics & Prosthetics
+R|Right|Orthotics & Prosthetics
+B|Bilateral|Orthotics & Prosthetics
+B/L|Bilateral|Orthotics & Prosthetics
+Bilat|Bilateral|Orthotics & Prosthetics
+Prox|Proximal|Orthotics & Prosthetics
+Dist|Distal|Orthotics & Prosthetics
+Med|Medial|Orthotics & Prosthetics
+Lat|Lateral|Orthotics & Prosthetics
+Ant|Anterior|Orthotics & Prosthetics
+Post|Posterior|Orthotics & Prosthetics
+AP|Anteroposterior|Orthotics & Prosthetics
+ML|Mediolateral|Orthotics & Prosthetics
+A/P|Anteroposterior|Orthotics & Prosthetics
+M/L|Mediolateral|Orthotics & Prosthetics
+HOB|Head of bed|Orthotics & Prosthetics
+WB|Weight-bearing|Orthotics & Prosthetics
+WBAT|Weight-bearing as tolerated|Orthotics & Prosthetics
+NWB|Non-weight-bearing|Orthotics & Prosthetics
+PWB|Partial weight-bearing|Orthotics & Prosthetics
+TTWB|Toe-touch weight-bearing|Orthotics & Prosthetics
+TDWB|Touch-down weight-bearing|Orthotics & Prosthetics
+FWB|Full weight-bearing|Orthotics & Prosthetics
+ADLs|Activities of daily living|Orthotics & Prosthetics
+IADLs|Instrumental activities of daily living|Orthotics & Prosthetics
+ADL|Activities of daily living|Orthotics & Prosthetics
+PT|Physical therapy|Orthotics & Prosthetics
+OT|Occupational therapy|Orthotics & Prosthetics
+PT/OT|Physical therapy and occupational therapy|Orthotics & Prosthetics
+PM&R|Physical medicine and rehabilitation|Orthotics & Prosthetics
+PMR|Physical medicine and rehabilitation|Orthotics & Prosthetics
+GT|Gait training|Orthotics & Prosthetics
+PPT|Pre-prosthetic training|Orthotics & Prosthetics
+HEP|Home exercise program|Orthotics & Prosthetics
+AD|Assistive device|Orthotics & Prosthetics
+RW|Rolling walker|Orthotics & Prosthetics
+FWW|Front-wheeled walker|Orthotics & Prosthetics
+SPC|Single-point cane|Orthotics & Prosthetics
+QC|Quad cane|Orthotics & Prosthetics
+LBQC|Large-base quad cane|Orthotics & Prosthetics
+SBQC|Small-base quad cane|Orthotics & Prosthetics
+WC|Wheelchair|Orthotics & Prosthetics
+MWC|Manual wheelchair|Orthotics & Prosthetics
+PWC|Power wheelchair|Orthotics & Prosthetics
+KFC|Knee flexion contracture|Orthotics & Prosthetics
+HFC|Hip flexion contracture|Orthotics & Prosthetics
+PFC|Plantarflexion contracture|Orthotics & Prosthetics
+VH|Verrucous hyperplasia|Orthotics & Prosthetics
+DME|Durable medical equipment|Orthotics & Prosthetics
+DMEPOS|Durable medical equipment, prosthetics, orthotics, and supplies|Orthotics & Prosthetics
+HCPCS|Healthcare Common Procedure Coding System|Orthotics & Prosthetics
+L-code|HCPCS Level II orthotic and prosthetic code|Orthotics & Prosthetics
+L code|HCPCS Level II orthotic and prosthetic code|Orthotics & Prosthetics
+L codes|HCPCS Level II orthotic and prosthetic codes|Orthotics & Prosthetics
+PA|Prior authorization|Orthotics & Prosthetics
+LMN|Letter of medical necessity|Orthotics & Prosthetics
+CMN|Certificate of medical necessity|Orthotics & Prosthetics
+DWO|Detailed written order|Orthotics & Prosthetics
+SWO|Standard written order|Orthotics & Prosthetics
+WOPD|Written order prior to delivery|Orthotics & Prosthetics
+F2F|Face-to-face (encounter)|Orthotics & Prosthetics
+KX|KX modifier (documentation on file supports medical necessity)|Orthotics & Prosthetics
+RT|Right side (modifier)|Orthotics & Prosthetics
+LT|Left side (modifier)|Orthotics & Prosthetics
+RT/LT|Right and left side (modifiers)|Orthotics & Prosthetics
+NU|New equipment (modifier)|Orthotics & Prosthetics
+RA|Replacement of DME item (modifier)|Orthotics & Prosthetics
+RB|Replacement of part of DME item (modifier)|Orthotics & Prosthetics
+GA|Waiver of liability statement on file (modifier)|Orthotics & Prosthetics
+GY|Item statutorily excluded (modifier)|Orthotics & Prosthetics
+GZ|Item expected to be denied as not reasonable and necessary (modifier)|Orthotics & Prosthetics
+ABN|Advance beneficiary notice|Orthotics & Prosthetics
+PDAC|Pricing, data analysis and coding (contractor)|Orthotics & Prosthetics
+DME MAC|Durable medical equipment Medicare administrative contractor|Orthotics & Prosthetics
+LCD|Local coverage determination|Orthotics & Prosthetics
+NCD|National coverage determination|Orthotics & Prosthetics
+CMS|Centers for Medicare and Medicaid Services|Orthotics & Prosthetics
+RUL|Reasonable useful lifetime|Orthotics & Prosthetics
+NPI|National provider identifier|Orthotics & Prosthetics
+PTAN|Provider transaction access number|Orthotics & Prosthetics
+NSC|National supplier clearinghouse|Orthotics & Prosthetics
+f/u|Follow up|Orthotics & Prosthetics
+F/U|Follow up|Orthotics & Prosthetics
+s/p|Status post|Orthotics & Prosthetics
+S/P|Status post|Orthotics & Prosthetics
+POD|Postoperative day|Orthotics & Prosthetics
+DOS|Date of service|Orthotics & Prosthetics
+D/C|Discharge|Orthotics & Prosthetics
+D/C|Discontinue|Orthotics & Prosthetics
+Dx|Diagnosis|Orthotics & Prosthetics
+Rx|Prescription|Orthotics & Prosthetics
+Tx|Treatment|Orthotics & Prosthetics
+Hx|History|Orthotics & Prosthetics
+Pt|Patient|Orthotics & Prosthetics
+c/o|Complains of|Orthotics & Prosthetics
+w/|With|Orthotics & Prosthetics
+w/o|Without|Orthotics & Prosthetics
+WNL|Within normal limits|Orthotics & Prosthetics
+TTP|Tender to palpation|Orthotics & Prosthetics
+NVI|Neurovascularly intact|Orthotics & Prosthetics
+CDI|Clean, dry, intact|Orthotics & Prosthetics
+DM|Diabetes mellitus|Orthotics & Prosthetics
+PAD|Peripheral arterial disease|Orthotics & Prosthetics
+PVD|Peripheral vascular disease|Orthotics & Prosthetics
+PN|Peripheral neuropathy|Orthotics & Prosthetics
+CVA|Cerebrovascular accident|Orthotics & Prosthetics
+TBI|Traumatic brain injury|Orthotics & Prosthetics
+SCI|Spinal cord injury|Orthotics & Prosthetics
+CP|Cerebral palsy|Orthotics & Prosthetics
+MS|Multiple sclerosis|Orthotics & Prosthetics
+MD|Muscular dystrophy|Orthotics & Prosthetics
+DMD|Duchenne muscular dystrophy|Orthotics & Prosthetics
+SMA|Spinal muscular atrophy|Orthotics & Prosthetics
+CMT|Charcot-Marie-Tooth disease|Orthotics & Prosthetics
+ALS|Amyotrophic lateral sclerosis|Orthotics & Prosthetics
+GBS|Guillain-Barre syndrome|Orthotics & Prosthetics
+PPS|Post-polio syndrome|Orthotics & Prosthetics
+SB|Spina bifida|Orthotics & Prosthetics
+MMC|Myelomeningocele|Orthotics & Prosthetics
+OI|Osteogenesis imperfecta|Orthotics & Prosthetics
+AMC|Arthrogryposis multiplex congenita|Orthotics & Prosthetics
+PFFD|Proximal femoral focal deficiency|Orthotics & Prosthetics
+CFD|Congenital femoral deficiency|Orthotics & Prosthetics
+LLD|Limb length discrepancy|Orthotics & Prosthetics
+DDH|Developmental dysplasia of the hip|Orthotics & Prosthetics
+AIS|Adolescent idiopathic scoliosis|Orthotics & Prosthetics
+EOS|Early-onset scoliosis|Orthotics & Prosthetics
+CTEV|Congenital talipes equinovarus|Orthotics & Prosthetics
+FAB|Foot abduction brace|Orthotics & Prosthetics
+CRPS|Complex regional pain syndrome|Orthotics & Prosthetics
+OA|Osteoarthritis|Orthotics & Prosthetics
+RA|Rheumatoid arthritis|Orthotics & Prosthetics
+DJD|Degenerative joint disease|Orthotics & Prosthetics
+ACL|Anterior cruciate ligament|Orthotics & Prosthetics
+PCL|Posterior cruciate ligament|Orthotics & Prosthetics
+MCL|Medial collateral ligament|Orthotics & Prosthetics
+LCL|Lateral collateral ligament|Orthotics & Prosthetics
+PTTD|Posterior tibial tendon dysfunction|Orthotics & Prosthetics
+PF|Plantar fasciitis|Orthotics & Prosthetics
+DPN|Diabetic peripheral neuropathy|Orthotics & Prosthetics
+CN|Charcot neuroarthropathy|Orthotics & Prosthetics
+DFU|Diabetic foot ulcer|Orthotics & Prosthetics
+TSB|Therapeutic Shoe Bill|Orthotics & Prosthetics
+A5500|Diabetic shoe, depth inlay (HCPCS)|Orthotics & Prosthetics
+A5513|Diabetic insert, custom molded (HCPCS)|Orthotics & Prosthetics
+HS|Heel strike|Orthotics & Prosthetics
+IC|Initial contact|Orthotics & Prosthetics
+LR|Loading response|Orthotics & Prosthetics
+MSt|Midstance|Orthotics & Prosthetics
+TSt|Terminal stance|Orthotics & Prosthetics
+PSw|Pre-swing|Orthotics & Prosthetics
+ISw|Initial swing|Orthotics & Prosthetics
+MSw|Midswing|Orthotics & Prosthetics
+TSw|Terminal swing|Orthotics & Prosthetics
+TO|Toe off|Orthotics & Prosthetics
+HO|Heel off|Orthotics & Prosthetics
+FF|Foot flat|Orthotics & Prosthetics
+GC|Gait cycle|Orthotics & Prosthetics
+SLS|Single-limb support|Orthotics & Prosthetics
+DLS|Double-limb support|Orthotics & Prosthetics

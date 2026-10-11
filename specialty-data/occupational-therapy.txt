@@ -1,0 +1,721 @@
+OT|Occupational therapy|Occupational Therapy
+OT|Occupational therapist|Occupational Therapy
+OTR|Occupational therapist, registered|Occupational Therapy
+OTR/L|Occupational therapist, registered and licensed|Occupational Therapy
+COTA|Certified occupational therapy assistant|Occupational Therapy
+COTA/L|Certified occupational therapy assistant, licensed|Occupational Therapy
+OTA|Occupational therapy assistant|Occupational Therapy
+OTD|Doctor of occupational therapy|Occupational Therapy
+MOT|Master of occupational therapy|Occupational Therapy
+MSOT|Master of science in occupational therapy|Occupational Therapy
+MS OT|Master of science in occupational therapy|Occupational Therapy
+BSOT|Bachelor of science in occupational therapy|Occupational Therapy
+OTS|Occupational therapy student|Occupational Therapy
+OTAS|Occupational therapy assistant student|Occupational Therapy
+CHT|Certified hand therapist|Occupational Therapy
+CBIS|Certified brain injury specialist|Occupational Therapy
+CBIST|Certified brain injury specialist trainer|Occupational Therapy
+ATP|Assistive technology professional|Occupational Therapy
+SMS|Seating and mobility specialist|Occupational Therapy
+CDRS|Certified driver rehabilitation specialist|Occupational Therapy
+CLT|Certified lymphedema therapist|Occupational Therapy
+CLT-LANA|Certified lymphedema therapist, Lymphology Association of North America|Occupational Therapy
+CAPS|Certified aging-in-place specialist|Occupational Therapy
+CEAS|Certified ergonomic assessment specialist|Occupational Therapy
+PAM|Physical agent modality|Occupational Therapy
+PAMs|Physical agent modalities|Occupational Therapy
+CLVT|Certified low vision therapist|Occupational Therapy
+SCLV|Specialty certification in low vision|Occupational Therapy
+SCFES|Specialty certification in feeding, eating and swallowing|Occupational Therapy
+BCP|Board certification in pediatrics|Occupational Therapy
+BCPR|Board certification in physical rehabilitation|Occupational Therapy
+BCG|Board certification in gerontology|Occupational Therapy
+BCMH|Board certification in mental health|Occupational Therapy
+NBCOT|National Board for Certification in Occupational Therapy|Occupational Therapy
+ACOTE|Accreditation Council for Occupational Therapy Education|Occupational Therapy
+OTPF|Occupational Therapy Practice Framework|Occupational Therapy
+FW|Fieldwork|Occupational Therapy
+FWE|Fieldwork educator|Occupational Therapy
+Level I FW|Level I fieldwork|Occupational Therapy
+Level II FW|Level II fieldwork|Occupational Therapy
+ADL|Activity of daily living|Occupational Therapy
+ADLs|Activities of daily living|Occupational Therapy
+BADL|Basic activity of daily living|Occupational Therapy
+BADLs|Basic activities of daily living|Occupational Therapy
+PADL|Personal activity of daily living|Occupational Therapy
+PADLs|Personal activities of daily living|Occupational Therapy
+IADL|Instrumental activity of daily living|Occupational Therapy
+IADLs|Instrumental activities of daily living|Occupational Therapy
+AADLs|Advanced activities of daily living|Occupational Therapy
+UB|Upper body|Occupational Therapy
+LB|Lower body|Occupational Therapy
+UBD|Upper body dressing|Occupational Therapy
+LBD|Lower body dressing|Occupational Therapy
+UB/LB|Upper body and lower body|Occupational Therapy
+UE|Upper extremity|Occupational Therapy
+LE|Lower extremity|Occupational Therapy
+BUE|Bilateral upper extremities|Occupational Therapy
+BLE|Bilateral lower extremities|Occupational Therapy
+RUE|Right upper extremity|Occupational Therapy
+LUE|Left upper extremity|Occupational Therapy
+RLE|Right lower extremity|Occupational Therapy
+LLE|Left lower extremity|Occupational Therapy
+B UE|Bilateral upper extremities|Occupational Therapy
+UEs|Upper extremities|Occupational Therapy
+LEs|Lower extremities|Occupational Therapy
+DOM|Dominant|Occupational Therapy
+ND|Non-dominant|Occupational Therapy
+RHD|Right hand dominant|Occupational Therapy
+LHD|Left hand dominant|Occupational Therapy
+BIL|Bilateral|Occupational Therapy
+I|Independent|Occupational Therapy
+Ind|Independent|Occupational Therapy
+Mod I|Modified independent|Occupational Therapy
+S|Supervision|Occupational Therapy
+SV|Supervision|Occupational Therapy
+SBA|Standby assist|Occupational Therapy
+CGA|Contact guard assist|Occupational Therapy
+CG|Contact guard|Occupational Therapy
+CG|Caregiver|Occupational Therapy
+CGs|Caregivers|Occupational Therapy
+Min A|Minimal assist|Occupational Therapy
+Mod A|Moderate assist|Occupational Therapy
+Max A|Maximal assist|Occupational Therapy
+Dep|Dependent|Occupational Therapy
+Total A|Total assist|Occupational Therapy
+Tot A|Total assist|Occupational Therapy
+Ax1|Assist of one|Occupational Therapy
+Ax2|Assist of two|Occupational Therapy
+VC|Verbal cue|Occupational Therapy
+VCs|Verbal cues|Occupational Therapy
+TC|Tactile cue|Occupational Therapy
+TCs|Tactile cues|Occupational Therapy
+HOH|Hand over hand|Occupational Therapy
+HOH|Hard of hearing|Occupational Therapy
+HHA|Hand-over-hand assist|Occupational Therapy
+HHA|Home health aide|Occupational Therapy
+VCs/TCs|Verbal and tactile cues|Occupational Therapy
+Min VC|Minimal verbal cues|Occupational Therapy
+Mod VC|Moderate verbal cues|Occupational Therapy
+Max VC|Maximal verbal cues|Occupational Therapy
+PLOF|Prior level of function|Occupational Therapy
+CLOF|Current level of function|Occupational Therapy
+LOF|Level of function|Occupational Therapy
+PLOC|Prior level of care|Occupational Therapy
+ROM|Range of motion|Occupational Therapy
+AROM|Active range of motion|Occupational Therapy
+PROM|Passive range of motion|Occupational Therapy
+AAROM|Active-assistive range of motion|Occupational Therapy
+A/AROM|Active-assistive range of motion|Occupational Therapy
+WFL|Within functional limits|Occupational Therapy
+WNL|Within normal limits|Occupational Therapy
+Grossly WFL|Grossly within functional limits|Occupational Therapy
+MMT|Manual muscle test|Occupational Therapy
+UE ROM|Upper extremity range of motion|Occupational Therapy
+UE str|Upper extremity strength|Occupational Therapy
+BUE ROM|Bilateral upper extremity range of motion|Occupational Therapy
+Fx|Function|Occupational Therapy
+Fx|Fracture|Occupational Therapy
+Fxl|Functional|Occupational Therapy
+Fxn|Function|Occupational Therapy
+Tx|Treatment|Occupational Therapy
+Eval|Evaluation|Occupational Therapy
+Re-eval|Re-evaluation|Occupational Therapy
+IE|Initial evaluation|Occupational Therapy
+D/C|Discharge|Occupational Therapy
+D/C|Discontinue|Occupational Therapy
+F/U|Follow-up|Occupational Therapy
+S/P|Status post|Occupational Therapy
+2/2|Secondary to|Occupational Therapy
+NT|Not tested|Occupational Therapy
+UTA|Unable to assess|Occupational Therapy
+SOAP|Subjective, objective, assessment, plan|Occupational Therapy
+POC|Plan of care|Occupational Therapy
+STG|Short-term goal|Occupational Therapy
+STGs|Short-term goals|Occupational Therapy
+LTG|Long-term goal|Occupational Therapy
+LTGs|Long-term goals|Occupational Therapy
+SMART|Specific, measurable, attainable, relevant, time-bound|Occupational Therapy
+COAST|Client, occupation, assist level, specific condition, timeline|Occupational Therapy
+RUMBA|Relevant, understandable, measurable, behavioral, achievable|Occupational Therapy
+FOR|Frame of reference|Occupational Therapy
+MOHO|Model of human occupation|Occupational Therapy
+OPHI|Occupational performance history interview|Occupational Therapy
+OPHI-II|Occupational performance history interview, second version|Occupational Therapy
+OSA|Occupational self assessment|Occupational Therapy
+OCAIRS|Occupational circumstances assessment interview and rating scale|Occupational Therapy
+MOHOST|Model of human occupation screening tool|Occupational Therapy
+VQ|Volitional questionnaire|Occupational Therapy
+PVQ|Pediatric volitional questionnaire|Occupational Therapy
+PEO|Person-environment-occupation model|Occupational Therapy
+PEOP|Person-environment-occupation-performance model|Occupational Therapy
+CMOP-E|Canadian model of occupational performance and engagement|Occupational Therapy
+EHP|Ecology of human performance|Occupational Therapy
+CO-OP|Cognitive orientation to daily occupational performance|Occupational Therapy
+MoCA|Montreal cognitive assessment|Occupational Therapy
+SLUMS|Saint Louis University mental status examination|Occupational Therapy
+MMSE|Mini-mental state examination|Occupational Therapy
+Mini-Cog|Mini cognitive assessment instrument|Occupational Therapy
+CAM|Confusion assessment method|Occupational Therapy
+CAM-ICU|Confusion assessment method for the intensive care unit|Occupational Therapy
+ACL|Allen cognitive level|Occupational Therapy
+ACLS|Allen cognitive level screen|Occupational Therapy
+ACLS-5|Allen cognitive level screen, fifth edition|Occupational Therapy
+LACLS|Large Allen cognitive level screen|Occupational Therapy
+ADM|Allen diagnostic module|Occupational Therapy
+RTI|Routine task inventory|Occupational Therapy
+LOTCA|Loewenstein occupational therapy cognitive assessment|Occupational Therapy
+LOTCA-G|Loewenstein occupational therapy cognitive assessment, geriatric|Occupational Therapy
+DLOTCA|Dynamic Loewenstein occupational therapy cognitive assessment|Occupational Therapy
+Cognistat|Neurobehavioral cognitive status examination|Occupational Therapy
+NCSE|Neurobehavioral cognitive status examination|Occupational Therapy
+EFPT|Executive function performance test|Occupational Therapy
+KELS|Kohlman evaluation of living skills|Occupational Therapy
+MVPT|Motor-free visual perception test|Occupational Therapy
+MVPT-4|Motor-free visual perception test, fourth edition|Occupational Therapy
+BIT|Behavioral inattention test|Occupational Therapy
+TMT|Trail making test|Occupational Therapy
+TMT-A|Trail making test, part A|Occupational Therapy
+TMT-B|Trail making test, part B|Occupational Therapy
+RBMT|Rivermead behavioural memory test|Occupational Therapy
+BADS|Behavioural assessment of the dysexecutive syndrome|Occupational Therapy
+MET|Multiple errands test|Occupational Therapy
+AMPS|Assessment of motor and process skills|Occupational Therapy
+A-ONE|ADL-focused occupation-based neurobehavioral evaluation|Occupational Therapy
+CPT|Cognitive performance test|Occupational Therapy
+CPT|Current procedural terminology|Occupational Therapy
+TOGSS|Test of grocery shopping skills|Occupational Therapy
+ILS|Independent living scales|Occupational Therapy
+CLQT|Cognitive linguistic quick test|Occupational Therapy
+GOAT|Galveston orientation and amnesia test|Occupational Therapy
+O-Log|Orientation log|Occupational Therapy
+RLA|Rancho Los Amigos scale|Occupational Therapy
+RLAS|Rancho Los Amigos scale|Occupational Therapy
+PTA|Post-traumatic amnesia|Occupational Therapy
+PTA|Physical therapist assistant|Occupational Therapy
+PTA|Prior to admission|Occupational Therapy
+TBI|Traumatic brain injury|Occupational Therapy
+mTBI|Mild traumatic brain injury|Occupational Therapy
+ABI|Acquired brain injury|Occupational Therapy
+CVA|Cerebrovascular accident|Occupational Therapy
+R CVA|Right cerebrovascular accident|Occupational Therapy
+L CVA|Left cerebrovascular accident|Occupational Therapy
+SCI|Spinal cord injury|Occupational Therapy
+ASIA|American Spinal Injury Association impairment scale|Occupational Therapy
+SCIM|Spinal cord independence measure|Occupational Therapy
+CTS|Carpal tunnel syndrome|Occupational Therapy
+CTR|Carpal tunnel release|Occupational Therapy
+CuTS|Cubital tunnel syndrome|Occupational Therapy
+TFCC|Triangular fibrocartilage complex|Occupational Therapy
+CMC|Carpometacarpal|Occupational Therapy
+CMC OA|Carpometacarpal osteoarthritis|Occupational Therapy
+CMCJ|Carpometacarpal joint|Occupational Therapy
+DRF|Distal radius fracture|Occupational Therapy
+DRUJ|Distal radioulnar joint|Occupational Therapy
+PIP|Proximal interphalangeal|Occupational Therapy
+PIPJ|Proximal interphalangeal joint|Occupational Therapy
+DIP|Distal interphalangeal|Occupational Therapy
+DIPJ|Distal interphalangeal joint|Occupational Therapy
+MCP|Metacarpophalangeal|Occupational Therapy
+MCPJ|Metacarpophalangeal joint|Occupational Therapy
+MP|Metacarpophalangeal|Occupational Therapy
+MPJ|Metacarpophalangeal joint|Occupational Therapy
+IP|Interphalangeal|Occupational Therapy
+IPJ|Interphalangeal joint|Occupational Therapy
+STT|Scaphotrapeziotrapezoid|Occupational Therapy
+UCL|Ulnar collateral ligament|Occupational Therapy
+RCL|Radial collateral ligament|Occupational Therapy
+SL|Scapholunate|Occupational Therapy
+SLIL|Scapholunate interosseous ligament|Occupational Therapy
+EPL|Extensor pollicis longus|Occupational Therapy
+EPB|Extensor pollicis brevis|Occupational Therapy
+APL|Abductor pollicis longus|Occupational Therapy
+APB|Abductor pollicis brevis|Occupational Therapy
+FPL|Flexor pollicis longus|Occupational Therapy
+FPB|Flexor pollicis brevis|Occupational Therapy
+FDS|Flexor digitorum superficialis|Occupational Therapy
+FDP|Flexor digitorum profundus|Occupational Therapy
+EDC|Extensor digitorum communis|Occupational Therapy
+EIP|Extensor indicis proprius|Occupational Therapy
+EDM|Extensor digiti minimi|Occupational Therapy
+ECRL|Extensor carpi radialis longus|Occupational Therapy
+ECRB|Extensor carpi radialis brevis|Occupational Therapy
+ECU|Extensor carpi ulnaris|Occupational Therapy
+FCR|Flexor carpi radialis|Occupational Therapy
+FCU|Flexor carpi ulnaris|Occupational Therapy
+PL|Palmaris longus|Occupational Therapy
+AdP|Adductor pollicis|Occupational Therapy
+A1|A1 pulley|Occupational Therapy
+A2|A2 pulley|Occupational Therapy
+A4|A4 pulley|Occupational Therapy
+TAM|Total active motion|Occupational Therapy
+TPM|Total passive motion|Occupational Therapy
+DPC|Distal palmar crease|Occupational Therapy
+RD|Radial deviation|Occupational Therapy
+UD|Ulnar deviation|Occupational Therapy
+Sup|Supination|Occupational Therapy
+Pron|Pronation|Occupational Therapy
+Flex|Flexion|Occupational Therapy
+Ext|Extension|Occupational Therapy
+Abd|Abduction|Occupational Therapy
+Add|Adduction|Occupational Therapy
+ER|External rotation|Occupational Therapy
+IR|Internal rotation|Occupational Therapy
+Opp|Opposition|Occupational Therapy
+PRWE|Patient-rated wrist evaluation|Occupational Therapy
+PRWHE|Patient-rated wrist and hand evaluation|Occupational Therapy
+PRTEE|Patient-rated tennis elbow evaluation|Occupational Therapy
+DASH|Disabilities of the arm, shoulder and hand|Occupational Therapy
+QuickDASH|Quick disabilities of the arm, shoulder and hand|Occupational Therapy
+MHQ|Michigan hand outcomes questionnaire|Occupational Therapy
+bMHQ|Brief Michigan hand outcomes questionnaire|Occupational Therapy
+UEFI|Upper extremity functional index|Occupational Therapy
+SPADI|Shoulder pain and disability index|Occupational Therapy
+PSFS|Patient-specific functional scale|Occupational Therapy
+SWMT|Semmes-Weinstein monofilament test|Occupational Therapy
+SWM|Semmes-Weinstein monofilament|Occupational Therapy
+2PD|Two-point discrimination|Occupational Therapy
+S2PD|Static two-point discrimination|Occupational Therapy
+M2PD|Moving two-point discrimination|Occupational Therapy
+JTHFT|Jebsen-Taylor hand function test|Occupational Therapy
+JHFT|Jebsen hand function test|Occupational Therapy
+PPT|Purdue pegboard test|Occupational Therapy
+9HPT|Nine-hole peg test|Occupational Therapy
+NHPT|Nine-hole peg test|Occupational Therapy
+BBT|Box and block test|Occupational Therapy
+MMDT|Minnesota manual dexterity test|Occupational Therapy
+GS|Grip strength|Occupational Therapy
+LP|Lateral pinch|Occupational Therapy
+3PP|Three-point pinch|Occupational Therapy
+3JC|Three-jaw chuck|Occupational Therapy
+TP|Tip pinch|Occupational Therapy
+Dyn|Dynamometer|Occupational Therapy
+REG|Rapid exchange grip|Occupational Therapy
+MRC|Medical Research Council scale|Occupational Therapy
+Circ|Circumferential measurement|Occupational Therapy
+Fig-8|Figure-of-eight measurement|Occupational Therapy
+NPRS|Numeric pain rating scale|Occupational Therapy
+VAS|Visual analog scale|Occupational Therapy
+CRPS|Complex regional pain syndrome|Occupational Therapy
+GMI|Graded motor imagery|Occupational Therapy
+WHO|Wrist-hand orthosis|Occupational Therapy
+WHFO|Wrist-hand-finger orthosis|Occupational Therapy
+RHO|Resting hand orthosis|Occupational Therapy
+HO|Hand orthosis|Occupational Therapy
+FO|Finger orthosis|Occupational Therapy
+EWHO|Elbow-wrist-hand orthosis|Occupational Therapy
+EO|Elbow orthosis|Occupational Therapy
+SEWHO|Shoulder-elbow-wrist-hand orthosis|Occupational Therapy
+SO|Shoulder orthosis|Occupational Therapy
+Thumb spica|Thumb spica splint|Occupational Therapy
+TSS|Thumb spica splint|Occupational Therapy
+MP block|Metacarpophalangeal blocking splint|Occupational Therapy
+MCP block|Metacarpophalangeal blocking splint|Occupational Therapy
+DBS|Dorsal blocking splint|Occupational Therapy
+DBO|Dorsal blocking orthosis|Occupational Therapy
+RMO|Relative motion orthosis|Occupational Therapy
+RME|Relative motion extension orthosis|Occupational Therapy
+RMF|Relative motion flexion orthosis|Occupational Therapy
+WCO|Wrist cock-up orthosis|Occupational Therapy
+L-Code|HCPCS level II orthosis billing code|Occupational Therapy
+HCPCS|Healthcare Common Procedure Coding System|Occupational Therapy
+DME|Durable medical equipment|Occupational Therapy
+AE|Adaptive equipment|Occupational Therapy
+A/E|Adaptive equipment|Occupational Therapy
+AT|Assistive technology|Occupational Therapy
+AD|Assistive device|Occupational Therapy
+LHS|Long-handled sponge|Occupational Therapy
+LHSH|Long-handled shoehorn|Occupational Therapy
+LH|Long-handled|Occupational Therapy
+DS|Dressing stick|Occupational Therapy
+SA|Sock aid|Occupational Therapy
+BSC|Bedside commode|Occupational Therapy
+3-in-1|Three-in-one commode|Occupational Therapy
+3N1|Three-in-one commode|Occupational Therapy
+RTS|Raised toilet seat|Occupational Therapy
+TTB|Tub transfer bench|Occupational Therapy
+SC|Shower chair|Occupational Therapy
+HHS|Hand-held shower|Occupational Therapy
+GB|Grab bar|Occupational Therapy
+GB|Gait belt|Occupational Therapy
+GBs|Grab bars|Occupational Therapy
+TSF|Toilet safety frame|Occupational Therapy
+TSR|Toilet safety rails|Occupational Therapy
+HB|Hospital bed|Occupational Therapy
+HL|Hoyer lift|Occupational Therapy
+ML|Mechanical lift|Occupational Therapy
+SB|Slide board|Occupational Therapy
+SBT|Slide board transfer|Occupational Therapy
+TB|Transfer board|Occupational Therapy
+FWW|Front-wheeled walker|Occupational Therapy
+RW|Rolling walker|Occupational Therapy
+4WW|Four-wheeled walker|Occupational Therapy
+SPC|Single-point cane|Occupational Therapy
+QC|Quad cane|Occupational Therapy
+HW|Hemi walker|Occupational Therapy
+PW|Platform walker|Occupational Therapy
+W/C|Wheelchair|Occupational Therapy
+WC|Wheelchair|Occupational Therapy
+MWC|Manual wheelchair|Occupational Therapy
+PWC|Power wheelchair|Occupational Therapy
+POV|Power-operated vehicle|Occupational Therapy
+PMD|Power mobility device|Occupational Therapy
+TIS|Tilt-in-space|Occupational Therapy
+TIS|Trunk impairment scale|Occupational Therapy
+TIS W/C|Tilt-in-space wheelchair|Occupational Therapy
+PRT|Pressure relief technique|Occupational Therapy
+PRTs|Pressure relief techniques|Occupational Therapy
+CRT|Complex rehabilitation technology|Occupational Therapy
+ULW|Ultra-lightweight wheelchair|Occupational Therapy
+TWC|Transport wheelchair|Occupational Therapy
+ELR|Elevating leg rest|Occupational Therapy
+ELRs|Elevating leg rests|Occupational Therapy
+SW|Seat width|Occupational Therapy
+SW|Social work|Occupational Therapy
+SD|Seat depth|Occupational Therapy
+STFH|Seat-to-floor height|Occupational Therapy
+PI|Pressure injury|Occupational Therapy
+HSE|Home safety evaluation|Occupational Therapy
+HSA|Home safety assessment|Occupational Therapy
+HE|Home evaluation|Occupational Therapy
+HEP|Home exercise program|Occupational Therapy
+HM|Home modification|Occupational Therapy
+HMs|Home modifications|Occupational Therapy
+EM|Environmental modification|Occupational Therapy
+SAFER-HOME|Safety assessment of function and the environment for rehabilitation, home outcome measurement and evaluation|Occupational Therapy
+I-HOPE|In-home occupational performance evaluation|Occupational Therapy
+SNF|Skilled nursing facility|Occupational Therapy
+IRF|Inpatient rehabilitation facility|Occupational Therapy
+AIR|Acute inpatient rehabilitation|Occupational Therapy
+SAR|Subacute rehabilitation|Occupational Therapy
+Subacute|Subacute rehabilitation|Occupational Therapy
+LTACH|Long-term acute care hospital|Occupational Therapy
+LTAC|Long-term acute care|Occupational Therapy
+LTC|Long-term care|Occupational Therapy
+HH|Home health|Occupational Therapy
+HH|Homonymous hemianopsia|Occupational Therapy
+HHOT|Home health occupational therapy|Occupational Therapy
+OP|Outpatient|Occupational Therapy
+OPOT|Outpatient occupational therapy|Occupational Therapy
+OP OT|Outpatient occupational therapy|Occupational Therapy
+ALF|Assisted living facility|Occupational Therapy
+AL|Assisted living|Occupational Therapy
+ILF|Independent living facility|Occupational Therapy
+IL|Independent living|Occupational Therapy
+ADC|Adult day care|Occupational Therapy
+ADHC|Adult day health care|Occupational Therapy
+B&C|Board and care|Occupational Therapy
+RCFE|Residential care facility for the elderly|Occupational Therapy
+MC|Memory care|Occupational Therapy
+IPR|Inpatient rehabilitation|Occupational Therapy
+DP|Discharge planning|Occupational Therapy
+D/C plan|Discharge plan|Occupational Therapy
+D/C rec|Discharge recommendation|Occupational Therapy
+D/C recs|Discharge recommendations|Occupational Therapy
+Dispo|Disposition|Occupational Therapy
+24/7|Twenty-four hour supervision|Occupational Therapy
+24hr SV|Twenty-four hour supervision|Occupational Therapy
+CM|Case manager|Occupational Therapy
+CM|Case management|Occupational Therapy
+IDT|Interdisciplinary team|Occupational Therapy
+IDTM|Interdisciplinary team meeting|Occupational Therapy
+FC|Family conference|Occupational Therapy
+FT|Family training|Occupational Therapy
+CGT|Caregiver training|Occupational Therapy
+PCA|Personal care attendant|Occupational Therapy
+IHSS|In-Home Supportive Services|Occupational Therapy
+AM-PAC|Activity measure for post-acute care|Occupational Therapy
+AM-PAC 6-Clicks|Activity measure for post-acute care, six-item short form|Occupational Therapy
+6-Clicks|Activity measure for post-acute care short form|Occupational Therapy
+6 Clicks DA|Six-Clicks daily activity|Occupational Therapy
+6 Clicks BM|Six-Clicks basic mobility|Occupational Therapy
+FIM|Functional independence measure|Occupational Therapy
+WeeFIM|Functional independence measure for children|Occupational Therapy
+FAM|Functional assessment measure|Occupational Therapy
+BI|Barthel index|Occupational Therapy
+MBI|Modified Barthel index|Occupational Therapy
+Katz|Katz index of independence in activities of daily living|Occupational Therapy
+Katz ADL|Katz index of independence in activities of daily living|Occupational Therapy
+Lawton|Lawton instrumental activities of daily living scale|Occupational Therapy
+Lawton IADL|Lawton instrumental activities of daily living scale|Occupational Therapy
+COPM|Canadian occupational performance measure|Occupational Therapy
+GG|Section GG functional abilities and goals|Occupational Therapy
+GG codes|Section GG self-care and mobility codes|Occupational Therapy
+IRF-PAI|Inpatient rehabilitation facility patient assessment instrument|Occupational Therapy
+MDS|Minimum data set|Occupational Therapy
+OASIS|Outcome and assessment information set|Occupational Therapy
+PDPM|Patient driven payment model|Occupational Therapy
+PDGM|Patient driven groupings model|Occupational Therapy
+CMG|Case mix group|Occupational Therapy
+PAC|Post-acute care|Occupational Therapy
+ELOS|Estimated length of stay|Occupational Therapy
+SIS|Stroke impact scale|Occupational Therapy
+NDT|Neurodevelopmental treatment|Occupational Therapy
+PNF|Proprioceptive neuromuscular facilitation|Occupational Therapy
+CIMT|Constraint-induced movement therapy|Occupational Therapy
+mCIMT|Modified constraint-induced movement therapy|Occupational Therapy
+CIT|Constraint-induced therapy|Occupational Therapy
+FMA|Fugl-Meyer assessment|Occupational Therapy
+FMA-UE|Fugl-Meyer assessment of the upper extremity|Occupational Therapy
+FM-UE|Fugl-Meyer upper extremity|Occupational Therapy
+ARAT|Action research arm test|Occupational Therapy
+WMFT|Wolf motor function test|Occupational Therapy
+MAL|Motor activity log|Occupational Therapy
+MAS|Modified Ashworth scale|Occupational Therapy
+MAS|Motor assessment scale|Occupational Therapy
+CMSA|Chedoke-McMaster stroke assessment|Occupational Therapy
+CAHAI|Chedoke arm and hand activity inventory|Occupational Therapy
+MI|Motricity index|Occupational Therapy
+MI|Motor imagery|Occupational Therapy
+PASS|Postural assessment scale for stroke|Occupational Therapy
+FES|Functional electrical stimulation|Occupational Therapy
+NMES|Neuromuscular electrical stimulation|Occupational Therapy
+E-stim|Electrical stimulation|Occupational Therapy
+MT|Mirror therapy|Occupational Therapy
+MP|Mental practice|Occupational Therapy
+TOT|Task-oriented training|Occupational Therapy
+TST|Task-specific training|Occupational Therapy
+RTP|Repetitive task practice|Occupational Therapy
+VR|Virtual reality|Occupational Therapy
+VR|Vocational rehabilitation|Occupational Therapy
+HSP|Hemiplegic shoulder pain|Occupational Therapy
+SHS|Shoulder-hand syndrome|Occupational Therapy
+Sublux|Subluxation|Occupational Therapy
+Hemi|Hemiparesis|Occupational Therapy
+R hemi|Right hemiparesis|Occupational Therapy
+L hemi|Left hemiparesis|Occupational Therapy
+UE mgmt|Upper extremity management|Occupational Therapy
+UE pos|Upper extremity positioning|Occupational Therapy
+UE WB|Upper extremity weight bearing|Occupational Therapy
+Flex syn|Flexor synergy|Occupational Therapy
+Ext syn|Extensor synergy|Occupational Therapy
+Spas|Spasticity|Occupational Therapy
+BoNT|Botulinum neurotoxin|Occupational Therapy
+ITB|Intrathecal baclofen|Occupational Therapy
+FMC|Fine motor coordination|Occupational Therapy
+GMC|Gross motor coordination|Occupational Therapy
+FTN|Finger to nose|Occupational Therapy
+RAM|Rapid alternating movements|Occupational Therapy
+LT|Light touch|Occupational Therapy
+Prop|Proprioception|Occupational Therapy
+Stereo|Stereognosis|Occupational Therapy
+Kines|Kinesthesia|Occupational Therapy
+WB|Weight bearing|Occupational Therapy
+WBAT|Weight bearing as tolerated|Occupational Therapy
+NWB|Non-weight bearing|Occupational Therapy
+TTWB|Toe-touch weight bearing|Occupational Therapy
+TDWB|Touch-down weight bearing|Occupational Therapy
+PWB|Partial weight bearing|Occupational Therapy
+FWB|Full weight bearing|Occupational Therapy
+NWB RUE|Non-weight bearing right upper extremity|Occupational Therapy
+NWB LUE|Non-weight bearing left upper extremity|Occupational Therapy
+THP|Total hip precautions|Occupational Therapy
+PHP|Posterior hip precautions|Occupational Therapy
+AHP|Anterior hip precautions|Occupational Therapy
+THA|Total hip arthroplasty|Occupational Therapy
+TKA|Total knee arthroplasty|Occupational Therapy
+TSA|Total shoulder arthroplasty|Occupational Therapy
+RTSA|Reverse total shoulder arthroplasty|Occupational Therapy
+RCR|Rotator cuff repair|Occupational Therapy
+SP|Sternal precautions|Occupational Therapy
+SPs|Sternal precautions|Occupational Therapy
+SPx|Spinal precautions|Occupational Therapy
+BLT|Bending, lifting, twisting|Occupational Therapy
+No BLT|No bending, lifting or twisting|Occupational Therapy
+LR|Log roll|Occupational Therapy
+HOB|Head of bed|Occupational Therapy
+HOB 30|Head of bed at thirty degrees|Occupational Therapy
+BR|Bed rest|Occupational Therapy
+SBR|Strict bed rest|Occupational Therapy
+OOB|Out of bed|Occupational Therapy
+EOB|Edge of bed|Occupational Therapy
+EOM|Edge of mat|Occupational Therapy
+FP|Fall precautions|Occupational Therapy
+HFR|High fall risk|Occupational Therapy
+STS|Sit to stand|Occupational Therapy
+5xSTS|Five times sit to stand|Occupational Therapy
+Sup>sit|Supine to sit|Occupational Therapy
+Sit>stand|Sit to stand|Occupational Therapy
+SPT|Stand pivot transfer|Occupational Therapy
+SQPT|Squat pivot transfer|Occupational Therapy
+Bed mob|Bed mobility|Occupational Therapy
+Fxl mob|Functional mobility|Occupational Therapy
+Fxl trans|Functional transfers|Occupational Therapy
+Trans|Transfers|Occupational Therapy
+Amb|Ambulation|Occupational Therapy
+BBS|Berg balance scale|Occupational Therapy
+TUG|Timed up and go|Occupational Therapy
+FRT|Functional reach test|Occupational Therapy
+ABC scale|Activities-specific balance confidence scale|Occupational Therapy
+VFD|Visual field deficit|Occupational Therapy
+VFC|Visual field cut|Occupational Therapy
+L HH|Left homonymous hemianopsia|Occupational Therapy
+R HH|Right homonymous hemianopsia|Occupational Therapy
+USN|Unilateral spatial neglect|Occupational Therapy
+UN|Unilateral neglect|Occupational Therapy
+L neglect|Left-sided neglect|Occupational Therapy
+VSN|Visuospatial neglect|Occupational Therapy
+VP|Visual perception|Occupational Therapy
+VMI|Visual-motor integration|Occupational Therapy
+Beery VMI|Beery-Buktenica developmental test of visual-motor integration|Occupational Therapy
+Beery-VMI|Beery-Buktenica developmental test of visual-motor integration|Occupational Therapy
+TVPS|Test of visual-perceptual skills|Occupational Therapy
+TVPS-4|Test of visual-perceptual skills, fourth edition|Occupational Therapy
+DTVP|Developmental test of visual perception|Occupational Therapy
+DTVP-3|Developmental test of visual perception, third edition|Occupational Therapy
+biVABA|Brain injury visual assessment battery for adults|Occupational Therapy
+EOMs|Extraocular movements|Occupational Therapy
+LV|Low vision|Occupational Therapy
+CCTV|Closed-circuit television magnifier|Occupational Therapy
+CVI|Cortical visual impairment|Occupational Therapy
+EC|Energy conservation|Occupational Therapy
+EC/WS|Energy conservation and work simplification|Occupational Therapy
+WS|Work simplification|Occupational Therapy
+4 Ps|Prioritize, plan, pace, position|Occupational Therapy
+JP|Joint protection|Occupational Therapy
+JPT|Joint protection techniques|Occupational Therapy
+JP/EC|Joint protection and energy conservation|Occupational Therapy
+PLB|Pursed-lip breathing|Occupational Therapy
+RPE|Rating of perceived exertion|Occupational Therapy
+METs|Metabolic equivalents|Occupational Therapy
+AT|Activity tolerance|Occupational Therapy
+ATol|Activity tolerance|Occupational Therapy
+CDT|Complete decongestive therapy|Occupational Therapy
+MLD|Manual lymphatic drainage|Occupational Therapy
+BCRL|Breast cancer-related lymphedema|Occupational Therapy
+AWS|Axillary web syndrome|Occupational Therapy
+L-Dex|Lymphedema index (bioimpedance)|Occupational Therapy
+TBSA|Total body surface area|Occupational Therapy
+STSG|Split-thickness skin graft|Occupational Therapy
+HTS|Hypertrophic scar|Occupational Therapy
+PG|Pressure garment|Occupational Therapy
+VSS|Vancouver scar scale|Occupational Therapy
+POSAS|Patient and observer scar assessment scale|Occupational Therapy
+ADP|Anti-deformity positioning|Occupational Therapy
+KX|KX modifier (therapy threshold exception)|Occupational Therapy
+KX modifier|Medicare medical necessity attestation above the therapy threshold|Occupational Therapy
+GO|GO modifier (outpatient occupational therapy plan of care)|Occupational Therapy
+GP|GP modifier (outpatient physical therapy plan of care)|Occupational Therapy
+GN|GN modifier (outpatient speech-language pathology plan of care)|Occupational Therapy
+CO|CO modifier (service furnished by an occupational therapy assistant)|Occupational Therapy
+CQ|CQ modifier (service furnished by a physical therapist assistant)|Occupational Therapy
+MPPR|Multiple procedure payment reduction|Occupational Therapy
+8-minute rule|Medicare timed-code billing rule (8 minutes minimum per unit)|Occupational Therapy
+NCCI|National Correct Coding Initiative|Occupational Therapy
+1x/wk|Once per week|Occupational Therapy
+2x/wk|Twice per week|Occupational Therapy
+3x/wk|Three times per week|Occupational Therapy
+5x/wk|Five times per week|Occupational Therapy
+x4 wks|For four weeks|Occupational Therapy
+x6 wks|For six weeks|Occupational Therapy
+PT|Physical therapy|Occupational Therapy
+PT/OT|Physical therapy and occupational therapy|Occupational Therapy
+OT/PT|Occupational therapy and physical therapy|Occupational Therapy
+PT/OT/ST|Physical, occupational and speech therapy|Occupational Therapy
+Co-tx|Co-treatment|Occupational Therapy
+Co-treat|Co-treatment|Occupational Therapy
+SLP|Speech-language pathologist|Occupational Therapy
+ST|Speech therapy|Occupational Therapy
+TR|Therapeutic recreation|Occupational Therapy
+PM&R|Physical medicine and rehabilitation|Occupational Therapy
+EMP|Early mobility program|Occupational Therapy
+JH-HLM|Johns Hopkins highest level of mobility|Occupational Therapy
+ICU-AW|Intensive care unit-acquired weakness|Occupational Therapy
+PICS|Post-intensive care syndrome|Occupational Therapy
+RASS|Richmond agitation-sedation scale|Occupational Therapy
+ABS|Agitated behavior scale|Occupational Therapy
+CRS-R|Coma recovery scale, revised|Occupational Therapy
+DOC|Disorders of consciousness|Occupational Therapy
+MCS|Minimally conscious state|Occupational Therapy
+SPD|Sensory processing disorder|Occupational Therapy
+SI|Sensory integration|Occupational Therapy
+ASI|Ayres sensory integration|Occupational Therapy
+SIPT|Sensory integration and praxis tests|Occupational Therapy
+EASI|Evaluation in Ayres sensory integration|Occupational Therapy
+SPM|Sensory processing measure|Occupational Therapy
+SPM-2|Sensory processing measure, second edition|Occupational Therapy
+SP-2|Sensory profile, second edition|Occupational Therapy
+ITSP|Infant/toddler sensory profile|Occupational Therapy
+AASP|Adolescent/adult sensory profile|Occupational Therapy
+PDMS-2|Peabody developmental motor scales, second edition|Occupational Therapy
+PDMS-3|Peabody developmental motor scales, third edition|Occupational Therapy
+BOT-2|Bruininks-Oseretsky test of motor proficiency, second edition|Occupational Therapy
+BOT-3|Bruininks-Oseretsky test of motor proficiency, third edition|Occupational Therapy
+BOTMP|Bruininks-Oseretsky test of motor proficiency|Occupational Therapy
+M-ABC|Movement assessment battery for children|Occupational Therapy
+MABC-2|Movement assessment battery for children, second edition|Occupational Therapy
+DCD|Developmental coordination disorder|Occupational Therapy
+DCDQ|Developmental coordination disorder questionnaire|Occupational Therapy
+HELP|Hawaii early learning profile|Occupational Therapy
+AIMS|Alberta infant motor scale|Occupational Therapy
+Bayley-4|Bayley scales of infant and toddler development, fourth edition|Occupational Therapy
+ASQ-3|Ages and stages questionnaire, third edition|Occupational Therapy
+PEDI|Pediatric evaluation of disability inventory|Occupational Therapy
+PEDI-CAT|Pediatric evaluation of disability inventory, computer adaptive test|Occupational Therapy
+SFA|School function assessment|Occupational Therapy
+COSA|Child occupational self assessment|Occupational Therapy
+PEGS|Perceived efficacy and goal setting system|Occupational Therapy
+ETCH|Evaluation tool of children's handwriting|Occupational Therapy
+MHA|Minnesota handwriting assessment|Occupational Therapy
+HWT|Handwriting without tears|Occupational Therapy
+GMFCS|Gross motor function classification system|Occupational Therapy
+MACS|Manual ability classification system|Occupational Therapy
+AHA|Assisting hand assessment|Occupational Therapy
+QUEST|Quality of upper extremity skills test|Occupational Therapy
+HABIT|Hand-arm bimanual intensive training|Occupational Therapy
+IEP|Individualized education program|Occupational Therapy
+IFSP|Individualized family service plan|Occupational Therapy
+504 plan|Section 504 accommodation plan|Occupational Therapy
+504|Section 504 of the Rehabilitation Act|Occupational Therapy
+EI|Early intervention|Occupational Therapy
+ECI|Early childhood intervention|Occupational Therapy
+ECSE|Early childhood special education|Occupational Therapy
+IDEA|Individuals with Disabilities Education Act|Occupational Therapy
+Part B|IDEA Part B (school-age services)|Occupational Therapy
+Part C|IDEA Part C (early intervention, birth to three)|Occupational Therapy
+FAPE|Free appropriate public education|Occupational Therapy
+LRE|Least restrictive environment|Occupational Therapy
+MTSS|Multi-tiered system of supports|Occupational Therapy
+ESY|Extended school year|Occupational Therapy
+SBOT|School-based occupational therapy|Occupational Therapy
+ADA|Americans with Disabilities Act|Occupational Therapy
+BPI|Brachial plexus injury|Occupational Therapy
+NBPP|Neonatal brachial plexus palsy|Occupational Therapy
+OBPP|Obstetric brachial plexus palsy|Occupational Therapy
+FM|Fine motor|Occupational Therapy
+GM|Gross motor|Occupational Therapy
+FMS|Fine motor skills|Occupational Therapy
+GMS|Gross motor skills|Occupational Therapy
+VM|Visual-motor|Occupational Therapy
+HW|Handwriting|Occupational Therapy
+FCE|Functional capacity evaluation|Occupational Therapy
+WH|Work hardening|Occupational Therapy
+WC|Work conditioning|Occupational Therapy
+RTW|Return to work|Occupational Therapy
+WRMSD|Work-related musculoskeletal disorder|Occupational Therapy
+CTD|Cumulative trauma disorder|Occupational Therapy
+RSI|Repetitive strain injury|Occupational Therapy
+JDA|Job demands analysis|Occupational Therapy
+PDL|Physical demand level|Occupational Therapy
+DOT|Dictionary of Occupational Titles|Occupational Therapy
+Ergo|Ergonomics|Occupational Therapy
+WSE|Worksite evaluation|Occupational Therapy
+BTW|Behind-the-wheel assessment|Occupational Therapy
+UFOV|Useful field of view|Occupational Therapy
+ICF|International classification of functioning, disability and health|Occupational Therapy
+WHODAS|World Health Organization disability assessment schedule|Occupational Therapy
+IMR|Illness management and recovery|Occupational Therapy
+WRAP|Wellness recovery action plan|Occupational Therapy
+ACT|Assertive community treatment|Occupational Therapy
+SMI|Serious mental illness|Occupational Therapy
+TIC|Trauma-informed care|Occupational Therapy
+BPSD|Behavioral and psychological symptoms of dementia|Occupational Therapy
+AKA|Above-knee amputation|Occupational Therapy
+BKA|Below-knee amputation|Occupational Therapy
+AEA|Above-elbow amputation|Occupational Therapy
+BEA|Below-elbow amputation|Occupational Therapy
+TRA|Transradial amputation|Occupational Therapy
+TD|Terminal device|Occupational Therapy
+TMR|Targeted muscle reinnervation|Occupational Therapy
+PLP|Phantom limb pain|Occupational Therapy
+ULA|Upper limb amputation|Occupational Therapy

@@ -1,0 +1,672 @@
+c/f|Concern for|Chart Shorthand
+c/w|Consistent with|Chart Shorthand
+c/w|Continue with|Chart Shorthand
+a/w|Associated with|Chart Shorthand
+a/w|Awaiting|Chart Shorthand
+assoc w/|Associated with|Chart Shorthand
+i/s/o|In the setting of|Chart Shorthand
+iso|In the setting of|Chart Shorthand
+2/2|Secondary to|Chart Shorthand
+s/t|Secondary to|Chart Shorthand
+d/t|Due to|Chart Shorthand
+p/w|Presents with|Chart Shorthand
+p/w|Presented with|Chart Shorthand
+p/f|Presented for|Chart Shorthand
+r/f|Risk factors|Chart Shorthand
+RF|Risk factor|Chart Shorthand
+sec|Secondary|Chart Shorthand
+sec|Second (unit of time)|Chart Shorthand
+?|Questionable or possible|Chart Shorthand
+ddx|Differential diagnosis|Chart Shorthand
+ddx incl|Differential diagnosis includes|Chart Shorthand
+AoC|Anemia of chronic disease|Chart Shorthand
+AoC|Acute on chronic|Chart Shorthand
+ACD|Anemia of chronic disease|Chart Shorthand
+~|Approximately|Chart Shorthand
+approx|Approximately|Chart Shorthand
+s/s|Signs and symptoms|Chart Shorthand
+sxs|Symptoms|Chart Shorthand
+sx|Symptoms|Chart Shorthand
+sx|Surgery|Chart Shorthand
+b/c|Because|Chart Shorthand
+bc|Because|Chart Shorthand
+w/i|Within|Chart Shorthand
+w/in|Within|Chart Shorthand
+w/e|Whatever|Chart Shorthand
+w/e|Weekend|Chart Shorthand
+wknd|Weekend|Chart Shorthand
+wrt|With respect to|Chart Shorthand
+re:|Regarding|Chart Shorthand
+NB|Note well (nota bene)|Chart Shorthand
+cf|Compare (confer)|Chart Shorthand
+i.e.|That is (id est)|Chart Shorthand
+e.g.|For example (exempli gratia)|Chart Shorthand
+aka|Also known as|Chart Shorthand
+FTR|For the record|Chart Shorthand
+fyi|For your information|Chart Shorthand
+NTD|Nothing to do|Chart Shorthand
+TBD|To be determined|Chart Shorthand
+EOD|End of day|Chart Shorthand
+EOW|End of week|Chart Shorthand
+EOM|End of month|Chart Shorthand
+w/u|Workup|Chart Shorthand
+c/b|Complicated by|Chart Shorthand
+pw/|Presents with|Chart Shorthand
+b/l|Bilateral|Chart Shorthand
+b/l|Baseline|Chart Shorthand
+BL|Baseline|Chart Shorthand
+NOS|Not otherwise specified|Chart Shorthand
+x2d|For two days|Chart Shorthand
+x3 days|For three days|Chart Shorthand
+x1 wk|For one week|Chart Shorthand
+x1|Once (times one)|Chart Shorthand
+POD#|Postoperative day number|Chart Shorthand
+POD|Postoperative day|Chart Shorthand
+HD#|Hospital day number|Chart Shorthand
+DOL|Day of life|Chart Shorthand
+PPD|Postpartum day|Chart Shorthand
+PPD|Purified protein derivative (TB skin test)|Chart Shorthand
+PPD|Packs per day|Chart Shorthand
+pk-yr|Pack-year|Chart Shorthand
+PY|Pack-years|Chart Shorthand
+yo|Year old|Chart Shorthand
+y/o|Year old|Chart Shorthand
+YOF|Year-old female|Chart Shorthand
+YOM|Year-old male|Chart Shorthand
+ON|Overnight|Chart Shorthand
+o/n|Overnight|Chart Shorthand
+noc|Night (nocturnal shift)|Nursing
+nocte|At night|Chart Shorthand
+tmrw|Tomorrow|Chart Shorthand
+tmr|Tomorrow|Chart Shorthand
+ytd|Yesterday|Chart Shorthand
+yday|Yesterday|Chart Shorthand
+yest|Yesterday|Chart Shorthand
+pta|Prior to arrival|Chart Shorthand
+PTA|Prior to admission|Chart Shorthand
+POA|Present on admission|Chart Shorthand
+HOA|Hospital-onset|Chart Shorthand
+HO|Hospital-onset|Chart Shorthand
+CO|Community-onset|Chart Shorthand
+HAI|Hospital-acquired infection|Chart Shorthand
+HAC|Hospital-acquired condition|Chart Shorthand
+CAUTI|Catheter-associated urinary tract infection|Chart Shorthand
+CLABSI|Central line-associated bloodstream infection|Chart Shorthand
+CRBSI|Catheter-related bloodstream infection|Chart Shorthand
+HAPI|Hospital-acquired pressure injury|Chart Shorthand
+HAP|Hospital-acquired pneumonia|Chart Shorthand
+VAP|Ventilator-associated pneumonia|Chart Shorthand
+VAE|Ventilator-associated event|Chart Shorthand
+int|Interval|Chart Shorthand
+a/c|Acute on chronic|Chart Shorthand
+a/c|Before meals (ante cibum)|Chart Shorthand
+TTD|Things to do|Chart Shorthand
+f/u labs|Follow up labs|Chart Shorthand
+f/u AM labs|Follow up morning labs|Chart Shorthand
+AM labs|Morning labs|Chart Shorthand
+ALs|AM labs (morning labs)|Chart Shorthand
+CBC/BMP in AM|Complete blood count and basic metabolic panel in the morning|Chart Shorthand
+if/then|If-then contingency plan|Chart Shorthand
+ccy|Contingency|Chart Shorthand
+CP|Contingency plan|Chart Shorthand
+IPASS|Illness severity, patient summary, action list, situation awareness and contingency, synthesis by receiver|Chart Shorthand
+I-PASS|Illness severity, patient summary, action list, situation awareness and contingency, synthesis by receiver|Chart Shorthand
+d/w|Discussed with|Chart Shorthand
+d/w pt|Discussed with patient|Chart Shorthand
+d/w fam|Discussed with family|Chart Shorthand
+d/w attg|Discussed with attending|Chart Shorthand
+s/w|Spoke with|Chart Shorthand
+sw/|Spoke with|Chart Shorthand
+SW|Social work|Chart Shorthand
+SW|Spoke with|Chart Shorthand
+pp|Per patient|Chart Shorthand
+per pt|According to the patient|Chart Shorthand
+coll|Collateral (history from another source)|Chart Shorthand
+CR|Chart review|Chart Shorthand
+OSH|Outside hospital|Chart Shorthand
+OSR|Outside records|Chart Shorthand
+OSH records|Outside hospital records|Chart Shorthand
+CE|Care Everywhere (Epic outside records)|Chart Shorthand
+s/a|See above|Chart Shorthand
+SA|See above|Chart Shorthand
+s/b|See below|Chart Shorthand
+s/b|Seen by|Chart Shorthand
+AA|As above|Chart Shorthand
+AB|As below|Chart Shorthand
+ibid|In the same place (ibidem)|Chart Shorthand
+PN|Prior note|Chart Shorthand
+PN|Progress note|Chart Shorthand
+CF|Copy-forward|Chart Shorthand
+CF|Cystic fibrosis|Chart Shorthand
+HPI per|History of present illness obtained from|Chart Shorthand
+NC/AT|Normocephalic, atraumatic|Chart Shorthand
+AT/NC|Atraumatic, normocephalic|Chart Shorthand
+NCAT|Normocephalic, atraumatic|Chart Shorthand
+A&O|Alert and oriented|Chart Shorthand
+AOx|Alert and oriented times (number of spheres)|Chart Shorthand
+AAO|Awake, alert, and oriented|Chart Shorthand
+AxO|Alert and oriented|Chart Shorthand
+AxOx3|Alert and oriented to person, place, and time|Chart Shorthand
+AOx3|Alert and oriented to person, place, and time|Chart Shorthand
+AOx4|Alert and oriented to person, place, time, and situation|Chart Shorthand
+AOx1|Alert and oriented to self only|Chart Shorthand
+AOx0|Alert but not oriented to any sphere|Chart Shorthand
+A&Ox3|Alert and oriented to person, place, and time|Chart Shorthand
+PPT|Person, place, time|Chart Shorthand
+PPTS|Person, place, time, situation|Chart Shorthand
+PPS|Person, place, situation|Chart Shorthand
+PERRL|Pupils equal, round, reactive to light|Chart Shorthand
+EOMI|Extraocular movements intact|Chart Shorthand
+VFFTC|Visual fields full to confrontation|Chart Shorthand
+VFF|Visual fields full|Chart Shorthand
+FTN|Finger to nose|Chart Shorthand
+FNF|Finger-nose-finger|Chart Shorthand
+HTS|Heel to shin|Chart Shorthand
+HKS|Heel-knee-shin|Chart Shorthand
+RAM|Rapid alternating movements|Chart Shorthand
+RAMs|Rapid alternating movements|Chart Shorthand
+DDK|Dysdiadochokinesia|Chart Shorthand
+PD|Pronator drift|Chart Shorthand
+PD|Parkinson disease|Chart Shorthand
+PD|Peritoneal dialysis|Chart Shorthand
+ND|No drift|Chart Shorthand
+ND|Nondistended|Chart Shorthand
+fasc|Fasciculations|Chart Shorthand
+DTR|Deep tendon reflex|Chart Shorthand
+DTRs|Deep tendon reflexes|Chart Shorthand
+2+|Normal reflex grade|Chart Shorthand
+2+|Moderate pitting edema|Chart Shorthand
+2+|Normal pulse strength|Chart Shorthand
+1+|Diminished reflex grade|Chart Shorthand
+1+|Mild pitting edema|Chart Shorthand
+1+|Diminished pulse|Chart Shorthand
+3+|Brisk reflex grade|Chart Shorthand
+3+|Moderately severe pitting edema|Chart Shorthand
+4+|Hyperreflexia with clonus|Chart Shorthand
+4+|Severe pitting edema|Chart Shorthand
+tr|Trace|Chart Shorthand
+TR|Tricuspid regurgitation|Chart Shorthand
+CNII-XII|Cranial nerves 2 through 12|Chart Shorthand
+TTP|Tender to palpation|Chart Shorthand
+NTTP|Not tender to palpation|Chart Shorthand
+TTP RUQ|Tender to palpation in the right upper quadrant|Chart Shorthand
+MSK TTP|Musculoskeletal tenderness to palpation|Chart Shorthand
+CVAT|Costovertebral angle tenderness|Chart Shorthand
+BS|Bowel sounds|Chart Shorthand
+BS|Breath sounds|Chart Shorthand
+BS|Blood sugar|Chart Shorthand
+BS|Bladder scan|Nursing
++BS|Bowel sounds present|Chart Shorthand
+HSM|Hepatosplenomegaly|Chart Shorthand
+HSM|Holosystolic murmur|Chart Shorthand
+HJR|Hepatojugular reflux|Chart Shorthand
+AJR|Abdominojugular reflux|Chart Shorthand
+PMI|Point of maximal impulse|Chart Shorthand
+S3|Third heart sound|Chart Shorthand
+S4|Fourth heart sound|Chart Shorthand
+SEM|Systolic ejection murmur|Chart Shorthand
+DM|Diastolic murmur|Chart Shorthand
+DM|Diabetes mellitus|Chart Shorthand
+I/VI|Grade 1 of 6 murmur|Chart Shorthand
+II/VI|Grade 2 of 6 murmur|Chart Shorthand
+III/VI|Grade 3 of 6 murmur|Chart Shorthand
+IV/VI|Grade 4 of 6 murmur, with thrill|Chart Shorthand
+LUSB|Left upper sternal border|Chart Shorthand
+RUSB|Right upper sternal border|Chart Shorthand
+LLSB|Left lower sternal border|Chart Shorthand
+RLSB|Right lower sternal border|Chart Shorthand
+LSB|Left sternal border|Chart Shorthand
+RSB|Right sternal border|Chart Shorthand
+OS|Opening snap|Chart Shorthand
+OS|Left eye (oculus sinister)|Chart Shorthand
+irreg irreg|Irregularly irregular|Chart Shorthand
+IRIR|Irregularly irregular|Chart Shorthand
+RRR|Regular rate and rhythm|Chart Shorthand
+tachy|Tachycardic|Chart Shorthand
+brady|Bradycardic|Chart Shorthand
+exp wheeze|Expiratory wheeze|Chart Shorthand
+insp wheeze|Inspiratory wheeze|Chart Shorthand
+BS dim|Breath sounds diminished|Chart Shorthand
+dim BS|Diminished breath sounds|Chart Shorthand
+DBS|Diminished breath sounds|Chart Shorthand
+b/l bases|Bilateral lung bases|Chart Shorthand
+E->A|E-to-A change (egophony)|Chart Shorthand
+TF|Tactile fremitus|Chart Shorthand
+DTP|Dullness to percussion|Chart Shorthand
+AMU|Accessory muscle use|Chart Shorthand
+WOB|Work of breathing|Chart Shorthand
+incr WOB|Increased work of breathing|Chart Shorthand
+nl WOB|Normal work of breathing|Chart Shorthand
+FS|Full sentences|Chart Shorthand
+FS|Fingerstick (glucose)|Chart Shorthand
+PLB|Pursed-lip breathing|Chart Shorthand
+LE edema|Lower extremity edema|Chart Shorthand
+BLE edema|Bilateral lower extremity edema|Chart Shorthand
+c/c/e|Clubbing, cyanosis, edema|Chart Shorthand
+CCE|Clubbing, cyanosis, edema|Chart Shorthand
+WWP|Warm and well-perfused|Chart Shorthand
+PT|Posterior tibial (pulse)|Chart Shorthand
+PT|Physical therapy|Chart Shorthand
+PT|Prothrombin time|Chart Shorthand
+VSC|Venous stasis changes|Chart Shorthand
+SCDs|Sequential compression devices|Nursing
+c/d/i|Clean, dry, intact|Chart Shorthand
+CDI|Clean, dry, intact|Chart Shorthand
+CDI|Clostridioides difficile infection|Chart Shorthand
+JP|Jackson-Pratt (surgical drain)|Chart Shorthand
+HV|Hemovac (closed suction drain)|Chart Shorthand
+CT|Chest tube|Chart Shorthand
+CT|Computed tomography|Chart Shorthand
+CT output|Chest tube output|Chart Shorthand
+NGT|Nasogastric tube|Chart Shorthand
+OGT|Orogastric tube|Chart Shorthand
+NGT output|Nasogastric tube output|Chart Shorthand
+OGT output|Orogastric tube output|Chart Shorthand
+MP|Maculopapular|Chart Shorthand
+MP rash|Maculopapular rash|Chart Shorthand
+PI|Pressure injury|Nursing
+PI|Pulsatility index|Chart Shorthand
+PU|Pressure ulcer|Nursing
+DTI|Deep tissue injury|Nursing
+sDTI|Suspected deep tissue injury|Nursing
+MASD|Moisture-associated skin damage|Nursing
+IAD|Incontinence-associated dermatitis|Nursing
+IUC|Indwelling urinary catheter|Nursing
+SPT|Suprapubic tube|Chart Shorthand
+SPC|Suprapubic catheter|Chart Shorthand
+PVR|Post-void residual|Chart Shorthand
+PVR|Pulmonary vascular resistance|Chart Shorthand
+SIC|Straight intermittent catheterization|Nursing
+ISC|Intermittent straight catheterization|Nursing
+CIC|Clean intermittent catheterization|Chart Shorthand
+I&O cath|In-and-out catheterization|Nursing
+IOC|In-and-out catheterization|Nursing
+TOV|Trial of void|Chart Shorthand
+VT|Void trial|Chart Shorthand
+VT|Ventricular tachycardia|Chart Shorthand
+FMS|Fecal management system|Nursing
+RT|Rectal tube|Nursing
+RT|Respiratory therapy|Chart Shorthand
+BM x2|Two bowel movements|Chart Shorthand
+LBM|Last bowel movement|Chart Shorthand
++flatus|Passing flatus|Chart Shorthand
++BM|Has had a bowel movement|Chart Shorthand
+TPO|Tolerating PO (oral intake)|Chart Shorthand
+tol PO|Tolerating oral intake|Chart Shorthand
+PO intake|Oral intake|Chart Shorthand
+TF|Tube feeds|Chart Shorthand
+TFs|Tube feeds|Chart Shorthand
+ADAT|Advance diet as tolerated|Chart Shorthand
+PWC|Pain well controlled|Chart Shorthand
+amb|Ambulating|Chart Shorthand
+amb in hall|Ambulating in hallway|Chart Shorthand
+OOB|Out of bed|Chart Shorthand
+OOBTC|Out of bed to chair|Nursing
+OOB to chair|Out of bed to chair|Nursing
+EOB|Edge of bed|Nursing
+SBA|Standby assist|Nursing
+CGA|Contact guard assist|Nursing
+A x1|Assist of one person|Nursing
+A x2|Assist of two people|Nursing
+1A|One-person assist|Nursing
+2A|Two-person assist|Nursing
+mod I|Modified independent|Nursing
+I|Independent|Nursing
+min A|Minimal assist|Nursing
+mod A|Moderate assist|Nursing
+max A|Maximal assist|Nursing
+dep|Dependent|Nursing
+SPC|Single-point cane|Nursing
+H/H|Hemoglobin and hematocrit|Chart Shorthand
+Hgb/Hct|Hemoglobin and hematocrit|Chart Shorthand
+plt|Platelets|Chart Shorthand
+plts|Platelets|Chart Shorthand
+delta trop|Change in troponin between draws|Chart Shorthand
+trop x2|Two serial troponins|Chart Shorthand
+trop neg x2|Two negative troponins|Chart Shorthand
+neg x2|Negative twice|Chart Shorthand
+BCx|Blood cultures|Chart Shorthand
+NGTD|No growth to date|Chart Shorthand
+BCx NGTD|Blood cultures with no growth to date|Chart Shorthand
+NG x48h|No growth at 48 hours|Chart Shorthand
+NGx2d|No growth at 2 days|Chart Shorthand
+GPC|Gram-positive cocci|Chart Shorthand
+GPCs|Gram-positive cocci|Chart Shorthand
+GPC in clusters|Gram-positive cocci in clusters|Chart Shorthand
+GPC in chains|Gram-positive cocci in chains|Chart Shorthand
+GPC in pairs|Gram-positive cocci in pairs|Chart Shorthand
+GNR|Gram-negative rods|Chart Shorthand
+GNRs|Gram-negative rods|Chart Shorthand
+GPR|Gram-positive rods|Chart Shorthand
+GPB|Gram-positive bacilli|Chart Shorthand
+GNB|Gram-negative bacilli|Chart Shorthand
+GNDC|Gram-negative diplococci|Chart Shorthand
+GPDC|Gram-positive diplococci|Chart Shorthand
+CoNS|Coagulase-negative staphylococci|Chart Shorthand
+MSSA|Methicillin-susceptible Staphylococcus aureus|Chart Shorthand
+MRSA|Methicillin-resistant Staphylococcus aureus|Chart Shorthand
+SAB|Staphylococcus aureus bacteremia|Chart Shorthand
+VRE|Vancomycin-resistant Enterococcus|Chart Shorthand
+ESBL|Extended-spectrum beta-lactamase|Chart Shorthand
+CRE|Carbapenem-resistant Enterobacterales|Chart Shorthand
+CRAB|Carbapenem-resistant Acinetobacter baumannii|Chart Shorthand
+CRPA|Carbapenem-resistant Pseudomonas aeruginosa|Chart Shorthand
+DTR-PA|Difficult-to-treat resistant Pseudomonas aeruginosa|Chart Shorthand
+MDRO|Multidrug-resistant organism|Chart Shorthand
+MDR|Multidrug-resistant|Chart Shorthand
+XDR|Extensively drug-resistant|Chart Shorthand
+PDR|Pandrug-resistant|Chart Shorthand
+C diff|Clostridioides difficile|Chart Shorthand
+CDT|Clostridioides difficile toxin|Chart Shorthand
+PCR+|Polymerase chain reaction positive|Chart Shorthand
+toxin+|Toxin positive|Chart Shorthand
+Ag+|Antigen positive|Chart Shorthand
+GDH|Glutamate dehydrogenase (C diff antigen)|Chart Shorthand
+EIA|Enzyme immunoassay|Chart Shorthand
+MIC|Minimum inhibitory concentration|Chart Shorthand
+S/I/R|Susceptible, intermediate, resistant|Chart Shorthand
+sens|Sensitivities|Chart Shorthand
+abx|Antibiotics|Chart Shorthand
+IVABX|Intravenous antibiotics|Chart Shorthand
+IV abx|Intravenous antibiotics|Chart Shorthand
+PO abx|Oral antibiotics|Chart Shorthand
+D1/7|Day 1 of 7|Chart Shorthand
+d3 of 7|Day 3 of 7|Chart Shorthand
+abx day 3/7|Antibiotic day 3 of 7|Chart Shorthand
+D#|Day number (of therapy)|Chart Shorthand
+Vanc/Zosyn|Vancomycin and piperacillin-tazobactam|Chart Shorthand
+V/Z|Vancomycin and piperacillin-tazobactam|Chart Shorthand
+vanc/cefepime|Vancomycin and cefepime|Chart Shorthand
+VC|Vancomycin and cefepime|Chart Shorthand
+vanc/pip-tazo|Vancomycin and piperacillin-tazobactam|Chart Shorthand
+pip-tazo|Piperacillin-tazobactam|Chart Shorthand
+P/T|Piperacillin-tazobactam|Chart Shorthand
+TZP|Piperacillin-tazobactam|Chart Shorthand
+CFP|Cefepime|Chart Shorthand
+FEP|Cefepime|Chart Shorthand
+CTX|Ceftriaxone|Chart Shorthand
+CTX|Cyclophosphamide|Chart Shorthand
+CTX|Contractions|Chart Shorthand
+CTX|Cefotaxime|Chart Shorthand
+CRO|Ceftriaxone|Chart Shorthand
+CAZ|Ceftazidime|Chart Shorthand
+CZA|Ceftazidime-avibactam|Chart Shorthand
+C/T|Ceftolozane-tazobactam|Chart Shorthand
+MEM|Meropenem|Chart Shorthand
+ERT|Ertapenem|Chart Shorthand
+ETP|Ertapenem|Chart Shorthand
+AMP|Ampicillin|Chart Shorthand
+AMC|Amoxicillin-clavulanate|Chart Shorthand
+amox-clav|Amoxicillin-clavulanate|Chart Shorthand
+SAM|Ampicillin-sulbactam|Chart Shorthand
+amp-sulb|Ampicillin-sulbactam|Chart Shorthand
+CZO|Cefazolin|Chart Shorthand
+DOX|Doxycycline|Chart Shorthand
+DOX|Doxorubicin|Chart Shorthand
+LZD|Linezolid|Chart Shorthand
+DAP|Daptomycin|Chart Shorthand
+dapto|Daptomycin|Chart Shorthand
+TMP-SMX|Trimethoprim-sulfamethoxazole|Chart Shorthand
+TMP/SMX|Trimethoprim-sulfamethoxazole|Chart Shorthand
+SMX-TMP|Sulfamethoxazole-trimethoprim|Chart Shorthand
+SXT|Trimethoprim-sulfamethoxazole|Chart Shorthand
+MTZ|Metronidazole|Chart Shorthand
+azithro|Azithromycin|Chart Shorthand
+azi|Azithromycin|Chart Shorthand
+AZM|Azithromycin|Chart Shorthand
+FQ|Fluoroquinolone|Chart Shorthand
+LVX|Levofloxacin|Chart Shorthand
+CIP|Ciprofloxacin|Chart Shorthand
+MXF|Moxifloxacin|Chart Shorthand
+AG|Aminoglycoside|Chart Shorthand
+AG|Anion gap|Chart Shorthand
+gent|Gentamicin|Chart Shorthand
+tobra|Tobramycin|Chart Shorthand
+amik|Amikacin|Chart Shorthand
+OPAT|Outpatient parenteral antimicrobial therapy|Chart Shorthand
+PICC|Peripherally inserted central catheter|Chart Shorthand
+PICC for OPAT|PICC line placed for outpatient IV antibiotics|Chart Shorthand
+IV->PO|Intravenous to oral conversion|Chart Shorthand
+IVPO|Intravenous to oral conversion|Chart Shorthand
+ASP|Antimicrobial stewardship program|Chart Shorthand
+VT|Vancomycin trough|Chart Shorthand
+replete|Replace a low electrolyte|Chart Shorthand
+lytes|Electrolytes|Chart Shorthand
+lytes prn|Replete electrolytes as needed|Chart Shorthand
+e'lytes|Electrolytes|Chart Shorthand
+K repletion|Potassium replacement|Chart Shorthand
+Mg repletion|Magnesium replacement|Chart Shorthand
+phos repletion|Phosphorus replacement|Chart Shorthand
+NS@100|Normal saline at 100 mL per hour|Chart Shorthand
+LR@75|Lactated Ringer's at 75 mL per hour|Chart Shorthand
+mIVF|Maintenance intravenous fluids|Chart Shorthand
+PIV|Peripheral intravenous line|Chart Shorthand
+cc|Cubic centimeter (milliliter)|Chart Shorthand
+30cc/kg|30 mL per kilogram fluid bolus|Chart Shorthand
+30 mL/kg|30 mL per kilogram fluid bolus (sepsis)|Chart Shorthand
+PLR|Passive leg raise|Chart Shorthand
+FR|Fluid responsive|Chart Shorthand
+FR|Fluid restriction|Chart Shorthand
+FWR|Free water restriction|Chart Shorthand
+net -1L|Net negative 1 liter fluid balance|Chart Shorthand
+I>O|Intake greater than output|Chart Shorthand
+O>I|Output greater than intake|Chart Shorthand
+I/O neg|Net negative fluid balance|Chart Shorthand
+UOP|Urine output|Chart Shorthand
+Cr bump|Rise in creatinine|Chart Shorthand
+AKI on CKD|Acute kidney injury on chronic kidney disease|Chart Shorthand
+AoCKD|Acute on chronic kidney disease|Chart Shorthand
+ATN|Acute tubular necrosis|Chart Shorthand
+AIN|Acute interstitial nephritis|Chart Shorthand
+HRS|Hepatorenal syndrome|Chart Shorthand
+HRS-AKI|Hepatorenal syndrome type of acute kidney injury|Chart Shorthand
+CRS|Cardiorenal syndrome|Chart Shorthand
+CRS|Cytokine release syndrome|Chart Shorthand
+RRT|Renal replacement therapy|Chart Shorthand
+RRT|Rapid response team|Chart Shorthand
+MWF|Monday, Wednesday, Friday (dialysis schedule)|Chart Shorthand
+TTS|Tuesday, Thursday, Saturday (dialysis schedule)|Chart Shorthand
+at b/l|At baseline|Chart Shorthand
+Cr at b/l|Creatinine at baseline|Chart Shorthand
+cont|Continue|Chart Shorthand
+cont home meds|Continue home medications|Chart Shorthand
+d/c|Discontinue|Chart Shorthand
+d/c|Discharge|Chart Shorthand
+dc'd|Discontinued|Chart Shorthand
+dc'd|Discharged|Chart Shorthand
+sw to|Switch to|Chart Shorthand
+chg to|Change to|Chart Shorthand
+inc|Increase|Chart Shorthand
+dec|Decrease|Chart Shorthand
+incr|Increase|Chart Shorthand
+decr|Decrease|Chart Shorthand
+s/p 1 dose|Status post one dose|Chart Shorthand
+s/p 2u pRBC|Status post 2 units of packed red blood cells|Chart Shorthand
+xfuse|Transfuse|Chart Shorthand
+txfn|Transfusion|Chart Shorthand
+tfx|Transfusion|Chart Shorthand
+pRBC|Packed red blood cells|Chart Shorthand
+FFP|Fresh frozen plasma|Chart Shorthand
+cryo|Cryoprecipitate|Chart Shorthand
+PCC|Prothrombin complex concentrate|Chart Shorthand
+4F-PCC|Four-factor prothrombin complex concentrate|Chart Shorthand
+vit K|Vitamin K|Chart Shorthand
+IVIG|Intravenous immunoglobulin|Chart Shorthand
+alb|Albumin|Chart Shorthand
+25% alb|25 percent albumin|Chart Shorthand
+5% alb|5 percent albumin|Chart Shorthand
+ATC|Around the clock|Chart Shorthand
+AAT|Activity as tolerated|Chart Shorthand
+AAT|Alpha-1 antitrypsin|Chart Shorthand
+f/u recs|Follow up recommendations|Chart Shorthand
+appreciate recs|Appreciate consultant recommendations|Chart Shorthand
+pend|Pending|Chart Shorthand
+VU|Verbalized understanding|Chart Shorthand
+pt VU|Patient verbalized understanding|Chart Shorthand
+TB|Teach-back|Nursing
+TB|Tuberculosis|Chart Shorthand
+q2h turns|Turning and repositioning every 2 hours|Nursing
+TEDs|Thromboembolic deterrent stockings|Nursing
+FP|Fall precautions|Nursing
+BA|Bed alarm|Nursing
+BA|Bed assigned|Chart Shorthand
+CLIR|Call light in reach|Nursing
+SRUx2|Side rails up times two|Nursing
+SR|Side rails|Nursing
+SR|Soft restraints|Nursing
+SR|Sinus rhythm|Chart Shorthand
+SR|Sustained release|Chart Shorthand
+4PR|Four-point restraints|Nursing
+4-pt|Four-point (restraints)|Nursing
+2-pt|Two-point (restraints)|Nursing
+CR|Chemical restraint|Nursing
+CAM+|Delirium screen positive|Chart Shorthand
+CAM-|Delirium screen negative|Chart Shorthand
+RASS|Richmond Agitation-Sedation Scale|Chart Shorthand
+RASS 0|Alert and calm|Chart Shorthand
+RASS -2|Light sedation|Chart Shorthand
+CPOT|Critical-Care Pain Observation Tool|Nursing
+PAINAD|Pain Assessment in Advanced Dementia|Nursing
+NIPS|Neonatal Infant Pain Scale|Nursing
+FLACC|Face, legs, activity, cry, consolability (pain scale)|Nursing
+VAS|Visual analog scale|Chart Shorthand
+0/10|No pain on 0-10 scale|Chart Shorthand
+MEWS|Modified Early Warning Score|Nursing
+NEWS|National Early Warning Score|Nursing
+NEWS2|National Early Warning Score 2|Nursing
+PEWS|Pediatric Early Warning Score|Nursing
+EWS|Early warning score|Nursing
+RRT called|Rapid response team called|Chart Shorthand
+RRT activated|Rapid response team activated|Chart Shorthand
+TO|Transfer order|Chart Shorthand
+TO|Telephone order|Nursing
+VO|Verbal order|Nursing
+TORB|Telephone order read back|Nursing
+VORB|Verbal order read back|Nursing
+RB|Read back|Nursing
+CPOE|Computerized provider order entry|Chart Shorthand
+SRS|Safety reporting system|Chart Shorthand
+IR|Incident report|Chart Shorthand
+IR|Interventional radiology|Chart Shorthand
+IR|Immediate release|Chart Shorthand
+AE|Adverse event|Chart Shorthand
+SAE|Serious adverse event|Chart Shorthand
+ADE|Adverse drug event|Chart Shorthand
+ADR|Adverse drug reaction|Chart Shorthand
+attg|Attending|Chart Shorthand
+svc|Service|Chart Shorthand
+MICU svc|Medical intensive care unit service|Chart Shorthand
+gen med svc|General medicine service|Chart Shorthand
+cards svc|Cardiology service|Chart Shorthand
+IR|Interventional radiology team|Chart Shorthand
+GMS|General medicine service|Chart Shorthand
+HMS|Hospital medicine service|Chart Shorthand
+NT team|Non-teaching team|Chart Shorthand
+CR|Chief resident|Chart Shorthand
+adm|Admission|Chart Shorthand
+adm|Admit|Chart Shorthand
+accepting MD|Accepting physician|Chart Shorthand
+OSH transfer|Transfer from outside hospital|Chart Shorthand
+ED boarding|Admitted patient held in ED awaiting bed|Chart Shorthand
+boarder|Admitted patient held in ED or off-unit|Chart Shorthand
+obs status|Observation status|Chart Shorthand
+inpt status|Inpatient status|Chart Shorthand
+IP status|Inpatient status|Chart Shorthand
+ADT order|Admission, discharge, or transfer order|Chart Shorthand
+tx|Transport|Chart Shorthand
+tx|Treatment|Chart Shorthand
+tx|Transfer|Chart Shorthand
+tx|Transplant|Chart Shorthand
+ALS|Advanced life support|Chart Shorthand
+ALS|Amyotrophic lateral sclerosis|Chart Shorthand
+BLS|Basic life support|Chart Shorthand
+CCT|Critical care transport|Chart Shorthand
+DC time|Discharge time|Chart Shorthand
+DCBN|Discharge before noon|Chart Shorthand
+DBN|Discharge before noon|Chart Shorthand
+DC by noon|Discharge by noon|Chart Shorthand
+DC lounge|Discharge lounge|Chart Shorthand
+DC instructions|Discharge instructions|Chart Shorthand
+DCI|Discharge instructions|Chart Shorthand
+AVS|After visit summary|Chart Shorthand
+DC med rec|Discharge medication reconciliation|Chart Shorthand
+DMR|Discharge medication reconciliation|Chart Shorthand
+PCP appt|Primary care appointment|Chart Shorthand
+PCP f/u in 1 wk|Primary care follow-up in one week|Chart Shorthand
+TCM|Transitional care management|Chart Shorthand
+TOC call|Transition of care phone call|Chart Shorthand
+PDC|Post-discharge call|Chart Shorthand
+readmit|Readmission|Chart Shorthand
+bounceback|Early return or readmission after discharge|Chart Shorthand
+BB|Bounceback|Chart Shorthand
+BB|Beta blocker|Chart Shorthand
+30d readmit|Readmission within 30 days|Chart Shorthand
+7-day readmit|Readmission within 7 days|Chart Shorthand
+LOS|Length of stay|Chart Shorthand
+uptrending|Rising|Chart Shorthand
+downtrending|Falling|Chart Shorthand
+CR|Controlled release|Chart Shorthand
+MS|Medicine service|Chart Shorthand
+SC|Straight cath|Nursing
+APP|Advanced practice provider|Chart Shorthand
+CAM|Confusion Assessment Method (delirium screen)|Chart Shorthand
+TOC|Transition of care|Chart Shorthand
+SAR|Subacute rehabilitation|Chart Shorthand
+SAR|Senior assistant resident|Chart Shorthand
+JAR|Junior assistant resident|Chart Shorthand
+NE|Not examined|Chart Shorthand
+LKW|Last known well|Chart Shorthand
+PCA|Patient-controlled analgesia|Chart Shorthand
+MME|Morphine milligram equivalents|Chart Shorthand
+SSI|Sliding scale insulin|Chart Shorthand
+ISS|Insulin sliding scale|Chart Shorthand
+TDD|Total daily dose|Chart Shorthand
+ppx|Prophylaxis|Chart Shorthand
+DVT ppx|Deep vein thrombosis prophylaxis|Chart Shorthand
+VTE ppx|Venous thromboembolism prophylaxis|Chart Shorthand
+hep gtt|Heparin drip|Chart Shorthand
+gtt|Drip (infusion)|Chart Shorthand
+LDA|Lines, drains, airways|Nursing
+MD aware|Physician notified|Nursing
+WCTM|Will continue to monitor|Nursing
+NNO|No new orders|Nursing
+CTM|Continue to monitor|Chart Shorthand
+ADT|Admission, discharge, transfer|Chart Shorthand
+obs|Observation status|Chart Shorthand
+IP|Inpatient|Chart Shorthand
+LOC|Level of care|Chart Shorthand
+LOC|Loss of consciousness|Chart Shorthand
+Tmax|Maximum temperature (past 24 hours)|Chart Shorthand
+afeb|Afebrile|Chart Shorthand
+HDS|Hemodynamically stable|Chart Shorthand
+VSS|Vital signs stable|Chart Shorthand
+AVSS|Afebrile, vital signs stable|Chart Shorthand
+wet read|Preliminary radiology interpretation|Chart Shorthand
+prelim|Preliminary (read)|Chart Shorthand
+dispo|Disposition|Chart Shorthand
+SNF|Skilled nursing facility|Chart Shorthand
+LTACH|Long-term acute care hospital|Chart Shorthand
+HH|Home health|Chart Shorthand
+DME|Durable medical equipment|Chart Shorthand
+MOUD|Medications for opioid use disorder|Chart Shorthand
+UTox|Urine toxicology screen|Chart Shorthand
+BTP|Breakthrough pain|Chart Shorthand
+CIWA|Clinical Institute Withdrawal Assessment (alcohol)|Chart Shorthand
+COWS|Clinical Opiate Withdrawal Scale|Chart Shorthand
+LWBS|Left without being seen|Chart Shorthand
+LAEs|Liver-associated enzymes|Chart Shorthand
+NAGMA|Non-anion gap metabolic acidosis|Chart Shorthand
+LENIs|Lower extremity noninvasive (venous duplex) studies|Chart Shorthand
+NCHCT|Non-contrast head CT|Chart Shorthand
+CTAP|CT abdomen and pelvis|Chart Shorthand
+LIWS|Low intermittent wall suction|Chart Shorthand
+DHT|Dobhoff (small-bore feeding) tube|Chart Shorthand
+SILT|Sensation intact to light touch|Chart Shorthand
+MAEW|Moves all extremities well|Chart Shorthand
+FWW|Front-wheeled walker|Nursing
+BSC|Bedside commode|Nursing
+WBAT|Weight bearing as tolerated|Chart Shorthand
+NWB|Non-weight bearing|Chart Shorthand
+qHD|With each hemodialysis session|Chart Shorthand
+EDW|Estimated dry weight|Chart Shorthand
+TThS|Tuesday, Thursday, Saturday|Chart Shorthand

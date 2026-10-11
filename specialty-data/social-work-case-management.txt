@@ -1,0 +1,604 @@
+SNF|Skilled nursing facility|Social Work & Case Management
+D/P SNF|Distinct-part skilled nursing facility (hospital-based)|Social Work & Case Management
+SNU|Skilled nursing unit|Social Work & Case Management
+IRF|Inpatient rehabilitation facility|Social Work & Case Management
+AIR|Acute inpatient rehabilitation|Social Work & Case Management
+ARU|Acute rehabilitation unit|Social Work & Case Management
+SAR|Subacute rehabilitation|Social Work & Case Management
+STR|Short-term rehabilitation|Social Work & Case Management
+LTACH|Long-term acute care hospital|Social Work & Case Management
+LTAC|Long-term acute care|Social Work & Case Management
+LTC|Long-term care|Social Work & Case Management
+TCU|Transitional care unit|Social Work & Case Management
+HH|Home health|Social Work & Case Management
+HHC|Home health care|Social Work & Case Management
+HHA|Home health agency|Social Work & Case Management
+HHA|Home health aide|Social Work & Case Management
+VNA|Visiting nurse association|Social Work & Case Management
+MSS|Medical social services (home health)|Social Work & Case Management
+PDN|Private duty nursing|Social Work & Case Management
+ALF|Assisted living facility|Social Work & Case Management
+AL|Assisted living|Social Work & Case Management
+RCFE|Residential care facility for the elderly|Social Work & Case Management
+ARF|Adult residential facility|Social Work & Case Management
+B&C|Board and care|Social Work & Case Management
+ILF|Independent living facility|Social Work & Case Management
+IL|Independent living|Social Work & Case Management
+CCRC|Continuing care retirement community|Social Work & Case Management
+ICF|Intermediate care facility|Social Work & Case Management
+ICF/DD|Intermediate care facility for the developmentally disabled|Social Work & Case Management
+NF|Nursing facility|Social Work & Case Management
+NH|Nursing home|Social Work & Case Management
+GIP|General inpatient care (hospice level of care)|Social Work & Case Management
+RHC|Routine home care (hospice level of care)|Social Work & Case Management
+CHC|Continuous home care (hospice level of care)|Social Work & Case Management
+IRC|Inpatient respite care (hospice level of care)|Social Work & Case Management
+IPU|Inpatient unit (hospice)|Social Work & Case Management
+MHB|Medicare hospice benefit|Social Work & Case Management
+CTI|Certificate of terminal illness|Social Work & Case Management
+NOE|Notice of election (hospice)|Social Work & Case Management
+IDG|Interdisciplinary group (hospice)|Social Work & Case Management
+SRO|Single room occupancy|Social Work & Case Management
+SLE|Sober living environment|Social Work & Case Management
+SLH|Sober living home|Social Work & Case Management
+RTF|Residential treatment facility|Social Work & Case Management
+RTC|Residential treatment center|Social Work & Case Management
+RTC|Return to clinic|Social Work & Case Management
+PHP|Partial hospitalization program|Social Work & Case Management
+IOP|Intensive outpatient program|Social Work & Case Management
+OP|Outpatient|Social Work & Case Management
+IP|Inpatient|Social Work & Case Management
+MHRC|Mental health rehabilitation center|Social Work & Case Management
+IMD|Institution for mental diseases|Social Work & Case Management
+CSU|Crisis stabilization unit|Social Work & Case Management
+BHU|Behavioral health unit|Social Work & Case Management
+ADHC|Adult day health care|Social Work & Case Management
+ADC|Adult day care|Social Work & Case Management
+CBAS|Community-Based Adult Services|Social Work & Case Management
+ES|Emergency shelter|Social Work & Case Management
+TH|Transitional housing|Social Work & Case Management
+NC|Navigation center (San Francisco shelter)|Social Work & Case Management
+SIP|Shelter-in-place hotel|Social Work & Case Management
+ZSFG|Zuckerberg San Francisco General Hospital|Social Work & Case Management
+LHH|Laguna Honda Hospital|Social Work & Case Management
+DC|Discharge|Social Work & Case Management
+D/C|Discharge|Social Work & Case Management
+D/C|Discontinue|Social Work & Case Management
+DCP|Discharge planning|Social Work & Case Management
+DCP|Discharge planner|Social Work & Case Management
+DCS|Discharge summary|Social Work & Case Management
+AVS|After visit summary|Social Work & Case Management
+PAC|Post-acute care|Social Work & Case Management
+ELOS|Expected length of stay|Social Work & Case Management
+GMLOS|Geometric mean length of stay|Social Work & Case Management
+ALOS|Average length of stay|Social Work & Case Management
+LOS|Length of stay|Social Work & Case Management
+O/E|Observed-to-expected ratio|Social Work & Case Management
+EDD|Estimated discharge date|Social Work & Case Management
+EDD|Employment Development Department (California)|Social Work & Case Management
+DOA|Date of admission|Social Work & Case Management
+DOD|Date of discharge|Social Work & Case Management
+DOS|Date of service|Social Work & Case Management
+ADT|Admission, discharge, transfer|Social Work & Case Management
+AMA|Against medical advice|Social Work & Case Management
+AWOL|Absent without leave|Social Work & Case Management
+HWS|Home with services|Social Work & Case Management
+TOC|Transitions of care|Social Work & Case Management
+TCM|Transitional care management|Social Work & Case Management
+CCM|Chronic care management|Social Work & Case Management
+HRRP|Hospital Readmissions Reduction Program|Social Work & Case Management
+LACE|Length of stay, Acuity, Comorbidities, Emergency visits (readmission risk index)|Social Work & Case Management
+DRG|Diagnosis-related group|Social Work & Case Management
+MS-DRG|Medicare severity diagnosis-related group|Social Work & Case Management
+APR-DRG|All patient refined diagnosis-related group|Social Work & Case Management
+CMI|Case mix index|Social Work & Case Management
+CMG|Case mix group|Social Work & Case Management
+RUG|Resource utilization group|Social Work & Case Management
+PDPM|Patient-driven payment model|Social Work & Case Management
+PDGM|Patient-driven groupings model|Social Work & Case Management
+MDS|Minimum data set|Social Work & Case Management
+OASIS|Outcome and Assessment Information Set|Social Work & Case Management
+IRF-PAI|Inpatient Rehabilitation Facility Patient Assessment Instrument|Social Work & Case Management
+PASRR|Preadmission Screening and Resident Review|Social Work & Case Management
+TAR|Treatment authorization request (Medi-Cal)|Social Work & Case Management
+F2F|Face-to-face encounter|Social Work & Case Management
+SOC|Start of care (home health)|Social Work & Case Management
+SOC|Share of cost (Medi-Cal)|Social Work & Case Management
+ROC|Resumption of care (home health)|Social Work & Case Management
+POC|Plan of care|Social Work & Case Management
+POC|Portable oxygen concentrator|Social Work & Case Management
+CMN|Certificate of medical necessity|Social Work & Case Management
+LMN|Letter of medical necessity|Social Work & Case Management
+WOPD|Written order prior to delivery|Social Work & Case Management
+PA|Prior authorization|Social Work & Case Management
+PA|Physician advisor|Social Work & Case Management
+IPA|Independent practice association|Social Work & Case Management
+HMO|Health maintenance organization|Social Work & Case Management
+PPO|Preferred provider organization|Social Work & Case Management
+EPO|Exclusive provider organization|Social Work & Case Management
+POS|Point of service plan|Social Work & Case Management
+HDHP|High-deductible health plan|Social Work & Case Management
+OOP|Out of pocket|Social Work & Case Management
+OOPM|Out-of-pocket maximum|Social Work & Case Management
+OON|Out of network|Social Work & Case Management
+INN|In network|Social Work & Case Management
+OOA|Out of area|Social Work & Case Management
+OOC|Out of county|Social Work & Case Management
+EOB|Explanation of benefits|Social Work & Case Management
+COB|Coordination of benefits|Social Work & Case Management
+AOB|Assignment of benefits|Social Work & Case Management
+TPL|Third party liability|Social Work & Case Management
+FFS|Fee-for-service|Social Work & Case Management
+UM|Utilization management|Social Work & Case Management
+UR|Utilization review|Social Work & Case Management
+UR RN|Utilization review nurse|Social Work & Case Management
+IQ|InterQual criteria|Social Work & Case Management
+MCG|Milliman Care Guidelines|Social Work & Case Management
+LOC|Level of care|Social Work & Case Management
+ALC|Alternate level of care|Social Work & Case Management
+OBS|Observation status|Social Work & Case Management
+CDU|Clinical decision unit|Social Work & Case Management
+CC44|Condition code 44 (inpatient to outpatient status change)|Social Work & Case Management
+2MN|Two-midnight rule|Social Work & Case Management
+IPO|Inpatient-only list|Social Work & Case Management
+IM|Important Message from Medicare|Social Work & Case Management
+MOON|Medicare Outpatient Observation Notice|Social Work & Case Management
+ABN|Advance Beneficiary Notice of Noncoverage|Social Work & Case Management
+HINN|Hospital-Issued Notice of Noncoverage|Social Work & Case Management
+NOMNC|Notice of Medicare Non-Coverage|Social Work & Case Management
+DENC|Detailed Explanation of Non-Coverage|Social Work & Case Management
+NOA|Notice of admission|Social Work & Case Management
+P2P|Peer-to-peer review|Social Work & Case Management
+QIO|Quality Improvement Organization|Social Work & Case Management
+BFCC-QIO|Beneficiary and Family Centered Care Quality Improvement Organization|Social Work & Case Management
+RAC|Recovery Audit Contractor|Social Work & Case Management
+MAC|Medicare Administrative Contractor|Social Work & Case Management
+ADR|Additional documentation request|Social Work & Case Management
+LCD|Local coverage determination|Social Work & Case Management
+NCD|National coverage determination|Social Work & Case Management
+CoP|Conditions of Participation|Social Work & Case Management
+IPPS|Inpatient Prospective Payment System|Social Work & Case Management
+OPPS|Outpatient Prospective Payment System|Social Work & Case Management
+DSH|Disproportionate share hospital|Social Work & Case Management
+VBP|Value-based purchasing|Social Work & Case Management
+HAC|Hospital-acquired condition|Social Work & Case Management
+HCAHPS|Hospital Consumer Assessment of Healthcare Providers and Systems|Social Work & Case Management
+AVD|Avoidable day|Social Work & Case Management
+AD|Advance directive|Social Work & Case Management
+AD|Avoidable day|Social Work & Case Management
+MSE|Medical screening examination (EMTALA)|Social Work & Case Management
+CMS|Centers for Medicare & Medicaid Services|Social Work & Case Management
+HHS|Department of Health and Human Services|Social Work & Case Management
+DHCS|Department of Health Care Services (California)|Social Work & Case Management
+CDPH|California Department of Public Health|Social Work & Case Management
+CDSS|California Department of Social Services|Social Work & Case Management
+CDA|California Department of Aging|Social Work & Case Management
+DPH|Department of Public Health|Social Work & Case Management
+SFDPH|San Francisco Department of Public Health|Social Work & Case Management
+HSA|Human Services Agency|Social Work & Case Management
+SFHSA|San Francisco Human Services Agency|Social Work & Case Management
+DAS|Department of Disability and Aging Services (San Francisco)|Social Work & Case Management
+HSH|Department of Homelessness and Supportive Housing (San Francisco)|Social Work & Case Management
+BHS|Behavioral Health Services|Social Work & Case Management
+HOT|Homeless outreach team|Social Work & Case Management
+SFHOT|San Francisco Homeless Outreach Team|Social Work & Case Management
+MA|Medicare Advantage|Social Work & Case Management
+Medigap|Medicare supplement insurance|Social Work & Case Management
+Medi-Cal|California Medicaid program|Social Work & Case Management
+MCO|Managed care organization|Social Work & Case Management
+MCP|Managed care plan|Social Work & Case Management
+SNP|Special needs plan|Social Work & Case Management
+D-SNP|Dual eligible special needs plan|Social Work & Case Management
+C-SNP|Chronic condition special needs plan|Social Work & Case Management
+I-SNP|Institutional special needs plan|Social Work & Case Management
+MMP|Medicare-Medicaid plan|Social Work & Case Management
+CMC|Cal MediConnect|Social Work & Case Management
+CCI|Coordinated Care Initiative|Social Work & Case Management
+QMB|Qualified Medicare Beneficiary|Social Work & Case Management
+SLMB|Specified Low-Income Medicare Beneficiary|Social Work & Case Management
+QI|Qualifying Individual (Medicare Savings Program)|Social Work & Case Management
+MSP|Medicare Savings Program|Social Work & Case Management
+MSP|Medicare Secondary Payer|Social Work & Case Management
+LIS|Low-income subsidy (Medicare Part D Extra Help)|Social Work & Case Management
+MBI|Medicare Beneficiary Identifier|Social Work & Case Management
+HICN|Health Insurance Claim Number|Social Work & Case Management
+SSI|Supplemental Security Income|Social Work & Case Management
+SSP|State Supplementary Payment|Social Work & Case Management
+SSI/SSP|Supplemental Security Income/State Supplementary Payment|Social Work & Case Management
+SSDI|Social Security Disability Insurance|Social Work & Case Management
+RSDI|Retirement, Survivors, and Disability Insurance|Social Work & Case Management
+SSA|Social Security Administration|Social Work & Case Management
+SSN|Social Security number|Social Work & Case Management
+DDS|Disability Determination Services|Social Work & Case Management
+DDS|Department of Developmental Services (California)|Social Work & Case Management
+CDR|Continuing disability review|Social Work & Case Management
+ALJ|Administrative law judge|Social Work & Case Management
+Rep payee|Representative payee|Social Work & Case Management
+CAPI|Cash Assistance Program for Immigrants|Social Work & Case Management
+ABD|Aged, blind, and disabled|Social Work & Case Management
+SDI|State Disability Insurance|Social Work & Case Management
+PFL|Paid Family Leave|Social Work & Case Management
+FMLA|Family and Medical Leave Act|Social Work & Case Management
+CFRA|California Family Rights Act|Social Work & Case Management
+PDL|Pregnancy Disability Leave|Social Work & Case Management
+STD|Short-term disability|Social Work & Case Management
+LTD|Long-term disability|Social Work & Case Management
+UI|Unemployment insurance|Social Work & Case Management
+LOA|Leave of absence|Social Work & Case Management
+LWOP|Leave without pay|Social Work & Case Management
+LWOP|Life without parole|Social Work & Case Management
+RTW|Return to work|Social Work & Case Management
+WC|Workers' compensation|Social Work & Case Management
+W/C|Workers' compensation|Social Work & Case Management
+WC|Wheelchair|Social Work & Case Management
+W/C|Wheelchair|Social Work & Case Management
+COBRA|Consolidated Omnibus Budget Reconciliation Act|Social Work & Case Management
+ACA|Affordable Care Act|Social Work & Case Management
+HPE|Hospital presumptive eligibility|Social Work & Case Management
+PE|Presumptive eligibility|Social Work & Case Management
+EMTALA|Emergency Medical Treatment and Labor Act|Social Work & Case Management
+MSSP|Multipurpose Senior Services Program|Social Work & Case Management
+MSSP|Medicare Shared Savings Program|Social Work & Case Management
+IHSS|In-Home Supportive Services|Social Work & Case Management
+PACE|Program of All-Inclusive Care for the Elderly|Social Work & Case Management
+MLTSS|Managed long-term services and supports|Social Work & Case Management
+LTSS|Long-term services and supports|Social Work & Case Management
+HCBS|Home and community-based services|Social Work & Case Management
+HCBA|Home and Community-Based Alternatives waiver|Social Work & Case Management
+ALW|Assisted Living Waiver|Social Work & Case Management
+MFP|Money Follows the Person|Social Work & Case Management
+CCT|California Community Transitions|Social Work & Case Management
+CCT|Critical care transport|Social Work & Case Management
+CalAIM|California Advancing and Innovating Medi-Cal|Social Work & Case Management
+ECM|Enhanced Care Management|Social Work & Case Management
+CS|Community Supports (CalAIM)|Social Work & Case Management
+ILOS|In lieu of services|Social Work & Case Management
+PATH|Providing Access and Transforming Health|Social Work & Case Management
+HHP|Health Homes Program|Social Work & Case Management
+WPC|Whole Person Care|Social Work & Case Management
+SDOH|Social determinants of health|Social Work & Case Management
+HRSN|Health-related social needs|Social Work & Case Management
+CCS|California Children's Services|Social Work & Case Management
+GHPP|Genetically Handicapped Persons Program|Social Work & Case Management
+EPSDT|Early and Periodic Screening, Diagnostic, and Treatment|Social Work & Case Management
+CMSP|County Medical Services Program|Social Work & Case Management
+HSF|Healthy San Francisco|Social Work & Case Management
+SFHP|San Francisco Health Plan|Social Work & Case Management
+HPSM|Health Plan of San Mateo|Social Work & Case Management
+AAH|Alameda Alliance for Health|Social Work & Case Management
+KP|Kaiser Permanente|Social Work & Case Management
+FPL|Federal poverty level|Social Work & Case Management
+MAGI|Modified adjusted gross income|Social Work & Case Management
+AEVS|Automated Eligibility Verification System (Medi-Cal)|Social Work & Case Management
+BIC|Benefits Identification Card (Medi-Cal)|Social Work & Case Management
+MEDS|Medi-Cal Eligibility Data System|Social Work & Case Management
+CIN|Client Index Number (Medi-Cal)|Social Work & Case Management
+SAWS|Statewide Automated Welfare System|Social Work & Case Management
+CalSAWS|California Statewide Automated Welfare System|Social Work & Case Management
+VA|Department of Veterans Affairs|Social Work & Case Management
+VHA|Veterans Health Administration|Social Work & Case Management
+VBA|Veterans Benefits Administration|Social Work & Case Management
+SFVA|San Francisco VA Health Care System|Social Work & Case Management
+CCN|Community Care Network (VA)|Social Work & Case Management
+CHAMPVA|Civilian Health and Medical Program of the Department of Veterans Affairs|Social Work & Case Management
+DD-214|Certificate of Release or Discharge from Active Duty|Social Work & Case Management
+SC|Service-connected|Social Work & Case Management
+NSC|Non-service-connected|Social Work & Case Management
+A&A|Aid and Attendance|Social Work & Case Management
+HUD-VASH|Housing and Urban Development-Veterans Affairs Supportive Housing|Social Work & Case Management
+SSVF|Supportive Services for Veteran Families|Social Work & Case Management
+VSO|Veterans service officer|Social Work & Case Management
+VSO|Veterans service organization|Social Work & Case Management
+GPD|Grant and Per Diem program (VA)|Social Work & Case Management
+HCHV|Health Care for Homeless Veterans|Social Work & Case Management
+CRRC|Community Resource and Referral Center (VA)|Social Work & Case Management
+APS|Adult Protective Services|Social Work & Case Management
+CPS|Child Protective Services|Social Work & Case Management
+DCFS|Department of Children and Family Services|Social Work & Case Management
+CWS|Child Welfare Services|Social Work & Case Management
+FCS|Family and Children's Services (San Francisco)|Social Work & Case Management
+LTCOP|Long-Term Care Ombudsman Program|Social Work & Case Management
+MR|Mandated reporter|Social Work & Case Management
+SCAR|Suspected Child Abuse Report|Social Work & Case Management
+SOC 341|Suspected Child Abuse Report form (California)|Social Work & Case Management
+SOC 342|Report of Suspected Dependent Adult/Elder Abuse form (California)|Social Work & Case Management
+CANRA|Child Abuse and Neglect Reporting Act|Social Work & Case Management
+EADACPA|Elder Abuse and Dependent Adult Civil Protection Act|Social Work & Case Management
+TDM|Team decision-making meeting (child welfare)|Social Work & Case Management
+FM|Family maintenance (child welfare)|Social Work & Case Management
+FR|Family reunification (child welfare)|Social Work & Case Management
+ICWA|Indian Child Welfare Act|Social Work & Case Management
+IHS|Indian Health Service|Social Work & Case Management
+CASA|Court Appointed Special Advocates|Social Work & Case Management
+GAL|Guardian ad litem|Social Work & Case Management
+DV|Domestic violence|Social Work & Case Management
+IPV|Intimate partner violence|Social Work & Case Management
+VAWA|Violence Against Women Act|Social Work & Case Management
+TRO|Temporary restraining order|Social Work & Case Management
+EPO|Emergency protective order|Social Work & Case Management
+DVRO|Domestic violence restraining order|Social Work & Case Management
+CHRO|Civil harassment restraining order|Social Work & Case Management
+EARO|Elder abuse restraining order|Social Work & Case Management
+GVRO|Gun violence restraining order|Social Work & Case Management
+DA|District attorney|Social Work & Case Management
+HITS|Hurt, Insult, Threaten, Scream (partner violence screen)|Social Work & Case Management
+SART|Sexual Assault Response Team|Social Work & Case Management
+SANE|Sexual assault nurse examiner|Social Work & Case Management
+SA|Sexual assault|Social Work & Case Management
+SA|Substance abuse|Social Work & Case Management
+CSEC|Commercially sexually exploited children|Social Work & Case Management
+HT|Human trafficking|Social Work & Case Management
+MOW|Meals on Wheels|Social Work & Case Management
+AAA|Area Agency on Aging|Social Work & Case Management
+ADRC|Aging and Disability Resource Connection|Social Work & Case Management
+CBO|Community-based organization|Social Work & Case Management
+FQHC|Federally qualified health center|Social Work & Case Management
+CHC|Community health center|Social Work & Case Management
+CHW|Community health worker|Social Work & Case Management
+211|Community information and referral helpline|Social Work & Case Management
+988|Suicide and Crisis Lifeline|Social Work & Case Management
+CalFresh|California food assistance program (SNAP)|Social Work & Case Management
+SNAP|Supplemental Nutrition Assistance Program|Social Work & Case Management
+ABAWD|Able-bodied adult without dependents (SNAP work rule)|Social Work & Case Management
+SAR|Semi-annual report (CalFresh/CalWORKs)|Social Work & Case Management
+WIC|Special Supplemental Nutrition Program for Women, Infants, and Children|Social Work & Case Management
+WIC|Welfare and Institutions Code (California)|Social Work & Case Management
+W&I|Welfare and Institutions Code (California)|Social Work & Case Management
+H&S|Health and Safety Code (California)|Social Work & Case Management
+TANF|Temporary Assistance for Needy Families|Social Work & Case Management
+CalWORKs|California Work Opportunity and Responsibility to Kids|Social Work & Case Management
+GA|General assistance|Social Work & Case Management
+GR|General relief|Social Work & Case Management
+CAAP|County Adult Assistance Programs (San Francisco)|Social Work & Case Management
+PAES|Personal Assisted Employment Services (San Francisco)|Social Work & Case Management
+EBT|Electronic benefit transfer|Social Work & Case Management
+EITC|Earned income tax credit|Social Work & Case Management
+LIHEAP|Low Income Home Energy Assistance Program|Social Work & Case Management
+CARE|California Alternate Rates for Energy|Social Work & Case Management
+CARE|Community Assistance, Recovery, and Empowerment (CARE Court)|Social Work & Case Management
+HUD|Department of Housing and Urban Development|Social Work & Case Management
+HCV|Housing Choice Voucher|Social Work & Case Management
+PHA|Public housing authority|Social Work & Case Management
+SFHA|San Francisco Housing Authority|Social Work & Case Management
+MOHCD|Mayor's Office of Housing and Community Development (San Francisco)|Social Work & Case Management
+BMR|Below market rate (housing)|Social Work & Case Management
+PSH|Permanent supportive housing|Social Work & Case Management
+RRH|Rapid rehousing|Social Work & Case Management
+ERAP|Emergency rental assistance program|Social Work & Case Management
+CES|Coordinated Entry System|Social Work & Case Management
+CE|Coordinated entry|Social Work & Case Management
+HMIS|Homeless Management Information System|Social Work & Case Management
+VI-SPDAT|Vulnerability Index-Service Prioritization Decision Assistance Tool|Social Work & Case Management
+SPDAT|Service Prioritization Decision Assistance Tool|Social Work & Case Management
+PIT|Point-in-time count|Social Work & Case Management
+CoC|Continuum of Care (HUD)|Social Work & Case Management
+CoC|Continuity of care|Social Work & Case Management
+HOPWA|Housing Opportunities for Persons With AIDS|Social Work & Case Management
+DOR|Department of Rehabilitation (California)|Social Work & Case Management
+VR|Vocational rehabilitation|Social Work & Case Management
+RC|Regional center|Social Work & Case Management
+GGRC|Golden Gate Regional Center|Social Work & Case Management
+IDD|Intellectual and developmental disabilities|Social Work & Case Management
+DD|Developmental disability|Social Work & Case Management
+ID|Intellectual disability|Social Work & Case Management
+IEP|Individualized education program|Social Work & Case Management
+POA|Power of attorney|Social Work & Case Management
+DPOA|Durable power of attorney|Social Work & Case Management
+DPOA-HC|Durable power of attorney for health care|Social Work & Case Management
+HCPOA|Health care power of attorney|Social Work & Case Management
+AHCD|Advance health care directive|Social Work & Case Management
+POLST|Physician Orders for Life-Sustaining Treatment|Social Work & Case Management
+DNR|Do not resuscitate|Social Work & Case Management
+DNI|Do not intubate|Social Work & Case Management
+DNAR|Do not attempt resuscitation|Social Work & Case Management
+DNH|Do not hospitalize|Social Work & Case Management
+AND|Allow natural death|Social Work & Case Management
+ACP|Advance care planning|Social Work & Case Management
+SDM|Surrogate decision maker|Social Work & Case Management
+LAR|Legally authorized representative|Social Work & Case Management
+RP|Responsible party|Social Work & Case Management
+NOK|Next of kin|Social Work & Case Management
+EC|Emergency contact|Social Work & Case Management
+SO|Significant other|Social Work & Case Management
+LPS|Lanterman-Petris-Short Act|Social Work & Case Management
+5150|72-hour involuntary psychiatric hold (California W&I Code)|Social Work & Case Management
+5250|14-day involuntary psychiatric hold (California W&I Code)|Social Work & Case Management
+5270|Additional 30-day involuntary hold for grave disability (California W&I Code)|Social Work & Case Management
+5350|LPS conservatorship petition (California W&I Code)|Social Work & Case Management
+5585|72-hour involuntary hold for a minor (California W&I Code)|Social Work & Case Management
+1799|Emergency psychiatric hold in a non-designated facility (California H&S Code 1799.111)|Social Work & Case Management
+SB 43|California law expanding the grave disability definition under LPS|Social Work & Case Management
+T-con|Temporary conservatorship|Social Work & Case Management
+PG|Public guardian|Social Work & Case Management
+OPG|Office of the Public Guardian|Social Work & Case Management
+PC|Probate conservatorship|Social Work & Case Management
+DMC|Decision-making capacity|Social Work & Case Management
+DMC|Drug Medi-Cal|Social Work & Case Management
+DMC-ODS|Drug Medi-Cal Organized Delivery System|Social Work & Case Management
+IDT|Interdisciplinary team|Social Work & Case Management
+IDR|Interdisciplinary rounds|Social Work & Case Management
+FM|Family meeting|Social Work & Case Management
+GOC|Goals of care|Social Work & Case Management
+PPS|Palliative Performance Scale|Social Work & Case Management
+KPS|Karnofsky Performance Status|Social Work & Case Management
+FAST|Functional Assessment Staging Tool|Social Work & Case Management
+ROI|Release of information|Social Work & Case Management
+HIPAA|Health Insurance Portability and Accountability Act|Social Work & Case Management
+PHI|Protected health information|Social Work & Case Management
+42 CFR Part 2|Federal confidentiality rule for substance use disorder records|Social Work & Case Management
+PSDA|Patient Self-Determination Act|Social Work & Case Management
+CURES|Controlled Substance Utilization Review and Evaluation System|Social Work & Case Management
+PDMP|Prescription drug monitoring program|Social Work & Case Management
+DMV|Department of Motor Vehicles|Social Work & Case Management
+PO|Probation officer|Social Work & Case Management
+PO|Parole officer|Social Work & Case Management
+PRCS|Post-release community supervision|Social Work & Case Management
+CDCR|California Department of Corrections and Rehabilitation|Social Work & Case Management
+BOP|Federal Bureau of Prisons|Social Work & Case Management
+JHS|Jail Health Services|Social Work & Case Management
+LEO|Law enforcement officer|Social Work & Case Management
+SUD|Substance use disorder|Social Work & Case Management
+AUD|Alcohol use disorder|Social Work & Case Management
+OUD|Opioid use disorder|Social Work & Case Management
+StUD|Stimulant use disorder|Social Work & Case Management
+MAT|Medication-assisted treatment|Social Work & Case Management
+MOUD|Medications for opioid use disorder|Social Work & Case Management
+MAUD|Medications for alcohol use disorder|Social Work & Case Management
+OTP|Opioid treatment program|Social Work & Case Management
+OBOT|Office-based opioid treatment|Social Work & Case Management
+WM|Withdrawal management|Social Work & Case Management
+SBIRT|Screening, Brief Intervention, and Referral to Treatment|Social Work & Case Management
+CRAFFT|Car, Relax, Alone, Forget, Friends, Trouble (adolescent substance use screen)|Social Work & Case Management
+AUDIT|Alcohol Use Disorders Identification Test|Social Work & Case Management
+AUDIT-C|Alcohol Use Disorders Identification Test-Consumption|Social Work & Case Management
+DAST|Drug Abuse Screening Test|Social Work & Case Management
+DAST-10|Drug Abuse Screening Test, 10-item|Social Work & Case Management
+CAGE|Cut down, Annoyed, Guilty, Eye-opener (alcohol screen)|Social Work & Case Management
+TAPS|Tobacco, Alcohol, Prescription medication, and other Substance use tool|Social Work & Case Management
+COWS|Clinical Opiate Withdrawal Scale|Social Work & Case Management
+CIWA|Clinical Institute Withdrawal Assessment for Alcohol|Social Work & Case Management
+CIWA-Ar|Clinical Institute Withdrawal Assessment for Alcohol, revised|Social Work & Case Management
+ASAM|American Society of Addiction Medicine level-of-care criteria|Social Work & Case Management
+PSS|Peer support specialist|Social Work & Case Management
+SSP|Syringe services program|Social Work & Case Management
+NEP|Needle exchange program|Social Work & Case Management
+HR|Harm reduction|Social Work & Case Management
+AA|Alcoholics Anonymous|Social Work & Case Management
+NA|Narcotics Anonymous|Social Work & Case Management
+CA|Cocaine Anonymous|Social Work & Case Management
+SMART|Self-Management and Recovery Training|Social Work & Case Management
+CBT|Cognitive behavioral therapy|Social Work & Case Management
+DBT|Dialectical behavior therapy|Social Work & Case Management
+MI|Motivational interviewing|Social Work & Case Management
+MET|Motivational enhancement therapy|Social Work & Case Management
+CM|Contingency management|Social Work & Case Management
+CM|Case management|Social Work & Case Management
+CM|Case manager|Social Work & Case Management
+TIC|Trauma-informed care|Social Work & Case Management
+ACEs|Adverse childhood experiences|Social Work & Case Management
+PTSD|Post-traumatic stress disorder|Social Work & Case Management
+PCL-5|PTSD Checklist for DSM-5|Social Work & Case Management
+PHQ-9|Patient Health Questionnaire-9|Social Work & Case Management
+PHQ-2|Patient Health Questionnaire-2|Social Work & Case Management
+GAD-7|Generalized Anxiety Disorder-7|Social Work & Case Management
+EPDS|Edinburgh Postnatal Depression Scale|Social Work & Case Management
+C-SSRS|Columbia Suicide Severity Rating Scale|Social Work & Case Management
+ASQ|Ask Suicide-Screening Questions|Social Work & Case Management
+SI|Suicidal ideation|Social Work & Case Management
+HI|Homicidal ideation|Social Work & Case Management
+NSSI|Non-suicidal self-injury|Social Work & Case Management
+SIB|Self-injurious behavior|Social Work & Case Management
+PERT|Psychiatric Emergency Response Team|Social Work & Case Management
+PES|Psychiatric emergency services|Social Work & Case Management
+MCT|Mobile crisis team|Social Work & Case Management
+SCRT|Street Crisis Response Team (San Francisco)|Social Work & Case Management
+CIT|Crisis Intervention Team|Social Work & Case Management
+MH|Mental health|Social Work & Case Management
+BH|Behavioral health|Social Work & Case Management
+SMI|Serious mental illness|Social Work & Case Management
+SPMI|Serious and persistent mental illness|Social Work & Case Management
+SED|Serious emotional disturbance|Social Work & Case Management
+FSP|Full service partnership|Social Work & Case Management
+ICM|Intensive case management|Social Work & Case Management
+ACT|Assertive community treatment|Social Work & Case Management
+AOT|Assisted outpatient treatment (Laura's Law)|Social Work & Case Management
+MHSA|Mental Health Services Act|Social Work & Case Management
+BHSA|Behavioral Health Services Act|Social Work & Case Management
+SAMHSA|Substance Abuse and Mental Health Services Administration|Social Work & Case Management
+ETOH|Alcohol (ethanol)|Social Work & Case Management
+IVDU|Intravenous drug use|Social Work & Case Management
+PWID|People who inject drugs|Social Work & Case Management
+PWUD|People who use drugs|Social Work & Case Management
+PEH|People experiencing homelessness|Social Work & Case Management
+PLWH|People living with HIV|Social Work & Case Management
+ADAP|AIDS Drug Assistance Program|Social Work & Case Management
+RW|Ryan White HIV/AIDS Program|Social Work & Case Management
+FFA|Foster family agency|Social Work & Case Management
+ILP|Independent Living Program (foster youth)|Social Work & Case Management
+TAY|Transition-age youth|Social Work & Case Management
+AB 12|California extended foster care law|Social Work & Case Management
+NMD|Non-minor dependent|Social Work & Case Management
+DJJ|Division of Juvenile Justice|Social Work & Case Management
+JPD|Juvenile Probation Department|Social Work & Case Management
+ICE|Immigration and Customs Enforcement|Social Work & Case Management
+USCIS|U.S. Citizenship and Immigration Services|Social Work & Case Management
+U visa|Nonimmigrant visa for victims of qualifying crimes|Social Work & Case Management
+T visa|Nonimmigrant visa for victims of human trafficking|Social Work & Case Management
+DACA|Deferred Action for Childhood Arrivals|Social Work & Case Management
+TPS|Temporary protected status|Social Work & Case Management
+LPR|Lawful permanent resident|Social Work & Case Management
+PRUCOL|Permanently residing under color of law|Social Work & Case Management
+SIJS|Special immigrant juvenile status|Social Work & Case Management
+LEP|Limited English proficiency|Social Work & Case Management
+VRI|Video remote interpreting|Social Work & Case Management
+OPI|Over-the-phone interpreting|Social Work & Case Management
+ASL|American Sign Language|Social Work & Case Management
+CDI|Certified deaf interpreter|Social Work & Case Management
+CDI|Clinical documentation integrity|Social Work & Case Management
+DHH|Deaf and hard of hearing|Social Work & Case Management
+HOH|Hard of hearing|Social Work & Case Management
+TTY|Teletypewriter|Social Work & Case Management
+VRS|Video relay service|Social Work & Case Management
+CART|Communication Access Realtime Translation|Social Work & Case Management
+ADA|Americans with Disabilities Act|Social Work & Case Management
+LGBTQ|Lesbian, gay, bisexual, transgender, queer|Social Work & Case Management
+SOGI|Sexual orientation and gender identity|Social Work & Case Management
+PCA|Personal care attendant|Social Work & Case Management
+PCA|Personal care aide|Social Work & Case Management
+PCS|Personal care services|Social Work & Case Management
+PCS|Physician certification statement (ambulance transport)|Social Work & Case Management
+CNA|Certified nursing assistant|Social Work & Case Management
+LVN|Licensed vocational nurse|Social Work & Case Management
+LPN|Licensed practical nurse|Social Work & Case Management
+CG|Caregiver|Social Work & Case Management
+FCG|Family caregiver|Social Work & Case Management
+HSE|Home safety evaluation|Social Work & Case Management
+HME|Home medical equipment|Social Work & Case Management
+DME|Durable medical equipment|Social Work & Case Management
+HB|Hospital bed|Social Work & Case Management
+RW|Rolling walker|Social Work & Case Management
+FWW|Front-wheeled walker|Social Work & Case Management
+SPC|Single-point cane|Social Work & Case Management
+BSC|Bedside commode|Social Work & Case Management
+3-in-1|Three-in-one bedside commode|Social Work & Case Management
+TTB|Tub transfer bench|Social Work & Case Management
+ADL|Activities of daily living|Social Work & Case Management
+IADL|Instrumental activities of daily living|Social Work & Case Management
+FIM|Functional Independence Measure|Social Work & Case Management
+PLOF|Prior level of function|Social Work & Case Management
+PTA|Prior to admission|Social Work & Case Management
+PT|Physical therapy|Social Work & Case Management
+OT|Occupational therapy|Social Work & Case Management
+ST|Speech therapy|Social Work & Case Management
+SLP|Speech-language pathology|Social Work & Case Management
+OPAT|Outpatient parenteral antimicrobial therapy|Social Work & Case Management
+HD|Hemodialysis|Social Work & Case Management
+NEMT|Non-emergency medical transportation|Social Work & Case Management
+NMT|Non-medical transportation|Social Work & Case Management
+WAV|Wheelchair-accessible vehicle|Social Work & Case Management
+BLS|Basic life support (ambulance transport)|Social Work & Case Management
+ALS|Advanced life support (ambulance transport)|Social Work & Case Management
+SW|Social work|Social Work & Case Management
+SW|Social worker|Social Work & Case Management
+CSW|Clinical social worker|Social Work & Case Management
+MSW|Master of Social Work|Social Work & Case Management
+LCSW|Licensed clinical social worker|Social Work & Case Management
+ASW|Associate clinical social worker|Social Work & Case Management
+LMSW|Licensed master social worker|Social Work & Case Management
+BSW|Bachelor of Social Work|Social Work & Case Management
+RN CM|Registered nurse case manager|Social Work & Case Management
+CCM|Certified Case Manager|Social Work & Case Management
+ACM|Accredited Case Manager|Social Work & Case Management
+SSD|Social services director (nursing facility)|Social Work & Case Management
+DON|Director of nursing|Social Work & Case Management
+SOAP|Subjective, objective, assessment, plan|Social Work & Case Management
+DAP|Data, assessment, plan|Social Work & Case Management
+BIRP|Behavior, intervention, response, plan|Social Work & Case Management
+PSA|Psychosocial assessment|Social Work & Case Management
+BPS|Biopsychosocial|Social Work & Case Management
+BPSA|Biopsychosocial assessment|Social Work & Case Management
+PRAPARE|Protocol for Responding to and Assessing Patients' Assets, Risks, and Experiences|Social Work & Case Management
+AHC-HRSN|Accountable Health Communities Health-Related Social Needs screening tool|Social Work & Case Management
+Z codes|ICD-10 codes for social determinants of health|Social Work & Case Management
+PCP|Primary care provider|Social Work & Case Management
+f/u|Follow-up|Social Work & Case Management

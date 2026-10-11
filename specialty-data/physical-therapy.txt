@@ -1,0 +1,636 @@
+PT|Physical therapy|Physical Therapy
+PT|Physical therapist|Physical Therapy
+PTA|Physical therapist assistant|Physical Therapy
+DPT|Doctor of physical therapy|Physical Therapy
+MPT|Master of physical therapy|Physical Therapy
+BSPT|Bachelor of science in physical therapy|Physical Therapy
+OT|Occupational therapy|Physical Therapy
+SLP|Speech-language pathologist|Physical Therapy
+OCS|Orthopaedic clinical specialist|Physical Therapy
+NCS|Neurologic clinical specialist|Physical Therapy
+GCS|Geriatric clinical specialist|Physical Therapy
+SCS|Sports clinical specialist|Physical Therapy
+CCS|Cardiovascular and pulmonary clinical specialist|Physical Therapy
+PCS|Pediatric clinical specialist|Physical Therapy
+WCS|Women's health clinical specialist|Physical Therapy
+CLT|Certified lymphedema therapist|Physical Therapy
+CLT-LANA|Certified lymphedema therapist, Lymphology Association of North America|Physical Therapy
+NWB|Non-weight bearing|Physical Therapy
+TDWB|Touch-down weight bearing|Physical Therapy
+TTWB|Toe-touch weight bearing|Physical Therapy
+PWB|Partial weight bearing|Physical Therapy
+WBAT|Weight bearing as tolerated|Physical Therapy
+FWB|Full weight bearing|Physical Therapy
+I|Independent|Physical Therapy
+Mod I|Modified independent|Physical Therapy
+S|Supervision|Physical Therapy
+SBA|Standby assist|Physical Therapy
+CGA|Contact guard assist|Physical Therapy
+Min A|Minimal assistance|Physical Therapy
+Mod A|Moderate assistance|Physical Therapy
+Max A|Maximal assistance|Physical Therapy
+Dep|Dependent|Physical Therapy
+Total A|Total assistance|Physical Therapy
+x1|Assistance of one person|Physical Therapy
+x2|Assistance of two persons|Physical Therapy
++1|Assistance of one person|Physical Therapy
++2|Assistance of two persons|Physical Therapy
+VC|Verbal cues|Physical Therapy
+VCs|Verbal cues|Physical Therapy
+TC|Tactile cues|Physical Therapy
+HHA|Hand-held assist|Physical Therapy
+UE|Upper extremity|Physical Therapy
+LE|Lower extremity|Physical Therapy
+BUE|Bilateral upper extremities|Physical Therapy
+BLE|Bilateral lower extremities|Physical Therapy
+RUE|Right upper extremity|Physical Therapy
+LUE|Left upper extremity|Physical Therapy
+RLE|Right lower extremity|Physical Therapy
+LLE|Left lower extremity|Physical Therapy
+STS|Sit to stand|Physical Therapy
+Sit<>stand|Sit to stand and stand to sit|Physical Therapy
+Supine<>sit|Supine to sit and sit to supine|Physical Therapy
+STE|Stair training|Physical Therapy
+Bed mob|Bed mobility|Physical Therapy
+Tx|Transfer|Physical Therapy
+Tx|Treatment|Physical Therapy
+Txfr|Transfer|Physical Therapy
+SPT|Stand pivot transfer|Physical Therapy
+SqPT|Squat pivot transfer|Physical Therapy
+SBT|Slide board transfer|Physical Therapy
+Lat scoot|Lateral scoot|Physical Therapy
+OOB|Out of bed|Physical Therapy
+EOB|Edge of bed|Physical Therapy
+W/C|Wheelchair|Physical Therapy
+WC|Wheelchair|Physical Therapy
+MWC|Manual wheelchair|Physical Therapy
+PWC|Power wheelchair|Physical Therapy
+POV|Power-operated vehicle|Physical Therapy
+Amb|Ambulation|Physical Therapy
+GT|Gait training|Physical Therapy
+Gait tx|Gait training|Physical Therapy
+FWW|Front-wheeled walker|Physical Therapy
+2WW|Two-wheeled walker|Physical Therapy
+4WW|Four-wheeled walker|Physical Therapy
+RW|Rolling walker|Physical Therapy
+SW|Standard walker|Physical Therapy
+Std walker|Standard walker|Physical Therapy
+HW|Hemi walker|Physical Therapy
+PW|Platform walker|Physical Therapy
+Rollator|Four-wheeled walker with seat and brakes|Physical Therapy
+SPC|Single-point cane|Physical Therapy
+QC|Quad cane|Physical Therapy
+LBQC|Large-base quad cane|Physical Therapy
+SBQC|Small-base quad cane|Physical Therapy
+Ax crutches|Axillary crutches|Physical Therapy
+FAC|Forearm crutches|Physical Therapy
+LC|Lofstrand crutches|Physical Therapy
+AD|Assistive device|Physical Therapy
+LRAD|Least restrictive assistive device|Physical Therapy
+3-pt gait|Three-point gait pattern|Physical Therapy
+2-pt gait|Two-point gait pattern|Physical Therapy
+4-pt gait|Four-point gait pattern|Physical Therapy
+BOS|Base of support|Physical Therapy
+COM|Center of mass|Physical Therapy
+LOB|Loss of balance|Physical Therapy
+LOS|Limits of stability|Physical Therapy
+SLS|Single-leg stance|Physical Therapy
+TUG|Timed up and go|Physical Therapy
+BBS|Berg balance scale|Physical Therapy
+DGI|Dynamic gait index|Physical Therapy
+FGA|Functional gait assessment|Physical Therapy
+6MWT|Six-minute walk test|Physical Therapy
+2MWT|Two-minute walk test|Physical Therapy
+10MWT|Ten-meter walk test|Physical Therapy
+5xSTS|Five times sit-to-stand test|Physical Therapy
+5TSTS|Five times sit-to-stand test|Physical Therapy
+AM-PAC|Activity Measure for Post-Acute Care|Physical Therapy
+AM-PAC 6-Clicks|Activity Measure for Post-Acute Care 6-Clicks short form|Physical Therapy
+6-Clicks|AM-PAC 6-Clicks short form|Physical Therapy
+JH-HLM|Johns Hopkins Highest Level of Mobility|Physical Therapy
+POMA|Performance-oriented mobility assessment|Physical Therapy
+ABC|Activities-specific balance confidence scale|Physical Therapy
+SPPB|Short physical performance battery|Physical Therapy
+FRT|Functional reach test|Physical Therapy
+FSST|Four square step test|Physical Therapy
+Mini-BESTest|Mini balance evaluation systems test|Physical Therapy
+mCTSIB|Modified clinical test of sensory interaction on balance|Physical Therapy
+SOT|Sensory organization test|Physical Therapy
+LEFS|Lower extremity functional scale|Physical Therapy
+DASH|Disabilities of the arm, shoulder and hand|Physical Therapy
+NDI|Neck disability index|Physical Therapy
+ODI|Oswestry disability index|Physical Therapy
+KOOS|Knee injury and osteoarthritis outcome score|Physical Therapy
+HOOS|Hip disability and osteoarthritis outcome score|Physical Therapy
+PSFS|Patient-specific functional scale|Physical Therapy
+FOTO|Focus on Therapeutic Outcomes|Physical Therapy
+NPRS|Numeric pain rating scale|Physical Therapy
+FIM|Functional independence measure|Physical Therapy
+MDC|Minimal detectable change|Physical Therapy
+MCID|Minimal clinically important difference|Physical Therapy
+SCIM|Spinal cord independence measure|Physical Therapy
+FMA|Fugl-Meyer assessment|Physical Therapy
+FMA-UE|Fugl-Meyer assessment of the upper extremity|Physical Therapy
+MAS|Modified Ashworth scale|Physical Therapy
+WISCI|Walking index for spinal cord injury|Physical Therapy
+ASIA|American Spinal Injury Association impairment scale|Physical Therapy
+AIS|ASIA impairment scale|Physical Therapy
+RLA|Rancho Los Amigos scale of cognitive functioning|Physical Therapy
+GCS|Glasgow coma scale|Physical Therapy
+UPDRS|Unified Parkinson's disease rating scale|Physical Therapy
+H&Y|Hoehn and Yahr stage|Physical Therapy
+EDSS|Expanded disability status scale|Physical Therapy
+T25FW|Timed 25-foot walk|Physical Therapy
+ARAT|Action research arm test|Physical Therapy
+WMFT|Wolf motor function test|Physical Therapy
+MoCA|Montreal cognitive assessment|Physical Therapy
+PFIT|Physical function in intensive care test|Physical Therapy
+FSS-ICU|Functional status score for the intensive care unit|Physical Therapy
+IMS|ICU mobility scale|Physical Therapy
+ICU-AW|Intensive care unit-acquired weakness|Physical Therapy
+EM|Early mobility|Physical Therapy
+ROM|Range of motion|Physical Therapy
+AROM|Active range of motion|Physical Therapy
+PROM|Passive range of motion|Physical Therapy
+AAROM|Active-assisted range of motion|Physical Therapy
+WNL|Within normal limits|Physical Therapy
+WFL|Within functional limits|Physical Therapy
+MMT|Manual muscle test|Physical Therapy
+MMT|Manual muscle testing|Physical Therapy
+5/5|Normal strength on manual muscle testing|Physical Therapy
+4/5|Good strength on manual muscle testing|Physical Therapy
+3/5|Fair strength on manual muscle testing|Physical Therapy
+2/5|Poor strength on manual muscle testing|Physical Therapy
+1/5|Trace strength on manual muscle testing|Physical Therapy
+0/5|No contraction on manual muscle testing|Physical Therapy
+DF|Dorsiflexion|Physical Therapy
+PF|Plantarflexion|Physical Therapy
+IR|Internal rotation|Physical Therapy
+ER|External rotation|Physical Therapy
+SLR|Straight leg raise|Physical Therapy
+SAQ|Short arc quad|Physical Therapy
+LAQ|Long arc quad|Physical Therapy
+QS|Quad set|Physical Therapy
+APs|Ankle pumps|Physical Therapy
+TA|Tibialis anterior|Physical Therapy
+ITB|Iliotibial band|Physical Therapy
+ITBS|Iliotibial band syndrome|Physical Therapy
+RTC|Rotator cuff|Physical Therapy
+RCR|Rotator cuff repair|Physical Therapy
+SLAP|Superior labrum anterior to posterior lesion|Physical Therapy
+GHJ|Glenohumeral joint|Physical Therapy
+TSA|Total shoulder arthroplasty|Physical Therapy
+rTSA|Reverse total shoulder arthroplasty|Physical Therapy
+ACL|Anterior cruciate ligament|Physical Therapy
+ACLR|Anterior cruciate ligament reconstruction|Physical Therapy
+PCL|Posterior cruciate ligament|Physical Therapy
+MCL|Medial collateral ligament|Physical Therapy
+LCL|Lateral collateral ligament|Physical Therapy
+PFPS|Patellofemoral pain syndrome|Physical Therapy
+TKA|Total knee arthroplasty|Physical Therapy
+THA|Total hip arthroplasty|Physical Therapy
+ORIF|Open reduction and internal fixation|Physical Therapy
+IM nail|Intramedullary nail|Physical Therapy
+Fx|Fracture|Physical Therapy
+s/p|Status post|Physical Therapy
+PTA|Prior to admission|Physical Therapy
+PLOF|Prior level of function|Physical Therapy
+PLF|Prior level of function|Physical Therapy
+CLOF|Current level of function|Physical Therapy
+LOF|Level of function|Physical Therapy
+OA|Osteoarthritis|Physical Therapy
+DJD|Degenerative joint disease|Physical Therapy
+DDD|Degenerative disc disease|Physical Therapy
+LBP|Low back pain|Physical Therapy
+SIJ|Sacroiliac joint|Physical Therapy
+PA|Posterior-anterior mobilization|Physical Therapy
+MDT|Mechanical diagnosis and therapy (McKenzie method)|Physical Therapy
+DP|Directional preference|Physical Therapy
+CPR|Clinical prediction rule|Physical Therapy
+CPG|Clinical practice guideline|Physical Therapy
+STM|Soft tissue mobilization|Physical Therapy
+MFR|Myofascial release|Physical Therapy
+DN|Dry needling|Physical Therapy
+HVLA|High-velocity low-amplitude thrust manipulation|Physical Therapy
+MWM|Mobilization with movement|Physical Therapy
+SNAG|Sustained natural apophyseal glide|Physical Therapy
+MT|Manual therapy|Physical Therapy
+TE|Therapeutic exercise|Physical Therapy
+Ther ex|Therapeutic exercise|Physical Therapy
+NMR|Neuromuscular re-education|Physical Therapy
+HEP|Home exercise program|Physical Therapy
+UBE|Upper body ergometer|Physical Therapy
+PRE|Progressive resistive exercise|Physical Therapy
+1RM|One-repetition maximum|Physical Therapy
+CKC|Closed kinetic chain|Physical Therapy
+OKC|Open kinetic chain|Physical Therapy
+BFR|Blood flow restriction training|Physical Therapy
+PNF|Proprioceptive neuromuscular facilitation|Physical Therapy
+NDT|Neurodevelopmental treatment|Physical Therapy
+CIMT|Constraint-induced movement therapy|Physical Therapy
+BWSTT|Body weight-supported treadmill training|Physical Therapy
+FES|Functional electrical stimulation|Physical Therapy
+NMES|Neuromuscular electrical stimulation|Physical Therapy
+TENS|Transcutaneous electrical nerve stimulation|Physical Therapy
+IFC|Interferential current|Physical Therapy
+E-stim|Electrical stimulation|Physical Therapy
+Ionto|Iontophoresis|Physical Therapy
+US|Ultrasound|Physical Therapy
+MHP|Moist heat pack|Physical Therapy
+SWD|Short-wave diathermy|Physical Therapy
+CPM|Continuous passive motion|Physical Therapy
+RICE|Rest, ice, compression, elevation|Physical Therapy
+BPPV|Benign paroxysmal positional vertigo|Physical Therapy
+CRM|Canalith repositioning maneuver|Physical Therapy
+VOR|Vestibulo-ocular reflex|Physical Therapy
+VRT|Vestibular rehabilitation therapy|Physical Therapy
+DHI|Dizziness handicap inventory|Physical Therapy
+HIT|Head impulse test|Physical Therapy
+HINTS|Head impulse, nystagmus, test of skew|Physical Therapy
+UVH|Unilateral vestibular hypofunction|Physical Therapy
+BVH|Bilateral vestibular hypofunction|Physical Therapy
+PPPD|Persistent postural-perceptual dizziness|Physical Therapy
+mTBI|Mild traumatic brain injury|Physical Therapy
+TBI|Traumatic brain injury|Physical Therapy
+PCS|Post-concussion syndrome|Physical Therapy
+RTP|Return to play|Physical Therapy
+RTS|Return to sport|Physical Therapy
+RTW|Return to work|Physical Therapy
+CVA|Cerebrovascular accident|Physical Therapy
+SCI|Spinal cord injury|Physical Therapy
+FoG|Freezing of gait|Physical Therapy
+LSVT BIG|Lee Silverman voice treatment BIG program|Physical Therapy
+GMFM|Gross motor function measure|Physical Therapy
+GMFCS|Gross motor function classification system|Physical Therapy
+PDMS-2|Peabody developmental motor scales, second edition|Physical Therapy
+AIMS|Alberta infant motor scale|Physical Therapy
+PEDI|Pediatric evaluation of disability inventory|Physical Therapy
+EI|Early intervention|Physical Therapy
+RPE|Rating of perceived exertion|Physical Therapy
+Borg|Borg rating of perceived exertion scale|Physical Therapy
+METs|Metabolic equivalents of task|Physical Therapy
+SpO2|Peripheral oxygen saturation|Physical Therapy
+DOE|Dyspnea on exertion|Physical Therapy
+OH|Orthostatic hypotension|Physical Therapy
+VSS|Vital signs stable|Physical Therapy
+VO2max|Maximal oxygen consumption|Physical Therapy
+CPET|Cardiopulmonary exercise test|Physical Therapy
+CR|Cardiac rehabilitation|Physical Therapy
+PR|Pulmonary rehabilitation|Physical Therapy
+ACT|Airway clearance technique|Physical Therapy
+ACBT|Active cycle of breathing technique|Physical Therapy
+CPT|Chest physiotherapy|Physical Therapy
+PEP|Positive expiratory pressure|Physical Therapy
+IS|Incentive spirometer|Physical Therapy
+IMT|Inspiratory muscle training|Physical Therapy
+RA|Room air|Physical Therapy
+LVAD|Left ventricular assist device|Physical Therapy
+PAD|Peripheral arterial disease|Physical Therapy
+SET|Supervised exercise therapy|Physical Therapy
+HOB|Head of bed|Physical Therapy
+HOB 30|Head of bed elevated 30 degrees|Physical Therapy
+SCDs|Sequential compression devices|Physical Therapy
+THP|Total hip precautions|Physical Therapy
+PHP|Posterior hip precautions|Physical Therapy
+AHP|Anterior hip precautions|Physical Therapy
+Sternal precautions|Restrictions on upper extremity loading after sternotomy|Physical Therapy
+Spinal precautions|No bending, lifting or twisting of the spine|Physical Therapy
+BLT|No bending, lifting or twisting|Physical Therapy
+Log roll|Log-roll technique for bed mobility with spinal precautions|Physical Therapy
+C-collar|Cervical collar|Physical Therapy
+TLSO|Thoracolumbosacral orthosis|Physical Therapy
+LSO|Lumbosacral orthosis|Physical Therapy
+AFO|Ankle-foot orthosis|Physical Therapy
+KAFO|Knee-ankle-foot orthosis|Physical Therapy
+HKAFO|Hip-knee-ankle-foot orthosis|Physical Therapy
+CAM boot|Controlled ankle motion walking boot|Physical Therapy
+PRAFO|Pressure-relief ankle-foot orthosis|Physical Therapy
+KI|Knee immobilizer|Physical Therapy
+BKA|Below-knee amputation|Physical Therapy
+AKA|Above-knee amputation|Physical Therapy
+K-level|Medicare functional classification level for prosthetic use|Physical Therapy
+DME|Durable medical equipment|Physical Therapy
+BSC|Bedside commode|Physical Therapy
+3-in-1|Three-in-one commode|Physical Therapy
+RTS|Raised toilet seat|Physical Therapy
+TTB|Tub transfer bench|Physical Therapy
+SPHM|Safe patient handling and mobility|Physical Therapy
+Hoyer|Hoyer mechanical lift|Physical Therapy
+Hoyer lift|Hydraulic or powered mechanical patient lift|Physical Therapy
+Sara Stedy|Standing transfer aid|Physical Therapy
+Gait belt|Transfer belt|Physical Therapy
+PFPT|Pelvic floor physical therapy|Physical Therapy
+PFMT|Pelvic floor muscle training|Physical Therapy
+PFD|Pelvic floor dysfunction|Physical Therapy
+SUI|Stress urinary incontinence|Physical Therapy
+UUI|Urge urinary incontinence|Physical Therapy
+MUI|Mixed urinary incontinence|Physical Therapy
+POP|Pelvic organ prolapse|Physical Therapy
+DRA|Diastasis recti abdominis|Physical Therapy
+PGP|Pelvic girdle pain|Physical Therapy
+CDT|Complete decongestive therapy|Physical Therapy
+MLD|Manual lymphatic drainage|Physical Therapy
+BCRL|Breast cancer-related lymphedema|Physical Therapy
+IPC|Intermittent pneumatic compression|Physical Therapy
+AWS|Axillary web syndrome|Physical Therapy
+ADL|Activity of daily living|Physical Therapy
+ADLs|Activities of daily living|Physical Therapy
+IADLs|Instrumental activities of daily living|Physical Therapy
+FOF|Fear of falling|Physical Therapy
+STEADI|Stopping Elderly Accidents, Deaths and Injuries|Physical Therapy
+POC|Plan of care|Physical Therapy
+STG|Short-term goal|Physical Therapy
+LTG|Long-term goal|Physical Therapy
+SOAP|Subjective, objective, assessment, plan|Physical Therapy
+Eval|Evaluation|Physical Therapy
+Re-eval|Re-evaluation|Physical Therapy
+D/C|Discharge|Physical Therapy
+d/c|Discontinue|Physical Therapy
+D/C plan|Discharge plan|Physical Therapy
+D/C rec|Discharge recommendation|Physical Therapy
+f/u|Follow up|Physical Therapy
+ICF|International Classification of Functioning, Disability and Health|Physical Therapy
+CPT code|Current Procedural Terminology code|Physical Therapy
+KX modifier|Medicare modifier attesting medical necessity above the therapy threshold|Physical Therapy
+GP modifier|Modifier indicating services delivered under a PT plan of care|Physical Therapy
+CQ modifier|Modifier for services furnished in whole or in part by a PTA|Physical Therapy
+MPPR|Multiple procedure payment reduction|Physical Therapy
+8-minute rule|Medicare rule for billing timed CPT units in 15-minute increments|Physical Therapy
+CMS|Centers for Medicare & Medicaid Services|Physical Therapy
+ABN|Advance beneficiary notice of noncoverage|Physical Therapy
+OASIS|Outcome and assessment information set|Physical Therapy
+MDS|Minimum data set|Physical Therapy
+PDPM|Patient-driven payment model|Physical Therapy
+PDGM|Patient-driven groupings model|Physical Therapy
+IRF-PAI|Inpatient rehabilitation facility patient assessment instrument|Physical Therapy
+CARE tool|Continuity assessment record and evaluation tool|Physical Therapy
+Section GG|Functional abilities and goals section of post-acute care assessments|Physical Therapy
+GG|Section GG functional scoring|Physical Therapy
+3-hour rule|Inpatient rehabilitation facility requirement of three hours of therapy per day|Physical Therapy
+60% rule|Inpatient rehabilitation facility compliance threshold for qualifying diagnoses|Physical Therapy
+3-midnight rule|Medicare three-day inpatient stay requirement for SNF coverage|Physical Therapy
+WC|Workers' compensation|Physical Therapy
+FCE|Functional capacity evaluation|Physical Therapy
+WH|Work hardening|Physical Therapy
+DA|Direct access|Physical Therapy
+PT consult|Physical therapy consultation order|Physical Therapy
+E&T|Evaluate and treat|Physical Therapy
+PT/OT|Physical therapy and occupational therapy|Physical Therapy
+PT/OT/ST|Physical, occupational and speech therapy|Physical Therapy
+Tol well|Tolerated well|Physical Therapy
+SNF|Skilled nursing facility|Physical Therapy
+IRF|Inpatient rehabilitation facility|Physical Therapy
+AIR|Acute inpatient rehabilitation|Physical Therapy
+SAR|Subacute rehabilitation|Physical Therapy
+LTACH|Long-term acute care hospital|Physical Therapy
+LTC|Long-term care|Physical Therapy
+HH|Home health|Physical Therapy
+HHPT|Home health physical therapy|Physical Therapy
+OP|Outpatient|Physical Therapy
+ALF|Assisted living facility|Physical Therapy
+ILF|Independent living facility|Physical Therapy
+TCU|Transitional care unit|Physical Therapy
+ARU|Acute rehabilitation unit|Physical Therapy
+D/C home|Discharge home|Physical Therapy
+D/C home w/ HH|Discharge home with home health services|Physical Therapy
+24/7 supervision|Round-the-clock supervision recommended|Physical Therapy
+CG|Caregiver|Physical Therapy
+SW|Social work|Physical Therapy
+CM|Case management|Physical Therapy
+PM&R|Physical medicine and rehabilitation|Physical Therapy
+MSK|Musculoskeletal|Physical Therapy
+CSCS|Certified strength and conditioning specialist|Physical Therapy
+ATC|Certified athletic trainer|Physical Therapy
+CHT|Certified hand therapist|Physical Therapy
+NPTE|National Physical Therapy Examination|Physical Therapy
+CI|Clinical instructor|Physical Therapy
+SPT|Student physical therapist|Physical Therapy
+Berg|Berg balance scale|Physical Therapy
+Tinetti|Tinetti performance-oriented mobility assessment|Physical Therapy
+FES-I|Falls efficacy scale, international|Physical Therapy
+4SST|Four square step test|Physical Therapy
+BESTest|Balance evaluation systems test|Physical Therapy
+CTSIB|Clinical test of sensory interaction on balance|Physical Therapy
+QuickDASH|Shortened disabilities of the arm, shoulder and hand questionnaire|Physical Therapy
+RMDQ|Roland-Morris disability questionnaire|Physical Therapy
+WOMAC|Western Ontario and McMaster Universities osteoarthritis index|Physical Therapy
+IKDC|International Knee Documentation Committee subjective knee form|Physical Therapy
+FAAM|Foot and ankle ability measure|Physical Therapy
+SPADI|Shoulder pain and disability index|Physical Therapy
+VAS|Visual analog scale|Physical Therapy
+FABQ|Fear-avoidance beliefs questionnaire|Physical Therapy
+TSK|Tampa scale of kinesiophobia|Physical Therapy
+STarT Back|Subgroups for targeted treatment back screening tool|Physical Therapy
+FAM|Functional assessment measure|Physical Therapy
+GAS|Goal attainment scaling|Physical Therapy
+PROMIS|Patient-reported outcomes measurement information system|Physical Therapy
+GROC|Global rating of change|Physical Therapy
+STREAM|Stroke rehabilitation assessment of movement|Physical Therapy
+PASS|Postural assessment scale for stroke patients|Physical Therapy
+MAS|Motor assessment scale|Physical Therapy
+HiMAT|High-level mobility assessment tool|Physical Therapy
+ISNCSCI|International standards for neurological classification of spinal cord injury|Physical Therapy
+mRS|Modified Rankin scale|Physical Therapy
+NIHSS|National Institutes of Health stroke scale|Physical Therapy
+9HPT|Nine-hole peg test|Physical Therapy
+BBT|Box and block test|Physical Therapy
+MAL|Motor activity log|Physical Therapy
+CAHAI|Chedoke arm and hand activity inventory|Physical Therapy
+CMSA|Chedoke-McMaster stroke assessment|Physical Therapy
+MMSE|Mini-mental state examination|Physical Therapy
+A&Ox3|Alert and oriented to person, place and time|Physical Therapy
+A&Ox4|Alert and oriented to person, place, time and situation|Physical Therapy
+RASS|Richmond agitation-sedation scale|Physical Therapy
+CAM-ICU|Confusion assessment method for the intensive care unit|Physical Therapy
+CPAx|Chelsea critical care physical assessment tool|Physical Therapy
+MRC-SS|Medical Research Council sum score|Physical Therapy
+PICS|Post-intensive care syndrome|Physical Therapy
+DTR|Deep tendon reflex|Physical Therapy
+Inv|Inversion|Physical Therapy
+Ev|Eversion|Physical Therapy
+Flex|Flexion|Physical Therapy
+Ext|Extension|Physical Therapy
+Abd|Abduction|Physical Therapy
+Add|Adduction|Physical Therapy
+Sup|Supination|Physical Therapy
+Pron|Pronation|Physical Therapy
+Lat flex|Lateral flexion|Physical Therapy
+GS|Glute set|Physical Therapy
+HS set|Hamstring set|Physical Therapy
+HAA|Hip abduction and adduction|Physical Therapy
+TKE|Terminal knee extension|Physical Therapy
+SLB|Single-leg balance|Physical Therapy
+TA|Transversus abdominis|Physical Therapy
+TFL|Tensor fasciae latae|Physical Therapy
+QL|Quadratus lumborum|Physical Therapy
+SCM|Sternocleidomastoid|Physical Therapy
+UT|Upper trapezius|Physical Therapy
+LT|Lower trapezius|Physical Therapy
+SA|Serratus anterior|Physical Therapy
+RC|Rotator cuff|Physical Therapy
+RCT|Rotator cuff tear|Physical Therapy
+SITS|Supraspinatus, infraspinatus, teres minor, subscapularis|Physical Therapy
+AC joint|Acromioclavicular joint|Physical Therapy
+GH joint|Glenohumeral joint|Physical Therapy
+ST joint|Scapulothoracic joint|Physical Therapy
+SIS|Subacromial impingement syndrome|Physical Therapy
+SAPS|Subacromial pain syndrome|Physical Therapy
+ATFL|Anterior talofibular ligament|Physical Therapy
+UCL|Ulnar collateral ligament|Physical Therapy
+PFJ|Patellofemoral joint|Physical Therapy
+TKR|Total knee replacement|Physical Therapy
+THR|Total hip replacement|Physical Therapy
+UKA|Unicompartmental knee arthroplasty|Physical Therapy
+Sx|Symptoms|Physical Therapy
+c/o|Complains of|Physical Therapy
+r/o|Rule out|Physical Therapy
+b/l|Bilateral|Physical Therapy
+HNP|Herniated nucleus pulposus|Physical Therapy
+CLBP|Chronic low back pain|Physical Therapy
+SI joint|Sacroiliac joint|Physical Therapy
+L/S|Lumbar spine|Physical Therapy
+C/S|Cervical spine|Physical Therapy
+T/S|Thoracic spine|Physical Therapy
+PAIVM|Passive accessory intervertebral motion|Physical Therapy
+PPIVM|Passive physiological intervertebral motion|Physical Therapy
+CPA|Central posterior-anterior mobilization|Physical Therapy
+UPA|Unilateral posterior-anterior mobilization|Physical Therapy
+REIL|Repeated extension in lying|Physical Therapy
+REIS|Repeated extension in standing|Physical Therapy
+IASTM|Instrument-assisted soft tissue mobilization|Physical Therapy
+TrP|Trigger point|Physical Therapy
+MET|Muscle energy technique|Physical Therapy
+Manip|Manipulation|Physical Therapy
+Mob|Mobilization|Physical Therapy
+JM|Joint mobilization|Physical Therapy
+OMPT|Orthopaedic manual physical therapy|Physical Therapy
+TherEx|Therapeutic exercise|Physical Therapy
+Ther act|Therapeutic activity|Physical Therapy
+2x/wk|Twice weekly|Physical Therapy
+3x/wk|Three times weekly|Physical Therapy
+ECC|Eccentric|Physical Therapy
+CON|Concentric|Physical Therapy
+ISO|Isometric|Physical Therapy
+mCIMT|Modified constraint-induced movement therapy|Physical Therapy
+BWS|Body weight support|Physical Therapy
+RAGT|Robot-assisted gait training|Physical Therapy
+ES|Electrical stimulation|Physical Therapy
+HVPC|High-voltage pulsed current|Physical Therapy
+Phono|Phonophoresis|Physical Therapy
+LLLT|Low-level laser therapy|Physical Therapy
+ESWT|Extracorporeal shock wave therapy|Physical Therapy
+MH|Moist heat|Physical Therapy
+HP|Hot pack|Physical Therapy
+Cryo|Cryotherapy|Physical Therapy
+PSWD|Pulsed short-wave diathermy|Physical Therapy
+Trxn|Traction|Physical Therapy
+KT|Kinesiology tape|Physical Therapy
+PRICE|Protection, rest, ice, compression, elevation|Physical Therapy
+POLICE|Protection, optimal loading, ice, compression, elevation|Physical Therapy
+CRP|Canalith repositioning procedure|Physical Therapy
+VR|Vestibular rehabilitation|Physical Therapy
+vHIT|Video head impulse test|Physical Therapy
+DVA|Dynamic visual acuity|Physical Therapy
+VNG|Videonystagmography|Physical Therapy
+VN|Vestibular neuritis|Physical Therapy
+HSC|Horizontal semicircular canal|Physical Therapy
+PSC|Posterior semicircular canal|Physical Therapy
+ABI|Acquired brain injury|Physical Therapy
+PCSS|Post-concussion symptom scale|Physical Therapy
+VOMS|Vestibular/ocular motor screening|Physical Therapy
+PN|Peripheral neuropathy|Physical Therapy
+CRPS|Complex regional pain syndrome|Physical Therapy
+Hemi|Hemiparesis|Physical Therapy
+GMFM-66|Gross motor function measure, 66 items|Physical Therapy
+GMFM-88|Gross motor function measure, 88 items|Physical Therapy
+MACS|Manual ability classification system|Physical Therapy
+TIMP|Test of infant motor performance|Physical Therapy
+BOT-2|Bruininks-Oseretsky test of motor proficiency, second edition|Physical Therapy
+PEDI-CAT|Pediatric evaluation of disability inventory computer adaptive test|Physical Therapy
+WeeFIM|Functional independence measure for children|Physical Therapy
+HINE|Hammersmith infant neurological examination|Physical Therapy
+GMA|General movements assessment|Physical Therapy
+DCD|Developmental coordination disorder|Physical Therapy
+CMT|Congenital muscular torticollis|Physical Therapy
+HRR|Heart rate reserve|Physical Therapy
+THR|Target heart rate|Physical Therapy
+ETT|Exercise tolerance test|Physical Therapy
+PD&P|Postural drainage and percussion|Physical Therapy
+OPEP|Oscillating positive expiratory pressure|Physical Therapy
+DB|Diaphragmatic breathing|Physical Therapy
+PLB|Pursed-lip breathing|Physical Therapy
+MIP|Maximal inspiratory pressure|Physical Therapy
+IC|Intermittent claudication|Physical Therapy
+ABI|Ankle-brachial index|Physical Therapy
+SCD|Sequential compression device|Physical Therapy
+TED hose|Thromboembolic deterrent stockings|Physical Therapy
+Aspen collar|Rigid cervical orthosis|Physical Therapy
+Miami J|Rigid cervical collar|Physical Therapy
+KO|Knee orthosis|Physical Therapy
+SMO|Supramalleolar orthosis|Physical Therapy
+GRAFO|Ground reaction ankle-foot orthosis|Physical Therapy
+WHO|Wrist-hand orthosis|Physical Therapy
+CAM walker|Controlled ankle motion walker|Physical Therapy
+Multipodus boot|Pressure-relief ankle-foot orthosis boot|Physical Therapy
+TTA|Transtibial amputation|Physical Therapy
+TFA|Transfemoral amputation|Physical Therapy
+RL|Residual limb|Physical Therapy
+IPOP|Immediate postoperative prosthesis|Physical Therapy
+AMPPRO|Amputee mobility predictor with prosthesis|Physical Therapy
+SC|Shower chair|Physical Therapy
+HHS|Hand-held shower|Physical Therapy
+LHE|Long-handled equipment|Physical Therapy
+Sara 3000|Powered sit-to-stand lift|Physical Therapy
+Ceiling lift|Ceiling-mounted patient lift|Physical Therapy
+GB|Gait belt|Physical Therapy
+Slide sheet|Friction-reducing sheet for repositioning|Physical Therapy
+Trapeze|Overhead bed trapeze|Physical Therapy
+Leg lifter|Leg lifter strap|Physical Therapy
+PFM|Pelvic floor muscle|Physical Therapy
+POP-Q|Pelvic organ prolapse quantification|Physical Therapy
+CPP|Chronic pelvic pain|Physical Therapy
+PFDI-20|Pelvic floor distress inventory-20|Physical Therapy
+sEMG|Surface electromyography|Physical Therapy
+LE|Lymphedema|Physical Therapy
+PCD|Pneumatic compression device|Physical Therapy
+L-Dex|Lymphedema index by bioimpedance spectroscopy|Physical Therapy
+BIS|Bioimpedance spectroscopy|Physical Therapy
+ALND|Axillary lymph node dissection|Physical Therapy
+BADLs|Basic activities of daily living|Physical Therapy
+LB dressing|Lower body dressing|Physical Therapy
+UB dressing|Upper body dressing|Physical Therapy
+Hx falls|History of falls|Physical Therapy
+IE|Initial evaluation|Physical Therapy
+PN|Progress note|Physical Therapy
+DCS|Discharge summary|Physical Therapy
+97110|CPT code for therapeutic exercise|Physical Therapy
+97112|CPT code for neuromuscular re-education|Physical Therapy
+97116|CPT code for gait training|Physical Therapy
+97140|CPT code for manual therapy|Physical Therapy
+97530|CPT code for therapeutic activities|Physical Therapy
+W/C|Workers' compensation|Physical Therapy
+WCond|Work conditioning|Physical Therapy
+MMI|Maximum medical improvement|Physical Therapy
+IME|Independent medical examination|Physical Therapy
+Tx session|Treatment session|Physical Therapy
+Tol|Tolerated|Physical Therapy
+RTC|Return to clinic|Physical Therapy
+NS|No show|Physical Therapy
+c/x|Cancellation|Physical Therapy
+LTAC|Long-term acute care|Physical Therapy
+HHC|Home health care|Physical Therapy
+OPPT|Outpatient physical therapy|Physical Therapy
+IP|Inpatient|Physical Therapy
+MC|Memory care|Physical Therapy
+NH|Nursing home|Physical Therapy
+ECF|Extended care facility|Physical Therapy
+CIR|Comprehensive inpatient rehabilitation|Physical Therapy
+D/C home w/ OP|Discharge home with outpatient therapy|Physical Therapy
+Family training|Caregiver education and training session|Physical Therapy
+CG training|Caregiver training|Physical Therapy
+CM|Case manager|Physical Therapy
+UR|Utilization review|Physical Therapy
+Physiatry|Physical medicine and rehabilitation|Physical Therapy
+RT|Recreational therapy|Physical Therapy
+TR|Therapeutic recreation|Physical Therapy
+WOC|Wound, ostomy and continence|Physical Therapy

@@ -1,0 +1,598 @@
+SLP|Speech-language pathologist|Speech-Language Pathology
+SLP|Speech-language pathology|Speech-Language Pathology
+ST|Speech therapy|Speech-Language Pathology
+ST|Speech therapist|Speech-Language Pathology
+SP|Speech pathology|Speech-Language Pathology
+CCC-SLP|Certificate of Clinical Competence in Speech-Language Pathology|Speech-Language Pathology
+CCC-A|Certificate of Clinical Competence in Audiology|Speech-Language Pathology
+CF|Clinical fellow|Speech-Language Pathology
+CF-SLP|Clinical fellow in speech-language pathology|Speech-Language Pathology
+CFY|Clinical fellowship year|Speech-Language Pathology
+SLPA|Speech-language pathology assistant|Speech-Language Pathology
+SLP-A|Speech-language pathology assistant|Speech-Language Pathology
+BCS-S|Board certified specialist in swallowing and swallowing disorders|Speech-Language Pathology
+BCS-CL|Board certified specialist in child language and language disorders|Speech-Language Pathology
+BCS-F|Board certified specialist in fluency and fluency disorders|Speech-Language Pathology
+BRS-S|Board recognized specialist in swallowing and swallowing disorders|Speech-Language Pathology
+CScD|Doctor of clinical science|Speech-Language Pathology
+SLPD|Doctor of speech-language pathology|Speech-Language Pathology
+AuD|Doctor of audiology|Speech-Language Pathology
+CSD|Communication sciences and disorders|Speech-Language Pathology
+CEU|Continuing education unit|Speech-Language Pathology
+EBP|Evidence-based practice|Speech-Language Pathology
+SOAP|Subjective, objective, assessment, plan|Speech-Language Pathology
+POC|Plan of care|Speech-Language Pathology
+STG|Short-term goal|Speech-Language Pathology
+LTG|Long-term goal|Speech-Language Pathology
+Eval|Evaluation|Speech-Language Pathology
+Re-eval|Re-evaluation|Speech-Language Pathology
+D/C|Discharge|Speech-Language Pathology
+D/C|Discontinue|Speech-Language Pathology
+F/U|Follow-up|Speech-Language Pathology
+S/P|Status post|Speech-Language Pathology
+WFL|Within functional limits|Speech-Language Pathology
+WNL|Within normal limits|Speech-Language Pathology
+NT|Not tested|Speech-Language Pathology
+HEP|Home exercise program|Speech-Language Pathology
+SNF|Skilled nursing facility|Speech-Language Pathology
+LTACH|Long-term acute care hospital|Speech-Language Pathology
+IRF|Inpatient rehabilitation facility|Speech-Language Pathology
+AIR|Acute inpatient rehabilitation|Speech-Language Pathology
+NICU|Neonatal intensive care unit|Speech-Language Pathology
+PT|Physical therapy|Speech-Language Pathology
+OT|Occupational therapy|Speech-Language Pathology
+RT|Respiratory therapy|Speech-Language Pathology
+RD|Registered dietitian|Speech-Language Pathology
+RDN|Registered dietitian nutritionist|Speech-Language Pathology
+ENT|Ear, nose and throat|Speech-Language Pathology
+PM&R|Physical medicine and rehabilitation|Speech-Language Pathology
+IDT|Interdisciplinary team|Speech-Language Pathology
+KX|KX modifier (therapy cap exception, medical necessity attestation)|Speech-Language Pathology
+GN|GN modifier (services delivered under an outpatient speech-language pathology plan of care)|Speech-Language Pathology
+GO|GO modifier (services delivered under an outpatient occupational therapy plan of care)|Speech-Language Pathology
+GP|GP modifier (services delivered under an outpatient physical therapy plan of care)|Speech-Language Pathology
+MPPR|Multiple procedure payment reduction|Speech-Language Pathology
+CPT|Current procedural terminology|Speech-Language Pathology
+ICD-10|International Classification of Diseases, tenth revision|Speech-Language Pathology
+CMS|Centers for Medicare and Medicaid Services|Speech-Language Pathology
+ABN|Advance beneficiary notice of noncoverage|Speech-Language Pathology
+FLR|Functional limitation reporting|Speech-Language Pathology
+PDPM|Patient-driven payment model|Speech-Language Pathology
+PDGM|Patient-driven groupings model|Speech-Language Pathology
+MDS|Minimum data set|Speech-Language Pathology
+OASIS|Outcome and assessment information set|Speech-Language Pathology
+IRF-PAI|Inpatient rehabilitation facility patient assessment instrument|Speech-Language Pathology
+FIM|Functional independence measure|Speech-Language Pathology
+GG|Section GG (functional abilities and goals)|Speech-Language Pathology
+NOMS|National outcomes measurement system|Speech-Language Pathology
+FCM|Functional communication measure|Speech-Language Pathology
+ASHA FCM|American Speech-Language-Hearing Association functional communication measure|Speech-Language Pathology
+ICF|International Classification of Functioning, Disability and Health|Speech-Language Pathology
+QOL|Quality of life|Speech-Language Pathology
+PROM|Patient-reported outcome measure|Speech-Language Pathology
+GAS|Goal attainment scaling|Speech-Language Pathology
+SMART|Specific, measurable, attainable, relevant, time-bound|Speech-Language Pathology
+CSE|Clinical swallow evaluation|Speech-Language Pathology
+CSE|Clinical swallowing examination|Speech-Language Pathology
+BSE|Bedside swallow evaluation|Speech-Language Pathology
+BSE|Bedside swallowing examination|Speech-Language Pathology
+OME|Oral mechanism examination|Speech-Language Pathology
+OPE|Oral peripheral examination|Speech-Language Pathology
+OM|Oral motor|Speech-Language Pathology
+MBSS|Modified barium swallow study|Speech-Language Pathology
+MBS|Modified barium swallow|Speech-Language Pathology
+VFSS|Videofluoroscopic swallow study|Speech-Language Pathology
+OPMS|Oropharyngeal motility study|Speech-Language Pathology
+MBSImP|Modified barium swallow impairment profile|Speech-Language Pathology
+DIGEST|Dynamic imaging grade of swallowing toxicity|Speech-Language Pathology
+DIGEST-FEES|Dynamic imaging grade of swallowing toxicity for flexible endoscopic evaluation of swallowing|Speech-Language Pathology
+FEES|Fiberoptic endoscopic evaluation of swallowing|Speech-Language Pathology
+FEES|Flexible endoscopic evaluation of swallowing|Speech-Language Pathology
+FEESST|Fiberoptic endoscopic evaluation of swallowing with sensory testing|Speech-Language Pathology
+LAR|Laryngeal adductor reflex|Speech-Language Pathology
+PAS|Penetration-aspiration scale|Speech-Language Pathology
+DOSS|Dysphagia outcome and severity scale|Speech-Language Pathology
+FOIS|Functional oral intake scale|Speech-Language Pathology
+EAT-10|Eating assessment tool, 10 items|Speech-Language Pathology
+SSQ|Sydney swallow questionnaire|Speech-Language Pathology
+SWAL-QOL|Swallowing quality of life questionnaire|Speech-Language Pathology
+SWAL-CARE|Swallowing quality of care questionnaire|Speech-Language Pathology
+MDADI|MD Anderson dysphagia inventory|Speech-Language Pathology
+DHI|Dysphagia handicap index|Speech-Language Pathology
+YSP|Yale swallow protocol|Speech-Language Pathology
+WST|Water swallow test|Speech-Language Pathology
+MASA|Mann assessment of swallowing ability|Speech-Language Pathology
+MASA-C|Mann assessment of swallowing ability, cancer|Speech-Language Pathology
+GUSS|Gugging swallowing screen|Speech-Language Pathology
+TOR-BSST|Toronto bedside swallowing screening test|Speech-Language Pathology
+BJH-SDS|Barnes-Jewish Hospital stroke dysphagia screen|Speech-Language Pathology
+V-VST|Volume-viscosity swallow test|Speech-Language Pathology
+CTAR|Chin tuck against resistance|Speech-Language Pathology
+JOAR|Jaw opening against resistance|Speech-Language Pathology
+EMST|Expiratory muscle strength training|Speech-Language Pathology
+IMST|Inspiratory muscle strength training|Speech-Language Pathology
+RMST|Respiratory muscle strength training|Speech-Language Pathology
+NMES|Neuromuscular electrical stimulation|Speech-Language Pathology
+PES|Pharyngeal electrical stimulation|Speech-Language Pathology
+sEMG|Surface electromyography|Speech-Language Pathology
+EMG|Electromyography|Speech-Language Pathology
+IOPI|Iowa oral performance instrument|Speech-Language Pathology
+MDTP|McNeill dysphagia therapy program|Speech-Language Pathology
+FFWP|Frazier free water protocol|Speech-Language Pathology
+FWP|Free water protocol|Speech-Language Pathology
+UES|Upper esophageal sphincter|Speech-Language Pathology
+PES|Pharyngoesophageal segment|Speech-Language Pathology
+CP|Cricopharyngeus|Speech-Language Pathology
+CP bar|Cricopharyngeal bar|Speech-Language Pathology
+CPM|Cricopharyngeal myotomy|Speech-Language Pathology
+ZD|Zenker diverticulum|Speech-Language Pathology
+HRM|High-resolution manometry|Speech-Language Pathology
+HRPM|High-resolution pharyngeal manometry|Speech-Language Pathology
+TNE|Transnasal esophagoscopy|Speech-Language Pathology
+LPR|Laryngopharyngeal reflux|Speech-Language Pathology
+IDDSI|International Dysphagia Diet Standardisation Initiative|Speech-Language Pathology
+IDDSI 0|Thin liquids|Speech-Language Pathology
+IDDSI 1|Slightly thick liquids|Speech-Language Pathology
+IDDSI 2|Mildly thick liquids|Speech-Language Pathology
+IDDSI 3|Moderately thick liquids or liquidised foods|Speech-Language Pathology
+IDDSI 4|Extremely thick liquids or pureed foods|Speech-Language Pathology
+IDDSI 5|Minced and moist foods|Speech-Language Pathology
+IDDSI 6|Soft and bite-sized foods|Speech-Language Pathology
+IDDSI 7|Regular or easy-to-chew foods|Speech-Language Pathology
+NDD|National dysphagia diet|Speech-Language Pathology
+NDD 1|National dysphagia diet level 1, pureed|Speech-Language Pathology
+NDD 2|National dysphagia diet level 2, mechanically altered|Speech-Language Pathology
+NDD 3|National dysphagia diet level 3, advanced|Speech-Language Pathology
+TL|Thin liquids|Speech-Language Pathology
+NTL|Nectar-thick liquids|Speech-Language Pathology
+HTL|Honey-thick liquids|Speech-Language Pathology
+PTL|Pudding-thick liquids|Speech-Language Pathology
+MS|Mechanical soft|Speech-Language Pathology
+PUR|Pureed|Speech-Language Pathology
+NPO|Nothing by mouth (nil per os)|Speech-Language Pathology
+PO|By mouth (per os)|Speech-Language Pathology
+A/P|Aspiration precautions|Speech-Language Pathology
+AP|Aspiration precautions|Speech-Language Pathology
+HOB|Head of bed|Speech-Language Pathology
+HOB 90|Head of bed at 90 degrees|Speech-Language Pathology
+PEG|Percutaneous endoscopic gastrostomy|Speech-Language Pathology
+PEJ|Percutaneous endoscopic jejunostomy|Speech-Language Pathology
+PEG-J|Percutaneous endoscopic gastrostomy with jejunal extension|Speech-Language Pathology
+G-tube|Gastrostomy tube|Speech-Language Pathology
+GT|Gastrostomy tube|Speech-Language Pathology
+J-tube|Jejunostomy tube|Speech-Language Pathology
+JT|Jejunostomy tube|Speech-Language Pathology
+GJ tube|Gastrojejunostomy tube|Speech-Language Pathology
+NGT|Nasogastric tube|Speech-Language Pathology
+NG|Nasogastric|Speech-Language Pathology
+NJT|Nasojejunal tube|Speech-Language Pathology
+DHT|Dobhoff tube|Speech-Language Pathology
+TF|Tube feeding|Speech-Language Pathology
+EN|Enteral nutrition|Speech-Language Pathology
+NBM|Nil by mouth|Speech-Language Pathology
+ETT|Endotracheal tube|Speech-Language Pathology
+PED|Post-extubation dysphagia|Speech-Language Pathology
+Trach|Tracheostomy|Speech-Language Pathology
+TT|Tracheostomy tube|Speech-Language Pathology
+PMV|Passy-Muir valve|Speech-Language Pathology
+PMSV|Passy-Muir speaking valve|Speech-Language Pathology
+SV|Speaking valve|Speech-Language Pathology
+ILSV|In-line speaking valve|Speech-Language Pathology
+OWV|One-way valve|Speech-Language Pathology
+HME|Heat and moisture exchanger|Speech-Language Pathology
+MEBDT|Modified Evans blue dye test|Speech-Language Pathology
+BDT|Blue dye test|Speech-Language Pathology
+EBD|Evans blue dye|Speech-Language Pathology
+ACV|Above-cuff vocalization|Speech-Language Pathology
+HFNC|High-flow nasal cannula|Speech-Language Pathology
+WOB|Work of breathing|Speech-Language Pathology
+TBI|Traumatic brain injury|Speech-Language Pathology
+ABI|Acquired brain injury|Speech-Language Pathology
+mTBI|Mild traumatic brain injury|Speech-Language Pathology
+CVA|Cerebrovascular accident|Speech-Language Pathology
+LHD|Left hemisphere damage|Speech-Language Pathology
+RHD|Right hemisphere damage|Speech-Language Pathology
+RHS|Right hemisphere syndrome|Speech-Language Pathology
+DAI|Diffuse axonal injury|Speech-Language Pathology
+LOC|Loss of consciousness|Speech-Language Pathology
+LOC|Level of consciousness|Speech-Language Pathology
+RLA|Rancho Los Amigos levels of cognitive functioning|Speech-Language Pathology
+RLAS|Rancho Los Amigos scale|Speech-Language Pathology
+LCFS|Levels of cognitive functioning scale|Speech-Language Pathology
+PTA|Post-traumatic amnesia|Speech-Language Pathology
+GOAT|Galveston orientation and amnesia test|Speech-Language Pathology
+O-Log|Orientation log|Speech-Language Pathology
+Cog-Log|Cognitive log|Speech-Language Pathology
+A&O|Alert and oriented|Speech-Language Pathology
+A&Ox3|Alert and oriented to person, place and time|Speech-Language Pathology
+A&Ox4|Alert and oriented to person, place, time and situation|Speech-Language Pathology
+CRS-R|Coma recovery scale, revised|Speech-Language Pathology
+DOC|Disorders of consciousness|Speech-Language Pathology
+MCS|Minimally conscious state|Speech-Language Pathology
+UWS|Unresponsive wakefulness syndrome|Speech-Language Pathology
+RIPA-2|Ross information processing assessment, second edition|Speech-Language Pathology
+RIPA|Ross information processing assessment|Speech-Language Pathology
+RIPA-G|Ross information processing assessment, geriatric|Speech-Language Pathology
+SCATBI|Scales of cognitive ability for traumatic brain injury|Speech-Language Pathology
+CLQT|Cognitive linguistic quick test|Speech-Language Pathology
+CLQT+|Cognitive linguistic quick test plus|Speech-Language Pathology
+MoCA|Montreal cognitive assessment|Speech-Language Pathology
+SLUMS|Saint Louis University mental status examination|Speech-Language Pathology
+ABCD|Arizona battery for communication disorders of dementia|Speech-Language Pathology
+FLCI|Functional linguistic communication inventory|Speech-Language Pathology
+CCD|Cognitive-communication disorder|Speech-Language Pathology
+Cog-comm|Cognitive-communication|Speech-Language Pathology
+EF|Executive function|Speech-Language Pathology
+STM|Short-term memory|Speech-Language Pathology
+LTM|Long-term memory|Speech-Language Pathology
+WM|Working memory|Speech-Language Pathology
+SRT|Spaced retrieval training|Speech-Language Pathology
+SR|Spaced retrieval|Speech-Language Pathology
+APT|Attention process training|Speech-Language Pathology
+TPM|Time pressure management|Speech-Language Pathology
+FTD|Frontotemporal dementia|Speech-Language Pathology
+PPA|Primary progressive aphasia|Speech-Language Pathology
+lvPPA|Logopenic variant primary progressive aphasia|Speech-Language Pathology
+nfvPPA|Nonfluent/agrammatic variant primary progressive aphasia|Speech-Language Pathology
+svPPA|Semantic variant primary progressive aphasia|Speech-Language Pathology
+PNFA|Progressive nonfluent aphasia|Speech-Language Pathology
+SD|Semantic dementia|Speech-Language Pathology
+PD|Parkinson disease|Speech-Language Pathology
+ALS|Amyotrophic lateral sclerosis|Speech-Language Pathology
+MND|Motor neuron disease|Speech-Language Pathology
+PBP|Progressive bulbar palsy|Speech-Language Pathology
+CP|Cerebral palsy|Speech-Language Pathology
+OPMD|Oculopharyngeal muscular dystrophy|Speech-Language Pathology
+IBM|Inclusion body myositis|Speech-Language Pathology
+WAB|Western aphasia battery|Speech-Language Pathology
+WAB-R|Western aphasia battery, revised|Speech-Language Pathology
+AQ|Aphasia quotient|Speech-Language Pathology
+WAB-AQ|Western aphasia battery aphasia quotient|Speech-Language Pathology
+BDAE|Boston diagnostic aphasia examination|Speech-Language Pathology
+BDAE-3|Boston diagnostic aphasia examination, third edition|Speech-Language Pathology
+BNT|Boston naming test|Speech-Language Pathology
+BASA|Boston assessment of severe aphasia|Speech-Language Pathology
+CADL|Communication activities of daily living|Speech-Language Pathology
+CADL-3|Communication activities of daily living, third edition|Speech-Language Pathology
+CAT|Comprehensive aphasia test|Speech-Language Pathology
+PALPA|Psycholinguistic assessments of language processing in aphasia|Speech-Language Pathology
+PICA|Porch index of communicative ability|Speech-Language Pathology
+MTDDA|Minnesota test for differential diagnosis of aphasia|Speech-Language Pathology
+RCBA|Reading comprehension battery for aphasia|Speech-Language Pathology
+RCBA-2|Reading comprehension battery for aphasia, second edition|Speech-Language Pathology
+ASRS|Aphasia severity rating scale|Speech-Language Pathology
+ALA|Assessment for living with aphasia|Speech-Language Pathology
+SAQOL-39|Stroke and aphasia quality of life scale, 39 items|Speech-Language Pathology
+CETI|Communicative effectiveness index|Speech-Language Pathology
+ASHA-FACS|American Speech-Language-Hearing Association functional assessment of communication skills for adults|Speech-Language Pathology
+FACS|Functional assessment of communication skills|Speech-Language Pathology
+QCL|Quality of communication life scale|Speech-Language Pathology
+MIT|Melodic intonation therapy|Speech-Language Pathology
+VNeST|Verb network strengthening treatment|Speech-Language Pathology
+CILT|Constraint-induced language therapy|Speech-Language Pathology
+CIAT|Constraint-induced aphasia therapy|Speech-Language Pathology
+ILAT|Intensive language action therapy|Speech-Language Pathology
+SFA|Semantic feature analysis|Speech-Language Pathology
+PCA|Phonological components analysis|Speech-Language Pathology
+PACE|Promoting aphasics' communicative effectiveness|Speech-Language Pathology
+SCA|Supported conversation for adults with aphasia|Speech-Language Pathology
+RET|Response elaboration training|Speech-Language Pathology
+TUF|Treatment of underlying forms|Speech-Language Pathology
+ORLA|Oral reading for language in aphasia|Speech-Language Pathology
+CART|Copy and recall treatment|Speech-Language Pathology
+ACT|Anagram and copy treatment|Speech-Language Pathology
+LPAA|Life participation approach to aphasia|Speech-Language Pathology
+A-FROM|Living with aphasia: framework for outcome measurement|Speech-Language Pathology
+ICAP|Intensive comprehensive aphasia program|Speech-Language Pathology
+AAC|Augmentative and alternative communication|Speech-Language Pathology
+SGD|Speech-generating device|Speech-Language Pathology
+VOCA|Voice output communication aid|Speech-Language Pathology
+PECS|Picture exchange communication system|Speech-Language Pathology
+PCS|Picture communication symbols|Speech-Language Pathology
+LAMP|Language acquisition through motor planning|Speech-Language Pathology
+PODD|Pragmatic organisation dynamic display|Speech-Language Pathology
+AOS|Apraxia of speech|Speech-Language Pathology
+CAS|Childhood apraxia of speech|Speech-Language Pathology
+PPAOS|Primary progressive apraxia of speech|Speech-Language Pathology
+MSD|Motor speech disorder|Speech-Language Pathology
+DDK|Diadochokinesis|Speech-Language Pathology
+DDK rate|Diadochokinetic rate|Speech-Language Pathology
+AMR|Alternating motion rate|Speech-Language Pathology
+SMR|Sequential motion rate|Speech-Language Pathology
+ABA-2|Apraxia battery for adults, second edition|Speech-Language Pathology
+ASRS|Apraxia of speech rating scale|Speech-Language Pathology
+DEMSS|Dynamic evaluation of motor speech skill|Speech-Language Pathology
+DTTC|Dynamic temporal and tactile cueing|Speech-Language Pathology
+ReST|Rapid syllable transition treatment|Speech-Language Pathology
+PROMPT|Prompts for restructuring oral muscular phonetic targets|Speech-Language Pathology
+SPT|Sound production treatment|Speech-Language Pathology
+FDA-2|Frenchay dysarthria assessment, second edition|Speech-Language Pathology
+AIDS|Assessment of intelligibility of dysarthric speech|Speech-Language Pathology
+SIT|Sentence intelligibility test|Speech-Language Pathology
+LSVT|Lee Silverman voice treatment|Speech-Language Pathology
+LSVT LOUD|Lee Silverman voice treatment, loudness program|Speech-Language Pathology
+LSVT BIG|Lee Silverman voice treatment, amplitude-based physical therapy program|Speech-Language Pathology
+UUMN|Unilateral upper motor neuron dysarthria|Speech-Language Pathology
+VPI|Velopharyngeal insufficiency|Speech-Language Pathology
+VPI|Velopharyngeal incompetence|Speech-Language Pathology
+VPD|Velopharyngeal dysfunction|Speech-Language Pathology
+VP|Velopharyngeal|Speech-Language Pathology
+CL/P|Cleft lip and/or palate|Speech-Language Pathology
+CLP|Cleft lip and palate|Speech-Language Pathology
+SMCP|Submucous cleft palate|Speech-Language Pathology
+VHI|Voice handicap index|Speech-Language Pathology
+VHI-10|Voice handicap index, 10 items|Speech-Language Pathology
+pVHI|Pediatric voice handicap index|Speech-Language Pathology
+V-RQOL|Voice-related quality of life|Speech-Language Pathology
+CAPE-V|Consensus auditory-perceptual evaluation of voice|Speech-Language Pathology
+GRBAS|Grade, roughness, breathiness, asthenia, strain|Speech-Language Pathology
+MPT|Maximum phonation time|Speech-Language Pathology
+s/z ratio|Sustained s to sustained z duration ratio|Speech-Language Pathology
+F0|Fundamental frequency|Speech-Language Pathology
+SFF|Speaking fundamental frequency|Speech-Language Pathology
+HNR|Harmonics-to-noise ratio|Speech-Language Pathology
+NHR|Noise-to-harmonics ratio|Speech-Language Pathology
+CPP|Cepstral peak prominence|Speech-Language Pathology
+CPPS|Smoothed cepstral peak prominence|Speech-Language Pathology
+AVQI|Acoustic voice quality index|Speech-Language Pathology
+DSI|Dysphonia severity index|Speech-Language Pathology
+SPL|Sound pressure level|Speech-Language Pathology
+VRP|Voice range profile|Speech-Language Pathology
+Ps|Subglottal pressure|Speech-Language Pathology
+EGG|Electroglottography|Speech-Language Pathology
+LEMG|Laryngeal electromyography|Speech-Language Pathology
+VLS|Videolaryngostroboscopy|Speech-Language Pathology
+FFL|Flexible fiberoptic laryngoscopy|Speech-Language Pathology
+RSI|Reflux symptom index|Speech-Language Pathology
+RFS|Reflux finding score|Speech-Language Pathology
+MTD|Muscle tension dysphonia|Speech-Language Pathology
+pMTD|Primary muscle tension dysphonia|Speech-Language Pathology
+sMTD|Secondary muscle tension dysphonia|Speech-Language Pathology
+UVFP|Unilateral vocal fold paralysis|Speech-Language Pathology
+UVFI|Unilateral vocal fold immobility|Speech-Language Pathology
+BVFP|Bilateral vocal fold paralysis|Speech-Language Pathology
+BVFI|Bilateral vocal fold immobility|Speech-Language Pathology
+VFP|Vocal fold paralysis|Speech-Language Pathology
+VF|Vocal fold|Speech-Language Pathology
+TVF|True vocal fold|Speech-Language Pathology
+FVF|False vocal fold|Speech-Language Pathology
+VFN|Vocal fold nodules|Speech-Language Pathology
+VFA|Vocal fold atrophy|Speech-Language Pathology
+RLN|Recurrent laryngeal nerve|Speech-Language Pathology
+SLN|Superior laryngeal nerve|Speech-Language Pathology
+PCA|Posterior cricoarytenoid|Speech-Language Pathology
+LCA|Lateral cricoarytenoid|Speech-Language Pathology
+TA|Thyroarytenoid|Speech-Language Pathology
+CT|Cricothyroid|Speech-Language Pathology
+PVFM|Paradoxical vocal fold motion|Speech-Language Pathology
+PVFMD|Paradoxical vocal fold motion disorder|Speech-Language Pathology
+VCD|Vocal cord dysfunction|Speech-Language Pathology
+ILO|Inducible laryngeal obstruction|Speech-Language Pathology
+EILO|Exercise-induced laryngeal obstruction|Speech-Language Pathology
+CLE|Continuous laryngoscopy during exercise|Speech-Language Pathology
+SD|Spasmodic dysphonia|Speech-Language Pathology
+ADSD|Adductor spasmodic dysphonia|Speech-Language Pathology
+ABSD|Abductor spasmodic dysphonia|Speech-Language Pathology
+BTX|Botulinum toxin|Speech-Language Pathology
+RCC|Refractory chronic cough|Speech-Language Pathology
+BCST|Behavioral cough suppression therapy|Speech-Language Pathology
+ILS|Irritable larynx syndrome|Speech-Language Pathology
+SOVT|Semi-occluded vocal tract|Speech-Language Pathology
+SOVTE|Semi-occluded vocal tract exercise|Speech-Language Pathology
+LMRVT|Lessac-Madsen resonant voice therapy|Speech-Language Pathology
+RVT|Resonant voice therapy|Speech-Language Pathology
+VFE|Vocal function exercises|Speech-Language Pathology
+CTT|Conversation training therapy|Speech-Language Pathology
+PhoRTE|Phonation resistance training exercise|Speech-Language Pathology
+MCT|Manual circumlaryngeal therapy|Speech-Language Pathology
+VH|Vocal hygiene|Speech-Language Pathology
+VR|Vocal rest|Speech-Language Pathology
+RRP|Recurrent respiratory papillomatosis|Speech-Language Pathology
+TL|Total laryngectomy|Speech-Language Pathology
+PL|Partial laryngectomy|Speech-Language Pathology
+SCPL|Supracricoid partial laryngectomy|Speech-Language Pathology
+TEP|Tracheoesophageal puncture|Speech-Language Pathology
+TEP|Tracheoesophageal prosthesis|Speech-Language Pathology
+TES|Tracheoesophageal speech|Speech-Language Pathology
+ES|Esophageal speech|Speech-Language Pathology
+EL|Electrolarynx|Speech-Language Pathology
+AL|Artificial larynx|Speech-Language Pathology
+HNC|Head and neck cancer|Speech-Language Pathology
+HNSCC|Head and neck squamous cell carcinoma|Speech-Language Pathology
+OPSCC|Oropharyngeal squamous cell carcinoma|Speech-Language Pathology
+OCSCC|Oral cavity squamous cell carcinoma|Speech-Language Pathology
+XRT|Radiation therapy|Speech-Language Pathology
+RT|Radiation therapy|Speech-Language Pathology
+IMRT|Intensity-modulated radiation therapy|Speech-Language Pathology
+CRT|Chemoradiation therapy|Speech-Language Pathology
+CCRT|Concurrent chemoradiation therapy|Speech-Language Pathology
+TORS|Transoral robotic surgery|Speech-Language Pathology
+ORN|Osteoradionecrosis|Speech-Language Pathology
+RAD|Radiation-associated dysphagia|Speech-Language Pathology
+BOT|Base of tongue|Speech-Language Pathology
+FOM|Floor of mouth|Speech-Language Pathology
+MIO|Maximal interincisal opening|Speech-Language Pathology
+MMO|Maximal mouth opening|Speech-Language Pathology
+BRS|Bolus residue scale|Speech-Language Pathology
+NRRS|Normalized residue ratio scale|Speech-Language Pathology
+YPRSRS|Yale pharyngeal residue severity rating scale|Speech-Language Pathology
+SSI-4|Stuttering severity instrument, fourth edition|Speech-Language Pathology
+SSI|Stuttering severity instrument|Speech-Language Pathology
+OASES|Overall assessment of the speaker's experience of stuttering|Speech-Language Pathology
+%SS|Percent syllables stuttered|Speech-Language Pathology
+SPM|Syllables per minute|Speech-Language Pathology
+WPM|Words per minute|Speech-Language Pathology
+SLD|Stuttering-like disfluency|Speech-Language Pathology
+CWS|Children who stutter|Speech-Language Pathology
+AWS|Adults who stutter|Speech-Language Pathology
+PWS|People who stutter|Speech-Language Pathology
+DAF|Delayed auditory feedback|Speech-Language Pathology
+FAF|Frequency-altered feedback|Speech-Language Pathology
+AAF|Altered auditory feedback|Speech-Language Pathology
+IEP|Individualized education program|Speech-Language Pathology
+IFSP|Individualized family service plan|Speech-Language Pathology
+EI|Early intervention|Speech-Language Pathology
+ECI|Early childhood intervention|Speech-Language Pathology
+504 plan|Accommodation plan under Section 504 of the Rehabilitation Act|Speech-Language Pathology
+504|Section 504 of the Rehabilitation Act of 1973|Speech-Language Pathology
+IDEA|Individuals with Disabilities Education Act|Speech-Language Pathology
+Part B|Part B of the Individuals with Disabilities Education Act (school-age services)|Speech-Language Pathology
+Part C|Part C of the Individuals with Disabilities Education Act (birth to three services)|Speech-Language Pathology
+FAPE|Free appropriate public education|Speech-Language Pathology
+LRE|Least restrictive environment|Speech-Language Pathology
+SLI|Speech or language impairment (educational eligibility category)|Speech-Language Pathology
+SLI|Specific language impairment|Speech-Language Pathology
+DLD|Developmental language disorder|Speech-Language Pathology
+LD|Learning disability|Speech-Language Pathology
+SLD|Specific learning disability|Speech-Language Pathology
+SSD|Speech sound disorder|Speech-Language Pathology
+ASD|Autism spectrum disorder|Speech-Language Pathology
+ID|Intellectual disability|Speech-Language Pathology
+DD|Developmental delay|Speech-Language Pathology
+DS|Down syndrome|Speech-Language Pathology
+DHH|Deaf or hard of hearing|Speech-Language Pathology
+D/HH|Deaf or hard of hearing|Speech-Language Pathology
+HOH|Hard of hearing|Speech-Language Pathology
+HL|Hearing loss|Speech-Language Pathology
+SNHL|Sensorineural hearing loss|Speech-Language Pathology
+CHL|Conductive hearing loss|Speech-Language Pathology
+HA|Hearing aid|Speech-Language Pathology
+CI|Cochlear implant|Speech-Language Pathology
+BAHA|Bone-anchored hearing aid|Speech-Language Pathology
+ABR|Auditory brainstem response|Speech-Language Pathology
+OAE|Otoacoustic emissions|Speech-Language Pathology
+APD|Auditory processing disorder|Speech-Language Pathology
+CAPD|Central auditory processing disorder|Speech-Language Pathology
+ASL|American Sign Language|Speech-Language Pathology
+LSL|Listening and spoken language|Speech-Language Pathology
+AVT|Auditory-verbal therapy|Speech-Language Pathology
+TC|Total communication|Speech-Language Pathology
+FM system|Frequency-modulated assistive listening system|Speech-Language Pathology
+ALD|Assistive listening device|Speech-Language Pathology
+CELF-5|Clinical evaluation of language fundamentals, fifth edition|Speech-Language Pathology
+CELF|Clinical evaluation of language fundamentals|Speech-Language Pathology
+CELF-P3|Clinical evaluation of language fundamentals preschool, third edition|Speech-Language Pathology
+PLS-5|Preschool language scales, fifth edition|Speech-Language Pathology
+PLS|Preschool language scales|Speech-Language Pathology
+PPVT|Peabody picture vocabulary test|Speech-Language Pathology
+PPVT-5|Peabody picture vocabulary test, fifth edition|Speech-Language Pathology
+EVT|Expressive vocabulary test|Speech-Language Pathology
+EVT-3|Expressive vocabulary test, third edition|Speech-Language Pathology
+GFTA|Goldman-Fristoe test of articulation|Speech-Language Pathology
+GFTA-3|Goldman-Fristoe test of articulation, third edition|Speech-Language Pathology
+KLPA-3|Khan-Lewis phonological analysis, third edition|Speech-Language Pathology
+CAAP-2|Clinical assessment of articulation and phonology, second edition|Speech-Language Pathology
+DEAP|Diagnostic evaluation of articulation and phonology|Speech-Language Pathology
+TOLD|Test of language development|Speech-Language Pathology
+TOLD-P|Test of language development, primary|Speech-Language Pathology
+OWLS-II|Oral and written language scales, second edition|Speech-Language Pathology
+CASL-2|Comprehensive assessment of spoken language, second edition|Speech-Language Pathology
+TOPL-2|Test of pragmatic language, second edition|Speech-Language Pathology
+TNL-2|Test of narrative language, second edition|Speech-Language Pathology
+REEL-4|Receptive-expressive emergent language test, fourth edition|Speech-Language Pathology
+CSBS|Communication and symbolic behavior scales|Speech-Language Pathology
+CSBS-DP|Communication and symbolic behavior scales developmental profile|Speech-Language Pathology
+MCDI|MacArthur-Bates communicative development inventories|Speech-Language Pathology
+ROWPVT|Receptive one-word picture vocabulary test|Speech-Language Pathology
+EOWPVT|Expressive one-word picture vocabulary test|Speech-Language Pathology
+TACL-4|Test for auditory comprehension of language, fourth edition|Speech-Language Pathology
+SPELT-3|Structured photographic expressive language test, third edition|Speech-Language Pathology
+CTOPP-2|Comprehensive test of phonological processing, second edition|Speech-Language Pathology
+ADOS-2|Autism diagnostic observation schedule, second edition|Speech-Language Pathology
+M-CHAT|Modified checklist for autism in toddlers|Speech-Language Pathology
+ASQ|Ages and stages questionnaires|Speech-Language Pathology
+ASQ-3|Ages and stages questionnaires, third edition|Speech-Language Pathology
+BDI-2|Battelle developmental inventory, second edition|Speech-Language Pathology
+LSA|Language sample analysis|Speech-Language Pathology
+MLU|Mean length of utterance|Speech-Language Pathology
+TTR|Type-token ratio|Speech-Language Pathology
+NDW|Number of different words|Speech-Language Pathology
+SALT|Systematic analysis of language transcripts|Speech-Language Pathology
+DSS|Developmental sentence scoring|Speech-Language Pathology
+IPSyn|Index of productive syntax|Speech-Language Pathology
+PCC|Percent consonants correct|Speech-Language Pathology
+PCC-R|Percent consonants correct, revised|Speech-Language Pathology
+PVC|Percent vowels correct|Speech-Language Pathology
+SS|Standard score|Speech-Language Pathology
+SD|Standard deviation|Speech-Language Pathology
+%ile|Percentile rank|Speech-Language Pathology
+AE|Age equivalent|Speech-Language Pathology
+CA|Chronological age|Speech-Language Pathology
+PA|Phonological awareness|Speech-Language Pathology
+PA|Phonemic awareness|Speech-Language Pathology
+RAN|Rapid automatized naming|Speech-Language Pathology
+NWR|Nonword repetition|Speech-Language Pathology
+Artic|Articulation|Speech-Language Pathology
+Phono|Phonology|Speech-Language Pathology
+RL|Receptive language|Speech-Language Pathology
+EL|Expressive language|Speech-Language Pathology
+SCD|Social (pragmatic) communication disorder|Speech-Language Pathology
+SPCD|Social (pragmatic) communication disorder|Speech-Language Pathology
+JA|Joint attention|Speech-Language Pathology
+ToM|Theory of mind|Speech-Language Pathology
+NLA|Natural language acquisition|Speech-Language Pathology
+GLP|Gestalt language processor|Speech-Language Pathology
+ABA|Applied behavior analysis|Speech-Language Pathology
+BCBA|Board certified behavior analyst|Speech-Language Pathology
+ESDM|Early Start Denver Model|Speech-Language Pathology
+DIR|Developmental, individual-differences, relationship-based model|Speech-Language Pathology
+NDBI|Naturalistic developmental behavioral intervention|Speech-Language Pathology
+PRT|Pivotal response treatment|Speech-Language Pathology
+EMT|Enhanced milieu teaching|Speech-Language Pathology
+OMD|Orofacial myofunctional disorder|Speech-Language Pathology
+OMT|Orofacial myofunctional therapy|Speech-Language Pathology
+TT|Tongue thrust|Speech-Language Pathology
+TOT|Tethered oral tissue|Speech-Language Pathology
+PFD|Pediatric feeding disorder|Speech-Language Pathology
+ARFID|Avoidant/restrictive food intake disorder|Speech-Language Pathology
+FTT|Failure to thrive|Speech-Language Pathology
+NNS|Non-nutritive sucking|Speech-Language Pathology
+NS|Nutritive sucking|Speech-Language Pathology
+SSB|Suck-swallow-breathe|Speech-Language Pathology
+CBF|Cue-based feeding|Speech-Language Pathology
+NOMAS|Neonatal oral-motor assessment scale|Speech-Language Pathology
+PMA|Postmenstrual age|Speech-Language Pathology
+GA|Gestational age|Speech-Language Pathology
+CGA|Corrected gestational age|Speech-Language Pathology
+BF|Breastfeeding|Speech-Language Pathology
+EBM|Expressed breast milk|Speech-Language Pathology
+SOS|Sequential oral sensory approach to feeding|Speech-Language Pathology
+ChOMPS|Child oral and motor proficiency scale|Speech-Language Pathology
+PediEAT|Pediatric eating assessment tool|Speech-Language Pathology
+TMJ|Temporomandibular joint|Speech-Language Pathology
+CN|Cranial nerve|Speech-Language Pathology
+CN V|Trigeminal nerve|Speech-Language Pathology
+CN VII|Facial nerve|Speech-Language Pathology
+CN IX|Glossopharyngeal nerve|Speech-Language Pathology
+CN X|Vagus nerve|Speech-Language Pathology
+CN XII|Hypoglossal nerve|Speech-Language Pathology
+HLE|Hyolaryngeal elevation|Speech-Language Pathology
+HLEx|Hyolaryngeal excursion|Speech-Language Pathology
+LE|Laryngeal elevation|Speech-Language Pathology
+LV|Laryngeal vestibule|Speech-Language Pathology
+LVC|Laryngeal vestibule closure|Speech-Language Pathology
+PCR|Pharyngeal constriction ratio|Speech-Language Pathology
+PPW|Posterior pharyngeal wall|Speech-Language Pathology
+PTT|Pharyngeal transit time|Speech-Language Pathology
+OTT|Oral transit time|Speech-Language Pathology
+PDT|Pharyngeal delay time|Speech-Language Pathology
+OPSE|Oropharyngeal swallow efficiency|Speech-Language Pathology
+UESO|Upper esophageal sphincter opening|Speech-Language Pathology
+ASPEKT|Analysis of swallowing physiology: events, kinematics and timing|Speech-Language Pathology
+SGS|Supraglottic swallow|Speech-Language Pathology
+SSGS|Super-supraglottic swallow|Speech-Language Pathology
+HT|Head turn|Speech-Language Pathology
+SBSS|Small bites, small sips|Speech-Language Pathology
+OC|Oral care|Speech-Language Pathology
+OH|Oral hygiene|Speech-Language Pathology
+AP|Aspiration pneumonia|Speech-Language Pathology
+SA|Silent aspiration|Speech-Language Pathology
+s/s asp|Signs and symptoms of aspiration|Speech-Language Pathology
+WVQ|Wet vocal quality|Speech-Language Pathology
+VQ|Vocal quality|Speech-Language Pathology
+TC|Throat clear|Speech-Language Pathology
+ALOB|Anterior loss of bolus|Speech-Language Pathology
+OPD|Oropharyngeal dysphagia|Speech-Language Pathology
+TH|Telehealth|Speech-Language Pathology
+TP|Telepractice|Speech-Language Pathology
+MDT|Multidisciplinary team|Speech-Language Pathology

@@ -1,0 +1,642 @@
+NC|Nasal cannula|Respiratory Therapy
+HFNC|High-flow nasal cannula|Respiratory Therapy
+HHFNC|Heated humidified high-flow nasal cannula|Respiratory Therapy
+NRB|Non-rebreather mask|Respiratory Therapy
+NRBM|Non-rebreather mask|Respiratory Therapy
+PRB|Partial rebreather mask|Respiratory Therapy
+SM|Simple mask|Respiratory Therapy
+VM|Venturi mask|Respiratory Therapy
+FM|Face mask|Respiratory Therapy
+FT|Face tent|Respiratory Therapy
+TC|Trach collar|Respiratory Therapy
+TM|Trach mask|Respiratory Therapy
+RA|Room air|Respiratory Therapy
+LPM|Liters per minute|Respiratory Therapy
+L/min|Liters per minute|Respiratory Therapy
+O2|Oxygen|Respiratory Therapy
+HBO|Hyperbaric oxygen|Respiratory Therapy
+HBOT|Hyperbaric oxygen therapy|Respiratory Therapy
+LTOT|Long-term oxygen therapy|Respiratory Therapy
+POC|Portable oxygen concentrator|Respiratory Therapy
+OCD|Oxygen-conserving device|Respiratory Therapy
+LOX|Liquid oxygen|Respiratory Therapy
+E cylinder|Portable oxygen cylinder (about 680 liters)|Respiratory Therapy
+H cylinder|Large stationary oxygen cylinder (about 6,900 liters)|Respiratory Therapy
+psi|Pounds per square inch|Respiratory Therapy
+cmH2O|Centimeters of water (pressure unit)|Respiratory Therapy
+mmHg|Millimeters of mercury (pressure unit)|Respiratory Therapy
+mL/kg|Milliliters per kilogram|Respiratory Therapy
+AC|Assist-control ventilation|Respiratory Therapy
+A/C|Assist-control ventilation|Respiratory Therapy
+ACV|Assist-control ventilation|Respiratory Therapy
+VC|Volume control|Respiratory Therapy
+VCV|Volume-controlled ventilation|Respiratory Therapy
+PC|Pressure control|Respiratory Therapy
+PCV|Pressure-controlled ventilation|Respiratory Therapy
+PRVC|Pressure-regulated volume control|Respiratory Therapy
+VC+|Volume control plus (adaptive pressure control, Puritan Bennett)|Respiratory Therapy
+VS|Volume support|Respiratory Therapy
+SIMV|Synchronized intermittent mandatory ventilation|Respiratory Therapy
+IMV|Intermittent mandatory ventilation|Respiratory Therapy
+IMV|Invasive mechanical ventilation|Respiratory Therapy
+CMV|Controlled mandatory ventilation|Respiratory Therapy
+CMV|Continuous mandatory ventilation|Respiratory Therapy
+PS|Pressure support|Respiratory Therapy
+PSV|Pressure support ventilation|Respiratory Therapy
+CPAP|Continuous positive airway pressure|Respiratory Therapy
+BiPAP|Bilevel positive airway pressure|Respiratory Therapy
+BPAP|Bilevel positive airway pressure|Respiratory Therapy
+APRV|Airway pressure release ventilation|Respiratory Therapy
+BiVent|Bilevel ventilation (Servo APRV mode)|Respiratory Therapy
+NAVA|Neurally adjusted ventilatory assist|Respiratory Therapy
+Edi|Electrical activity of the diaphragm|Respiratory Therapy
+PAV|Proportional assist ventilation|Respiratory Therapy
+PAV+|Proportional assist ventilation plus|Respiratory Therapy
+HFOV|High-frequency oscillatory ventilation|Respiratory Therapy
+HFJV|High-frequency jet ventilation|Respiratory Therapy
+HFV|High-frequency ventilation|Respiratory Therapy
+HFPV|High-frequency percussive ventilation|Respiratory Therapy
+ASV|Adaptive support ventilation|Respiratory Therapy
+ASV|Adaptive servo-ventilation|Respiratory Therapy
+VG|Volume guarantee|Respiratory Therapy
+VTV|Volume-targeted ventilation|Respiratory Therapy
+MMV|Mandatory minute ventilation|Respiratory Therapy
+PCIRV|Pressure-controlled inverse ratio ventilation|Respiratory Therapy
+IRV|Inverse ratio ventilation|Respiratory Therapy
+IRV|Inspiratory reserve volume|Respiratory Therapy
+PPV|Positive pressure ventilation|Respiratory Therapy
+IPPV|Intermittent positive pressure ventilation|Respiratory Therapy
+NPV|Negative pressure ventilation|Respiratory Therapy
+MV|Mechanical ventilation|Respiratory Therapy
+MV|Minute ventilation|Respiratory Therapy
+VE|Minute ventilation|Respiratory Therapy
+Ve|Minute ventilation|Respiratory Therapy
+Vt|Tidal volume|Respiratory Therapy
+VT|Tidal volume|Respiratory Therapy
+TV|Tidal volume|Respiratory Therapy
+Vte|Exhaled tidal volume|Respiratory Therapy
+Vti|Inspired tidal volume|Respiratory Therapy
+Vt/kg|Tidal volume per kilogram of predicted body weight|Respiratory Therapy
+PBW|Predicted body weight|Respiratory Therapy
+IBW|Ideal body weight|Respiratory Therapy
+RR|Respiratory rate|Respiratory Therapy
+f|Frequency (respiratory rate)|Respiratory Therapy
+f/Vt|Rapid shallow breathing index|Respiratory Therapy
+FiO2|Fraction of inspired oxygen|Respiratory Therapy
+FIO2|Fraction of inspired oxygen|Respiratory Therapy
+PEEP|Positive end-expiratory pressure|Respiratory Therapy
+PEEPe|Extrinsic (set) positive end-expiratory pressure|Respiratory Therapy
+PEEPi|Intrinsic positive end-expiratory pressure (auto-PEEP)|Respiratory Therapy
+Auto-PEEP|Intrinsic positive end-expiratory pressure from incomplete exhalation|Respiratory Therapy
+PEEPtot|Total positive end-expiratory pressure|Respiratory Therapy
+ZEEP|Zero end-expiratory pressure|Respiratory Therapy
+PIP|Peak inspiratory pressure|Respiratory Therapy
+Ppeak|Peak inspiratory pressure|Respiratory Therapy
+Pplat|Plateau pressure|Respiratory Therapy
+Pmean|Mean airway pressure|Respiratory Therapy
+Paw|Airway pressure|Respiratory Therapy
+MAP|Mean airway pressure|Respiratory Therapy
+I:E|Inspiratory to expiratory time ratio|Respiratory Therapy
+I/E|Inspiratory to expiratory time ratio|Respiratory Therapy
+Ti|Inspiratory time|Respiratory Therapy
+Te|Expiratory time|Respiratory Therapy
+Thigh|Time at high pressure (APRV)|Respiratory Therapy
+Tlow|Time at low pressure (APRV)|Respiratory Therapy
+Phigh|High pressure level (APRV)|Respiratory Therapy
+Plow|Low pressure level (APRV)|Respiratory Therapy
+Pdrive|Driving pressure|Respiratory Therapy
+DP|Driving pressure|Respiratory Therapy
+ΔP|Driving pressure|Respiratory Therapy
+Pinsp|Inspiratory pressure (set pressure above PEEP)|Respiratory Therapy
+Ptp|Transpulmonary pressure|Respiratory Therapy
+PL|Transpulmonary pressure|Respiratory Therapy
+Pes|Esophageal pressure|Respiratory Therapy
+Cstat|Static compliance|Respiratory Therapy
+Cdyn|Dynamic compliance|Respiratory Therapy
+Crs|Respiratory system compliance|Respiratory Therapy
+Raw|Airway resistance|Respiratory Therapy
+Rrs|Respiratory system resistance|Respiratory Therapy
+VD|Dead space volume|Respiratory Therapy
+VD/VT|Dead space to tidal volume ratio|Respiratory Therapy
+Vd/Vt|Dead space to tidal volume ratio|Respiratory Therapy
+VA|Alveolar ventilation|Respiratory Therapy
+VA|Alveolar volume (DLCO measurement)|Respiratory Therapy
+P0.1|Airway occlusion pressure at 100 milliseconds|Respiratory Therapy
+NIF|Negative inspiratory force|Respiratory Therapy
+MIP|Maximal inspiratory pressure|Respiratory Therapy
+MEP|Maximal expiratory pressure|Respiratory Therapy
+PImax|Maximal inspiratory pressure|Respiratory Therapy
+PEmax|Maximal expiratory pressure|Respiratory Therapy
+SNIP|Sniff nasal inspiratory pressure|Respiratory Therapy
+RSBI|Rapid shallow breathing index|Respiratory Therapy
+SBT|Spontaneous breathing trial|Respiratory Therapy
+SAT|Spontaneous awakening trial|Respiratory Therapy
+SAT/SBT|Paired spontaneous awakening and breathing trials|Respiratory Therapy
+WOB|Work of breathing|Respiratory Therapy
+↑ WOB|Increased work of breathing|Respiratory Therapy
+PTP|Pressure-time product|Respiratory Therapy
+PIF|Peak inspiratory flow|Respiratory Therapy
+PIFR|Peak inspiratory flow rate|Respiratory Therapy
+EEO|End-expiratory occlusion|Respiratory Therapy
+EIO|End-inspiratory occlusion|Respiratory Therapy
+VILI|Ventilator-induced lung injury|Respiratory Therapy
+VALI|Ventilator-associated lung injury|Respiratory Therapy
+P-SILI|Patient self-inflicted lung injury|Respiratory Therapy
+VIDD|Ventilator-induced diaphragm dysfunction|Respiratory Therapy
+LPV|Lung-protective ventilation|Respiratory Therapy
+LTVV|Low tidal volume ventilation|Respiratory Therapy
+OLV|Open-lung ventilation|Respiratory Therapy
+OLV|One-lung ventilation|Respiratory Therapy
+RM|Recruitment maneuver|Respiratory Therapy
+EIT|Electrical impedance tomography|Respiratory Therapy
+PVA|Patient-ventilator asynchrony|Respiratory Therapy
+DT|Double triggering|Respiratory Therapy
+IE|Ineffective effort|Respiratory Therapy
+ATC|Automatic tube compensation|Respiratory Therapy
+E-sens|Expiratory sensitivity (cycle-off criterion for pressure support)|Respiratory Therapy
+ETS|Expiratory trigger sensitivity|Respiratory Therapy
+Rise time|Time to reach target pressure in pressure-targeted breaths|Respiratory Therapy
+Flow trigger|Flow-based ventilator breath initiation setting|Respiratory Therapy
+Hz|Hertz (oscillator frequency)|Respiratory Therapy
+Amp|Amplitude (HFOV pressure swing)|Respiratory Therapy
+Bias flow|Continuous circuit flow on HFOV|Respiratory Therapy
+Vent check|Scheduled patient-ventilator system assessment|Respiratory Therapy
+PVSC|Patient-ventilator system check|Respiratory Therapy
+Hi-P|High-pressure alarm|Respiratory Therapy
+Lo-P|Low-pressure alarm|Respiratory Therapy
+Lo-MV|Low minute ventilation alarm|Respiratory Therapy
+VFDs|Ventilator-free days|Respiratory Therapy
+VFD|Ventilator-free days|Respiratory Therapy
+ETT|Endotracheal tube|Respiratory Therapy
+ET tube|Endotracheal tube|Respiratory Therapy
+OETT|Oral endotracheal tube|Respiratory Therapy
+NETT|Nasal endotracheal tube|Respiratory Therapy
+ID|Internal diameter (tube size)|Respiratory Therapy
+HME|Heat and moisture exchanger|Respiratory Therapy
+HMEF|Heat and moisture exchanging filter|Respiratory Therapy
+HH|Heated humidifier|Respiratory Therapy
+ILS|In-line suction|Respiratory Therapy
+ILSC|In-line suction catheter|Respiratory Therapy
+CSS|Closed suction system|Respiratory Therapy
+NTS|Nasotracheal suction|Respiratory Therapy
+Sx|Suction|Respiratory Therapy
+SSD|Subglottic secretion drainage|Respiratory Therapy
+NIV|Noninvasive ventilation|Respiratory Therapy
+NIPPV|Noninvasive positive pressure ventilation|Respiratory Therapy
+NIPPV|Nasal intermittent positive pressure ventilation (neonatal)|Respiratory Therapy
+NPPV|Noninvasive positive pressure ventilation|Respiratory Therapy
+NIMV|Noninvasive mechanical ventilation|Respiratory Therapy
+AVAPS|Average volume-assured pressure support|Respiratory Therapy
+iVAPS|Intelligent volume-assured pressure support|Respiratory Therapy
+VAPS|Volume-assured pressure support|Respiratory Therapy
+EPAP|Expiratory positive airway pressure|Respiratory Therapy
+IPAP|Inspiratory positive airway pressure|Respiratory Therapy
+APAP|Auto-titrating positive airway pressure|Respiratory Therapy
+PAP|Positive airway pressure|Respiratory Therapy
+FFM|Full-face mask|Respiratory Therapy
+OFM|Oronasal face mask|Respiratory Therapy
+NM|Nasal mask|Respiratory Therapy
+NP|Nasal pillows|Respiratory Therapy
+TFM|Total face mask|Respiratory Therapy
+S mode|Spontaneous mode (bilevel)|Respiratory Therapy
+S/T|Spontaneous/timed mode (bilevel)|Respiratory Therapy
+T mode|Timed mode (bilevel)|Respiratory Therapy
+BUR|Backup rate|Respiratory Therapy
+MPV|Mouthpiece ventilation|Respiratory Therapy
+HMV|Home mechanical ventilation|Respiratory Therapy
+LTMV|Long-term mechanical ventilation|Respiratory Therapy
+PMV|Prolonged mechanical ventilation|Respiratory Therapy
+PMV|Passy-Muir valve (speaking valve)|Respiratory Therapy
+CLT|Cuff leak test|Respiratory Therapy
+CLV|Cuff leak volume|Respiratory Therapy
+D/C|Discontinue|Respiratory Therapy
+RTE|Readiness to extubate|Respiratory Therapy
+PES|Post-extubation stridor|Respiratory Therapy
+AEC|Airway exchange catheter|Respiratory Therapy
+TCT|Trach collar trial|Respiratory Therapy
+VWP|Ventilator weaning protocol|Respiratory Therapy
+TDP|Therapist-driven protocol|Respiratory Therapy
+ABG|Arterial blood gas|Respiratory Therapy
+VBG|Venous blood gas|Respiratory Therapy
+CBG|Capillary blood gas|Respiratory Therapy
+MVBG|Mixed venous blood gas|Respiratory Therapy
+BG|Blood gas|Respiratory Therapy
+PaCO2|Partial pressure of arterial carbon dioxide|Respiratory Therapy
+PCO2|Partial pressure of carbon dioxide|Respiratory Therapy
+PaO2|Partial pressure of arterial oxygen|Respiratory Therapy
+PO2|Partial pressure of oxygen|Respiratory Therapy
+PvO2|Partial pressure of venous oxygen|Respiratory Therapy
+PvCO2|Partial pressure of venous carbon dioxide|Respiratory Therapy
+PAO2|Partial pressure of alveolar oxygen|Respiratory Therapy
+PiO2|Partial pressure of inspired oxygen|Respiratory Therapy
+PB|Barometric pressure|Respiratory Therapy
+HCO3|Bicarbonate|Respiratory Therapy
+BE|Base excess|Respiratory Therapy
+BD|Base deficit|Respiratory Therapy
+BD|Bronchodilator|Respiratory Therapy
+SBE|Standard base excess|Respiratory Therapy
+SaO2|Arterial oxygen saturation (measured)|Respiratory Therapy
+SpO2|Peripheral oxygen saturation by pulse oximetry|Respiratory Therapy
+ScvO2|Central venous oxygen saturation|Respiratory Therapy
+SvO2|Mixed venous oxygen saturation|Respiratory Therapy
+CaO2|Arterial oxygen content|Respiratory Therapy
+CvO2|Venous oxygen content|Respiratory Therapy
+C(a-v)O2|Arteriovenous oxygen content difference|Respiratory Therapy
+P/F|PaO2 to FiO2 ratio|Respiratory Therapy
+P/F ratio|PaO2 to FiO2 ratio|Respiratory Therapy
+PaO2/FiO2|Ratio of arterial oxygen partial pressure to fraction of inspired oxygen|Respiratory Therapy
+S/F|SpO2 to FiO2 ratio|Respiratory Therapy
+S/F ratio|SpO2 to FiO2 ratio|Respiratory Therapy
+A-a|Alveolar-arterial oxygen gradient|Respiratory Therapy
+A-a gradient|Alveolar-arterial oxygen gradient|Respiratory Therapy
+AaDO2|Alveolar-arterial oxygen difference|Respiratory Therapy
+P(A-a)O2|Alveolar-arterial oxygen difference|Respiratory Therapy
+a/A ratio|Arterial to alveolar oxygen tension ratio|Respiratory Therapy
+Qs/Qt|Shunt fraction|Respiratory Therapy
+V/Q|Ventilation-perfusion ratio|Respiratory Therapy
+EtCO2|End-tidal carbon dioxide|Respiratory Therapy
+ETCO2|End-tidal carbon dioxide|Respiratory Therapy
+PETCO2|Partial pressure of end-tidal carbon dioxide|Respiratory Therapy
+TcCO2|Transcutaneous carbon dioxide|Respiratory Therapy
+TcPCO2|Transcutaneous partial pressure of carbon dioxide|Respiratory Therapy
+TcPO2|Transcutaneous partial pressure of oxygen|Respiratory Therapy
+TCM|Transcutaneous monitor|Respiratory Therapy
+COHb|Carboxyhemoglobin|Respiratory Therapy
+MetHb|Methemoglobin|Respiratory Therapy
+O2Hb|Oxyhemoglobin|Respiratory Therapy
+HHb|Deoxyhemoglobin|Respiratory Therapy
+CO-ox|Co-oximetry|Respiratory Therapy
+DO2|Oxygen delivery|Respiratory Therapy
+VO2|Oxygen consumption|Respiratory Therapy
+VCO2|Carbon dioxide production|Respiratory Therapy
+RQ|Respiratory quotient|Respiratory Therapy
+RER|Respiratory exchange ratio|Respiratory Therapy
+O2ER|Oxygen extraction ratio|Respiratory Therapy
+OI|Oxygenation index|Respiratory Therapy
+OSI|Oxygen saturation index|Respiratory Therapy
+ROX|Ratio of SpO2/FiO2 to respiratory rate (ROX index)|Respiratory Therapy
+AG|Anion gap|Respiratory Therapy
+ETI|Endotracheal intubation|Respiratory Therapy
+OTI|Orotracheal intubation|Respiratory Therapy
+NTI|Nasotracheal intubation|Respiratory Therapy
+RSI|Rapid sequence intubation|Respiratory Therapy
+DSI|Delayed sequence intubation|Respiratory Therapy
+DL|Direct laryngoscopy|Respiratory Therapy
+VL|Video laryngoscopy|Respiratory Therapy
+FOB|Fiberoptic bronchoscopy|Respiratory Therapy
+FOI|Fiberoptic intubation|Respiratory Therapy
+AFOI|Awake fiberoptic intubation|Respiratory Therapy
+BVM|Bag-valve-mask|Respiratory Therapy
+BMV|Bag-mask ventilation|Respiratory Therapy
+OPA|Oropharyngeal airway|Respiratory Therapy
+NPA|Nasopharyngeal airway|Respiratory Therapy
+LMA|Laryngeal mask airway|Respiratory Therapy
+SGA|Supraglottic airway|Respiratory Therapy
+iLMA|Intubating laryngeal mask airway|Respiratory Therapy
+PDT|Percutaneous dilational tracheostomy|Respiratory Therapy
+Trach|Tracheostomy|Respiratory Therapy
+TT|Tracheostomy tube|Respiratory Therapy
+DLT|Double-lumen tube|Respiratory Therapy
+BAL|Bronchoalveolar lavage|Respiratory Therapy
+Mini-BAL|Nonbronchoscopic bronchoalveolar lavage|Respiratory Therapy
+PSB|Protected specimen brush|Respiratory Therapy
+TA|Tracheal aspirate|Respiratory Therapy
+ETA|Endotracheal aspirate|Respiratory Therapy
+EBUS|Endobronchial ultrasound|Respiratory Therapy
+CICO|Cannot intubate, cannot oxygenate|Respiratory Therapy
+CICV|Cannot intubate, cannot ventilate|Respiratory Therapy
+eFONA|Emergency front-of-neck access|Respiratory Therapy
+BURP|Backward, upward, rightward pressure (laryngeal manipulation)|Respiratory Therapy
+ELM|External laryngeal manipulation|Respiratory Therapy
+CL|Cormack-Lehane grade (laryngoscopic view)|Respiratory Therapy
+MP|Mallampati score|Respiratory Therapy
+TMD|Thyromental distance|Respiratory Therapy
+LEMON|Look, evaluate 3-3-2, Mallampati, obstruction, neck mobility (difficult airway mnemonic)|Respiratory Therapy
+MOANS|Mask seal, obesity, age, no teeth, stiff lungs (difficult bag-mask mnemonic)|Respiratory Therapy
+DOPE|Displacement, obstruction, pneumothorax, equipment (vent troubleshooting mnemonic)|Respiratory Therapy
+DOPES|Displacement, obstruction, pneumothorax, equipment, stacked breaths|Respiratory Therapy
+NODESAT|Nasal oxygen during efforts securing a tube|Respiratory Therapy
+CPT|Chest physiotherapy|Respiratory Therapy
+PD|Postural drainage|Respiratory Therapy
+P&PD|Percussion and postural drainage|Respiratory Therapy
+PEP|Positive expiratory pressure|Respiratory Therapy
+OPEP|Oscillating positive expiratory pressure|Respiratory Therapy
+HFCWO|High-frequency chest wall oscillation|Respiratory Therapy
+HFCWC|High-frequency chest wall compression|Respiratory Therapy
+IPV|Intrapulmonary percussive ventilation|Respiratory Therapy
+MI-E|Mechanical insufflation-exsufflation|Respiratory Therapy
+MIE|Mechanical insufflation-exsufflation|Respiratory Therapy
+IS|Incentive spirometry|Respiratory Therapy
+IPPB|Intermittent positive pressure breathing|Respiratory Therapy
+SMI|Sustained maximal inspiration|Respiratory Therapy
+SMI|Soft mist inhaler|Respiratory Therapy
+ACT|Airway clearance therapy|Respiratory Therapy
+ACT|Asthma Control Test|Respiratory Therapy
+ACBT|Active cycle of breathing technique|Respiratory Therapy
+AD|Autogenic drainage|Respiratory Therapy
+BHT|Bronchial hygiene therapy|Respiratory Therapy
+FET|Forced expiratory technique|Respiratory Therapy
+LET|Lung expansion therapy|Respiratory Therapy
+LVR|Lung volume recruitment|Respiratory Therapy
+PCF|Peak cough flow|Respiratory Therapy
+C&DB|Cough and deep breathe|Respiratory Therapy
+TCDB|Turn, cough, deep breathe|Respiratory Therapy
+SVN|Small-volume nebulizer|Respiratory Therapy
+HHN|Hand-held nebulizer|Respiratory Therapy
+LVN|Large-volume nebulizer|Respiratory Therapy
+USN|Ultrasonic nebulizer|Respiratory Therapy
+VMN|Vibrating mesh nebulizer|Respiratory Therapy
+Neb|Nebulizer treatment|Respiratory Therapy
+MDI|Metered-dose inhaler|Respiratory Therapy
+pMDI|Pressurized metered-dose inhaler|Respiratory Therapy
+DPI|Dry powder inhaler|Respiratory Therapy
+VHC|Valved holding chamber|Respiratory Therapy
+SABA|Short-acting beta agonist|Respiratory Therapy
+LABA|Long-acting beta agonist|Respiratory Therapy
+SAMA|Short-acting muscarinic antagonist|Respiratory Therapy
+LAMA|Long-acting muscarinic antagonist|Respiratory Therapy
+ICS|Inhaled corticosteroid|Respiratory Therapy
+ICS/LABA|Inhaled corticosteroid plus long-acting beta agonist|Respiratory Therapy
+LABA/LAMA|Long-acting beta agonist plus long-acting muscarinic antagonist|Respiratory Therapy
+HTS|Hypertonic saline|Respiratory Therapy
+NS|Normal saline|Respiratory Therapy
+iNO|Inhaled nitric oxide|Respiratory Therapy
+iEPO|Inhaled epoprostenol|Respiratory Therapy
+Alb|Albuterol|Respiratory Therapy
+Duoneb|Albuterol plus ipratropium nebulizer|Respiratory Therapy
+NAC|N-acetylcysteine|Respiratory Therapy
+rhDNase|Recombinant human deoxyribonuclease (dornase alfa)|Respiratory Therapy
+Heliox|Helium-oxygen mixture|Respiratory Therapy
+Q4H|Every 4 hours|Respiratory Therapy
+Q6H|Every 6 hours|Respiratory Therapy
+QID|Four times daily|Respiratory Therapy
+TID|Three times daily|Respiratory Therapy
+BID|Twice daily|Respiratory Therapy
+PRN|As needed|Respiratory Therapy
+WA|While awake|Respiratory Therapy
+Q4WA|Every 4 hours while awake|Respiratory Therapy
+RTC|Round the clock|Respiratory Therapy
+Tx|Treatment|Respiratory Therapy
+PFT|Pulmonary function test|Respiratory Therapy
+FVC|Forced vital capacity|Respiratory Therapy
+FEV1|Forced expiratory volume in 1 second|Respiratory Therapy
+FEV1/FVC|Ratio of forced expiratory volume in 1 second to forced vital capacity|Respiratory Therapy
+FEV6|Forced expiratory volume in 6 seconds|Respiratory Therapy
+FEF25-75|Forced expiratory flow between 25% and 75% of forced vital capacity|Respiratory Therapy
+FEF50|Forced expiratory flow at 50% of forced vital capacity|Respiratory Therapy
+MMEF|Maximal mid-expiratory flow|Respiratory Therapy
+PEF|Peak expiratory flow|Respiratory Therapy
+PEFR|Peak expiratory flow rate|Respiratory Therapy
+PFM|Peak flow meter|Respiratory Therapy
+TLC|Total lung capacity|Respiratory Therapy
+RV|Residual volume|Respiratory Therapy
+RV/TLC|Ratio of residual volume to total lung capacity|Respiratory Therapy
+FRC|Functional residual capacity|Respiratory Therapy
+ERV|Expiratory reserve volume|Respiratory Therapy
+IC|Inspiratory capacity|Respiratory Therapy
+IC|Inner cannula|Respiratory Therapy
+VC|Vital capacity|Respiratory Therapy
+SVC|Slow vital capacity|Respiratory Therapy
+IVC|Inspiratory vital capacity|Respiratory Therapy
+DLCO|Diffusing capacity of the lung for carbon monoxide|Respiratory Therapy
+DLCO/VA|Diffusing capacity corrected for alveolar volume|Respiratory Therapy
+KCO|Carbon monoxide transfer coefficient|Respiratory Therapy
+TLCO|Transfer factor of the lung for carbon monoxide|Respiratory Therapy
+MVV|Maximal voluntary ventilation|Respiratory Therapy
+LLN|Lower limit of normal|Respiratory Therapy
+ULN|Upper limit of normal|Respiratory Therapy
+GLI|Global Lung Function Initiative (reference equations)|Respiratory Therapy
+% pred|Percent of predicted|Respiratory Therapy
+BDR|Bronchodilator response|Respiratory Therapy
+Pre-BD|Before bronchodilator|Respiratory Therapy
+Post-BD|After bronchodilator|Respiratory Therapy
+BTPS|Body temperature and pressure, saturated|Respiratory Therapy
+ATPS|Ambient temperature and pressure, saturated|Respiratory Therapy
+STPD|Standard temperature and pressure, dry|Respiratory Therapy
+CPET|Cardiopulmonary exercise test|Respiratory Therapy
+CPX|Cardiopulmonary exercise test|Respiratory Therapy
+VO2max|Maximal oxygen consumption|Respiratory Therapy
+VO2peak|Peak oxygen consumption|Respiratory Therapy
+AT|Anaerobic threshold|Respiratory Therapy
+VE/VCO2|Ventilatory equivalent for carbon dioxide|Respiratory Therapy
+6MWT|Six-minute walk test|Respiratory Therapy
+6MWD|Six-minute walk distance|Respiratory Therapy
+FeNO|Fractional exhaled nitric oxide|Respiratory Therapy
+FENO|Fractional exhaled nitric oxide|Respiratory Therapy
+PC20|Provocative concentration causing a 20% fall in FEV1|Respiratory Therapy
+PD20|Provocative dose causing a 20% fall in FEV1|Respiratory Therapy
+MCT|Methacholine challenge test|Respiratory Therapy
+BPT|Bronchoprovocation test|Respiratory Therapy
+BHR|Bronchial hyperresponsiveness|Respiratory Therapy
+EVH|Eucapnic voluntary hyperventilation|Respiratory Therapy
+EIB|Exercise-induced bronchoconstriction|Respiratory Therapy
+HAST|High-altitude simulation test|Respiratory Therapy
+IOS|Impulse oscillometry|Respiratory Therapy
+FOT|Forced oscillation technique|Respiratory Therapy
+LCI|Lung clearance index|Respiratory Therapy
+MBW|Multiple-breath washout|Respiratory Therapy
+PSG|Polysomnography|Respiratory Therapy
+HSAT|Home sleep apnea test|Respiratory Therapy
+HST|Home sleep test|Respiratory Therapy
+AHI|Apnea-hypopnea index|Respiratory Therapy
+RDI|Respiratory disturbance index|Respiratory Therapy
+ODI|Oxygen desaturation index|Respiratory Therapy
+RERA|Respiratory effort-related arousal|Respiratory Therapy
+OSA|Obstructive sleep apnea|Respiratory Therapy
+OSAHS|Obstructive sleep apnea-hypopnea syndrome|Respiratory Therapy
+CSA|Central sleep apnea|Respiratory Therapy
+CSR|Cheyne-Stokes respiration|Respiratory Therapy
+CSB|Cheyne-Stokes breathing|Respiratory Therapy
+TECSA|Treatment-emergent central sleep apnea|Respiratory Therapy
+SDB|Sleep-disordered breathing|Respiratory Therapy
+T90|Time with oxygen saturation below 90%|Respiratory Therapy
+T88|Time with oxygen saturation below 88%|Respiratory Therapy
+TST|Total sleep time|Respiratory Therapy
+MSLT|Multiple sleep latency test|Respiratory Therapy
+ESS|Epworth Sleepiness Scale|Respiratory Therapy
+STOP-BANG|Snoring, tired, observed apnea, pressure, BMI, age, neck, gender (OSA screen)|Respiratory Therapy
+NOD|Nocturnal oxygen desaturation|Respiratory Therapy
+EDS|Excessive daytime sleepiness|Respiratory Therapy
+NCPAP|Nasal continuous positive airway pressure|Respiratory Therapy
+nCPAP|Nasal continuous positive airway pressure|Respiratory Therapy
+bCPAP|Bubble continuous positive airway pressure|Respiratory Therapy
+RDS|Respiratory distress syndrome|Respiratory Therapy
+NRDS|Neonatal respiratory distress syndrome|Respiratory Therapy
+BPD|Bronchopulmonary dysplasia|Respiratory Therapy
+CLD|Chronic lung disease (of prematurity)|Respiratory Therapy
+TTN|Transient tachypnea of the newborn|Respiratory Therapy
+MAS|Meconium aspiration syndrome|Respiratory Therapy
+PPHN|Persistent pulmonary hypertension of the newborn|Respiratory Therapy
+INSURE|Intubate, surfactant, extubate|Respiratory Therapy
+LISA|Less invasive surfactant administration|Respiratory Therapy
+MIST|Minimally invasive surfactant therapy|Respiratory Therapy
+AOP|Apnea of prematurity|Respiratory Therapy
+CDH|Congenital diaphragmatic hernia|Respiratory Therapy
+ECMO|Extracorporeal membrane oxygenation|Respiratory Therapy
+VA ECMO|Venoarterial extracorporeal membrane oxygenation|Respiratory Therapy
+VV ECMO|Venovenous extracorporeal membrane oxygenation|Respiratory Therapy
+VA/VV ECMO|Venoarterial or venovenous extracorporeal membrane oxygenation|Respiratory Therapy
+ECLS|Extracorporeal life support|Respiratory Therapy
+ECCO2R|Extracorporeal carbon dioxide removal|Respiratory Therapy
+ECPR|Extracorporeal cardiopulmonary resuscitation|Respiratory Therapy
+NICU|Neonatal intensive care unit|Respiratory Therapy
+PICU|Pediatric intensive care unit|Respiratory Therapy
+GA|Gestational age|Respiratory Therapy
+CGA|Corrected gestational age|Respiratory Therapy
+PMA|Postmenstrual age|Respiratory Therapy
+ELBW|Extremely low birth weight|Respiratory Therapy
+VLBW|Very low birth weight|Respiratory Therapy
+A's and B's|Apneas and bradycardias|Respiratory Therapy
+RSV|Respiratory syncytial virus|Respiratory Therapy
+RRT|Registered respiratory therapist|Respiratory Therapy
+RRT|Rapid response team|Respiratory Therapy
+ROSC|Return of spontaneous circulation|Respiratory Therapy
+ACLS|Advanced cardiovascular life support|Respiratory Therapy
+PALS|Pediatric advanced life support|Respiratory Therapy
+NRP|Neonatal resuscitation program|Respiratory Therapy
+BLS|Basic life support|Respiratory Therapy
+CPR|Cardiopulmonary resuscitation|Respiratory Therapy
+DNI|Do not intubate|Respiratory Therapy
+DNR|Do not resuscitate|Respiratory Therapy
+DNR/DNI|Do not resuscitate, do not intubate|Respiratory Therapy
+PEA|Pulseless electrical activity|Respiratory Therapy
+PI|Perfusion index|Respiratory Therapy
+PVI|Pleth variability index|Respiratory Therapy
+Pleth|Plethysmograph waveform|Respiratory Therapy
+BS|Breath sounds|Respiratory Therapy
+BBS|Bilateral breath sounds|Respiratory Therapy
+CTA|Clear to auscultation|Respiratory Therapy
+CTAB|Clear to auscultation bilaterally|Respiratory Therapy
+Dim BS|Diminished breath sounds|Respiratory Therapy
+AE|Air entry|Respiratory Therapy
+NAD|No acute distress|Respiratory Therapy
+NARD|No acute respiratory distress|Respiratory Therapy
+SOB|Shortness of breath|Respiratory Therapy
+SOBOE|Shortness of breath on exertion|Respiratory Therapy
+DOE|Dyspnea on exertion|Respiratory Therapy
+PND|Paroxysmal nocturnal dyspnea|Respiratory Therapy
+VSS|Vital signs stable|Respiratory Therapy
+WNL|Within normal limits|Respiratory Therapy
+HOB|Head of bed|Respiratory Therapy
+HOB 30|Head of bed elevated 30 degrees|Respiratory Therapy
+CXR|Chest x-ray|Respiratory Therapy
+PCXR|Portable chest x-ray|Respiratory Therapy
+POCUS|Point-of-care ultrasound|Respiratory Therapy
+LUS|Lung ultrasound|Respiratory Therapy
+DTF|Diaphragm thickening fraction|Respiratory Therapy
+COPD|Chronic obstructive pulmonary disease|Respiratory Therapy
+AECOPD|Acute exacerbation of chronic obstructive pulmonary disease|Respiratory Therapy
+ECOPD|Exacerbation of chronic obstructive pulmonary disease|Respiratory Therapy
+GOLD|Global Initiative for Chronic Obstructive Lung Disease (staging)|Respiratory Therapy
+GINA|Global Initiative for Asthma (guideline)|Respiratory Therapy
+ARDS|Acute respiratory distress syndrome|Respiratory Therapy
+PARDS|Pediatric acute respiratory distress syndrome|Respiratory Therapy
+ALI|Acute lung injury|Respiratory Therapy
+ARF|Acute respiratory failure|Respiratory Therapy
+AHRF|Acute hypoxemic respiratory failure|Respiratory Therapy
+AHRF|Acute hypercapnic respiratory failure|Respiratory Therapy
+HRF|Hypercapnic respiratory failure|Respiratory Therapy
+CRF|Chronic respiratory failure|Respiratory Therapy
+ACRF|Acute on chronic respiratory failure|Respiratory Therapy
+OHS|Obesity hypoventilation syndrome|Respiratory Therapy
+CF|Cystic fibrosis|Respiratory Therapy
+ILD|Interstitial lung disease|Respiratory Therapy
+IPF|Idiopathic pulmonary fibrosis|Respiratory Therapy
+PNA|Pneumonia|Respiratory Therapy
+CAP|Community-acquired pneumonia|Respiratory Therapy
+HAP|Hospital-acquired pneumonia|Respiratory Therapy
+VAP|Ventilator-associated pneumonia|Respiratory Therapy
+VAE|Ventilator-associated event|Respiratory Therapy
+VAC|Ventilator-associated condition|Respiratory Therapy
+IVAC|Infection-related ventilator-associated complication|Respiratory Therapy
+PVAP|Possible ventilator-associated pneumonia|Respiratory Therapy
+PTX|Pneumothorax|Respiratory Therapy
+TPTX|Tension pneumothorax|Respiratory Therapy
+HTX|Hemothorax|Respiratory Therapy
+PE|Pulmonary embolism|Respiratory Therapy
+PE|Pleural effusion|Respiratory Therapy
+PHTN|Pulmonary hypertension|Respiratory Therapy
+PAH|Pulmonary arterial hypertension|Respiratory Therapy
+CPE|Cardiogenic pulmonary edema|Respiratory Therapy
+NPPE|Negative pressure pulmonary edema|Respiratory Therapy
+TRALI|Transfusion-related acute lung injury|Respiratory Therapy
+ACS|Acute chest syndrome|Respiratory Therapy
+NMD|Neuromuscular disease|Respiratory Therapy
+ALS|Amyotrophic lateral sclerosis|Respiratory Therapy
+GBS|Guillain-Barré syndrome|Respiratory Therapy
+MG|Myasthenia gravis|Respiratory Therapy
+SCI|Spinal cord injury|Respiratory Therapy
+DMD|Duchenne muscular dystrophy|Respiratory Therapy
+SMA|Spinal muscular atrophy|Respiratory Therapy
+CO|Carbon monoxide|Respiratory Therapy
+URI|Upper respiratory infection|Respiratory Therapy
+LRTI|Lower respiratory tract infection|Respiratory Therapy
+TB|Tuberculosis|Respiratory Therapy
+AFB|Acid-fast bacilli|Respiratory Therapy
+HEPA|High-efficiency particulate air (filter)|Respiratory Therapy
+N95|NIOSH-certified respirator filtering 95% of airborne particles|Respiratory Therapy
+PAPR|Powered air-purifying respirator|Respiratory Therapy
+CAPR|Controlled air-purifying respirator|Respiratory Therapy
+AIIR|Airborne infection isolation room|Respiratory Therapy
+AGP|Aerosol-generating procedure|Respiratory Therapy
+PPE|Personal protective equipment|Respiratory Therapy
+NIOSH|National Institute for Occupational Safety and Health|Respiratory Therapy
+OSHA|Occupational Safety and Health Administration|Respiratory Therapy
+FDA|Food and Drug Administration|Respiratory Therapy
+CMS|Centers for Medicare and Medicaid Services|Respiratory Therapy
+NHSN|National Healthcare Safety Network|Respiratory Therapy
+CDC|Centers for Disease Control and Prevention|Respiratory Therapy
+TJC|The Joint Commission|Respiratory Therapy
+HLD|High-level disinfection|Respiratory Therapy
+SUD|Single-use device|Respiratory Therapy
+DME|Durable medical equipment|Respiratory Therapy
+RT|Respiratory therapist|Respiratory Therapy
+RT|Respiratory therapy|Respiratory Therapy
+RRT-NPS|Registered respiratory therapist, neonatal/pediatric specialist|Respiratory Therapy
+RRT-ACCS|Registered respiratory therapist, adult critical care specialist|Respiratory Therapy
+RRT-SDS|Registered respiratory therapist, sleep disorders specialist|Respiratory Therapy
+CRT|Certified respiratory therapist|Respiratory Therapy
+CRTT|Certified respiratory therapy technician|Respiratory Therapy
+RCP|Respiratory care practitioner|Respiratory Therapy
+RCP|Respiratory care plan|Respiratory Therapy
+LRCP|Licensed respiratory care practitioner|Respiratory Therapy
+CPFT|Certified pulmonary function technologist|Respiratory Therapy
+RPFT|Registered pulmonary function technologist|Respiratory Therapy
+AE-C|Certified asthma educator|Respiratory Therapy
+RPSGT|Registered polysomnographic technologist|Respiratory Therapy
+NBRC|National Board for Respiratory Care|Respiratory Therapy
+TMC|Therapist multiple-choice examination (NBRC)|Respiratory Therapy
+CSE|Clinical simulation examination (NBRC)|Respiratory Therapy
+VAP bundle|Set of interventions to prevent ventilator-associated pneumonia|Respiratory Therapy
+ABCDEF bundle|Assess pain, both SAT and SBT, choice of sedation, delirium, early mobility, family engagement|Respiratory Therapy
+PADIS|Pain, agitation, delirium, immobility, sleep (guideline)|Respiratory Therapy
+RASS|Richmond Agitation-Sedation Scale|Respiratory Therapy
+CAM-ICU|Confusion Assessment Method for the ICU|Respiratory Therapy
+SBAR|Situation, background, assessment, recommendation|Respiratory Therapy
+AAP|Asthma action plan|Respiratory Therapy
+PR|Pulmonary rehabilitation|Respiratory Therapy
+mMRC|Modified Medical Research Council dyspnea scale|Respiratory Therapy
+CAT|COPD Assessment Test|Respiratory Therapy
+Borg|Borg rating of perceived exertion or dyspnea|Respiratory Therapy
+ICU|Intensive care unit|Respiratory Therapy
+MICU|Medical intensive care unit|Respiratory Therapy
+SICU|Surgical intensive care unit|Respiratory Therapy
+CVICU|Cardiovascular intensive care unit|Respiratory Therapy
+ED|Emergency department|Respiratory Therapy
+PACU|Post-anesthesia care unit|Respiratory Therapy
+LTACH|Long-term acute care hospital|Respiratory Therapy
+LTAC|Long-term acute care|Respiratory Therapy
+SNF|Skilled nursing facility|Respiratory Therapy
+Trach/vent|Tracheostomy with ventilator dependence|Respiratory Therapy
+Cuff up|Tracheostomy cuff inflated|Respiratory Therapy
+Cuff down|Tracheostomy cuff deflated|Respiratory Therapy
+MLT|Minimal leak technique (cuff inflation)|Respiratory Therapy
+MOV|Minimal occlusion volume (cuff inflation)|Respiratory Therapy
+Pcuff|Cuff pressure|Respiratory Therapy
+Fen|Fenestrated tracheostomy tube|Respiratory Therapy
+DIC|Disposable inner cannula|Respiratory Therapy
+XLT|Extra-length tracheostomy tube|Respiratory Therapy
+TTS|Tight-to-shaft (cuff design)|Respiratory Therapy
+Decannulation|Removal of tracheostomy tube|Respiratory Therapy
+Capping trial|Trach tube occluded to assess readiness for decannulation|Respiratory Therapy
+Downsize|Change to a smaller tracheostomy tube|Respiratory Therapy

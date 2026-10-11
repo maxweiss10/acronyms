@@ -34,7 +34,7 @@
 </div>
 <div id="dec"></div>
 <div id="count"></div>
-<table><thead><tr><th>Acronym</th><th>Meaning</th><th>Specialty</th></tr></thead><tbody id="t"></tbody></table>
+<table id="tbl"><thead><tr><th>Acronym</th><th>Meaning</th><th>Specialty</th></tr></thead><tbody id="t"></tbody></table>
 <div id="none">No match. <a id="rep" href="#" target="_blank" rel="noopener">Report a missing term</a></div>
 </main>
 <script src="data.js"></script>
@@ -141,7 +141,7 @@ function render(){
       if(e[0].toLowerCase()===raw) s=0; else if(na===n) s=1; else if(na.startsWith(n)) s=2;
       return [s,e];
     }).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||(x[0]===0?(y[1][0]===typed)-(x[1][0]===typed):0)||(x[0]===1&&PUN(raw)?PUN(y[1][0])-PUN(x[1][0]):0)||(x[0]<2?y[1][2].split(", ").length-x[1][2].split(", ").length:0)||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
-  } else rows=rows.slice().sort((x,y)=>x[0].localeCompare(y[0]));
+  } else rows=sp?rows.slice().sort((x,y)=>x[0].localeCompare(y[0])):[];  // empty box: no list unless a specialty is picked
   if(raw&&!rows.length&&n.length>2&&n.endsWith("s")&&RAWN.has(n.slice(0,-1))){const k=n.slice(0,-1);
     rows=ENTRIES.filter(e=>norm(e[0])===k).sort((x,y)=>y[2].split(", ").length-x[2].split(", ").length).map(([a,m,s])=>[a+"s",m+" (plural)",s]);}
   else if(raw&&!rows.length&&INIT[n]) rows=[...INIT[n].values()].map(([a,m,s])=>[a,m+" (matched by initials)",s]);
@@ -154,10 +154,13 @@ function render(){
     t.append(tr);
   });
   count.textContent = rows.length>400 ? `Showing 400 of ${rows.length}. Narrow your search.` : (rows.length? `${rows.length} match${rows.length===1?"":"es"}` : "");
-  none.style.display=(rows.length||known)?"none":"block";
+  none.style.display=(rows.length||known||!raw)?"none":"block";
+  $("tbl").style.display=rows.length?"":"none";
   $("rep").href="https://github.com/maxweiss10/acronyms/issues/new?title="+encodeURIComponent("Missing: "+q.value.trim());
 }
-q.addEventListener("input",render);
+// results appear 1 s after typing stops; clearing the box clears at once
+let timer;
+q.addEventListener("input",()=>{clearTimeout(timer); if(!q.value.trim()) render(); else timer=setTimeout(render,1000);});
 spec.addEventListener("change",render);
 render();
 </script>

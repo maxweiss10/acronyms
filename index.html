@@ -158,9 +158,9 @@ function render(){
   $("tbl").style.display=rows.length?"":"none";
   $("rep").href="https://github.com/maxweiss10/acronyms/issues/new?title="+encodeURIComponent("Missing: "+q.value.trim());
 }
-// results appear 1 s after typing stops; clearing the box clears at once
+// results appear 0.75 s after typing stops; clearing the box clears at once
 let timer;
-q.addEventListener("input",()=>{clearTimeout(timer); if(!q.value.trim()) render(); else timer=setTimeout(render,1000);});
+q.addEventListener("input",()=>{clearTimeout(timer); if(!q.value.trim()) render(); else timer=setTimeout(render,750);});
 spec.addEventListener("change",render);
 render();
 </script>

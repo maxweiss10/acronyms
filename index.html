@@ -134,7 +134,8 @@ function render(){
 
   // table
   let rows=ENTRIES.concat(PARTS.map(p=>[p.a,p.m,p.spec]));
-  if(raw){
+  if(raw&&!n) rows=[];
+  else if(raw){
     rows=rows.map(e=>{const na=norm(e[0]);
       let s=9;
       if(e[0].toLowerCase()===raw) s=0; else if(na===n) s=1; else if(na.startsWith(n)) s=2;

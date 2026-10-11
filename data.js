@@ -494,6 +494,7 @@ CM|Chronic migraine|Pain Medicine
 CM|Circumferential margin|Pathology
 CM|Conus medullaris|Physical Medicine & Rehab
 CM|Case management|Behavioral Health Unit, Health Insurance & Billing, Occupational Therapy, Physical Therapy, Psychiatry, Social Work & Case Management
+cm|Centimeters|Chart Shorthand
 CRA|Community reinforcement approach|Addiction Medicine
 CRA|Cranial angulation|Cardiac Imaging
 CRA|Caries risk assessment|Dentistry
@@ -1885,6 +1886,7 @@ Mg|Myasthenia gravis|Anesthesiology, Critical Care, Hospital Medicine, Neurology
 Mg|Mean gradient|Cardiac Surgery
 Mg|Mycoplasma genitalium|Infectious Disease
 Mg|Milligram|Nursing, Nutrition, Pharmacology
+mg|Milligrams|Chart Shorthand
 Phos|Phosphorus (phosphate)|Addiction Medicine, Anesthesiology, Endocrinology, Nephrology, Nursing, Nutrition
 Phos|Phosphate|Emergency Medicine, General Surgery, Laboratory Medicine
 Phos|Phosphorus|Dialysis Nursing
@@ -4956,6 +4958,7 @@ FT|Face tent|Respiratory Therapy
 FT|Unrelated E/M visit on the same day as another visit or during a global period, critical care (modifier)|Health Insurance & Billing
 FT|Full thickness|Wound & Ostomy Care
 FT|Fingertip dilation|Maternal-Newborn Nursing
+ft|Feet|Chart Shorthand
 CMR-FT|Cardiac magnetic resonance feature tracking|Cardiac Imaging
 RVFWS|Right ventricular free wall strain|Cardiac Imaging, Heart Failure
 RVGLS|Right ventricular global longitudinal strain|Cardiac Imaging
@@ -7254,14 +7257,14 @@ gtt|Continuous infusion (drip)|Nursing
 mcg|Microgram|Critical Care, Nursing, Nutrition, Pharmacology, Toxicology
 MCG|Milliman Care Guidelines|Social Work & Case Management
 MCG|MCG care guidelines (formerly Milliman Care Guidelines)|Health Insurance & Billing
-mcg|Micrograms|Pharmacy Operations
+mcg|Micrograms|Chart Shorthand, Pharmacy Operations
 mEq|Milliequivalent|Critical Care, Nursing, Nutrition, Pharmacology, Toxicology
 mEq|Morningness-Eveningness Questionnaire|Sleep Medicine
-mEq|Milliequivalents|Pharmacy Operations
+mEq|Milliequivalents|Chart Shorthand, Pharmacy Operations
 cmH2O|Centimeters of water pressure|Critical Care
 cmH2O|Centimeters of water (pressure unit)|Respiratory Therapy, Sleep Medicine
 cmH2O|Centimeters of water|Procedures & Sedation
-mmHg|Millimeters of mercury|Critical Care, Pharmacology, Toxicology
+mmHg|Millimeters of mercury|Chart Shorthand, Critical Care, Pharmacology, Toxicology
 mmHg|Millimeters of mercury (pressure unit)|Respiratory Therapy
 kPa|Kilopascal|Critical Care, Hepatology, Radiology
 mcg/kg/min|Micrograms per kilogram per minute|Critical Care, Pharmacology, Toxicology
@@ -9397,6 +9400,7 @@ QC|Quad cane|Nursing, Occupational Therapy, Orthotics & Prosthetics, Physical Me
 SMX-TMP|Sulfamethoxazole-trimethoprim|Chart Shorthand, Dermatology, Infectious Disease, Pharmacology
 MIN|Minocycline|Dermatology, Pharmacology
 min|Minimal|Wound & Ostomy Care
+min|Minutes|Chart Shorthand
 DOX|Doxycycline|Chart Shorthand, Dermatology, Pharmacology
 DOX|Doxorubicin|Chart Shorthand, Oncology, Pharmacology
 SPL|Spironolactone|Dermatology
@@ -11715,6 +11719,7 @@ ML|Mechanical lift|Nursing, Occupational Therapy
 ML|Machine learning|Evidence-Based Medicine
 ML|Maximum likelihood|Evidence-Based Medicine
 ML|Midline catheter|Nursing
+mL|Milliliters|Chart Shorthand
 ESWL|Extracorporeal shock wave lithotripsy|Gastroenterology, Nephrology, Urology
 SpyGlass|Single-operator cholangioscopy|Gastroenterology
 DSOC|Digital single-operator cholangioscopy|Gastroenterology
@@ -12651,6 +12656,7 @@ p.|Protein reference sequence position|Genetics
 ΔP|Driving pressure|Respiratory Therapy
 p|After (p-bar, post)|Chart Shorthand
 P|Para|Maternal-Newborn Nursing
+P|Plan|Chart Shorthand
 pUPD|Paternal uniparental disomy|Genetics
 q arm|Long arm of a chromosome|Genetics
 qPCR|Quantitative polymerase chain reaction|Genetics, Hematology, Infectious Disease, Laboratory Medicine, Pathology
@@ -16951,9 +16957,11 @@ TA|Torque absorber|Orthotics & Prosthetics
 TA|Total assist|Chart Shorthand
 gtts|Drops|Nursing, Ophthalmology, Otolaryngology, Pharmacology
 kg|Kilogram|Nursing, Pharmacology
+kg|Kilograms|Chart Shorthand
 L|Liter|Nursing, Pharmacology
 L|Left|Orthotics & Prosthetics, Otolaryngology, Podiatry, Radiology
 L|Low result flag|Lab Specimens & Blood Bank
+L|Liters|Chart Shorthand
 tbsp|Tablespoon|Nursing, Pharmacology
 oz|Ounce|Nursing, Pharmacology
 IU|International unit|Nursing, Nutrition, Pharmacology
@@ -17238,7 +17246,7 @@ mNUTRIC|Modified nutrition risk in the critically ill score|Nutrition
 mOsm/kg|Milliosmoles per kilogram|Nutrition, Pharmacology, Toxicology
 mOsm|Milliosmole|Nutrition, Pharmacology, Toxicology
 mmol|Millimole|Nutrition, Pharmacology
-mmol|Millimoles|Pharmacy Operations
+mmol|Millimoles|Chart Shorthand, Pharmacy Operations
 n-3|Omega-3 fatty acids|Nutrition
 n-6|Omega-6 fatty acids|Nutrition
 r/t|Related to|Chaplaincy & Spiritual Care, Nutrition
@@ -17250,6 +17258,7 @@ RT|Rectal tube|Nursing, Wound & Ostomy Care
 G|Gravida|Maternal-Newborn Nursing
 G|Gauge|Procedures & Sedation
 G+|Guaiac positive|Chart Shorthand
+g|Grams|Chart Shorthand
 FDLMP|First day of last menstrual period|Obstetrics
 SIUP|Single intrauterine pregnancy|Maternal-Newborn Nursing, Obstetrics
 NND|Neonatal death|Obstetrics, Pathology
@@ -18711,6 +18720,7 @@ IBC|Inflammatory breast cancer|Oncology, Pathology
 PgR|Progesterone receptor|Oncology, Pathology
 HR+|Hormone receptor positive|Oncology
 HR|Hallux rigidus|Podiatry
+hr|Hour|Chart Shorthand
 ER+|Estrogen receptor positive|Oncology
 ER|Extended recovery|Perioperative Nursing
 CBE|Clinical breast exam|Oncology
@@ -19083,6 +19093,7 @@ LHT|Left hypertropia|Ophthalmology
 E|Esophoria|Ophthalmology
 E|Emergency modifier to ASA class|Perioperative Nursing
 X|Exophoria|Ophthalmology
+x|Times (e.g. x3 days)|Chart Shorthand
 IET|Infantile esotropia|Ophthalmology
 IXT|Intermittent exotropia|Ophthalmology
 IOOA|Inferior oblique overaction|Ophthalmology
@@ -24913,6 +24924,7 @@ Grp 2|Group 2 support surface (powered or advanced nonpowered mattress)|Wound & 
 Grp 3|Group 3 support surface (air-fluidized bed)|Wound & Ostomy Care
 GS/Cx|Gram stain and culture|Procedures & Sedation
 H|High result flag|Lab Specimens & Blood Bank
+h|Hour|Chart Shorthand
 H index|Hemolysis index|Lab Specimens & Blood Bank
 Hand mitts|Padded mitts that prevent pulling at lines and tubes|Nursing
 HAPU|Hospital-acquired pressure ulcer|Wound & Ostomy Care

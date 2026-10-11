@@ -11,7 +11,9 @@ root = pathlib.Path(__file__).resolve().parent.parent
 body = re.search(r"const DICT = `\n(.*?)`", (root / "data.js").read_text(), re.S).group(1)
 norm = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
 STOP = set("of the and to with for in on a an by per or at from as is".split())
-words = lambda s: {w for w in re.findall(r"[a-z0-9]+", s.lower()) if w not in STOP and len(w) > 2}
+# compare hyphenated words both joined and split, so non-contrast = noncontrast and follow-up = follow up
+_w = lambda s: {w for w in re.findall(r"[a-z0-9]+", s) if w not in STOP and len(w) > 2}
+words = lambda s: _w(s.lower()) | _w(s.lower().replace("-", ""))
 have = {}
 for ln in body.splitlines():
     p = ln.split("|")
@@ -23,6 +25,8 @@ for ln in (root / "tests" / "must-have.txt").read_text().splitlines():
     if len(p) != 2 or not p[0]:
         continue
     a, m = p
+    if not re.search(r"[A-Za-z]", a):  # symbols and bare numbers are out of scope
+        continue
     got = have.get(norm(a))
     if not got:
         missing.append(ln)

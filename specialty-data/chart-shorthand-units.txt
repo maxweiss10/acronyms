@@ -1,0 +1,16 @@
+P|Plan|Chart Shorthand
+x|Times (e.g. x3 days)|Chart Shorthand
+mg|Milligrams|Chart Shorthand
+mcg|Micrograms|Chart Shorthand
+g|Grams|Chart Shorthand
+kg|Kilograms|Chart Shorthand
+mL|Milliliters|Chart Shorthand
+L|Liters|Chart Shorthand
+mEq|Milliequivalents|Chart Shorthand
+mmol|Millimoles|Chart Shorthand
+mmHg|Millimeters of mercury|Chart Shorthand
+h|Hour|Chart Shorthand
+hr|Hour|Chart Shorthand
+min|Minutes|Chart Shorthand
+ft|Feet|Chart Shorthand
+cm|Centimeters|Chart Shorthand

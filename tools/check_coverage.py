@@ -30,4 +30,4 @@ for ln in (root / "tests" / "must-have.txt").read_text().splitlines():
         meaning.append(ln)
 (root / "tests" / "gaps.txt").write_text("\n".join(missing + meaning) + "\n")
 total = sum(1 for l in (root / "tests" / "must-have.txt").read_text().splitlines() if "|" in l)
-print(f"checked {total}: {len(missing)} acronyms missing, {len(meaning)} meanings missing; see tests/gaps.txt")
+print(f"checked {total}: {len(missing)} acronyms missing, {len(meaning)} meanings missing; see {root / 'tests' / 'gaps.txt'}")

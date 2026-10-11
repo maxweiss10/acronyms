@@ -1,0 +1,19 @@
+WTD|Wet-to-dry dressing|Wound, Ostomy & Continence
+W-D|Wet-to-dry dressing|Wound, Ostomy & Continence
+W/D|Wet-to-dry dressing|Wound, Ostomy & Continence
+W2D|Wet-to-dry dressing|Wound, Ostomy & Continence
+NS WTD|Normal saline wet-to-dry dressing|Wound, Ostomy & Continence
+WTM|Wet-to-moist dressing|Wound, Ostomy & Continence
+DSD|Dry sterile dressing|Wound, Ostomy & Continence
+ABD pad|Abdominal (absorbent) dressing pad|Wound, Ostomy & Continence
+VAC|Vacuum-assisted closure (negative pressure wound therapy)|Wound, Ostomy & Continence
+NPWT|Negative pressure wound therapy|Wound, Ostomy & Continence
+C/D/I|Clean, dry and intact|Wound, Ostomy & Continence
+WOC|Wound, ostomy and continence|Wound, Ostomy & Continence
+WOCN|Wound, ostomy and continence nurse|Wound, Ostomy & Continence
+CSWD|Conservative sharp wound debridement|Wound, Ostomy & Continence
+MASD|Moisture-associated skin damage|Wound, Ostomy & Continence
+IAD|Incontinence-associated dermatitis|Wound, Ostomy & Continence
+HAPI|Hospital-acquired pressure injury|Wound, Ostomy & Continence
+MDRPI|Medical device-related pressure injury|Wound, Ostomy & Continence
+DTPI|Deep tissue pressure injury|Wound, Ostomy & Continence

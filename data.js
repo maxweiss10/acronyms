@@ -1561,6 +1561,7 @@ WD|Withdrawal|Addiction Medicine
 WD|Wilson disease|Gastroenterology, Genetics, Hepatology
 WD|Well differentiated|Oncology, Pathology
 WD|Wrist disarticulation|Orthotics & Prosthetics
+W-D|Wet-to-dry dressing|Wound, Ostomy & Continence
 WNL|Within normal limits|Addiction Medicine, Cardiology, Chart Shorthand, Critical Care, Dentistry, Dermatology, Emergency Medicine, Geriatrics, Hospital Medicine, Laboratory Medicine, Nursing, Nutrition, Obstetrics, Occupational Therapy, Orthotics & Prosthetics, Otolaryngology, Pain Medicine, Palliative Care, Pathology, Pediatrics, Physical Medicine & Rehab, Physical Therapy, Podiatry, Psychiatry, Radiology, Respiratory Therapy, Rheumatology, Sleep Medicine, Speech-Language Pathology, Sports Medicine, Trauma Surgery, Vascular Surgery
 LOS|Length of stay|Addiction Medicine, Cardiac Surgery, Chart Shorthand, Critical Care, Electrophysiology, Evidence-Based Medicine, General Surgery, Health Administration, Health Insurance & Billing, Heart Failure, Hospital Medicine, Interventional Cardiology, Nursing, Orthopedics, Otolaryngology, Palliative Care, Pediatrics, Physical Medicine & Rehab, Plastic Surgery, Psychiatry, Public Health, Social Work & Case Management, Sports Medicine, Transplant, Trauma Surgery, Vascular Surgery
 LOS|Late-onset sepsis|Infectious Disease, Neonatology, Pediatrics
@@ -4505,7 +4506,7 @@ CDI|Central diabetes insipidus|Endocrinology, Nephrology, Neurosurgery
 CDI|Clinical documentation improvement|Health Administration, Health Insurance & Billing
 CDI|Cup-to-diameter index|Orthopedics
 CDI|Children's depression inventory|Psychiatry
-CDI|Clean, dry, and intact|Trauma Surgery
+CDI|Clean, dry, and intact|Trauma Surgery, Wound, Ostomy & Continence
 CDI|Certified deaf interpreter|Social Work & Case Management
 CDI|Clinical documentation integrity|Health Insurance & Billing, Social Work & Case Management
 CDI|California Department of Insurance|Health Insurance & Billing
@@ -5928,11 +5929,12 @@ DSWI|Deep sternal wound infection|Cardiac Surgery
 SWD|Sternal wound dehiscence|Cardiac Surgery
 SWD|Shift work disorder|Sleep Medicine
 SWD|Shortwave diathermy|Physical Therapy, Sports Medicine
-NPWT|Negative pressure wound therapy|Cardiac Surgery, Critical Care, Dermatology, Gastroenterology, General Surgery, Geriatrics, Nursing, Orthopedics, Otolaryngology, Physical Medicine & Rehab, Plastic Surgery, Podiatry, Trauma Surgery, Vascular Surgery
+NPWT|Negative pressure wound therapy|Cardiac Surgery, Critical Care, Dermatology, Gastroenterology, General Surgery, Geriatrics, Nursing, Orthopedics, Otolaryngology, Physical Medicine & Rehab, Plastic Surgery, Podiatry, Trauma Surgery, Vascular Surgery, Wound, Ostomy & Continence
 VAC|Vacuum-assisted closure|Cardiac Surgery, Gastroenterology, General Surgery, Plastic Surgery, Podiatry, Trauma Surgery, Vascular Surgery
 VAC|Ventilator-associated condition|Critical Care, Respiratory Therapy
 VAC|Vincristine, dactinomycin and cyclophosphamide regimen|Oncology
 VAC|Voluntary anal contraction|Physical Medicine & Rehab
+VAC|Vacuum-assisted closure (negative pressure wound therapy)|Wound, Ostomy & Continence
 JP|Jackson-Pratt drain|Cardiac Surgery, Chart Shorthand, Neurosurgery, Plastic Surgery, Transplant, Trauma Surgery
 JP|Joint protection|Occupational Therapy
 JP|Jackson-Pratt (surgical drain)|Chart Shorthand
@@ -7189,9 +7191,9 @@ GAS|Gender-affirming surgery|Endocrinology, Gynecology, Plastic Surgery
 GAS|Gastric-type adenocarcinoma of the cervix|Pathology
 GAS|Goal attainment scaling|Physical Therapy, Speech-Language Pathology
 ESKAPE|Enterococcus faecium, Staphylococcus aureus, Klebsiella pneumoniae, Acinetobacter baumannii, Pseudomonas aeruginosa, Enterobacter species: group of resistant hospital pathogens|Critical Care, Infectious Disease
-HAPI|Hospital-acquired pressure injury|Chart Shorthand, Critical Care, Geriatrics, Nursing
-DTPI|Deep tissue pressure injury|Critical Care, Geriatrics, Podiatry
-IAD|Incontinence-associated dermatitis|Critical Care, Nursing, Podiatry
+HAPI|Hospital-acquired pressure injury|Chart Shorthand, Critical Care, Geriatrics, Nursing, Wound, Ostomy & Continence
+DTPI|Deep tissue pressure injury|Critical Care, Geriatrics, Podiatry, Wound, Ostomy & Continence
+IAD|Incontinence-associated dermatitis|Critical Care, Nursing, Podiatry, Wound, Ostomy & Continence
 IAD|Intermittent androgen deprivation|Oncology, Urology
 IAD|Illness anxiety disorder|Psychiatry
 HAC|Hospital-acquired condition|Chart Shorthand, Critical Care, Evidence-Based Medicine, Health Administration, Health Insurance & Billing, Social Work & Case Management
@@ -8027,7 +8029,7 @@ CAD/CAM|Computer-aided design and manufacturing|Orthotics & Prosthetics
 DSD|Digital smile design|Dentistry
 DSD|Disorders of sex development|Endocrinology
 DSD|Differences of sex development|Genetics, Gynecology, Neonatology, Pediatrics
-DSD|Dry sterile dressing|Nursing
+DSD|Dry sterile dressing|Nursing, Wound, Ostomy & Continence
 DSD|Detrusor-sphincter dyssynergia|Physical Medicine & Rehab, Urology
 ZOE|Zinc oxide eugenol|Dentistry
 ZnPO4|Zinc phosphate cement|Dentistry
@@ -11624,7 +11626,7 @@ PAA|Perianal abscess|General Surgery
 PAA|Plasma amino acids|Genetics
 PAA|Popliteal artery aneurysm|Vascular Surgery
 CIPO|Chronic intestinal pseudo-obstruction|General Surgery
-WOCN|Wound, ostomy, and continence nurse|General Surgery, Geriatrics, Podiatry
+WOCN|Wound, ostomy, and continence nurse|General Surgery, Geriatrics, Podiatry, Wound, Ostomy & Continence
 SSO|Surgical site occurrence|General Surgery
 SSO|Single sign-on|Health Administration
 AAST|Organ injury grading scale for trauma|General Surgery
@@ -19660,7 +19662,7 @@ NDO|Neurogenic detrusor overactivity|Physical Medicine & Rehab, Urology
 BCE|Bowel care evacuation|Physical Medicine & Rehab
 PDE5|Phosphodiesterase type 5|Physical Medicine & Rehab, Rheumatology, Urology
 SDTI|Suspected deep tissue injury|Nursing, Physical Medicine & Rehab
-WOC|Wound, ostomy and continence|Physical Medicine & Rehab, Physical Therapy
+WOC|Wound, ostomy and continence|Physical Medicine & Rehab, Physical Therapy, Wound, Ostomy & Continence
 WOC|Wound, ostomy, and continence (nurse)|Podiatry
 NLI|Neurological level of injury|Physical Medicine & Rehab
 ISNCSCI|International standards for neurological classification of spinal cord injury|Physical Medicine & Rehab, Physical Therapy
@@ -22452,7 +22454,7 @@ MANOVA|Multivariate analysis of variance|Evidence-Based Medicine
 MARSI|Medical adhesive-related skin injury|Podiatry
 MASA|Mann assessment of swallowing ability|Speech-Language Pathology
 MASA-C|Mann assessment of swallowing ability, cancer|Speech-Language Pathology
-MASD|Moisture-associated skin damage|Nursing, Podiatry
+MASD|Moisture-associated skin damage|Nursing, Podiatry, Wound, Ostomy & Continence
 Max VC|Maximal verbal cues|Occupational Therapy
 MBSImP|Modified barium swallow impairment profile|Speech-Language Pathology
 MBW|Multiple-breath washout|Respiratory Therapy
@@ -23362,4 +23364,11 @@ ZD|Zenker diverticulum|Speech-Language Pathology
 ZEEP|Zero end-expiratory pressure|Respiratory Therapy
 ZPIC|Zone Program Integrity Contractor|Health Insurance & Billing
 ZSFG|Zuckerberg San Francisco General Hospital|Social Work & Case Management
+ABD pad|Abdominal (absorbent) dressing pad|Wound, Ostomy & Continence
+CSWD|Conservative sharp wound debridement|Wound, Ostomy & Continence
+MDRPI|Medical device-related pressure injury|Wound, Ostomy & Continence
+NS WTD|Normal saline wet-to-dry dressing|Wound, Ostomy & Continence
+W2D|Wet-to-dry dressing|Wound, Ostomy & Continence
+WTD|Wet-to-dry dressing|Wound, Ostomy & Continence
+WTM|Wet-to-moist dressing|Wound, Ostomy & Continence
 `;

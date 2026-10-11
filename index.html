@@ -35,7 +35,7 @@
 <div id="dec"></div>
 <div id="count"></div>
 <table><thead><tr><th>Acronym</th><th>Meaning</th><th>Specialty</th></tr></thead><tbody id="t"></tbody></table>
-<div id="none">No match.</div>
+<div id="none">No match. <a id="rep" href="#" target="_blank" rel="noopener">Report a missing term</a></div>
 </main>
 <script src="data.js"></script>
 <script>
@@ -79,9 +79,14 @@ function segment(w){
     } }
   return best[n]?best[n].p:null;
 }
+// tok keeps the user's casing: "pt" (patient) and "PT" (prothrombin time) rank differently
 function decodeToken(tok){
-  const k=norm(tok); if(!k) return null;
-  if(LEX[k]){ const ex=LEX[k].filter(e=>e.a.toLowerCase()===tok); const by=(x,y)=>y.spec.split(", ").length-x.spec.split(", ").length; return {t:tok,exact:(ex.length?ex:LEX[k]).slice().sort(by)}; }
+  const k=norm(tok), tl=tok.toLowerCase(); if(!k) return null;
+  if(LEX[k]){ const ex=LEX[k].filter(e=>e.a.toLowerCase()===tl);
+    const low=tok===tl&&/[a-z]/.test(tl), lc=a=>/[a-z]/.test(a);
+    const by=(x,y)=>(y.a===tok)-(x.a===tok)||(low?lc(y.a)-lc(x.a):0)||y.spec.split(", ").length-x.spec.split(", ").length;
+    return {t:tok,exact:(ex.length?ex:LEX[k]).slice().sort(by)}; }
+  if(k.length>2&&k.endsWith("s")&&LEX[k.slice(0,-1)]) return decodeToken(tok.slice(0,-1));
   const seg=segment(k);
   if(seg&&seg.length>1) return {t:tok,seg:seg.map(s=>({k:s,e:LEX[s][0]}))};
   return {t:tok,none:true};
@@ -93,9 +98,12 @@ const t=$("t"),q=$("q"),none=$("none"),dec=$("dec"),spec=$("spec"),count=$("coun
 [...new Set(ENTRIES.flatMap(e=>e[2].split(", ")).concat(["Compound modifier"]))].sort().forEach(s=>{
   const o=document.createElement("option");o.value=s;o.textContent=s;spec.append(o);
 });
-const SPEC_ABBR={"Cardiology":"Cards","Electrophysiology":"EP","Interventional Cardiology":"Interv","Cardiac Imaging":"Imaging","Heart Failure":"HF","Cardiac Surgery":"CT Surg","Vascular Surgery":"Vasc","Pulmonology":"Pulm","Sleep Medicine":"Sleep","Critical Care":"CC","Nephrology":"Neph","Gastroenterology":"GI","Hepatology":"Hep","Endocrinology":"Endo","Hematology":"Heme","Oncology":"Onc","Transplant":"Transplant","Infectious Disease":"ID","Rheumatology":"Rheum","Allergy & Immunology":"Allergy","Neurology":"Neuro","Neurosurgery":"NSG","Psychiatry":"Psych","Addiction Medicine":"Addiction","Emergency Medicine":"EM","Toxicology":"Tox","Anesthesiology":"Anesth","General Surgery":"Gen Surg","Trauma Surgery":"Trauma","Orthopedics":"Ortho","Sports Medicine":"Sports","Physical Medicine & Rehab":"PM&R","Urology":"Uro","Obstetrics":"OB","Gynecology":"Gyn","Pediatrics":"Peds","Neonatology":"Neo","Genetics":"Genetics","Geriatrics":"Geri","Palliative Care":"Palliative","Pain Medicine":"Pain","Dermatology":"Derm","Plastic Surgery":"Plastics","Ophthalmology":"Ophth","Otolaryngology":"ENT","Dentistry":"Dental","Radiology":"Rad","Pathology":"Path","Laboratory Medicine":"Lab","Pharmacology":"Pharm","Nutrition":"Nutr","Public Health":"PH","Health Administration":"Admin","Hospital Medicine":"Hosp Med","Nursing":"Nursing","Physical Therapy":"PT","Occupational Therapy":"OT","Speech-Language Pathology":"SLP","Respiratory Therapy":"RT","Social Work & Case Management":"SW/CM","Chaplaincy & Spiritual Care":"Chaplain","Health Insurance & Billing":"Insurance","Podiatry":"Podiatry","Orthotics & Prosthetics":"O&P","Evidence-Based Medicine":"EBM","Chart Shorthand":"Chart","Wound, Ostomy & Continence":"Wound","Compound modifier":"Compound"};
+const SPEC_ABBR={"Cardiology":"Cards","Electrophysiology":"EP","Interventional Cardiology":"Interv","Cardiac Imaging":"Imaging","Heart Failure":"HF","Cardiac Surgery":"CT Surg","Vascular Surgery":"Vasc","Pulmonology":"Pulm","Sleep Medicine":"Sleep","Critical Care":"CC","Nephrology":"Neph","Gastroenterology":"GI","Hepatology":"Hep","Endocrinology":"Endo","Hematology":"Heme","Oncology":"Onc","Transplant":"Transplant","Infectious Disease":"ID","Rheumatology":"Rheum","Allergy & Immunology":"Allergy","Neurology":"Neuro","Neurosurgery":"NSG","Psychiatry":"Psych","Addiction Medicine":"Addiction","Emergency Medicine":"EM","Toxicology":"Tox","Anesthesiology":"Anesth","General Surgery":"Gen Surg","Trauma Surgery":"Trauma","Orthopedics":"Ortho","Sports Medicine":"Sports","Physical Medicine & Rehab":"PM&R","Urology":"Uro","Obstetrics":"OB","Gynecology":"Gyn","Pediatrics":"Peds","Neonatology":"Neo","Genetics":"Genetics","Geriatrics":"Geri","Palliative Care":"Palliative","Pain Medicine":"Pain","Dermatology":"Derm","Plastic Surgery":"Plastics","Ophthalmology":"Ophth","Otolaryngology":"ENT","Dentistry":"Dental","Radiology":"Rad","Pathology":"Path","Laboratory Medicine":"Lab","Pharmacology":"Pharm","Nutrition":"Nutr","Public Health":"PH","Health Administration":"Admin","Hospital Medicine":"Hosp Med","Nursing":"Nursing","Physical Therapy":"PT","Occupational Therapy":"OT","Speech-Language Pathology":"SLP","Respiratory Therapy":"RT","Social Work & Case Management":"SW/CM","Chaplaincy & Spiritual Care":"Chaplain","Health Insurance & Billing":"Insurance","Podiatry":"Podiatry","Orthotics & Prosthetics":"O&P","Evidence-Based Medicine":"EBM","Chart Shorthand":"Chart","Wound & Ostomy Care":"Wound","Perioperative Nursing":"Periop","Dialysis Nursing":"Dialysis RN","EMS & Prehospital":"EMS","Infection Prevention":"IP","Pharmacy Operations":"Pharm Ops","Lab Specimens & Blood Bank":"Lab/BB","Maternal-Newborn Nursing":"L&D/NB","Behavioral Health Unit":"Psych unit","Procedures & Sedation":"Procedures","Compound modifier":"Compound"};
 // exact typed forms (keeps slashes/case-folded), so "c/f" is looked up whole instead of split
 const RAW=new Set(ENTRIES.map(e=>e[0].toLowerCase()));
+// lowercase English glue words in a pasted phrase are not acronyms (OF in caps still decodes)
+const WORDS=new Set("of and the to with now on in for at is was but or by from as an if then".split(" "));
+const PUN=s=>/[^A-Za-z0-9]/.test(s)?1:0;
 const RAWN=new Set(ENTRIES.map(e=>norm(e[0])));
 // Fallback for spelling variants (WTD vs W-D, TTP vs TP): index each meaning by its word initials,
 // once with every word and once without small linking words.
@@ -106,16 +114,16 @@ ENTRIES.forEach(([a,m,sp])=>{const w=m.replace(/\([^)]*\)/g," ").toLowerCase().s
 const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 function render(){
-  const raw=q.value.trim().toLowerCase(), n=norm(raw), sp=spec.value;
-  dec.innerHTML="";
+  const typed=q.value.trim(), raw=typed.toLowerCase(), n=norm(raw), sp=spec.value;
+  dec.innerHTML=""; let known=0;
 
   // decoder: multi-token input, or a single token that is not a whole entry
   if(raw){
     // whole-word lookup first (s/p, c/o, A&Ox3); split on / + & only when the word is not itself an entry
-    const toks=raw.split(/[\s,;]+/).flatMap(w=>RAW.has(w)||!/[\/+&]/.test(w)?[w]:w.split(/[\/+&]+/)).filter(Boolean);
+    const toks=q.value.trim().split(/[\s,;]+/).flatMap(w=>RAW.has(w.toLowerCase())||RAWN.has(norm(w))||!/[\/+&]/.test(w)?[w]:w.split(/[\/+&]+/)).filter(Boolean);
     if(!RAW.has(raw)&&(toks.length>1||!RAWN.has(n))){
-      toks.map(decodeToken).filter(Boolean).forEach(o=>{
-        const d=document.createElement("div");
+      toks.filter(w=>!WORDS.has(w)).map(decodeToken).filter(Boolean).forEach(o=>{
+        const d=document.createElement("div"); if(o.exact||o.seg) known++;
         if(o.exact) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.exact.map(e=>esc(e.m)+` <span class="g">(${esc(e.spec)})</span>`).join("; ")}`;
         else if(o.seg) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.seg.map(x=>esc(x.e.m)).join(" + ")} <span class="g">(best guess: ${o.seg.map(x=>esc(x.k.toUpperCase())).join(" + ")})</span>`;
         else d.innerHTML=`<b>${esc(o.t)}</b>: <span class="g">not recognized</span>`;
@@ -131,9 +139,11 @@ function render(){
       let s=9;
       if(e[0].toLowerCase()===raw) s=0; else if(na===n) s=1; else if(na.startsWith(n)) s=2;
       return [s,e];
-    }).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||(x[0]<2?y[1][2].split(", ").length-x[1][2].split(", ").length:0)||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
+    }).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||(x[0]===0?(y[1][0]===typed)-(x[1][0]===typed):0)||(x[0]===1&&PUN(raw)?PUN(y[1][0])-PUN(x[1][0]):0)||(x[0]<2?y[1][2].split(", ").length-x[1][2].split(", ").length:0)||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
   } else rows=rows.slice().sort((x,y)=>x[0].localeCompare(y[0]));
-  if(raw&&!rows.length&&INIT[n]) rows=[...INIT[n].values()].map(([a,m,s])=>[a,m+" (matched by initials)",s]);
+  if(raw&&!rows.length&&n.length>2&&n.endsWith("s")&&RAWN.has(n.slice(0,-1))){const k=n.slice(0,-1);
+    rows=ENTRIES.filter(e=>norm(e[0])===k).sort((x,y)=>y[2].split(", ").length-x[2].split(", ").length).map(([a,m,s])=>[a+"s",m+" (plural)",s]);}
+  else if(raw&&!rows.length&&INIT[n]) rows=[...INIT[n].values()].map(([a,m,s])=>[a,m+" (matched by initials)",s]);
   if(sp) rows=rows.filter(e=>e[2].split(", ").includes(sp));
 
   t.innerHTML="";
@@ -143,7 +153,8 @@ function render(){
     t.append(tr);
   });
   count.textContent = rows.length>400 ? `Showing 400 of ${rows.length}. Narrow your search.` : (rows.length? `${rows.length} match${rows.length===1?"":"es"}` : "");
-  none.style.display=(rows.length||dec.children.length)?"none":"block";
+  none.style.display=(rows.length||known)?"none":"block";
+  $("rep").href="https://github.com/maxweiss10/acronyms/issues/new?title="+encodeURIComponent("Missing: "+q.value.trim());
 }
 q.addEventListener("input",render);
 spec.addEventListener("change",render);

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Fold one or more specialty-data/*.txt files into data.js.
 
-An acronym+meaning pair that already exists (case/punctuation-insensitive) gets the new
+An acronym+meaning pair that already exists (same acronym spelling and case; meaning compared case/punctuation-insensitively) gets the new
 specialty appended to its list. A new meaning is inserted after the last existing line
 for that acronym, or appended at the end. Usage: tools/add_specialties.py file.txt ...
 """
@@ -14,7 +14,7 @@ head, body, tail = src[:m.start(1)], m.group(1), src[m.end(1):]
 lines = [l for l in body.split("\n") if l.strip()]
 norm = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
 rows = [l.split("|") for l in lines]
-idx = {(norm(a), norm(mn)): i for i, (a, mn, s) in enumerate(rows)}
+idx = {(a.strip(), norm(mn)): i for i, (a, mn, s) in enumerate(rows)}  # case matters: pt vs PT
 last = {}
 for i, (a, mn, s) in enumerate(rows):
     last[norm(a)] = i
@@ -29,8 +29,8 @@ for f in sys.argv[1:]:
             if ln.strip(): bad += 1; print("skip:", ln, file=sys.stderr)
             continue
         a, mn, sp = p
-        key = (norm(a), norm(mn))
-        if not key[0] or key in seen: continue
+        key = (a, norm(mn))
+        if not norm(a) or key in seen: continue
         seen.add(key)
         if key in idx:
             i = idx[key]
@@ -45,8 +45,8 @@ for f in sys.argv[1:]:
                 r[2] = ", ".join(sorted(specs + [sp])); merged += 1
             continue
         r = [a, mn, sp]
-        if key[0] in last:
-            inserts.setdefault(last[key[0]], []).append(r)
+        if norm(a) in last:
+            inserts.setdefault(last[norm(a)], []).append(r)
         else:
             appends.append(r)
         idx[key] = ("new", r); added += 1

@@ -1,0 +1,566 @@
+dsg|Dressing|Wound & Ostomy Care
+drsg|Dressing|Wound & Ostomy Care
+dsg chg|Dressing change|Wound & Ostomy Care
+DSD|Dry sterile dressing|Wound & Ostomy Care
+dry sterile dsg|Dry sterile dressing|Wound & Ostomy Care
+WTD|Wet-to-dry dressing|Wound & Ostomy Care
+W-D|Wet-to-dry dressing|Wound & Ostomy Care
+W/D|Wet-to-dry dressing|Wound & Ostomy Care
+W2D|Wet-to-dry dressing|Wound & Ostomy Care
+WTD dsg|Wet-to-dry dressing|Wound & Ostomy Care
+NS WTD|Normal saline wet-to-dry dressing|Wound & Ostomy Care
+WTM|Wet-to-moist dressing|Wound & Ostomy Care
+W/M|Wet-to-moist dressing|Wound & Ostomy Care
+NS|Normal saline|Wound & Ostomy Care
+NSS|Normal saline solution|Wound & Ostomy Care
+NS moist gauze|Normal saline-moistened gauze|Wound & Ostomy Care
+NS-moistened gauze|Normal saline-moistened gauze|Wound & Ostomy Care
+gz|Gauze|Wound & Ostomy Care
+4x4|Four-by-four inch gauze sponge|Wound & Ostomy Care
+4 x 4|Four-by-four inch gauze sponge|Wound & Ostomy Care
+4x4s|Four-by-four inch gauze sponges|Wound & Ostomy Care
+2x2|Two-by-two inch gauze sponge|Wound & Ostomy Care
+2 x 2|Two-by-two inch gauze sponge|Wound & Ostomy Care
+ABD|Abdominal pad dressing|Wound & Ostomy Care
+ABD pad|Abdominal pad dressing|Wound & Ostomy Care
+ABDs|Abdominal pad dressings|Wound & Ostomy Care
+roll gz|Roll gauze|Wound & Ostomy Care
+petro gauze|Petrolatum gauze|Wound & Ostomy Care
+nonadherent dsg|Nonadherent dressing|Wound & Ostomy Care
+WCL|Wound contact layer|Wound & Ostomy Care
+HCD|Hydrocolloid dressing|Wound & Ostomy Care
+HC|Hydrocolloid|Wound & Ostomy Care
+Ca alginate|Calcium alginate dressing|Wound & Ostomy Care
+CMC|Carboxymethylcellulose|Wound & Ostomy Care
+Ag|Silver|Wound & Ostomy Care
+Ag+|Silver ion|Wound & Ostomy Care
+Ag alginate|Silver alginate dressing|Wound & Ostomy Care
+Ag foam|Silver foam dressing|Wound & Ostomy Care
+Ag hydrofiber|Silver hydrofiber dressing|Wound & Ostomy Care
+AgNO3|Silver nitrate|Wound & Ostomy Care
+SSD|Silver sulfadiazine|Wound & Ostomy Care
+MGH|Medical-grade honey|Wound & Ostomy Care
+ORC|Oxidized regenerated cellulose|Wound & Ostomy Care
+ORC/collagen|Oxidized regenerated cellulose-collagen dressing|Wound & Ostomy Care
+cadexomer|Cadexomer iodine|Wound & Ostomy Care
+PVP-I|Povidone-iodine|Wound & Ostomy Care
+PHMB|Polyhexamethylene biguanide (polyhexanide)|Wound & Ostomy Care
+Dakins|Dakin solution (dilute sodium hypochlorite)|Wound & Ostomy Care
+1/4 Dakins|Quarter-strength Dakin solution|Wound & Ostomy Care
+1/4 str Dakins|Quarter-strength Dakin solution|Wound & Ostomy Care
+0.125% Dakins|Quarter-strength Dakin solution (0.125% sodium hypochlorite)|Wound & Ostomy Care
+1/2 Dakins|Half-strength Dakin solution|Wound & Ostomy Care
+0.25% Dakins|Half-strength Dakin solution (0.25% sodium hypochlorite)|Wound & Ostomy Care
+Dakins WTD|Dakin solution wet-to-dry dressing|Wound & Ostomy Care
+NaOCl|Sodium hypochlorite|Wound & Ostomy Care
+HOCl|Hypochlorous acid|Wound & Ostomy Care
+HClO|Hypochlorous acid|Wound & Ostomy Care
+pkg|Packing|Wound & Ostomy Care
+1/4 in packing|Quarter-inch packing strip|Wound & Ostomy Care
+iodoform|Iodoform gauze packing strip|Wound & Ostomy Care
+iodo|Iodoform gauze packing strip|Wound & Ostomy Care
+1/4 in iodoform|Quarter-inch iodoform packing strip|Wound & Ostomy Care
+skin prep|Skin protectant film (liquid barrier wipe)|Wound & Ostomy Care
+NSBF|No-sting barrier film|Wound & Ostomy Care
+no-sting barrier|No-sting barrier film|Wound & Ostomy Care
+barrier cream|Moisture barrier cream|Wound & Ostomy Care
+ZnO|Zinc oxide|Wound & Ostomy Care
+TFD|Transparent film dressing|Wound & Ostomy Care
+TF|Transparent film|Wound & Ostomy Care
+TSM|Transparent semipermeable membrane dressing|Wound & Ostomy Care
+steris|Steri-Strips (adhesive wound closure strips)|Wound & Ostomy Care
+steri-strips|Adhesive wound closure strips|Wound & Ostomy Care
+skin glue|Topical skin adhesive (cyanoacrylate)|Wound & Ostomy Care
+SR|Suture removal|Wound & Ostomy Care
+S/R|Suture removal|Wound & Ostomy Care
+sut|Suture|Wound & Ostomy Care
+ACE|Elastic compression bandage (ACE wrap)|Wound & Ostomy Care
+ACE wrap|Elastic compression bandage|Wound & Ostomy Care
+Unna|Unna boot (zinc paste compression wrap)|Wound & Ostomy Care
+MLC|Multilayer compression|Wound & Ostomy Care
+MLCB|Multilayer compression bandage|Wound & Ostomy Care
+4LB|Four-layer compression bandage|Wound & Ostomy Care
+2LB|Two-layer compression bandage|Wound & Ostomy Care
+SSB|Short-stretch bandage|Wound & Ostomy Care
+LSB|Long-stretch bandage|Wound & Ostomy Care
+CS|Compression stockings|Wound & Ostomy Care
+GCS|Graduated compression stockings|Wound & Ostomy Care
+TEDs|Antiembolism stockings|Wound & Ostomy Care
+SCD|Sequential compression device|Wound & Ostomy Care
+CTP|Cellular and/or tissue-based product (skin substitute)|Wound & Ostomy Care
+CAMPs|Cellular, acellular and matrix-like products|Wound & Ostomy Care
+ADM|Acellular dermal matrix|Wound & Ostomy Care
+dHACM|Dehydrated human amnion/chorion membrane|Wound & Ostomy Care
+STSG|Split-thickness skin graft|Wound & Ostomy Care
+FTSG|Full-thickness skin graft|Wound & Ostomy Care
+PRP|Platelet-rich plasma|Wound & Ostomy Care
+PDGF|Platelet-derived growth factor (becaplermin)|Wound & Ostomy Care
+HBOT|Hyperbaric oxygen therapy|Wound & Ostomy Care
+e-stim|Electrical stimulation|Wound & Ostomy Care
+NCLFU|Noncontact low-frequency ultrasound|Wound & Ostomy Care
+NPWT|Negative pressure wound therapy|Wound & Ostomy Care
+VAC|Vacuum-assisted closure (negative pressure wound therapy)|Wound & Ostomy Care
+wound VAC|Vacuum-assisted closure (negative pressure wound therapy)|Wound & Ostomy Care
+VAC dsg|Negative pressure wound therapy dressing|Wound & Ostomy Care
+VAC chg|Negative pressure wound therapy dressing change|Wound & Ostomy Care
+NPT|Negative pressure therapy|Wound & Ostomy Care
+TNP|Topical negative pressure|Wound & Ostomy Care
+iNPWT|Incisional negative pressure wound therapy|Wound & Ostomy Care
+ciNPWT|Closed incision negative pressure wound therapy|Wound & Ostomy Care
+ciNPT|Closed incision negative pressure therapy|Wound & Ostomy Care
+NPWTi-d|Negative pressure wound therapy with instillation and dwell time|Wound & Ostomy Care
+NPWTi|Negative pressure wound therapy with instillation|Wound & Ostomy Care
+sNPWT|Single-use negative pressure wound therapy|Wound & Ostomy Care
+-125 mmHg|Standard negative pressure setting (125 mmHg suction)|Wound & Ostomy Care
+cont|Continuous (negative pressure mode)|Wound & Ostomy Care
+DPC|Dynamic pressure control (negative pressure mode)|Wound & Ostomy Care
+black foam|Polyurethane (reticulated open-cell) foam|Wound & Ostomy Care
+white foam|Polyvinyl alcohol foam|Wound & Ostomy Care
+PU foam|Polyurethane foam|Wound & Ostomy Care
+PVA foam|Polyvinyl alcohol foam|Wound & Ostomy Care
+PVA|Polyvinyl alcohol|Wound & Ostomy Care
+LxWxD|Length by width by depth|Wound & Ostomy Care
+L x W x D|Length by width by depth|Wound & Ostomy Care
+LWD|Length, width, depth|Wound & Ostomy Care
+PAR|Percent area reduction|Wound & Ostomy Care
+tunneling|Tunneling (sinus tract)|Wound & Ostomy Care
+undermining|Undermining (tissue destruction under intact wound edge)|Wound & Ostomy Care
+12:00|Clock position 12, toward the head|Wound & Ostomy Care
+3:00|Clock position 3|Wound & Ostomy Care
+6:00|Clock position 6, toward the feet|Wound & Ostomy Care
+9:00|Clock position 9|Wound & Ostomy Care
+wnd|Wound|Wound & Ostomy Care
+wd|Wound|Wound & Ostomy Care
+WB|Wound bed|Wound & Ostomy Care
+gran|Granulation tissue|Wound & Ostomy Care
+epibole|Epibole (rolled, closed wound edges)|Wound & Ostomy Care
+peri|Periwound|Wound & Ostomy Care
+periwound|Skin within 4 cm of the wound edge|Wound & Ostomy Care
+exud|Exudate|Wound & Ostomy Care
+drng|Drainage|Wound & Ostomy Care
+drg|Drainage|Wound & Ostomy Care
+ser|Serous|Wound & Ostomy Care
+SS|Serosanguineous|Wound & Ostomy Care
+S/S|Serosanguineous|Wound & Ostomy Care
+serosang|Serosanguineous|Wound & Ostomy Care
+sero-sang|Serosanguineous|Wound & Ostomy Care
+sang|Sanguineous|Wound & Ostomy Care
+purul|Purulent|Wound & Ostomy Care
+amt|Amount|Wound & Ostomy Care
+sm|Small|Wound & Ostomy Care
+mod|Moderate|Wound & Ostomy Care
+lg|Large|Wound & Ostomy Care
+min|Minimal|Wound & Ostomy Care
+scant|Scant amount|Wound & Ostomy Care
+s/s|Signs and symptoms|Wound & Ostomy Care
+s/sx|Signs and symptoms|Wound & Ostomy Care
+inc|Incision|Wound & Ostomy Care
+approx|Approximated|Wound & Ostomy Care
+WHS|Well-healed scar|Wound & Ostomy Care
+C/D/I|Clean, dry and intact|Wound & Ostomy Care
+CDI|Clean, dry and intact|Wound & Ostomy Care
+CD&I|Clean, dry and intact|Wound & Ostomy Care
+D/I|Dry and intact|Wound & Ostomy Care
+D&I|Dry and intact|Wound & Ostomy Care
+SWD|Surgical wound dehiscence|Wound & Ostomy Care
+SSI|Surgical site infection|Wound & Ostomy Care
+SIP|Superficial incisional primary surgical site infection|Wound & Ostomy Care
+SIS|Superficial incisional secondary surgical site infection|Wound & Ostomy Care
+DIP|Deep incisional primary surgical site infection|Wound & Ostomy Care
+DIS|Deep incisional secondary surgical site infection|Wound & Ostomy Care
+SSTI|Skin and soft tissue infection|Wound & Ostomy Care
+NSTI|Necrotizing soft tissue infection|Wound & Ostomy Care
+NF|Necrotizing fasciitis|Wound & Ostomy Care
+FG|Fournier gangrene|Wound & Ostomy Care
+HS|Hidradenitis suppurativa|Wound & Ostomy Care
+PG|Pyoderma gangrenosum|Wound & Ostomy Care
+wnd cx|Wound culture|Wound & Ostomy Care
+OM|Osteomyelitis|Wound & Ostomy Care
+PTB|Probe-to-bone test|Wound & Ostomy Care
+PUSH|Pressure ulcer scale for healing|Wound & Ostomy Care
+BWAT|Bates-Jensen wound assessment tool|Wound & Ostomy Care
+TIME|Tissue, infection/inflammation, moisture, edge (wound bed preparation framework)|Wound & Ostomy Care
+TIMERS|Tissue, inflammation/infection, moisture, edge, regeneration, social factors|Wound & Ostomy Care
+MEASURE|Measure, exudate, appearance, suffering, undermining, reevaluate, edge|Wound & Ostomy Care
+NERDS|Nonhealing, exudate, red friable granulation, debris, smell (superficial infection signs)|Wound & Ostomy Care
+STONEES|Size, temperature, os, new breakdown, exudate, erythema/edema, smell (deep infection signs)|Wound & Ostomy Care
+PI|Pressure injury|Wound & Ostomy Care
+PU|Pressure ulcer|Wound & Ostomy Care
+HAPI|Hospital-acquired pressure injury|Wound & Ostomy Care
+HAPU|Hospital-acquired pressure ulcer|Wound & Ostomy Care
+POA|Present on admission|Wound & Ostomy Care
+Stg 1|Stage 1 pressure injury (nonblanchable erythema of intact skin)|Wound & Ostomy Care
+Stg 2|Stage 2 pressure injury (partial-thickness skin loss with exposed dermis)|Wound & Ostomy Care
+Stg 3|Stage 3 pressure injury (full-thickness skin loss)|Wound & Ostomy Care
+Stg 4|Stage 4 pressure injury (full-thickness skin and tissue loss)|Wound & Ostomy Care
+unstg|Unstageable pressure injury|Wound & Ostomy Care
+DTI|Deep tissue injury|Wound & Ostomy Care
+DTPI|Deep tissue pressure injury|Wound & Ostomy Care
+sDTI|Suspected deep tissue injury|Wound & Ostomy Care
+MDRPI|Medical device-related pressure injury|Wound & Ostomy Care
+MDRPU|Medical device-related pressure ulcer|Wound & Ostomy Care
+MMPI|Mucosal membrane pressure injury|Wound & Ostomy Care
+mucosal PI|Mucosal membrane pressure injury|Wound & Ostomy Care
+NPIAP|National Pressure Injury Advisory Panel|Wound & Ostomy Care
+NPUAP|National Pressure Ulcer Advisory Panel|Wound & Ostomy Care
+EPUAP|European Pressure Ulcer Advisory Panel|Wound & Ostomy Care
+PPPIA|Pan Pacific Pressure Injury Alliance|Wound & Ostomy Care
+Braden Q|Braden Q scale (pediatric pressure injury risk)|Wound & Ostomy Care
+Braden QD|Braden QD scale (pediatric and neonatal device and immobility risk)|Wound & Ostomy Care
+SKIN|Surface, keep turning, incontinence, nutrition (pressure injury prevention bundle)|Wound & Ostomy Care
+SSKIN|Surface, skin inspection, keep moving, incontinence, nutrition|Wound & Ostomy Care
+KTU|Kennedy terminal ulcer|Wound & Ostomy Care
+SCALE|Skin changes at life end|Wound & Ostomy Care
+HOB|Head of bed|Wound & Ostomy Care
+HOB 30|Head of bed elevated 30 degrees|Wound & Ostomy Care
+T&P|Turn and position|Wound & Ostomy Care
+T&R|Turn and reposition|Wound & Ostomy Care
+q2h|Every 2 hours|Wound & Ostomy Care
+PRAFO|Pressure-relieving ankle-foot orthosis|Wound & Ostomy Care
+AFO|Ankle-foot orthosis|Wound & Ostomy Care
+NWB|Non-weight bearing|Wound & Ostomy Care
+TCC|Total contact cast|Wound & Ostomy Care
+iTCC|Instant total contact cast|Wound & Ostomy Care
+RCW|Removable cast walker|Wound & Ostomy Care
+CROW|Charcot restraint orthotic walker|Wound & Ostomy Care
+LAL|Low-air-loss|Wound & Ostomy Care
+LAL mattress|Low-air-loss mattress|Wound & Ostomy Care
+APM|Alternating pressure mattress|Wound & Ostomy Care
+APAM|Alternating pressure air mattress|Wound & Ostomy Care
+AFB|Air-fluidized bed|Wound & Ostomy Care
+Grp 1|Group 1 support surface (static mattress or overlay)|Wound & Ostomy Care
+Grp 2|Group 2 support surface (powered or advanced nonpowered mattress)|Wound & Ostomy Care
+Grp 3|Group 3 support surface (air-fluidized bed)|Wound & Ostomy Care
+WC|Wheelchair|Wound & Ostomy Care
+OOB|Out of bed|Wound & Ostomy Care
+SCI|Spinal cord injury|Wound & Ostomy Care
+MASD|Moisture-associated skin damage|Wound & Ostomy Care
+IAD|Incontinence-associated dermatitis|Wound & Ostomy Care
+ITD|Intertriginous dermatitis|Wound & Ostomy Care
+ITT|Intertrigo|Wound & Ostomy Care
+PWD|Periwound moisture-associated dermatitis|Wound & Ostomy Care
+PMASD|Peristomal moisture-associated skin damage|Wound & Ostomy Care
+GLOBIAD|Ghent global incontinence-associated dermatitis categorization tool|Wound & Ostomy Care
+PAT|Perineal assessment tool|Wound & Ostomy Care
+MARSI|Medical adhesive-related skin injury|Wound & Ostomy Care
+STAR|Skin tear audit research classification system|Wound & Ostomy Care
+ISTAP|International Skin Tear Advisory Panel|Wound & Ostomy Care
+PTSL|Partial-thickness skin loss|Wound & Ostomy Care
+FTSL|Full-thickness skin loss|Wound & Ostomy Care
+FTTL|Full-thickness tissue loss|Wound & Ostomy Care
+PT|Partial thickness|Wound & Ostomy Care
+FT|Full thickness|Wound & Ostomy Care
+TBSA|Total body surface area|Wound & Ostomy Care
+VLU|Venous leg ulcer|Wound & Ostomy Care
+VU|Venous ulcer|Wound & Ostomy Care
+VSU|Venous stasis ulcer|Wound & Ostomy Care
+ALU|Arterial leg ulcer|Wound & Ostomy Care
+AU|Arterial ulcer|Wound & Ostomy Care
+DFU|Diabetic foot ulcer|Wound & Ostomy Care
+DFI|Diabetic foot infection|Wound & Ostomy Care
+DFO|Diabetic foot osteomyelitis|Wound & Ostomy Care
+CVI|Chronic venous insufficiency|Wound & Ostomy Care
+CVD|Chronic venous disease|Wound & Ostomy Care
+CEAP|Clinical, etiologic, anatomic, pathophysiologic classification of venous disease|Wound & Ostomy Care
+VCSS|Venous clinical severity score|Wound & Ostomy Care
+LDS|Lipodermatosclerosis|Wound & Ostomy Care
+PAD|Peripheral artery disease|Wound & Ostomy Care
+LEAD|Lower extremity arterial disease|Wound & Ostomy Care
+CLTI|Chronic limb-threatening ischemia|Wound & Ostomy Care
+CLI|Critical limb ischemia|Wound & Ostomy Care
+WIfI|Wound, ischemia and foot infection classification|Wound & Ostomy Care
+IWGDF|International Working Group on the Diabetic Foot|Wound & Ostomy Care
+PEDIS|Perfusion, extent, depth, infection, sensation classification|Wound & Ostomy Care
+SINBAD|Site, ischemia, neuropathy, bacterial infection, area, depth classification|Wound & Ostomy Care
+UT|University of Texas diabetic wound classification|Wound & Ostomy Care
+SWM|Semmes-Weinstein monofilament|Wound & Ostomy Care
+LOPS|Loss of protective sensation|Wound & Ostomy Care
+ABI|Ankle-brachial index|Wound & Ostomy Care
+ABPI|Ankle-brachial pressure index|Wound & Ostomy Care
+TBI|Toe-brachial index|Wound & Ostomy Care
+TBPI|Toe-brachial pressure index|Wound & Ostomy Care
+TP|Toe pressure|Wound & Ostomy Care
+TcPO2|Transcutaneous oxygen pressure|Wound & Ostomy Care
+TCOM|Transcutaneous oxygen measurement|Wound & Ostomy Care
+SPP|Skin perfusion pressure|Wound & Ostomy Care
+PVR|Pulse volume recording|Wound & Ostomy Care
+DP|Dorsalis pedis pulse|Wound & Ostomy Care
+BLE|Bilateral lower extremities|Wound & Ostomy Care
+RLE|Right lower extremity|Wound & Ostomy Care
+LLE|Left lower extremity|Wound & Ostomy Care
+BKA|Below-knee amputation|Wound & Ostomy Care
+AKA|Above-knee amputation|Wound & Ostomy Care
+TMA|Transmetatarsal amputation|Wound & Ostomy Care
+debr|Debridement|Wound & Ostomy Care
+CSWD|Conservative sharp wound debridement|Wound & Ostomy Care
+SSWD|Selective sharp wound debridement|Wound & Ostomy Care
+MDT|Maggot debridement therapy|Wound & Ostomy Care
+LDT|Larval debridement therapy|Wound & Ostomy Care
+I&D|Incision and drainage|Wound & Ostomy Care
+WC|Wound care|Wound & Ostomy Care
+WCC|Wound care center|Wound & Ostomy Care
+WOC|Wound, ostomy and continence|Wound & Ostomy Care
+WOC RN|Wound, ostomy and continence nurse|Wound & Ostomy Care
+WOCN|Wound, ostomy and continence nurse|Wound & Ostomy Care
+WOCN|Wound, Ostomy and Continence Nurses Society|Wound & Ostomy Care
+WOCNCB|Wound, Ostomy and Continence Nursing Certification Board|Wound & Ostomy Care
+CWOCN|Certified wound, ostomy and continence nurse|Wound & Ostomy Care
+CWOCN-AP|Certified wound, ostomy and continence nurse, advanced practice|Wound & Ostomy Care
+CWON|Certified wound and ostomy nurse|Wound & Ostomy Care
+CWCN|Certified wound care nurse|Wound & Ostomy Care
+COCN|Certified ostomy care nurse|Wound & Ostomy Care
+CCCN|Certified continence care nurse|Wound & Ostomy Care
+CFCN|Certified foot care nurse|Wound & Ostomy Care
+CWS|Certified wound specialist|Wound & Ostomy Care
+WCC|Wound care certified|Wound & Ostomy Care
+ET|Enterostomal therapy|Wound & Ostomy Care
+ET nurse|Enterostomal therapy nurse|Wound & Ostomy Care
+CETN|Certified enterostomal therapy nurse|Wound & Ostomy Care
+ileo|Ileostomy|Wound & Ostomy Care
+colo|Colostomy|Wound & Ostomy Care
+LI|Loop ileostomy|Wound & Ostomy Care
+DLI|Diverting loop ileostomy|Wound & Ostomy Care
+EI|End ileostomy|Wound & Ostomy Care
+EC|End colostomy|Wound & Ostomy Care
+loop colo|Loop colostomy|Wound & Ostomy Care
+MF|Mucous fistula|Wound & Ostomy Care
+HP|Hartmann procedure|Wound & Ostomy Care
+IC|Ileal conduit|Wound & Ostomy Care
+CUD|Continent urinary diversion|Wound & Ostomy Care
+ONB|Orthotopic neobladder|Wound & Ostomy Care
+NB|Neobladder|Wound & Ostomy Care
+IPAA|Ileal pouch-anal anastomosis|Wound & Ostomy Care
+J-pouch|Ileal J-pouch|Wound & Ostomy Care
+IAA|Ileoanal anastomosis|Wound & Ostomy Care
+K-pouch|Kock continent ileostomy pouch|Wound & Ostomy Care
+BCIR|Barnett continent intestinal reservoir|Wound & Ostomy Care
+RPC|Restorative proctocolectomy|Wound & Ostomy Care
+TPC|Total proctocolectomy|Wound & Ostomy Care
+TAC|Total abdominal colectomy|Wound & Ostomy Care
+STC|Subtotal colectomy|Wound & Ostomy Care
+APR|Abdominoperineal resection|Wound & Ostomy Care
+LAR|Low anterior resection|Wound & Ostomy Care
+LARS|Low anterior resection syndrome|Wound & Ostomy Care
+takedown|Ostomy reversal (takedown)|Wound & Ostomy Care
+PEG|Percutaneous endoscopic gastrostomy|Wound & Ostomy Care
+G-tube|Gastrostomy tube|Wound & Ostomy Care
+GT|Gastrostomy tube|Wound & Ostomy Care
+J-tube|Jejunostomy tube|Wound & Ostomy Care
+JT|Jejunostomy tube|Wound & Ostomy Care
+GJ|Gastrojejunostomy tube|Wound & Ostomy Care
+PEJ|Percutaneous endoscopic jejunostomy|Wound & Ostomy Care
+peristomal|Skin surrounding the stoma|Wound & Ostomy Care
+PSC|Peristomal skin complication|Wound & Ostomy Care
+MCJ|Mucocutaneous junction|Wound & Ostomy Care
+MCS|Mucocutaneous separation|Wound & Ostomy Care
+PSH|Parastomal hernia|Wound & Ostomy Care
+PPG|Peristomal pyoderma gangrenosum|Wound & Ostomy Care
+HOO|High-output ostomy|Wound & Ostomy Care
+HOS|High-output stoma|Wound & Ostomy Care
+HOI|High-output ileostomy|Wound & Ostomy Care
+O/P|Output|Wound & Ostomy Care
+I&O|Intake and output|Wound & Ostomy Care
+I/O|Intake and output|Wound & Ostomy Care
+UOP|Urine output|Wound & Ostomy Care
+appl|Appliance (ostomy pouching system)|Wound & Ostomy Care
+pouch chg|Ostomy pouch change|Wound & Ostomy Care
+1-pc|One-piece pouching system|Wound & Ostomy Care
+1-piece|One-piece pouching system|Wound & Ostomy Care
+1pc|One-piece pouching system|Wound & Ostomy Care
+2-pc|Two-piece pouching system|Wound & Ostomy Care
+2-piece|Two-piece pouching system|Wound & Ostomy Care
+2pc|Two-piece pouching system|Wound & Ostomy Care
+wafer|Ostomy skin barrier (wafer)|Wound & Ostomy Care
+flange|Flange (coupling ring of two-piece ostomy system)|Wound & Ostomy Care
+barrier ring|Moldable barrier ring|Wound & Ostomy Care
+convex|Convex skin barrier|Wound & Ostomy Care
+convexity|Convex skin barrier|Wound & Ostomy Care
+cut-to-fit|Cut-to-fit skin barrier|Wound & Ostomy Care
+stoma powder|Ostomy (stoma) powder|Wound & Ostomy Care
+crusting|Crusting technique (stoma powder sealed with barrier film)|Wound & Ostomy Care
+paste|Ostomy (stoma) paste|Wound & Ostomy Care
+stoma paste|Ostomy (stoma) paste|Wound & Ostomy Care
+ECF|Enterocutaneous fistula|Wound & Ostomy Care
+EAF|Enteroatmospheric fistula|Wound & Ostomy Care
+RVF|Rectovaginal fistula|Wound & Ostomy Care
+VVF|Vesicovaginal fistula|Wound & Ostomy Care
+CVF|Colovesical fistula|Wound & Ostomy Care
+OA|Open abdomen|Wound & Ostomy Care
+TAC|Temporary abdominal closure|Wound & Ostomy Care
+UI|Urinary incontinence|Wound & Ostomy Care
+SUI|Stress urinary incontinence|Wound & Ostomy Care
+UUI|Urge urinary incontinence|Wound & Ostomy Care
+MUI|Mixed urinary incontinence|Wound & Ostomy Care
+FUI|Functional urinary incontinence|Wound & Ostomy Care
+OI|Overflow incontinence|Wound & Ostomy Care
+OAB|Overactive bladder|Wound & Ostomy Care
+OAB-wet|Overactive bladder with urge incontinence|Wound & Ostomy Care
+OAB-dry|Overactive bladder without incontinence|Wound & Ostomy Care
+FI|Fecal incontinence|Wound & Ostomy Care
+AI|Anal incontinence|Wound & Ostomy Care
+DI|Dual (urinary and fecal) incontinence|Wound & Ostomy Care
+incont|Incontinent|Wound & Ostomy Care
+inc|Incontinent|Wound & Ostomy Care
+cont|Continent|Wound & Ostomy Care
+B&B|Bowel and bladder|Wound & Ostomy Care
+LUTS|Lower urinary tract symptoms|Wound & Ostomy Care
+NGB|Neurogenic bladder|Wound & Ostomy Care
+NLUTD|Neurogenic lower urinary tract dysfunction|Wound & Ostomy Care
+NBD|Neurogenic bowel dysfunction|Wound & Ostomy Care
+DO|Detrusor overactivity|Wound & Ostomy Care
+DU|Detrusor underactivity|Wound & Ostomy Care
+DSD|Detrusor-sphincter dyssynergia|Wound & Ostomy Care
+ISD|Intrinsic sphincter deficiency|Wound & Ostomy Care
+BPH|Benign prostatic hyperplasia|Wound & Ostomy Care
+POP|Pelvic organ prolapse|Wound & Ostomy Care
+GSM|Genitourinary syndrome of menopause|Wound & Ostomy Care
+PVR|Post-void residual|Wound & Ostomy Care
+UDS|Urodynamic study|Wound & Ostomy Care
+CMG|Cystometrogram|Wound & Ostomy Care
+UTI|Urinary tract infection|Wound & Ostomy Care
+CAUTI|Catheter-associated urinary tract infection|Wound & Ostomy Care
+CIC|Clean intermittent catheterization|Wound & Ostomy Care
+IC|Intermittent catheterization|Wound & Ostomy Care
+ISC|Intermittent self-catheterization|Wound & Ostomy Care
+SIC|Sterile intermittent catheterization|Wound & Ostomy Care
+I&O cath|In-and-out (straight) catheterization|Wound & Ostomy Care
+straight cath|Straight (intermittent) catheterization|Wound & Ostomy Care
+IUC|Indwelling urinary catheter|Wound & Ostomy Care
+IDC|Indwelling catheter|Wound & Ostomy Care
+Foley|Indwelling urethral catheter (Foley)|Wound & Ostomy Care
+FC|Foley catheter|Wound & Ostomy Care
+Fr|French (catheter size)|Wound & Ostomy Care
+SPC|Suprapubic catheter|Wound & Ostomy Care
+SP cath|Suprapubic catheter|Wound & Ostomy Care
+SPT|Suprapubic tube|Wound & Ostomy Care
+ext cath|External catheter|Wound & Ostomy Care
+EUC|External urinary catheter|Wound & Ostomy Care
+FEC|Female external catheter|Wound & Ostomy Care
+MEC|Male external catheter|Wound & Ostomy Care
+condom cath|Condom (male external) catheter|Wound & Ostomy Care
+FMS|Fecal management system|Wound & Ostomy Care
+BMS|Bowel management system|Wound & Ostomy Care
+RT|Rectal tube|Wound & Ostomy Care
+bowel program|Scheduled bowel evacuation regimen|Wound & Ostomy Care
+DRS|Digital rectal stimulation|Wound & Ostomy Care
+dig stim|Digital rectal stimulation|Wound & Ostomy Care
+DRE|Digital rectal exam|Wound & Ostomy Care
+BM|Bowel movement|Wound & Ostomy Care
+BSS|Bristol stool scale|Wound & Ostomy Care
+BSFS|Bristol stool form scale|Wound & Ostomy Care
+C diff|Clostridioides difficile|Wound & Ostomy Care
+CDI|Clostridioides difficile infection|Wound & Ostomy Care
+PFMT|Pelvic floor muscle training|Wound & Ostomy Care
+PFM|Pelvic floor muscle|Wound & Ostomy Care
+PFPT|Pelvic floor physical therapy|Wound & Ostomy Care
+PFD|Pelvic floor dysfunction|Wound & Ostomy Care
+BT|Bladder training|Wound & Ostomy Care
+PV|Prompted voiding|Wound & Ostomy Care
+TV|Timed voiding|Wound & Ostomy Care
+BSC|Bedside commode|Wound & Ostomy Care
+BRP|Bathroom privileges|Wound & Ostomy Care
+chux|Disposable absorbent underpads|Wound & Ostomy Care
+PTNS|Percutaneous tibial nerve stimulation|Wound & Ostomy Care
+SNM|Sacral neuromodulation|Wound & Ostomy Care
+SNS|Sacral nerve stimulation|Wound & Ostomy Care
+AUS|Artificial urinary sphincter|Wound & Ostomy Care
+MUS|Midurethral sling|Wound & Ostomy Care
+TVT|Tension-free vaginal tape|Wound & Ostomy Care
+ICIQ|International Consultation on Incontinence Questionnaire|Wound & Ostomy Care
+IIQ|Incontinence impact questionnaire|Wound & Ostomy Care
+UDI|Urogenital distress inventory|Wound & Ostomy Care
+JP|Jackson-Pratt drain|Wound & Ostomy Care
+J-P|Jackson-Pratt drain|Wound & Ostomy Care
+JP O/P|Jackson-Pratt drain output|Wound & Ostomy Care
+HV|Hemovac drain|Wound & Ostomy Care
+hemovac|Hemovac closed-suction drain|Wound & Ostomy Care
+Blake|Blake drain (channeled silicone drain)|Wound & Ostomy Care
+Penrose|Penrose drain (passive latex drain)|Wound & Ostomy Care
+T-tube|T-tube biliary drain|Wound & Ostomy Care
+PCN|Percutaneous nephrostomy|Wound & Ostomy Care
+PCNT|Percutaneous nephrostomy tube|Wound & Ostomy Care
+NT|Nephrostomy tube|Wound & Ostomy Care
+NU tube|Nephroureteral tube|Wound & Ostomy Care
+NUT|Nephroureteral tube|Wound & Ostomy Care
+perc drain|Percutaneous drain|Wound & Ostomy Care
+PD|Percutaneous drain|Wound & Ostomy Care
+IR drain|Interventional radiology drain|Wound & Ostomy Care
+PTBD|Percutaneous transhepatic biliary drain|Wound & Ostomy Care
+PBD|Percutaneous biliary drain|Wound & Ostomy Care
+perc chole|Percutaneous cholecystostomy tube|Wound & Ostomy Care
+PCT|Percutaneous cholecystostomy tube|Wound & Ostomy Care
+CT|Chest tube|Wound & Ostomy Care
+CT output|Chest tube output|Wound & Ostomy Care
+drn|Drain|Wound & Ostomy Care
+drain O/P|Drain output|Wound & Ostomy Care
+cc|Cubic centimeters (milliliters)|Wound & Ostomy Care
+q shift|Every shift|Wound & Ostomy Care
+QD|Once daily|Wound & Ostomy Care
+q24h|Every 24 hours|Wound & Ostomy Care
+BID|Twice daily|Wound & Ostomy Care
+TID|Three times daily|Wound & Ostomy Care
+QOD|Every other day|Wound & Ostomy Care
+q2d|Every 2 days|Wound & Ostomy Care
+q3d|Every 3 days|Wound & Ostomy Care
+q3 days|Every 3 days|Wound & Ostomy Care
+q72h|Every 72 hours|Wound & Ostomy Care
+q3-4d|Every 3 to 4 days|Wound & Ostomy Care
+MWF|Monday, Wednesday, Friday|Wound & Ostomy Care
+M/W/F|Monday, Wednesday, Friday|Wound & Ostomy Care
+TTS|Tuesday, Thursday, Saturday|Wound & Ostomy Care
+TuThSa|Tuesday, Thursday, Saturday|Wound & Ostomy Care
+TIW|Three times weekly|Wound & Ostomy Care
+3x/wk|Three times weekly|Wound & Ostomy Care
+BIW|Twice weekly|Wound & Ostomy Care
+2x/wk|Twice weekly|Wound & Ostomy Care
+qwk|Weekly|Wound & Ostomy Care
+q week|Weekly|Wound & Ostomy Care
+prn|As needed|Wound & Ostomy Care
+& prn|And as needed|Wound & Ostomy Care
+prn soiling|As needed when soiled|Wound & Ostomy Care
+prn soiled|As needed when soiled|Wound & Ostomy Care
+prn strikethrough|As needed for drainage strikethrough|Wound & Ostomy Care
+reinf|Reinforce|Wound & Ostomy Care
+ODC|Original dressing in place|Wound & Ostomy Care
+POD|Postoperative day|Wound & Ostomy Care
+POD2|Postoperative day 2|Wound & Ostomy Care
+POD2 takedown|Postoperative day 2 dressing takedown|Wound & Ostomy Care
+takedown|Removal of the postoperative dressing|Wound & Ostomy Care
+OTA|Open to air|Wound & Ostomy Care
+B/L|Bilateral|Wound & Ostomy Care
+bilat|Bilateral|Wound & Ostomy Care
+IT|Ischial tuberosity|Wound & Ostomy Care
+MTH|Metatarsal head|Wound & Ostomy Care
+MTP|Metatarsophalangeal|Wound & Ostomy Care
+ML inc|Midline incision|Wound & Ostomy Care
+RD|Registered dietitian|Wound & Ostomy Care
+alb|Albumin|Wound & Ostomy Care
+prealb|Prealbumin|Wound & Ostomy Care
+XRT|Radiation therapy|Wound & Ostomy Care
+RD|Radiation dermatitis|Wound & Ostomy Care
+dopp|Doppler (pulse detected by Doppler)|Wound & Ostomy Care
+HHC|Home health care|Wound & Ostomy Care
+SNF|Skilled nursing facility|Wound & Ostomy Care
+DME|Durable medical equipment|Wound & Ostomy Care
+foam dsg|Foam dressing|Wound & Ostomy Care
+hydrogel|Hydrogel dressing|Wound & Ostomy Care
+hydrofiber|Hydrofiber (gelling fiber) dressing|Wound & Ostomy Care
+collagen|Collagen dressing|Wound & Ostomy Care
+staples|Surgical skin staples|Wound & Ostomy Care
+slough|Slough (yellow or tan nonviable tissue)|Wound & Ostomy Care
+eschar|Eschar (black or brown necrotic tissue)|Wound & Ostomy Care
+unstageable|Unstageable pressure injury (base obscured by slough or eschar)|Wound & Ostomy Care
+offloading|Pressure redistribution away from a wound|Wound & Ostomy Care
+skin tear|Traumatic wound from separation of skin layers|Wound & Ostomy Care
+sharp debr|Sharp debridement|Wound & Ostomy Care
+surgical debr|Surgical (excisional) debridement in the operating room|Wound & Ostomy Care
+autolytic|Autolytic debridement (moisture-retentive dressing)|Wound & Ostomy Care
+enzymatic|Enzymatic debridement (collagenase)|Wound & Ostomy Care
+mechanical|Mechanical debridement (wet-to-dry, irrigation, monofilament pad)|Wound & Ostomy Care
+Hartmann|Hartmann procedure (end colostomy with rectal stump)|Wound & Ostomy Care
+prolapse|Stoma prolapse|Wound & Ostomy Care
+retraction|Stoma retraction (stoma at or below skin level)|Wound & Ostomy Care
+rectal tube|Rectal tube (indwelling fecal drainage catheter)|Wound & Ostomy Care
+Group 1|Group 1 support surface (static mattress or overlay)|Wound & Ostomy Care
+Group 2|Group 2 support surface (powered or advanced nonpowered mattress)|Wound & Ostomy Care
+Group 3|Group 3 support surface (air-fluidized bed)|Wound & Ostomy Care

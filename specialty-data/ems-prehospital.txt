@@ -1,0 +1,382 @@
+EMS|Emergency medical services|EMS & Prehospital
+EMT|Emergency medical technician|EMS & Prehospital
+EMT-B|Emergency medical technician-basic|EMS & Prehospital
+EMT-I|Emergency medical technician-intermediate|EMS & Prehospital
+AEMT|Advanced emergency medical technician|EMS & Prehospital
+EMT-P|Emergency medical technician-paramedic|EMS & Prehospital
+EMR|Emergency medical responder|EMS & Prehospital
+FR|First responder|EMS & Prehospital
+CFR|Certified first responder|EMS & Prehospital
+Medic|Paramedic|EMS & Prehospital
+Medic|Ambulance unit staffed by paramedics|EMS & Prehospital
+NRP|Nationally registered paramedic|EMS & Prehospital
+NREMT|National Registry of Emergency Medical Technicians|EMS & Prehospital
+CCT|Critical care transport|EMS & Prehospital
+CCP|Critical care paramedic|EMS & Prehospital
+FP-C|Flight paramedic-certified|EMS & Prehospital
+CCP-C|Critical care paramedic-certified|EMS & Prehospital
+CFRN|Certified flight registered nurse|EMS & Prehospital
+CTRN|Certified transport registered nurse|EMS & Prehospital
+MICN|Mobile intensive care nurse|EMS & Prehospital
+MICU|Mobile intensive care unit|EMS & Prehospital
+MICP|Mobile intensive care paramedic|EMS & Prehospital
+ALS|Advanced life support|EMS & Prehospital
+BLS|Basic life support|EMS & Prehospital
+ILS|Intermediate life support|EMS & Prehospital
+SCT|Specialty care transport|EMS & Prehospital
+IFT|Interfacility transport|EMS & Prehospital
+NEMT|Non-emergency medical transportation|EMS & Prehospital
+PCR|Patient care report|EMS & Prehospital
+ePCR|Electronic patient care report|EMS & Prehospital
+PCR|Prehospital care report|EMS & Prehospital
+NEMSIS|National EMS Information System|EMS & Prehospital
+CC|Chief complaint|EMS & Prehospital
+MOI|Mechanism of injury|EMS & Prehospital
+NOI|Nature of illness|EMS & Prehospital
+LOC|Loss of consciousness|EMS & Prehospital
+LOC|Level of consciousness|EMS & Prehospital
++LOC|Positive for loss of consciousness|EMS & Prehospital
+-LOC|Negative for loss of consciousness|EMS & Prehospital
+ALOC|Altered level of consciousness|EMS & Prehospital
+AMS|Altered mental status|EMS & Prehospital
+AVPU|Alert, verbal, pain, unresponsive|EMS & Prehospital
+A&Ox4|Alert and oriented to person, place, time, and event|EMS & Prehospital
+A&Ox3|Alert and oriented to person, place, and time|EMS & Prehospital
+AOx4|Alert and oriented to person, place, time, and event|EMS & Prehospital
+GCS|Glasgow coma scale|EMS & Prehospital
+SAMPLE|Signs and symptoms, allergies, medications, past medical history, last oral intake, events leading up|EMS & Prehospital
+OPQRST|Onset, provocation, quality, region and radiation, severity, time|EMS & Prehospital
+DCAP-BTLS|Deformities, contusions, abrasions, punctures and penetrations, burns, tenderness, lacerations, swelling|EMS & Prehospital
+ABC|Airway, breathing, circulation|EMS & Prehospital
+ABCDE|Airway, breathing, circulation, disability, exposure|EMS & Prehospital
+CAB|Compressions, airway, breathing|EMS & Prehospital
+MARCH|Massive hemorrhage, airway, respiration, circulation, hypothermia and head injury|EMS & Prehospital
+MARCH-PAWS|Massive hemorrhage, airway, respiration, circulation, hypothermia and head injury, pain, antibiotics, wounds, splinting|EMS & Prehospital
+XABCDE|Exsanguinating hemorrhage, airway, breathing, circulation, disability, exposure|EMS & Prehospital
+SMR|Spinal motion restriction|EMS & Prehospital
+SI|Spinal immobilization|EMS & Prehospital
+LSB|Long spine board|EMS & Prehospital
+LBB|Long backboard|EMS & Prehospital
+KED|Kendrick extrication device|EMS & Prehospital
+CID|Cervical immobilization device|EMS & Prehospital
+C-collar|Cervical collar|EMS & Prehospital
+c-spine|Cervical spine|EMS & Prehospital
+CS|Cervical spine|EMS & Prehospital
+MVC|Motor vehicle collision|EMS & Prehospital
+MVC|Motor vehicle crash|EMS & Prehospital
+MVA|Motor vehicle accident|EMS & Prehospital
+MCC|Motorcycle collision|EMS & Prehospital
+MCC|Motorcycle crash|EMS & Prehospital
+MCA|Motorcycle accident|EMS & Prehospital
+Auto vs ped|Automobile versus pedestrian|EMS & Prehospital
+Auto vs bike|Automobile versus bicycle|EMS & Prehospital
+Ped struck|Pedestrian struck by a vehicle|EMS & Prehospital
+GSW|Gunshot wound|EMS & Prehospital
+SW|Stab wound|EMS & Prehospital
+FFH|Fall from height|EMS & Prehospital
+GLF|Ground-level fall|EMS & Prehospital
+SLF|Same-level fall|EMS & Prehospital
+TBI|Traumatic brain injury|EMS & Prehospital
+SCI|Spinal cord injury|EMS & Prehospital
+BSI|Body substance isolation|EMS & Prehospital
+RTS|Revised trauma score|EMS & Prehospital
+TBSA|Total body surface area|EMS & Prehospital
+Rule of nines|Method estimating burned body surface area in multiples of nine percent|EMS & Prehospital
+STEMI alert|Prehospital activation for ST-elevation myocardial infarction|EMS & Prehospital
+Stroke alert|Prehospital notification for suspected acute stroke|EMS & Prehospital
+Trauma alert|Prehospital trauma team activation|EMS & Prehospital
+TTA|Trauma team activation|EMS & Prehospital
+Code 3|Emergency response or transport with lights and sirens|EMS & Prehospital
+L&S|Lights and sirens|EMS & Prehospital
+ETA|Estimated time of arrival|EMS & Prehospital
+RMA|Refusal of medical assistance|EMS & Prehospital
+RMA|Refused medical aid|EMS & Prehospital
+AMA|Against medical advice|EMS & Prehospital
+TnR|Treat and release|EMS & Prehospital
+T&R|Treat and release|EMS & Prehospital
+TNT|Treat no transport|EMS & Prehospital
+NT|No transport|EMS & Prehospital
+DOA|Dead on arrival|EMS & Prehospital
+DOS|Dead on scene|EMS & Prehospital
+TOD|Time of death|EMS & Prehospital
+TOR|Termination of resuscitation|EMS & Prehospital
+OHCA|Out-of-hospital cardiac arrest|EMS & Prehospital
+ROSC|Return of spontaneous circulation|EMS & Prehospital
+CCR|Cardiocerebral resuscitation|EMS & Prehospital
+CPR|Cardiopulmonary resuscitation|EMS & Prehospital
+AED|Automated external defibrillator|EMS & Prehospital
+mCPR|Mechanical cardiopulmonary resuscitation|EMS & Prehospital
+ITD|Impedance threshold device|EMS & Prehospital
+CARES|Cardiac Arrest Registry to Enhance Survival|EMS & Prehospital
+DNR|Do not resuscitate|EMS & Prehospital
+DNAR|Do not attempt resuscitation|EMS & Prehospital
+AND|Allow natural death|EMS & Prehospital
+OOH-DNR|Out-of-hospital do not resuscitate order|EMS & Prehospital
+POLST|Physician orders for life-sustaining treatment|EMS & Prehospital
+MOLST|Medical orders for life-sustaining treatment|EMS & Prehospital
+BVM|Bag-valve-mask|EMS & Prehospital
+OPA|Oropharyngeal airway|EMS & Prehospital
+NPA|Nasopharyngeal airway|EMS & Prehospital
+SGA|Supraglottic airway|EMS & Prehospital
+SAD|Supraglottic airway device|EMS & Prehospital
+LMA|Laryngeal mask airway|EMS & Prehospital
+ETI|Endotracheal intubation|EMS & Prehospital
+ETT|Endotracheal tube|EMS & Prehospital
+RSI|Rapid sequence intubation|EMS & Prehospital
+DAI|Drug-assisted intubation|EMS & Prehospital
+DSI|Delayed sequence intubation|EMS & Prehospital
+DL|Direct laryngoscopy|EMS & Prehospital
+VL|Video laryngoscopy|EMS & Prehospital
+BURP|Backward, upward, rightward pressure|EMS & Prehospital
+Cric|Cricothyrotomy|EMS & Prehospital
+OGT|Orogastric tube|EMS & Prehospital
+CPAP|Continuous positive airway pressure|EMS & Prehospital
+NIPPV|Noninvasive positive pressure ventilation|EMS & Prehospital
+PPV|Positive pressure ventilation|EMS & Prehospital
+PEEP|Positive end-expiratory pressure|EMS & Prehospital
+ETCO2|End-tidal carbon dioxide|EMS & Prehospital
+EtCO2|End-tidal carbon dioxide|EMS & Prehospital
+SpO2|Peripheral oxygen saturation by pulse oximetry|EMS & Prehospital
+SpCO|Carboxyhemoglobin saturation by pulse CO-oximetry|EMS & Prehospital
+NRB|Non-rebreather mask|EMS & Prehospital
+NC|Nasal cannula|EMS & Prehospital
+SVN|Small-volume nebulizer|EMS & Prehospital
+HHN|Hand-held nebulizer|EMS & Prehospital
+O2|Oxygen|EMS & Prehospital
+IO|Intraosseous|EMS & Prehospital
+IV|Intravenous|EMS & Prehospital
+IN|Intranasal|EMS & Prehospital
+IM|Intramuscular|EMS & Prehospital
+IVP|Intravenous push|EMS & Prehospital
+IVPB|Intravenous piggyback|EMS & Prehospital
+SL|Sublingual|EMS & Prehospital
+PO|By mouth|EMS & Prehospital
+ODT|Orally disintegrating tablet|EMS & Prehospital
+SQ|Subcutaneous|EMS & Prehospital
+ET|Endotracheal|EMS & Prehospital
+MAD|Mucosal atomizer device|EMS & Prehospital
+KVO|Keep vein open|EMS & Prehospital
+TKO|To keep open|EMS & Prehospital
+NS|Normal saline|EMS & Prehospital
+LR|Lactated Ringer solution|EMS & Prehospital
+gtt|Drops|EMS & Prehospital
+Push-dose epi|Push-dose epinephrine|EMS & Prehospital
+PDP|Push-dose pressor|EMS & Prehospital
+Epi|Epinephrine|EMS & Prehospital
+EAI|Epinephrine auto-injector|EMS & Prehospital
+ASA|Aspirin|EMS & Prehospital
+NTG|Nitroglycerin|EMS & Prehospital
+D50|Dextrose 50 percent|EMS & Prehospital
+D25|Dextrose 25 percent|EMS & Prehospital
+D10|Dextrose 10 percent|EMS & Prehospital
+MSO4|Morphine sulfate|EMS & Prehospital
+Fent|Fentanyl|EMS & Prehospital
+Amio|Amiodarone|EMS & Prehospital
+NaHCO3|Sodium bicarbonate|EMS & Prehospital
+Bicarb|Sodium bicarbonate|EMS & Prehospital
+CaCl|Calcium chloride|EMS & Prehospital
+Mag|Magnesium sulfate|EMS & Prehospital
+MgSO4|Magnesium sulfate|EMS & Prehospital
+DPH|Diphenhydramine|EMS & Prehospital
+TXA|Tranexamic acid|EMS & Prehospital
+ATNAA|Antidote treatment nerve agent autoinjector|EMS & Prehospital
+TQ|Tourniquet|EMS & Prehospital
+Junctional TQ|Junctional tourniquet|EMS & Prehospital
+Hemostatic gauze|Gauze impregnated with a hemostatic agent for wound packing|EMS & Prehospital
+Pelvic binder|Circumferential compression device for suspected pelvic fracture|EMS & Prehospital
+PCCD|Pelvic circumferential compression device|EMS & Prehospital
+Traction splint|Splint applying longitudinal traction for midshaft femur fracture|EMS & Prehospital
+NDC|Needle decompression|EMS & Prehospital
+NCD|Needle chest decompression|EMS & Prehospital
+NT|Needle thoracostomy|EMS & Prehospital
+Chest seal|Occlusive dressing for an open chest wound|EMS & Prehospital
+VCS|Vented chest seal|EMS & Prehospital
+PTX|Pneumothorax|EMS & Prehospital
+TPTX|Tension pneumothorax|EMS & Prehospital
+HTX|Hemothorax|EMS & Prehospital
+TCCC|Tactical combat casualty care|EMS & Prehospital
+TECC|Tactical emergency casualty care|EMS & Prehospital
+MCI|Mass casualty incident|EMS & Prehospital
+MCI|Multiple casualty incident|EMS & Prehospital
+START|Simple triage and rapid treatment|EMS & Prehospital
+SALT|Sort, assess, lifesaving interventions, treatment and transport|EMS & Prehospital
+JumpSTART|Pediatric version of simple triage and rapid treatment|EMS & Prehospital
+Red tag|Immediate triage category|EMS & Prehospital
+Yellow tag|Delayed triage category|EMS & Prehospital
+Green tag|Minor triage category, walking wounded|EMS & Prehospital
+Black tag|Deceased or expectant triage category|EMS & Prehospital
+Gray tag|Expectant triage category|EMS & Prehospital
+ICS|Incident command system|EMS & Prehospital
+IC|Incident commander|EMS & Prehospital
+UC|Unified command|EMS & Prehospital
+NIMS|National Incident Management System|EMS & Prehospital
+EOC|Emergency operations center|EMS & Prehospital
+PIO|Public information officer|EMS & Prehospital
+HAZMAT|Hazardous materials|EMS & Prehospital
+SCBA|Self-contained breathing apparatus|EMS & Prehospital
+IDLH|Immediately dangerous to life or health|EMS & Prehospital
+CBRNE|Chemical, biological, radiological, nuclear, and explosive|EMS & Prehospital
+WMD|Weapon of mass destruction|EMS & Prehospital
+Decon|Decontamination|EMS & Prehospital
+SLUDGE|Salivation, lacrimation, urination, defecation, gastrointestinal distress, emesis|EMS & Prehospital
+DUMBELS|Diarrhea, urination, miosis, bronchorrhea and bradycardia, emesis, lacrimation, salivation|EMS & Prehospital
+CO|Carbon monoxide|EMS & Prehospital
+PPE|Personal protective equipment|EMS & Prehospital
+PSAP|Public safety answering point|EMS & Prehospital
+CAD|Computer-aided dispatch|EMS & Prehospital
+EMD|Emergency medical dispatcher|EMS & Prehospital
+EMD|Emergency medical dispatch|EMS & Prehospital
+E911|Enhanced 911|EMS & Prehospital
+NG911|Next generation 911|EMS & Prehospital
+ANI|Automatic number identification|EMS & Prehospital
+ALI|Automatic location identification|EMS & Prehospital
+AVL|Automatic vehicle location|EMS & Prehospital
+MDT|Mobile data terminal|EMS & Prehospital
+MDC|Mobile data computer|EMS & Prehospital
+PTT|Push to talk|EMS & Prehospital
+10-4|Acknowledged, message received|EMS & Prehospital
+ALS intercept|ALS unit meeting a BLS unit to provide advanced care en route|EMS & Prehospital
+QRV|Quick response vehicle|EMS & Prehospital
+Fly car|Non-transporting response vehicle carrying a paramedic|EMS & Prehospital
+Rig|Ambulance|EMS & Prehospital
+Bus|Ambulance|EMS & Prehospital
+FD|Fire department|EMS & Prehospital
+PD|Police department|EMS & Prehospital
+LEO|Law enforcement officer|EMS & Prehospital
+OOS|Out of service|EMS & Prehospital
+AOS|Arrived on scene|EMS & Prehospital
+TOC|Transfer of care|EMS & Prehospital
+PTA|Prior to arrival|EMS & Prehospital
+HEMS|Helicopter emergency medical services|EMS & Prehospital
+Rotor wing|Helicopter air medical transport|EMS & Prehospital
+RW|Rotor wing|EMS & Prehospital
+Fixed wing|Airplane air medical transport|EMS & Prehospital
+FW|Fixed wing|EMS & Prehospital
+LZ|Landing zone|EMS & Prehospital
+CAMTS|Commission on Accreditation of Medical Transport Systems|EMS & Prehospital
+Base hospital|Hospital providing online medical direction to field units|EMS & Prehospital
+BH|Base hospital|EMS & Prehospital
+OLMC|Online medical control|EMS & Prehospital
+OMC|Online medical control|EMS & Prehospital
+Offline medical control|Medical direction through protocols and standing orders|EMS & Prehospital
+MC|Medical control|EMS & Prehospital
+Standing orders|Protocol interventions a provider may perform without contacting medical control|EMS & Prehospital
+EMSA|Emergency Medical Services Authority|EMS & Prehospital
+LEMSA|Local emergency medical services agency|EMS & Prehospital
+EMSC|Emergency medical services for children|EMS & Prehospital
+NHTSA|National Highway Traffic Safety Administration|EMS & Prehospital
+NAEMSP|National Association of EMS Physicians|EMS & Prehospital
+NAEMT|National Association of Emergency Medical Technicians|EMS & Prehospital
+NASEMSO|National Association of State EMS Officials|EMS & Prehospital
+EMTALA|Emergency Medical Treatment and Labor Act|EMS & Prehospital
+APOT|Ambulance patient offload time|EMS & Prehospital
+Wall time|Time an ambulance crew waits in the ED with a patient before offload|EMS & Prehospital
+Offload delay|Delay in transferring an ambulance patient to ED care|EMS & Prehospital
+Diversion|ED or hospital temporarily closed to ambulance arrivals|EMS & Prehospital
+QA|Quality assurance|EMS & Prehospital
+QI|Quality improvement|EMS & Prehospital
+CQI|Continuous quality improvement|EMS & Prehospital
+CISM|Critical incident stress management|EMS & Prehospital
+CISD|Critical incident stress debriefing|EMS & Prehospital
+LODD|Line-of-duty death|EMS & Prehospital
+MIH|Mobile integrated health|EMS & Prehospital
+CP|Community paramedicine|EMS & Prehospital
+ET3|Emergency triage, treat, and transport|EMS & Prehospital
+ACLS|Advanced cardiovascular life support|EMS & Prehospital
+PALS|Pediatric advanced life support|EMS & Prehospital
+PHTLS|Prehospital trauma life support|EMS & Prehospital
+ITLS|International trauma life support|EMS & Prehospital
+AMLS|Advanced medical life support|EMS & Prehospital
+PEPP|Pediatric education for prehospital professionals|EMS & Prehospital
+GEMS|Geriatric education for emergency medical services|EMS & Prehospital
+EVOC|Emergency vehicle operations course|EMS & Prehospital
+CEU|Continuing education unit|EMS & Prehospital
+CAPCE|Commission on Accreditation for Pre-Hospital Continuing Education|EMS & Prehospital
+CoAEMSP|Committee on Accreditation of Educational Programs for the EMS Professions|EMS & Prehospital
+12-lead|Twelve-lead electrocardiogram|EMS & Prehospital
+15-lead|Fifteen-lead electrocardiogram with posterior and right-sided leads|EMS & Prehospital
+STEMI|ST-elevation myocardial infarction|EMS & Prehospital
+SRC|STEMI receiving center|EMS & Prehospital
+ACS|Acute coronary syndrome|EMS & Prehospital
+CP|Chest pain|EMS & Prehospital
+PEA|Pulseless electrical activity|EMS & Prehospital
+VF|Ventricular fibrillation|EMS & Prehospital
+VT|Ventricular tachycardia|EMS & Prehospital
+pVT|Pulseless ventricular tachycardia|EMS & Prehospital
+SVT|Supraventricular tachycardia|EMS & Prehospital
+NSR|Normal sinus rhythm|EMS & Prehospital
+ST|Sinus tachycardia|EMS & Prehospital
+SB|Sinus bradycardia|EMS & Prehospital
+AF|Atrial fibrillation|EMS & Prehospital
+CVA|Cerebrovascular accident|EMS & Prehospital
+TIA|Transient ischemic attack|EMS & Prehospital
+LVO|Large vessel occlusion|EMS & Prehospital
+CPSS|Cincinnati prehospital stroke scale|EMS & Prehospital
+LAPSS|Los Angeles prehospital stroke screen|EMS & Prehospital
+LAMS|Los Angeles motor scale|EMS & Prehospital
+RACE|Rapid arterial occlusion evaluation|EMS & Prehospital
+FAST-ED|Field assessment stroke triage for emergency destination|EMS & Prehospital
+VAN|Vision, aphasia, neglect|EMS & Prehospital
+FAST|Face, arm, speech, time|EMS & Prehospital
+BE-FAST|Balance, eyes, face, arm, speech, time|EMS & Prehospital
+LKW|Last known well|EMS & Prehospital
+LSN|Last seen normal|EMS & Prehospital
+CSC|Comprehensive stroke center|EMS & Prehospital
+PSC|Primary stroke center|EMS & Prehospital
+TSC|Thrombectomy-capable stroke center|EMS & Prehospital
+ASRH|Acute stroke-ready hospital|EMS & Prehospital
+BGL|Blood glucose level|EMS & Prehospital
+CBG|Capillary blood glucose|EMS & Prehospital
+D-stick|Fingerstick blood glucose|EMS & Prehospital
+BP|Blood pressure|EMS & Prehospital
+HR|Heart rate|EMS & Prehospital
+RR|Respiratory rate|EMS & Prehospital
+PERRL|Pupils equal, round, reactive to light|EMS & Prehospital
+PERRLA|Pupils equal, round, reactive to light and accommodation|EMS & Prehospital
+CMS|Circulation, motor, sensation|EMS & Prehospital
+PMS|Pulse, motor, sensation|EMS & Prehospital
+CSM|Circulation, sensation, motor|EMS & Prehospital
+LS|Lung sounds|EMS & Prehospital
+CTAB|Clear to auscultation bilaterally|EMS & Prehospital
+JVD|Jugular venous distension|EMS & Prehospital
+TD|Tracheal deviation|EMS & Prehospital
+SOB|Shortness of breath|EMS & Prehospital
+DIB|Difficulty in breathing|EMS & Prehospital
+DOE|Dyspnea on exertion|EMS & Prehospital
+N/V|Nausea and vomiting|EMS & Prehospital
+Sz|Seizure|EMS & Prehospital
+OD|Overdose|EMS & Prehospital
+ETOH|Ethanol, alcohol|EMS & Prehospital
+SI|Suicidal ideation|EMS & Prehospital
+HI|Homicidal ideation|EMS & Prehospital
+EDP|Emotionally disturbed person|EMS & Prehospital
+5150|California involuntary psychiatric hold for evaluation|EMS & Prehospital
+NAT|Nonaccidental trauma|EMS & Prehospital
+DV|Domestic violence|EMS & Prehospital
+CPS|Child protective services|EMS & Prehospital
+APS|Adult protective services|EMS & Prehospital
+SIDS|Sudden infant death syndrome|EMS & Prehospital
+SUID|Sudden unexpected infant death|EMS & Prehospital
+BRUE|Brief resolved unexplained event|EMS & Prehospital
+OB|Obstetrics|EMS & Prehospital
+ROM|Rupture of membranes|EMS & Prehospital
+BOW|Bag of waters|EMS & Prehospital
+LMP|Last menstrual period|EMS & Prehospital
+PPH|Postpartum hemorrhage|EMS & Prehospital
+PMH|Past medical history|EMS & Prehospital
+HPI|History of present illness|EMS & Prehospital
+NKDA|No known drug allergies|EMS & Prehospital
+c/o|Complains of|EMS & Prehospital
+Pt|Patient|EMS & Prehospital
+y/o|Year old|EMS & Prehospital
+Tx|Treatment|EMS & Prehospital
+Tx|Transport|EMS & Prehospital
+POC|Position of comfort|EMS & Prehospital
+LLR|Left lateral recumbent|EMS & Prehospital
+RLR|Right lateral recumbent|EMS & Prehospital
+ED|Emergency department|EMS & Prehospital
+ER|Emergency room|EMS & Prehospital
+TC|Trauma center|EMS & Prehospital
+Ejection|Occupant thrown from the vehicle|EMS & Prehospital
+Entrapment|Patient trapped in vehicle or structure requiring extrication|EMS & Prehospital
+RIT|Rapid intervention team|EMS & Prehospital

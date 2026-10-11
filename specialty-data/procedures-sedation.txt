@@ -1,0 +1,376 @@
+RBA|Risks, benefits, and alternatives|Procedures & Sedation
+R/B/A|Risks, benefits, and alternatives|Procedures & Sedation
+RBAs|Risks, benefits, and alternatives|Procedures & Sedation
+IC|Informed consent|Procedures & Sedation
+POA|Power of attorney|Procedures & Sedation
+DPOA|Durable power of attorney|Procedures & Sedation
+DPOA-HC|Durable power of attorney for health care|Procedures & Sedation
+SDM|Surrogate decision maker|Procedures & Sedation
+UP|Universal protocol|Procedures & Sedation
+TO|Time-out|Procedures & Sedation
+PPE|Personal protective equipment|Procedures & Sedation
+CHG|Chlorhexidine gluconate|Procedures & Sedation
+EBL|Estimated blood loss|Procedures & Sedation
+NAD|No apparent distress|Procedures & Sedation
+LP|Lumbar puncture|Procedures & Sedation
+OP|Opening pressure|Procedures & Sedation
+CP|Closing pressure|Procedures & Sedation
+CSF|Cerebrospinal fluid|Procedures & Sedation
+CNS|Central nervous system|Procedures & Sedation
+L3-L4|Third and fourth lumbar vertebral interspace|Procedures & Sedation
+L4-L5|Fourth and fifth lumbar vertebral interspace|Procedures & Sedation
+L3/4|Third and fourth lumbar vertebral interspace|Procedures & Sedation
+L4/5|Fourth and fifth lumbar vertebral interspace|Procedures & Sedation
+LLD|Left lateral decubitus|Procedures & Sedation
+PDPH|Post-dural puncture headache|Procedures & Sedation
+PLPH|Post-lumbar puncture headache|Procedures & Sedation
+EBP|Epidural blood patch|Procedures & Sedation
+cmH2O|Centimeters of water|Procedures & Sedation
+cm H2O|Centimeters of water|Procedures & Sedation
+RBC|Red blood cells|Procedures & Sedation
+WBC|White blood cells|Procedures & Sedation
+TNC|Total nucleated cells|Procedures & Sedation
+PMN|Polymorphonuclear leukocytes|Procedures & Sedation
+PMNs|Polymorphonuclear leukocytes|Procedures & Sedation
+ANC|Absolute neutrophil count|Procedures & Sedation
+HSV PCR|Herpes simplex virus polymerase chain reaction|Procedures & Sedation
+PCR|Polymerase chain reaction|Procedures & Sedation
+VDRL|Venereal Disease Research Laboratory test|Procedures & Sedation
+CrAg|Cryptococcal antigen|Procedures & Sedation
+OCB|Oligoclonal bands|Procedures & Sedation
+IgG|Immunoglobulin G|Procedures & Sedation
+ME panel|Meningitis/encephalitis panel|Procedures & Sedation
+GS|Gram stain|Procedures & Sedation
+GS/Cx|Gram stain and culture|Procedures & Sedation
+Cx|Culture|Procedures & Sedation
+BCx|Blood culture|Procedures & Sedation
+AFB|Acid-fast bacilli|Procedures & Sedation
+LDH|Lactate dehydrogenase|Procedures & Sedation
+TP|Total protein|Procedures & Sedation
+Prot|Protein|Procedures & Sedation
+Gluc|Glucose|Procedures & Sedation
+Alb|Albumin|Procedures & Sedation
+ADA|Adenosine deaminase|Procedures & Sedation
+TG|Triglycerides|Procedures & Sedation
+Flow|Flow cytometry|Procedures & Sedation
+FC|Flow cytometry|Procedures & Sedation
+Cyto|Cytology|Procedures & Sedation
+Thora|Thoracentesis|Procedures & Sedation
+thora|Thoracentesis|Procedures & Sedation
+Para|Paracentesis|Procedures & Sedation
+para|Paracentesis|Procedures & Sedation
+LVP|Large-volume paracentesis|Procedures & Sedation
+Dx para|Diagnostic paracentesis|Procedures & Sedation
+SAAG|Serum-ascites albumin gradient|Procedures & Sedation
+SBP|Spontaneous bacterial peritonitis|Procedures & Sedation
+SBP|Systolic blood pressure|Procedures & Sedation
+PICD|Paracentesis-induced circulatory dysfunction|Procedures & Sedation
+HRS|Hepatorenal syndrome|Procedures & Sedation
+PE|Pleural effusion|Procedures & Sedation
+PE|Pulmonary embolism|Procedures & Sedation
+REPE|Re-expansion pulmonary edema|Procedures & Sedation
+IPC|Indwelling pleural catheter|Procedures & Sedation
+TPC|Tunneled pleural catheter|Procedures & Sedation
+CT|Chest tube|Procedures & Sedation
+CT|Computed tomography|Procedures & Sedation
+PTX|Pneumothorax|Procedures & Sedation
+HTX|Hemothorax|Procedures & Sedation
+HPTX|Hemopneumothorax|Procedures & Sedation
+no PTX|No pneumothorax|Procedures & Sedation
+CXR|Chest x-ray|Procedures & Sedation
+KUB|Kidneys, ureters, and bladder radiograph|Procedures & Sedation
+AXR|Abdominal x-ray|Procedures & Sedation
+CVC|Central venous catheter|Procedures & Sedation
+CVL|Central venous line|Procedures & Sedation
+TLC|Triple-lumen catheter|Procedures & Sedation
+CL|Central line|Procedures & Sedation
+CLABSI|Central line-associated bloodstream infection|Procedures & Sedation
+US|Ultrasound|Procedures & Sedation
+USG|Ultrasound-guided|Procedures & Sedation
+US-guided|Ultrasound-guided|Procedures & Sedation
+U/S|Ultrasound|Procedures & Sedation
+POCUS|Point-of-care ultrasound|Procedures & Sedation
+IJ|Internal jugular|Procedures & Sedation
+RIJ|Right internal jugular|Procedures & Sedation
+LIJ|Left internal jugular|Procedures & Sedation
+IJV|Internal jugular vein|Procedures & Sedation
+SC|Subclavian|Procedures & Sedation
+SCV|Subclavian vein|Procedures & Sedation
+Fem|Femoral|Procedures & Sedation
+fem|Femoral|Procedures & Sedation
+CFV|Common femoral vein|Procedures & Sedation
+CFA|Common femoral artery|Procedures & Sedation
+CA|Carotid artery|Procedures & Sedation
+SVC|Superior vena cava|Procedures & Sedation
+CAJ|Cavoatrial junction|Procedures & Sedation
+RA|Right atrium|Procedures & Sedation
+GW|Guidewire|Procedures & Sedation
+Fr|French|Procedures & Sedation
+G|Gauge|Procedures & Sedation
+art line|Arterial line|Procedures & Sedation
+A-line|Arterial line|Procedures & Sedation
+aline|Arterial line|Procedures & Sedation
+Rad A-line|Radial arterial line|Procedures & Sedation
+Fem A-line|Femoral arterial line|Procedures & Sedation
+MAP|Mean arterial pressure|Procedures & Sedation
+ABG|Arterial blood gas|Procedures & Sedation
+VBG|Venous blood gas|Procedures & Sedation
+PIV|Peripheral intravenous catheter|Procedures & Sedation
+USGPIV|Ultrasound-guided peripheral intravenous catheter|Procedures & Sedation
+EJ|External jugular|Procedures & Sedation
+IO|Intraosseous|Procedures & Sedation
+MLC|Midline catheter|Procedures & Sedation
+PICC|Peripherally inserted central catheter|Procedures & Sedation
+TDC|Tunneled dialysis catheter|Procedures & Sedation
+HD cath|Hemodialysis catheter|Procedures & Sedation
+NTDC|Nontunneled dialysis catheter|Procedures & Sedation
+TCVC|Tunneled central venous catheter|Procedures & Sedation
+Port|Implanted port|Procedures & Sedation
+PAC|Pulmonary artery catheter|Procedures & Sedation
+CVP|Central venous pressure|Procedures & Sedation
+BMBx|Bone marrow biopsy|Procedures & Sedation
+BMB|Bone marrow biopsy|Procedures & Sedation
+BMA|Bone marrow aspirate|Procedures & Sedation
+BMA/Bx|Bone marrow aspirate and biopsy|Procedures & Sedation
+PSIS|Posterior superior iliac spine|Procedures & Sedation
+I&D|Incision and drainage|Procedures & Sedation
+FB|Foreign body|Procedures & Sedation
+NGT|Nasogastric tube|Procedures & Sedation
+NG|Nasogastric|Procedures & Sedation
+OGT|Orogastric tube|Procedures & Sedation
+OG|Orogastric|Procedures & Sedation
+NJ|Nasojejunal|Procedures & Sedation
+NDT|Nasoduodenal tube|Procedures & Sedation
+FT|Feeding tube|Procedures & Sedation
+IUC|Indwelling urinary catheter|Procedures & Sedation
+SPC|Suprapubic catheter|Procedures & Sedation
+ETT|Endotracheal tube|Procedures & Sedation
+ETI|Endotracheal intubation|Procedures & Sedation
+ID|Internal diameter|Procedures & Sedation
+@ teeth|Depth at the teeth|Procedures & Sedation
+@ lip|Depth at the lip|Procedures & Sedation
+VL|Video laryngoscopy|Procedures & Sedation
+DL|Direct laryngoscopy|Procedures & Sedation
+MAC|Macintosh laryngoscope blade|Procedures & Sedation
+MAC|Monitored anesthesia care|Procedures & Sedation
+Mac|Macintosh laryngoscope blade|Procedures & Sedation
+Mac 3|Macintosh size 3 blade|Procedures & Sedation
+Mac 4|Macintosh size 4 blade|Procedures & Sedation
+CL|Cormack-Lehane grade|Procedures & Sedation
+CL1|Cormack-Lehane grade 1 view|Procedures & Sedation
+POGO|Percentage of glottic opening|Procedures & Sedation
+BURP|Backward, upward, rightward pressure|Procedures & Sedation
+ELM|External laryngeal manipulation|Procedures & Sedation
+FOI|Fiberoptic intubation|Procedures & Sedation
+AFOI|Awake fiberoptic intubation|Procedures & Sedation
+FOB|Fiberoptic bronchoscope|Procedures & Sedation
+SGA|Supraglottic airway|Procedures & Sedation
+LMA|Laryngeal mask airway|Procedures & Sedation
+OPA|Oropharyngeal airway|Procedures & Sedation
+NPA|Nasopharyngeal airway|Procedures & Sedation
+BVM|Bag-valve-mask|Procedures & Sedation
+BMV|Bag-mask ventilation|Procedures & Sedation
+NC|Nasal cannula|Procedures & Sedation
+HFNC|High-flow nasal cannula|Procedures & Sedation
+NRB|Nonrebreather mask|Procedures & Sedation
+NIV|Noninvasive ventilation|Procedures & Sedation
+NIPPV|Noninvasive positive pressure ventilation|Procedures & Sedation
+BiPAP|Bilevel positive airway pressure|Procedures & Sedation
+PEEP|Positive end-expiratory pressure|Procedures & Sedation
+NODESAT|Nasal oxygen during efforts securing a tube|Procedures & Sedation
+ApOx|Apneic oxygenation|Procedures & Sedation
+FPS|First-pass success|Procedures & Sedation
+RSI|Rapid sequence intubation|Procedures & Sedation
+RSI|Rapid sequence induction|Procedures & Sedation
+DSI|Delayed sequence intubation|Procedures & Sedation
+CICO|Cannot intubate, cannot oxygenate|Procedures & Sedation
+CICV|Cannot intubate, cannot ventilate|Procedures & Sedation
+FONA|Front-of-neck access|Procedures & Sedation
+DAS|Difficult Airway Society|Procedures & Sedation
+DA|Difficult airway|Procedures & Sedation
+LEMON|Look, evaluate, Mallampati, obstruction, neck mobility|Procedures & Sedation
+MOANS|Mask seal, obesity, age, no teeth, stiff lungs|Procedures & Sedation
+TMD|Thyromental distance|Procedures & Sedation
+FB|Fingerbreadths|Procedures & Sedation
+OSA|Obstructive sleep apnea|Procedures & Sedation
+ETCO2|End-tidal carbon dioxide|Procedures & Sedation
+EtCO2|End-tidal carbon dioxide|Procedures & Sedation
+PETCO2|Partial pressure of end-tidal carbon dioxide|Procedures & Sedation
+CO2|Carbon dioxide|Procedures & Sedation
+BBS|Bilateral breath sounds|Procedures & Sedation
+BS|Breath sounds|Procedures & Sedation
+SpO2|Peripheral oxygen saturation|Procedures & Sedation
+O2|Oxygen|Procedures & Sedation
+NMB|Neuromuscular blockade|Procedures & Sedation
+NMBA|Neuromuscular blocking agent|Procedures & Sedation
+Sux|Succinylcholine|Procedures & Sedation
+SCh|Succinylcholine|Procedures & Sedation
+Roc|Rocuronium|Procedures & Sedation
+Vec|Vecuronium|Procedures & Sedation
+Cis|Cisatracurium|Procedures & Sedation
+TOF|Train-of-four|Procedures & Sedation
+Etom|Etomidate|Procedures & Sedation
+Ket|Ketamine|Procedures & Sedation
+Ketofol|Ketamine and propofol combination|Procedures & Sedation
+Prop|Propofol|Procedures & Sedation
+Fent|Fentanyl|Procedures & Sedation
+Midaz|Midazolam|Procedures & Sedation
+Dex|Dexmedetomidine|Procedures & Sedation
+PDP|Push-dose pressor|Procedures & Sedation
+Phenyl|Phenylephrine|Procedures & Sedation
+Neo|Phenylephrine|Procedures & Sedation
+PSA|Procedural sedation and analgesia|Procedures & Sedation
+CS|Conscious sedation|Procedures & Sedation
+ASA|American Society of Anesthesiologists|Procedures & Sedation
+ASA PS|ASA physical status classification|Procedures & Sedation
+ASA I|ASA class 1, a normal healthy patient|Procedures & Sedation
+ASA II|ASA class 2, mild systemic disease|Procedures & Sedation
+ASA III|ASA class 3, severe systemic disease|Procedures & Sedation
+ASA IV|ASA class 4, severe systemic disease that is a constant threat to life|Procedures & Sedation
+ASA V|ASA class 5, moribund patient not expected to survive without the operation|Procedures & Sedation
+ASA VI|ASA class 6, brain-dead organ donor|Procedures & Sedation
+NPO|Nothing by mouth|Procedures & Sedation
+NPO after MN|Nothing by mouth after midnight|Procedures & Sedation
+NPO p MN|Nothing by mouth after midnight|Procedures & Sedation
+GA|General anesthesia|Procedures & Sedation
+LA|Local anesthesia|Procedures & Sedation
+LA|Local anesthetic|Procedures & Sedation
+LAST|Local anesthetic systemic toxicity|Procedures & Sedation
+ILE|Intravenous lipid emulsion|Procedures & Sedation
+Lido|Lidocaine|Procedures & Sedation
+Lido w/ epi|Lidocaine with epinephrine|Procedures & Sedation
+RASS|Richmond Agitation-Sedation Scale|Procedures & Sedation
+RSS|Ramsay Sedation Scale|Procedures & Sedation
+MOAA/S|Modified Observer's Assessment of Alertness/Sedation scale|Procedures & Sedation
+POSS|Pasero Opioid-Induced Sedation Scale|Procedures & Sedation
+BIS|Bispectral index|Procedures & Sedation
+PACU|Post-anesthesia care unit|Procedures & Sedation
+PADSS|Post-Anesthetic Discharge Scoring System|Procedures & Sedation
+PONV|Postoperative nausea and vomiting|Procedures & Sedation
+SAE|Serious adverse event|Procedures & Sedation
+AE|Adverse event|Procedures & Sedation
+VV|Vasovagal|Procedures & Sedation
+VVS|Vasovagal syncope|Procedures & Sedation
+IR|Interventional radiology|Procedures & Sedation
+VIR|Vascular and interventional radiology|Procedures & Sedation
+PCN|Percutaneous nephrostomy|Procedures & Sedation
+NUT|Nephroureteral tube|Procedures & Sedation
+NU stent|Nephroureteral stent|Procedures & Sedation
+PTBD|Percutaneous transhepatic biliary drainage|Procedures & Sedation
+PTC|Percutaneous transhepatic cholangiography|Procedures & Sedation
+PBD|Percutaneous biliary drain|Procedures & Sedation
+IEBD|Internal-external biliary drain|Procedures & Sedation
+Perc chole|Percutaneous cholecystostomy|Procedures & Sedation
+perc chole|Percutaneous cholecystostomy|Procedures & Sedation
+PC|Percutaneous cholecystostomy|Procedures & Sedation
+PCT|Percutaneous cholecystostomy tube|Procedures & Sedation
+Chole tube|Cholecystostomy tube|Procedures & Sedation
+GT|Gastrostomy tube|Procedures & Sedation
+G-tube|Gastrostomy tube|Procedures & Sedation
+GJ|Gastrojejunostomy tube|Procedures & Sedation
+G-J|Gastrojejunostomy tube|Procedures & Sedation
+GJT|Gastrojejunostomy tube|Procedures & Sedation
+J-tube|Jejunostomy tube|Procedures & Sedation
+JT|Jejunostomy tube|Procedures & Sedation
+PEG|Percutaneous endoscopic gastrostomy|Procedures & Sedation
+PRG|Percutaneous radiologic gastrostomy|Procedures & Sedation
+PEJ|Percutaneous endoscopic jejunostomy|Procedures & Sedation
+TIPS|Transjugular intrahepatic portosystemic shunt|Procedures & Sedation
+DIPS|Direct intrahepatic portosystemic shunt|Procedures & Sedation
+PSG|Portosystemic gradient|Procedures & Sedation
+HVPG|Hepatic venous pressure gradient|Procedures & Sedation
+WHVP|Wedged hepatic venous pressure|Procedures & Sedation
+FHVP|Free hepatic venous pressure|Procedures & Sedation
+TJLB|Transjugular liver biopsy|Procedures & Sedation
+TJ bx|Transjugular biopsy|Procedures & Sedation
+BRTO|Balloon-occluded retrograde transvenous obliteration|Procedures & Sedation
+PARTO|Plug-assisted retrograde transvenous obliteration|Procedures & Sedation
+CARTO|Coil-assisted retrograde transvenous obliteration|Procedures & Sedation
+Embo|Embolization|Procedures & Sedation
+UAE|Uterine artery embolization|Procedures & Sedation
+PAE|Prostate artery embolization|Procedures & Sedation
+GAE|Genicular artery embolization|Procedures & Sedation
+BAE|Bronchial artery embolization|Procedures & Sedation
+PVE|Portal vein embolization|Procedures & Sedation
+TAE|Transarterial embolization|Procedures & Sedation
+TACE|Transarterial chemoembolization|Procedures & Sedation
+DEB-TACE|Drug-eluting bead transarterial chemoembolization|Procedures & Sedation
+cTACE|Conventional transarterial chemoembolization|Procedures & Sedation
+Y90|Yttrium-90 radioembolization|Procedures & Sedation
+Y-90|Yttrium-90 radioembolization|Procedures & Sedation
+TARE|Transarterial radioembolization|Procedures & Sedation
+SIRT|Selective internal radiation therapy|Procedures & Sedation
+MAA|Macroaggregated albumin|Procedures & Sedation
+LSF|Lung shunt fraction|Procedures & Sedation
+RFA|Radiofrequency ablation|Procedures & Sedation
+MWA|Microwave ablation|Procedures & Sedation
+Cryo|Cryoablation|Procedures & Sedation
+IRE|Irreversible electroporation|Procedures & Sedation
+IVC|Inferior vena cava|Procedures & Sedation
+IVCF|Inferior vena cava filter|Procedures & Sedation
+IVC filter|Inferior vena cava filter|Procedures & Sedation
+DVT|Deep vein thrombosis|Procedures & Sedation
+VTE|Venous thromboembolism|Procedures & Sedation
+Angio|Angiogram|Procedures & Sedation
+DSA|Digital subtraction angiography|Procedures & Sedation
+CTA|Computed tomography angiography|Procedures & Sedation
+AVF|Arteriovenous fistula|Procedures & Sedation
+AVG|Arteriovenous graft|Procedures & Sedation
+PTA|Percutaneous transluminal angioplasty|Procedures & Sedation
+CDT|Catheter-directed thrombolysis|Procedures & Sedation
+PCDT|Pharmacomechanical catheter-directed thrombolysis|Procedures & Sedation
+USCDT|Ultrasound-assisted catheter-directed thrombolysis|Procedures & Sedation
+MT|Mechanical thrombectomy|Procedures & Sedation
+PMT|Percutaneous mechanical thrombectomy|Procedures & Sedation
+AT|Aspiration thrombectomy|Procedures & Sedation
+PERT|Pulmonary embolism response team|Procedures & Sedation
+tPA|Tissue plasminogen activator|Procedures & Sedation
+Bx|Biopsy|Procedures & Sedation
+bx|Biopsy|Procedures & Sedation
+CT-guided bx|Computed tomography-guided biopsy|Procedures & Sedation
+CTGB|Computed tomography-guided biopsy|Procedures & Sedation
+US-guided bx|Ultrasound-guided biopsy|Procedures & Sedation
+FNA|Fine-needle aspiration|Procedures & Sedation
+FNAB|Fine-needle aspiration biopsy|Procedures & Sedation
+CNB|Core needle biopsy|Procedures & Sedation
+Core bx|Core needle biopsy|Procedures & Sedation
+ROSE|Rapid on-site evaluation|Procedures & Sedation
+Path|Pathology|Procedures & Sedation
+IR drain|Interventional radiology-placed drain|Procedures & Sedation
+JP|Jackson-Pratt drain|Procedures & Sedation
+Perc drain|Percutaneous drain|Procedures & Sedation
+PCD|Percutaneous catheter drainage|Procedures & Sedation
+AC|Anticoagulation|Procedures & Sedation
+INR|International normalized ratio|Procedures & Sedation
+PT|Prothrombin time|Procedures & Sedation
+PTT|Partial thromboplastin time|Procedures & Sedation
+aPTT|Activated partial thromboplastin time|Procedures & Sedation
+Plt|Platelets|Procedures & Sedation
+Hgb|Hemoglobin|Procedures & Sedation
+FFP|Fresh frozen plasma|Procedures & Sedation
+DOAC|Direct oral anticoagulant|Procedures & Sedation
+SIR|Society of Interventional Radiology|Procedures & Sedation
+DAPT|Dual antiplatelet therapy|Procedures & Sedation
+Abx|Antibiotics|Procedures & Sedation
+Fluoro|Fluoroscopy|Procedures & Sedation
+Fluoro time|Fluoroscopy time|Procedures & Sedation
+DAP|Dose-area product|Procedures & Sedation
+mGy|Milligray|Procedures & Sedation
+CIN|Contrast-induced nephropathy|Procedures & Sedation
+CI-AKI|Contrast-induced acute kidney injury|Procedures & Sedation
+CBC|Complete blood count|Procedures & Sedation
+BMP|Basic metabolic panel|Procedures & Sedation
+T&S|Type and screen|Procedures & Sedation
+T&C|Type and crossmatch|Procedures & Sedation
+EGD|Esophagogastroduodenoscopy|Procedures & Sedation
+ERCP|Endoscopic retrograde cholangiopancreatography|Procedures & Sedation
+EUS|Endoscopic ultrasound|Procedures & Sedation
+EBUS|Endobronchial ultrasound|Procedures & Sedation
+BAL|Bronchoalveolar lavage|Procedures & Sedation
+TBBx|Transbronchial biopsy|Procedures & Sedation
+TEE|Transesophageal echocardiogram|Procedures & Sedation
+DCCV|Direct current cardioversion|Procedures & Sedation
+Pericardio|Pericardiocentesis|Procedures & Sedation
+Arthro|Arthrocentesis|Procedures & Sedation
+MSU|Monosodium urate|Procedures & Sedation
+CPPD|Calcium pyrophosphate deposition|Procedures & Sedation

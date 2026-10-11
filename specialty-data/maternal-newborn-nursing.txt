@@ -1,0 +1,681 @@
+G|Gravida|Maternal-Newborn Nursing
+P|Para|Maternal-Newborn Nursing
+G/P|Gravida and para|Maternal-Newborn Nursing
+GTPAL|Gravida, term, preterm, abortions, living|Maternal-Newborn Nursing
+TPAL|Term, preterm, abortions, living|Maternal-Newborn Nursing
+Ab|Abortion|Maternal-Newborn Nursing
+SAB|Spontaneous abortion|Maternal-Newborn Nursing
+TAB|Therapeutic abortion|Maternal-Newborn Nursing
+EAB|Elective abortion|Maternal-Newborn Nursing
+IAB|Induced abortion|Maternal-Newborn Nursing
+nullip|Nulliparous|Maternal-Newborn Nursing
+multip|Multiparous|Maternal-Newborn Nursing
+primip|Primiparous|Maternal-Newborn Nursing
+GA|Gestational age|Maternal-Newborn Nursing
+EGA|Estimated gestational age|Maternal-Newborn Nursing
+EDD|Estimated date of delivery|Maternal-Newborn Nursing
+EDC|Estimated date of confinement|Maternal-Newborn Nursing
+LMP|Last menstrual period|Maternal-Newborn Nursing
+LNMP|Last normal menstrual period|Maternal-Newborn Nursing
+IUP|Intrauterine pregnancy|Maternal-Newborn Nursing
+SIUP|Single intrauterine pregnancy|Maternal-Newborn Nursing
+SLIUP|Single live intrauterine pregnancy|Maternal-Newborn Nursing
+TIUP|Twin intrauterine pregnancy|Maternal-Newborn Nursing
+IUFD|Intrauterine fetal demise|Maternal-Newborn Nursing
+FDIU|Fetal death in utero|Maternal-Newborn Nursing
+SB|Stillbirth|Maternal-Newborn Nursing
+US|Ultrasound|Maternal-Newborn Nursing
+U/S|Ultrasound|Maternal-Newborn Nursing
+TVUS|Transvaginal ultrasound|Maternal-Newborn Nursing
+CRL|Crown-rump length|Maternal-Newborn Nursing
+BPP|Biophysical profile|Maternal-Newborn Nursing
+MBPP|Modified biophysical profile|Maternal-Newborn Nursing
+NST|Nonstress test|Maternal-Newborn Nursing
+CST|Contraction stress test|Maternal-Newborn Nursing
+OCT|Oxytocin challenge test|Maternal-Newborn Nursing
+AFI|Amniotic fluid index|Maternal-Newborn Nursing
+MVP|Maximum vertical pocket|Maternal-Newborn Nursing
+DVP|Deepest vertical pocket|Maternal-Newborn Nursing
+EFW|Estimated fetal weight|Maternal-Newborn Nursing
+BPD|Biparietal diameter|Maternal-Newborn Nursing
+HC|Head circumference|Maternal-Newborn Nursing
+AC|Abdominal circumference|Maternal-Newborn Nursing
+FL|Femur length|Maternal-Newborn Nursing
+FH|Fundal height|Maternal-Newborn Nursing
+NT|Nuchal translucency|Maternal-Newborn Nursing
+NIPT|Noninvasive prenatal testing|Maternal-Newborn Nursing
+cfDNA|Cell-free DNA|Maternal-Newborn Nursing
+MSAFP|Maternal serum alpha-fetoprotein|Maternal-Newborn Nursing
+AFP|Alpha-fetoprotein|Maternal-Newborn Nursing
+Quad|Quadruple marker screen|Maternal-Newborn Nursing
+CVS|Chorionic villus sampling|Maternal-Newborn Nursing
+amnio|Amniocentesis|Maternal-Newborn Nursing
+CL|Cervical length|Maternal-Newborn Nursing
+ECV|External cephalic version|Maternal-Newborn Nursing
+FHT|Fetal heart tones|Maternal-Newborn Nursing
+FHR|Fetal heart rate|Maternal-Newborn Nursing
+MHR|Maternal heart rate|Maternal-Newborn Nursing
+FM|Fetal movement|Maternal-Newborn Nursing
++FM|Positive fetal movement|Maternal-Newborn Nursing
+DFM|Decreased fetal movement|Maternal-Newborn Nursing
+FKC|Fetal kick counts|Maternal-Newborn Nursing
+LOF|Leakage of fluid|Maternal-Newborn Nursing
+VB|Vaginal bleeding|Maternal-Newborn Nursing
+PNC|Prenatal care|Maternal-Newborn Nursing
+PNV|Prenatal vitamins|Maternal-Newborn Nursing
+PNL|Prenatal labs|Maternal-Newborn Nursing
+PTL|Preterm labor|Maternal-Newborn Nursing
+PTB|Preterm birth|Maternal-Newborn Nursing
+PTD|Preterm delivery|Maternal-Newborn Nursing
+fFN|Fetal fibronectin|Maternal-Newborn Nursing
+FFN|Fetal fibronectin|Maternal-Newborn Nursing
+ART|Assisted reproductive technology|Maternal-Newborn Nursing
+IVF|In vitro fertilization|Maternal-Newborn Nursing
+DCDA|Dichorionic diamniotic|Maternal-Newborn Nursing
+MCDA|Monochorionic diamniotic|Maternal-Newborn Nursing
+MCMA|Monochorionic monoamniotic|Maternal-Newborn Nursing
+TTTS|Twin-twin transfusion syndrome|Maternal-Newborn Nursing
+hCG|Human chorionic gonadotropin|Maternal-Newborn Nursing
+bhCG|Beta human chorionic gonadotropin|Maternal-Newborn Nursing
+UPT|Urine pregnancy test|Maternal-Newborn Nursing
+SROM|Spontaneous rupture of membranes|Maternal-Newborn Nursing
+AROM|Artificial rupture of membranes|Maternal-Newborn Nursing
+ROM|Rupture of membranes|Maternal-Newborn Nursing
+PROM|Prelabor rupture of membranes|Maternal-Newborn Nursing
+PROM|Premature rupture of membranes|Maternal-Newborn Nursing
+PPROM|Preterm prelabor rupture of membranes|Maternal-Newborn Nursing
+PPROM|Preterm premature rupture of membranes|Maternal-Newborn Nursing
+BOW|Bag of water|Maternal-Newborn Nursing
+BBOW|Bulging bag of water|Maternal-Newborn Nursing
+IBOW|Intact bag of water|Maternal-Newborn Nursing
+MSAF|Meconium-stained amniotic fluid|Maternal-Newborn Nursing
+MSF|Meconium-stained fluid|Maternal-Newborn Nursing
+mec|Meconium|Maternal-Newborn Nursing
+AF|Amniotic fluid|Maternal-Newborn Nursing
+SVE|Sterile vaginal exam|Maternal-Newborn Nursing
+VE|Vaginal exam|Maternal-Newborn Nursing
+SSE|Sterile speculum exam|Maternal-Newborn Nursing
+dil|Dilation|Maternal-Newborn Nursing
+eff|Effacement|Maternal-Newborn Nursing
+sta|Station|Maternal-Newborn Nursing
+FT|Fingertip dilation|Maternal-Newborn Nursing
+C/C/+2|Complete dilation, complete effacement, plus two station|Maternal-Newborn Nursing
+C/C|Complete dilation and complete effacement|Maternal-Newborn Nursing
+cx|Cervix|Maternal-Newborn Nursing
+LUS|Lower uterine segment|Maternal-Newborn Nursing
+OA|Occiput anterior|Maternal-Newborn Nursing
+LOA|Left occiput anterior|Maternal-Newborn Nursing
+ROA|Right occiput anterior|Maternal-Newborn Nursing
+DOA|Direct occiput anterior|Maternal-Newborn Nursing
+OP|Occiput posterior|Maternal-Newborn Nursing
+LOP|Left occiput posterior|Maternal-Newborn Nursing
+ROP|Right occiput posterior|Maternal-Newborn Nursing
+DOP|Direct occiput posterior|Maternal-Newborn Nursing
+OT|Occiput transverse|Maternal-Newborn Nursing
+LOT|Left occiput transverse|Maternal-Newborn Nursing
+ROT|Right occiput transverse|Maternal-Newborn Nursing
+vtx|Vertex|Maternal-Newborn Nursing
+VTX|Vertex|Maternal-Newborn Nursing
+ceph|Cephalic|Maternal-Newborn Nursing
+EFM|Electronic fetal monitoring|Maternal-Newborn Nursing
+EFM|External fetal monitor|Maternal-Newborn Nursing
+TOCO|Tocodynamometer|Maternal-Newborn Nursing
+toco|Tocodynamometer|Maternal-Newborn Nursing
+IUPC|Intrauterine pressure catheter|Maternal-Newborn Nursing
+FSE|Fetal scalp electrode|Maternal-Newborn Nursing
+MVU|Montevideo units|Maternal-Newborn Nursing
+MVUs|Montevideo units|Maternal-Newborn Nursing
+BL|Baseline|Maternal-Newborn Nursing
+BPM|Beats per minute|Maternal-Newborn Nursing
+bpm|Beats per minute|Maternal-Newborn Nursing
+mod var|Moderate variability|Maternal-Newborn Nursing
+min var|Minimal variability|Maternal-Newborn Nursing
+abs var|Absent variability|Maternal-Newborn Nursing
+BTBV|Beat-to-beat variability|Maternal-Newborn Nursing
+STV|Short-term variability|Maternal-Newborn Nursing
+LTV|Long-term variability|Maternal-Newborn Nursing
+accels|Accelerations|Maternal-Newborn Nursing
+decels|Decelerations|Maternal-Newborn Nursing
+earlies|Early decelerations|Maternal-Newborn Nursing
+lates|Late decelerations|Maternal-Newborn Nursing
+variables|Variable decelerations|Maternal-Newborn Nursing
+prolonged decel|Prolonged deceleration|Maternal-Newborn Nursing
+Cat I|Category I fetal heart rate tracing|Maternal-Newborn Nursing
+Cat II|Category II fetal heart rate tracing|Maternal-Newborn Nursing
+Cat III|Category III fetal heart rate tracing|Maternal-Newborn Nursing
+Cat 1|Category I fetal heart rate tracing|Maternal-Newborn Nursing
+Cat 2|Category II fetal heart rate tracing|Maternal-Newborn Nursing
+Cat 3|Category III fetal heart rate tracing|Maternal-Newborn Nursing
+NRFHT|Nonreassuring fetal heart tracing|Maternal-Newborn Nursing
+NRFHR|Nonreassuring fetal heart rate|Maternal-Newborn Nursing
+NRFS|Nonreassuring fetal status|Maternal-Newborn Nursing
+UC|Uterine contraction|Maternal-Newborn Nursing
+UCs|Uterine contractions|Maternal-Newborn Nursing
+CTX|Contractions|Maternal-Newborn Nursing
+ctx|Contractions|Maternal-Newborn Nursing
+IOL|Induction of labor|Maternal-Newborn Nursing
+AOL|Augmentation of labor|Maternal-Newborn Nursing
+Pit|Oxytocin|Maternal-Newborn Nursing
+pit|Oxytocin|Maternal-Newborn Nursing
+miso|Misoprostol|Maternal-Newborn Nursing
+PGE1|Prostaglandin E1|Maternal-Newborn Nursing
+PGE2|Prostaglandin E2|Maternal-Newborn Nursing
+CRB|Cervical ripening balloon|Maternal-Newborn Nursing
+AMA|Advanced maternal age|Maternal-Newborn Nursing
+AMA|Against medical advice|Maternal-Newborn Nursing
+LGA|Large for gestational age|Maternal-Newborn Nursing
+SGA|Small for gestational age|Maternal-Newborn Nursing
+AGA|Appropriate for gestational age|Maternal-Newborn Nursing
+FGR|Fetal growth restriction|Maternal-Newborn Nursing
+IUGR|Intrauterine growth restriction|Maternal-Newborn Nursing
+FTP|Failure to progress|Maternal-Newborn Nursing
+AOD|Arrest of descent|Maternal-Newborn Nursing
+AOD|Arrest of dilation|Maternal-Newborn Nursing
+CPD|Cephalopelvic disproportion|Maternal-Newborn Nursing
+TOL|Trial of labor|Maternal-Newborn Nursing
+TOLAC|Trial of labor after cesarean|Maternal-Newborn Nursing
+VBAC|Vaginal birth after cesarean|Maternal-Newborn Nursing
+GDM|Gestational diabetes mellitus|Maternal-Newborn Nursing
+GDMA1|Gestational diabetes, diet-controlled|Maternal-Newborn Nursing
+GDMA2|Gestational diabetes, medication-controlled|Maternal-Newborn Nursing
+A1GDM|Gestational diabetes, diet-controlled|Maternal-Newborn Nursing
+A2GDM|Gestational diabetes, medication-controlled|Maternal-Newborn Nursing
+PGDM|Pregestational diabetes mellitus|Maternal-Newborn Nursing
+T1DM|Type 1 diabetes mellitus|Maternal-Newborn Nursing
+T2DM|Type 2 diabetes mellitus|Maternal-Newborn Nursing
+GCT|Glucose challenge test|Maternal-Newborn Nursing
+GTT|Glucose tolerance test|Maternal-Newborn Nursing
+OGTT|Oral glucose tolerance test|Maternal-Newborn Nursing
+FSBG|Fingerstick blood glucose|Maternal-Newborn Nursing
+FSBS|Fingerstick blood sugar|Maternal-Newborn Nursing
+BG|Blood glucose|Maternal-Newborn Nursing
+gHTN|Gestational hypertension|Maternal-Newborn Nursing
+GHTN|Gestational hypertension|Maternal-Newborn Nursing
+PIH|Pregnancy-induced hypertension|Maternal-Newborn Nursing
+cHTN|Chronic hypertension|Maternal-Newborn Nursing
+CHTN|Chronic hypertension|Maternal-Newborn Nursing
+preE|Preeclampsia|Maternal-Newborn Nursing
+PEC|Preeclampsia|Maternal-Newborn Nursing
+PE|Preeclampsia|Maternal-Newborn Nursing
+preE w/ SF|Preeclampsia with severe features|Maternal-Newborn Nursing
+preE w/o SF|Preeclampsia without severe features|Maternal-Newborn Nursing
+SIPE|Superimposed preeclampsia|Maternal-Newborn Nursing
+HELLP|Hemolysis, elevated liver enzymes, low platelets|Maternal-Newborn Nursing
+AFLP|Acute fatty liver of pregnancy|Maternal-Newborn Nursing
+ICP|Intrahepatic cholestasis of pregnancy|Maternal-Newborn Nursing
+HG|Hyperemesis gravidarum|Maternal-Newborn Nursing
+mag|Magnesium sulfate|Maternal-Newborn Nursing
+Mag|Magnesium sulfate|Maternal-Newborn Nursing
+MgSO4|Magnesium sulfate|Maternal-Newborn Nursing
+Mg|Magnesium|Maternal-Newborn Nursing
+mag tox checks|Magnesium toxicity checks|Maternal-Newborn Nursing
+DTR|Deep tendon reflex|Maternal-Newborn Nursing
+DTRs|Deep tendon reflexes|Maternal-Newborn Nursing
+I&O|Intake and output|Maternal-Newborn Nursing
+I/O|Intake and output|Maternal-Newborn Nursing
+UOP|Urine output|Maternal-Newborn Nursing
+UPC|Urine protein-to-creatinine ratio|Maternal-Newborn Nursing
+P/C|Protein-to-creatinine ratio|Maternal-Newborn Nursing
+LFTs|Liver function tests|Maternal-Newborn Nursing
+PLT|Platelets|Maternal-Newborn Nursing
+plts|Platelets|Maternal-Newborn Nursing
+LDH|Lactate dehydrogenase|Maternal-Newborn Nursing
+BP|Blood pressure|Maternal-Newborn Nursing
+SBP|Systolic blood pressure|Maternal-Newborn Nursing
+DBP|Diastolic blood pressure|Maternal-Newborn Nursing
+BMZ|Betamethasone|Maternal-Newborn Nursing
+ANCS|Antenatal corticosteroids|Maternal-Newborn Nursing
+ACS|Antenatal corticosteroids|Maternal-Newborn Nursing
+nifed|Nifedipine|Maternal-Newborn Nursing
+indo|Indomethacin|Maternal-Newborn Nursing
+terb|Terbutaline|Maternal-Newborn Nursing
+GBS|Group B streptococcus|Maternal-Newborn Nursing
+GBS+|Group B streptococcus positive|Maternal-Newborn Nursing
+GBS-|Group B streptococcus negative|Maternal-Newborn Nursing
+GBS unk|Group B streptococcus status unknown|Maternal-Newborn Nursing
+GBS unknown|Group B streptococcus status unknown|Maternal-Newborn Nursing
+IAP|Intrapartum antibiotic prophylaxis|Maternal-Newborn Nursing
+PCN|Penicillin|Maternal-Newborn Nursing
+PCN G|Penicillin G|Maternal-Newborn Nursing
+amp|Ampicillin|Maternal-Newborn Nursing
+gent|Gentamicin|Maternal-Newborn Nursing
+abx|Antibiotics|Maternal-Newborn Nursing
+chorio|Chorioamnionitis|Maternal-Newborn Nursing
+IAI|Intraamniotic infection|Maternal-Newborn Nursing
+Triple I|Intrauterine inflammation or infection or both|Maternal-Newborn Nursing
+Tmax|Maximum temperature|Maternal-Newborn Nursing
+HSV|Herpes simplex virus|Maternal-Newborn Nursing
+HIV|Human immunodeficiency virus|Maternal-Newborn Nursing
+HBV|Hepatitis B virus|Maternal-Newborn Nursing
+HCV|Hepatitis C virus|Maternal-Newborn Nursing
+HBsAg|Hepatitis B surface antigen|Maternal-Newborn Nursing
+RPR|Rapid plasma reagin|Maternal-Newborn Nursing
+VDRL|Venereal Disease Research Laboratory test|Maternal-Newborn Nursing
+GC|Gonorrhea|Maternal-Newborn Nursing
+CT|Chlamydia|Maternal-Newborn Nursing
+GC/CT|Gonorrhea and chlamydia|Maternal-Newborn Nursing
+UDS|Urine drug screen|Maternal-Newborn Nursing
+Utox|Urine toxicology|Maternal-Newborn Nursing
+UTox|Urine toxicology|Maternal-Newborn Nursing
+Rh neg|Rh negative|Maternal-Newborn Nursing
+Rh-|Rh negative|Maternal-Newborn Nursing
+Rh+|Rh positive|Maternal-Newborn Nursing
+RhIG|Rh immune globulin|Maternal-Newborn Nursing
+FMH|Fetomaternal hemorrhage|Maternal-Newborn Nursing
+T&S|Type and screen|Maternal-Newborn Nursing
+T&C|Type and crossmatch|Maternal-Newborn Nursing
+Ab screen|Antibody screen|Maternal-Newborn Nursing
+H&H|Hemoglobin and hematocrit|Maternal-Newborn Nursing
+Hgb|Hemoglobin|Maternal-Newborn Nursing
+Hct|Hematocrit|Maternal-Newborn Nursing
+VTE|Venous thromboembolism|Maternal-Newborn Nursing
+SCDs|Sequential compression devices|Maternal-Newborn Nursing
+LMWH|Low molecular weight heparin|Maternal-Newborn Nursing
+AFE|Amniotic fluid embolism|Maternal-Newborn Nursing
+DIC|Disseminated intravascular coagulation|Maternal-Newborn Nursing
+MEOWS|Modified early obstetric warning score|Maternal-Newborn Nursing
+MEWT|Maternal early warning trigger|Maternal-Newborn Nursing
+RRT|Rapid response team|Maternal-Newborn Nursing
+SBAR|Situation, background, assessment, recommendation|Maternal-Newborn Nursing
+CLE|Continuous lumbar epidural|Maternal-Newborn Nursing
+PCEA|Patient-controlled epidural analgesia|Maternal-Newborn Nursing
+CSE|Combined spinal-epidural|Maternal-Newborn Nursing
+DPE|Dural puncture epidural|Maternal-Newborn Nursing
+LEA|Labor epidural analgesia|Maternal-Newborn Nursing
+epi|Epidural|Maternal-Newborn Nursing
+SAB|Subarachnoid block|Maternal-Newborn Nursing
+IT|Intrathecal|Maternal-Newborn Nursing
+ITM|Intrathecal morphine|Maternal-Newborn Nursing
+IT morphine|Intrathecal morphine|Maternal-Newborn Nursing
+GA|General anesthesia|Maternal-Newborn Nursing
+GETA|General endotracheal anesthesia|Maternal-Newborn Nursing
+N2O|Nitrous oxide|Maternal-Newborn Nursing
+PDPH|Post-dural puncture headache|Maternal-Newborn Nursing
+EBP|Epidural blood patch|Maternal-Newborn Nursing
+TAP|Transversus abdominis plane|Maternal-Newborn Nursing
+TAP block|Transversus abdominis plane block|Maternal-Newborn Nursing
+QL block|Quadratus lumborum block|Maternal-Newborn Nursing
+PCA|Patient-controlled analgesia|Maternal-Newborn Nursing
+CRNA|Certified registered nurse anesthetist|Maternal-Newborn Nursing
+PIV|Peripheral intravenous line|Maternal-Newborn Nursing
+IVF|Intravenous fluids|Maternal-Newborn Nursing
+LR|Lactated Ringer solution|Maternal-Newborn Nursing
+NS|Normal saline|Maternal-Newborn Nursing
+IVPB|Intravenous piggyback|Maternal-Newborn Nursing
+NPO|Nothing by mouth|Maternal-Newborn Nursing
+NSVD|Normal spontaneous vaginal delivery|Maternal-Newborn Nursing
+SVD|Spontaneous vaginal delivery|Maternal-Newborn Nursing
+NVD|Normal vaginal delivery|Maternal-Newborn Nursing
+VD|Vaginal delivery|Maternal-Newborn Nursing
+OVD|Operative vaginal delivery|Maternal-Newborn Nursing
+VAVD|Vacuum-assisted vaginal delivery|Maternal-Newborn Nursing
+FAVD|Forceps-assisted vaginal delivery|Maternal-Newborn Nursing
+VE|Vacuum extraction|Maternal-Newborn Nursing
+C/S|Cesarean section|Maternal-Newborn Nursing
+CS|Cesarean section|Maternal-Newborn Nursing
+c-section|Cesarean section|Maternal-Newborn Nursing
+C-section|Cesarean section|Maternal-Newborn Nursing
+CD|Cesarean delivery|Maternal-Newborn Nursing
+PCS|Primary cesarean section|Maternal-Newborn Nursing
+RCS|Repeat cesarean section|Maternal-Newborn Nursing
+LTCS|Low transverse cesarean section|Maternal-Newborn Nursing
+pLTCS|Primary low transverse cesarean section|Maternal-Newborn Nursing
+PLTCS|Primary low transverse cesarean section|Maternal-Newborn Nursing
+rLTCS|Repeat low transverse cesarean section|Maternal-Newborn Nursing
+RLTCS|Repeat low transverse cesarean section|Maternal-Newborn Nursing
+LVCS|Low vertical cesarean section|Maternal-Newborn Nursing
+CCS|Classical cesarean section|Maternal-Newborn Nursing
+ERCD|Elective repeat cesarean delivery|Maternal-Newborn Nursing
+ERCS|Elective repeat cesarean section|Maternal-Newborn Nursing
+stat CS|Emergent cesarean section|Maternal-Newborn Nursing
+stat C/S|Emergent cesarean section|Maternal-Newborn Nursing
+crash CS|Crash cesarean section under general anesthesia|Maternal-Newborn Nursing
+PACU|Post-anesthesia care unit|Maternal-Newborn Nursing
+SD|Shoulder dystocia|Maternal-Newborn Nursing
+NC|Nuchal cord|Maternal-Newborn Nursing
+NC x1|Nuchal cord times one|Maternal-Newborn Nursing
+NC x2|Nuchal cord times two|Maternal-Newborn Nursing
+TNC|Tight nuchal cord|Maternal-Newborn Nursing
+BBA|Born before arrival|Maternal-Newborn Nursing
+TOB|Time of birth|Maternal-Newborn Nursing
+DOB|Date of birth|Maternal-Newborn Nursing
+CCT|Controlled cord traction|Maternal-Newborn Nursing
+AMTSL|Active management of the third stage of labor|Maternal-Newborn Nursing
+EBL|Estimated blood loss|Maternal-Newborn Nursing
+QBL|Quantitative blood loss|Maternal-Newborn Nursing
+PPH|Postpartum hemorrhage|Maternal-Newborn Nursing
+MTP|Massive transfusion protocol|Maternal-Newborn Nursing
+pRBC|Packed red blood cells|Maternal-Newborn Nursing
+PRBC|Packed red blood cells|Maternal-Newborn Nursing
+FFP|Fresh frozen plasma|Maternal-Newborn Nursing
+TXA|Tranexamic acid|Maternal-Newborn Nursing
+POC|Products of conception|Maternal-Newborn Nursing
+RPOC|Retained products of conception|Maternal-Newborn Nursing
+D&C|Dilation and curettage|Maternal-Newborn Nursing
+D&E|Dilation and evacuation|Maternal-Newborn Nursing
+PAS|Placenta accreta spectrum|Maternal-Newborn Nursing
+3VC|Three-vessel cord|Maternal-Newborn Nursing
+2VC|Two-vessel cord|Maternal-Newborn Nursing
+SUA|Single umbilical artery|Maternal-Newborn Nursing
+UA|Umbilical artery|Maternal-Newborn Nursing
+UV|Umbilical vein|Maternal-Newborn Nursing
+UA|Urinalysis|Maternal-Newborn Nursing
+CBG|Cord blood gas|Maternal-Newborn Nursing
+CBG|Capillary blood gas|Maternal-Newborn Nursing
+VBG|Venous blood gas|Maternal-Newborn Nursing
+BE|Base excess|Maternal-Newborn Nursing
+BD|Base deficit|Maternal-Newborn Nursing
+PP|Postpartum|Maternal-Newborn Nursing
+PPD|Postpartum day|Maternal-Newborn Nursing
+POD|Postoperative day|Maternal-Newborn Nursing
+PPD|Postpartum depression|Maternal-Newborn Nursing
+PMAD|Perinatal mood and anxiety disorder|Maternal-Newborn Nursing
+PMADs|Perinatal mood and anxiety disorders|Maternal-Newborn Nursing
+EPDS|Edinburgh Postnatal Depression Scale|Maternal-Newborn Nursing
+PHQ-9|Patient Health Questionnaire-9|Maternal-Newborn Nursing
+GAD-7|Generalized Anxiety Disorder 7-item scale|Maternal-Newborn Nursing
+IPV|Intimate partner violence|Maternal-Newborn Nursing
+FF|Fundus firm|Maternal-Newborn Nursing
+FF@U|Fundus firm at umbilicus|Maternal-Newborn Nursing
+FF/U|Fundus firm at umbilicus|Maternal-Newborn Nursing
+U/U|Fundus at umbilicus|Maternal-Newborn Nursing
+U-1|Fundus one fingerbreadth below umbilicus|Maternal-Newborn Nursing
+U-2|Fundus two fingerbreadths below umbilicus|Maternal-Newborn Nursing
+U+1|Fundus one fingerbreadth above umbilicus|Maternal-Newborn Nursing
+1/U|Fundus one fingerbreadth below umbilicus|Maternal-Newborn Nursing
+FB|Fingerbreadth|Maternal-Newborn Nursing
+fb|Fingerbreadth|Maternal-Newborn Nursing
+BUBBLE|Breasts, uterus, bladder, bowel, lochia, episiotomy|Maternal-Newborn Nursing
+BUBBLE-HE|Breasts, uterus, bladder, bowel, lochia, episiotomy, Homans sign, emotions|Maternal-Newborn Nursing
+REEDA|Redness, edema, ecchymosis, discharge, approximation|Maternal-Newborn Nursing
+lac|Laceration|Maternal-Newborn Nursing
+1st deg lac|First-degree perineal laceration|Maternal-Newborn Nursing
+2nd deg lac|Second-degree perineal laceration|Maternal-Newborn Nursing
+3rd deg lac|Third-degree perineal laceration|Maternal-Newborn Nursing
+4th deg lac|Fourth-degree perineal laceration|Maternal-Newborn Nursing
+3a|Third-degree laceration with less than 50% of external anal sphincter torn|Maternal-Newborn Nursing
+3b|Third-degree laceration with more than 50% of external anal sphincter torn|Maternal-Newborn Nursing
+3c|Third-degree laceration with internal anal sphincter torn|Maternal-Newborn Nursing
+OASIS|Obstetric anal sphincter injuries|Maternal-Newborn Nursing
+OASI|Obstetric anal sphincter injury|Maternal-Newborn Nursing
+epis|Episiotomy|Maternal-Newborn Nursing
+peri care|Perineal care|Maternal-Newborn Nursing
+peri bottle|Perineal irrigation bottle|Maternal-Newborn Nursing
+BTL|Bilateral tubal ligation|Maternal-Newborn Nursing
+PPTL|Postpartum tubal ligation|Maternal-Newborn Nursing
+PPBTL|Postpartum bilateral tubal ligation|Maternal-Newborn Nursing
+LARC|Long-acting reversible contraception|Maternal-Newborn Nursing
+IUD|Intrauterine device|Maternal-Newborn Nursing
+LNG-IUD|Levonorgestrel intrauterine device|Maternal-Newborn Nursing
+Cu-IUD|Copper intrauterine device|Maternal-Newborn Nursing
+PPIUD|Postpartum intrauterine device|Maternal-Newborn Nursing
+DMPA|Depot medroxyprogesterone acetate|Maternal-Newborn Nursing
+POP|Progestin-only pill|Maternal-Newborn Nursing
+COC|Combined oral contraceptive|Maternal-Newborn Nursing
+OCP|Oral contraceptive pill|Maternal-Newborn Nursing
+LAM|Lactational amenorrhea method|Maternal-Newborn Nursing
+BC|Birth control|Maternal-Newborn Nursing
+rubella NI|Rubella nonimmune|Maternal-Newborn Nursing
+RNI|Rubella nonimmune|Maternal-Newborn Nursing
+RI|Rubella immune|Maternal-Newborn Nursing
+MMR|Measles, mumps, rubella vaccine|Maternal-Newborn Nursing
+Tdap|Tetanus, diphtheria, acellular pertussis vaccine|Maternal-Newborn Nursing
+RSV|Respiratory syncytial virus|Maternal-Newborn Nursing
+STS|Skin-to-skin|Maternal-Newborn Nursing
+SSC|Skin-to-skin contact|Maternal-Newborn Nursing
+DCC|Delayed cord clamping|Maternal-Newborn Nursing
+UCM|Umbilical cord milking|Maternal-Newborn Nursing
+MOB|Mother of baby|Maternal-Newborn Nursing
+FOB|Father of baby|Maternal-Newborn Nursing
+FOC|Father of child|Maternal-Newborn Nursing
+SO|Significant other|Maternal-Newborn Nursing
+L&D|Labor and delivery|Maternal-Newborn Nursing
+LD|Labor and delivery|Maternal-Newborn Nursing
+LDR|Labor, delivery, and recovery|Maternal-Newborn Nursing
+LDRP|Labor, delivery, recovery, and postpartum|Maternal-Newborn Nursing
+AP|Antepartum|Maternal-Newborn Nursing
+MBU|Mother-baby unit|Maternal-Newborn Nursing
+M/B|Mother-baby|Maternal-Newborn Nursing
+OB|Obstetrics|Maternal-Newborn Nursing
+OB/GYN|Obstetrics and gynecology|Maternal-Newborn Nursing
+MFM|Maternal-fetal medicine|Maternal-Newborn Nursing
+CNM|Certified nurse-midwife|Maternal-Newborn Nursing
+CM|Certified midwife|Maternal-Newborn Nursing
+RNC-OB|Registered nurse certified in inpatient obstetric nursing|Maternal-Newborn Nursing
+RNC-MNN|Registered nurse certified in maternal newborn nursing|Maternal-Newborn Nursing
+RNC-NIC|Registered nurse certified in neonatal intensive care nursing|Maternal-Newborn Nursing
+C-EFM|Certified in electronic fetal monitoring|Maternal-Newborn Nursing
+NNP|Neonatal nurse practitioner|Maternal-Newborn Nursing
+RT|Respiratory therapist|Maternal-Newborn Nursing
+SW|Social work|Maternal-Newborn Nursing
+SW consult|Social work consult|Maternal-Newborn Nursing
+CPS|Child protective services|Maternal-Newborn Nursing
+CPS hold|Child protective services hold|Maternal-Newborn Nursing
+POSC|Plan of safe care|Maternal-Newborn Nursing
+SLP|Speech-language pathologist|Maternal-Newborn Nursing
+AWHONN|Association of Womens Health, Obstetric and Neonatal Nurses|Maternal-Newborn Nursing
+ACOG|American College of Obstetricians and Gynecologists|Maternal-Newborn Nursing
+AAP|American Academy of Pediatrics|Maternal-Newborn Nursing
+BFHI|Baby-Friendly Hospital Initiative|Maternal-Newborn Nursing
+WIC|Special Supplemental Nutrition Program for Women, Infants, and Children|Maternal-Newborn Nursing
+NB|Newborn|Maternal-Newborn Nursing
+NBN|Newborn nursery|Maternal-Newborn Nursing
+WBN|Well baby nursery|Maternal-Newborn Nursing
+NRP|Neonatal Resuscitation Program|Maternal-Newborn Nursing
+PPV|Positive pressure ventilation|Maternal-Newborn Nursing
+CPR|Cardiopulmonary resuscitation|Maternal-Newborn Nursing
+HR|Heart rate|Maternal-Newborn Nursing
+RR|Respiratory rate|Maternal-Newborn Nursing
+TPR|Temperature, pulse, respirations|Maternal-Newborn Nursing
+VS|Vital signs|Maternal-Newborn Nursing
+VSS|Vital signs stable|Maternal-Newborn Nursing
+AVSS|Afebrile, vital signs stable|Maternal-Newborn Nursing
+APGAR|Appearance, pulse, grimace, activity, respiration|Maternal-Newborn Nursing
+BW|Birth weight|Maternal-Newborn Nursing
+OFC|Occipitofrontal circumference|Maternal-Newborn Nursing
+AF|Anterior fontanelle|Maternal-Newborn Nursing
+PF|Posterior fontanelle|Maternal-Newborn Nursing
+AFOSF|Anterior fontanelle open, soft, and flat|Maternal-Newborn Nursing
+AFSF|Anterior fontanelle soft and flat|Maternal-Newborn Nursing
+BS|Bowel sounds|Maternal-Newborn Nursing
+BS|Breath sounds|Maternal-Newborn Nursing
+ETN|Erythema toxicum neonatorum|Maternal-Newborn Nursing
+CDM|Congenital dermal melanocytosis|Maternal-Newborn Nursing
+SGH|Subgaleal hemorrhage|Maternal-Newborn Nursing
+BPI|Brachial plexus injury|Maternal-Newborn Nursing
+DDH|Developmental dysplasia of the hip|Maternal-Newborn Nursing
+EES|Erythromycin eye ointment|Maternal-Newborn Nursing
+vit K|Vitamin K|Maternal-Newborn Nursing
+Vit K|Vitamin K|Maternal-Newborn Nursing
+HepB|Hepatitis B vaccine|Maternal-Newborn Nursing
+HBIG|Hepatitis B immune globulin|Maternal-Newborn Nursing
+NBS|Newborn screen|Maternal-Newborn Nursing
+PKU|Phenylketonuria|Maternal-Newborn Nursing
+PKU|Newborn metabolic screen|Maternal-Newborn Nursing
+CH|Congenital hypothyroidism|Maternal-Newborn Nursing
+G6PD|Glucose-6-phosphate dehydrogenase|Maternal-Newborn Nursing
+CCHD|Critical congenital heart disease|Maternal-Newborn Nursing
+CCHD screen|Critical congenital heart disease pulse oximetry screen|Maternal-Newborn Nursing
+SpO2|Peripheral oxygen saturation|Maternal-Newborn Nursing
+ABR|Auditory brainstem response|Maternal-Newborn Nursing
+AABR|Automated auditory brainstem response|Maternal-Newborn Nursing
+BAER|Brainstem auditory evoked response|Maternal-Newborn Nursing
+OAE|Otoacoustic emissions|Maternal-Newborn Nursing
+NBHS|Newborn hearing screen|Maternal-Newborn Nursing
+cCMV|Congenital cytomegalovirus|Maternal-Newborn Nursing
+CMV|Cytomegalovirus|Maternal-Newborn Nursing
+TORCH|Toxoplasmosis, other, rubella, cytomegalovirus, herpes simplex|Maternal-Newborn Nursing
+bili|Bilirubin|Maternal-Newborn Nursing
+TcB|Transcutaneous bilirubin|Maternal-Newborn Nursing
+TSB|Total serum bilirubin|Maternal-Newborn Nursing
+DB|Direct bilirubin|Maternal-Newborn Nursing
+CB|Conjugated bilirubin|Maternal-Newborn Nursing
+photo|Phototherapy|Maternal-Newborn Nursing
+ET|Exchange transfusion|Maternal-Newborn Nursing
+DAT|Direct antiglobulin test|Maternal-Newborn Nursing
+ret|Reticulocyte count|Maternal-Newborn Nursing
+WBC|White blood cell count|Maternal-Newborn Nursing
+CRP|C-reactive protein|Maternal-Newborn Nursing
+BCx|Blood culture|Maternal-Newborn Nursing
+LP|Lumbar puncture|Maternal-Newborn Nursing
+EOS|Early-onset sepsis|Maternal-Newborn Nursing
+LOS|Late-onset sepsis|Maternal-Newborn Nursing
+EOS calc|Early-onset sepsis calculator|Maternal-Newborn Nursing
+IDM|Infant of a diabetic mother|Maternal-Newborn Nursing
+IGDM|Infant of a gestational diabetic mother|Maternal-Newborn Nursing
+POC glucose|Point-of-care glucose|Maternal-Newborn Nursing
+D40 gel|40% dextrose gel|Maternal-Newborn Nursing
+D10|10% dextrose|Maternal-Newborn Nursing
+D10W|10% dextrose in water|Maternal-Newborn Nursing
+circ|Circumcision|Maternal-Newborn Nursing
+DPNB|Dorsal penile nerve block|Maternal-Newborn Nursing
+SIDS|Sudden infant death syndrome|Maternal-Newborn Nursing
+SUID|Sudden unexpected infant death|Maternal-Newborn Nursing
+SUPC|Sudden unexpected postnatal collapse|Maternal-Newborn Nursing
+ABCs|Alone, on back, in crib|Maternal-Newborn Nursing
+ICSC|Infant car seat challenge|Maternal-Newborn Nursing
+FLACC|Face, legs, activity, cry, consolability|Maternal-Newborn Nursing
+NIPS|Neonatal Infant Pain Scale|Maternal-Newborn Nursing
+N-PASS|Neonatal Pain, Agitation, and Sedation Scale|Maternal-Newborn Nursing
+PIPP|Premature Infant Pain Profile|Maternal-Newborn Nursing
+BF|Breastfeeding|Maternal-Newborn Nursing
+EBF|Exclusive breastfeeding|Maternal-Newborn Nursing
+BF/FF|Breastfeeding and formula feeding|Maternal-Newborn Nursing
+FF|Formula feeding|Maternal-Newborn Nursing
+BM|Breast milk|Maternal-Newborn Nursing
+EBM|Expressed breast milk|Maternal-Newborn Nursing
+MOM|Mothers own milk|Maternal-Newborn Nursing
+DBM|Donor breast milk|Maternal-Newborn Nursing
+DHM|Donor human milk|Maternal-Newborn Nursing
+HM|Human milk|Maternal-Newborn Nursing
+LATCH|Latch, audible swallowing, type of nipple, comfort, hold|Maternal-Newborn Nursing
+LATCH score|Breastfeeding assessment of latch, audible swallowing, type of nipple, comfort, and hold|Maternal-Newborn Nursing
+IBCLC|International Board Certified Lactation Consultant|Maternal-Newborn Nursing
+LC|Lactation consultant|Maternal-Newborn Nursing
+CLC|Certified lactation counselor|Maternal-Newborn Nursing
+SNS|Supplemental nursing system|Maternal-Newborn Nursing
+NS|Nipple shield|Maternal-Newborn Nursing
+q3h|Every 3 hours|Maternal-Newborn Nursing
+ad lib|As desired|Maternal-Newborn Nursing
+PO|By mouth|Maternal-Newborn Nursing
+PO ad lib|Oral feeding as desired|Maternal-Newborn Nursing
+IDF|Infant-driven feeding|Maternal-Newborn Nursing
+CBF|Cue-based feeding|Maternal-Newborn Nursing
+wt loss %|Percent weight loss from birth weight|Maternal-Newborn Nursing
+NEWT|Newborn Early Weight Loss Tool|Maternal-Newborn Nursing
+NICU|Neonatal intensive care unit|Maternal-Newborn Nursing
+SCN|Special care nursery|Maternal-Newborn Nursing
+ICN|Intensive care nursery|Maternal-Newborn Nursing
+Level I|Well newborn nursery|Maternal-Newborn Nursing
+Level II|Special care nursery|Maternal-Newborn Nursing
+Level III|Neonatal intensive care unit|Maternal-Newborn Nursing
+Level IV|Regional neonatal intensive care unit|Maternal-Newborn Nursing
+DOL|Day of life|Maternal-Newborn Nursing
+HOL|Hour of life|Maternal-Newborn Nursing
+CGA|Corrected gestational age|Maternal-Newborn Nursing
+PMA|Postmenstrual age|Maternal-Newborn Nursing
+CA|Chronological age|Maternal-Newborn Nursing
+ELBW|Extremely low birth weight|Maternal-Newborn Nursing
+VLBW|Very low birth weight|Maternal-Newborn Nursing
+LBW|Low birth weight|Maternal-Newborn Nursing
+ELGAN|Extremely low gestational age newborn|Maternal-Newborn Nursing
+LPI|Late preterm infant|Maternal-Newborn Nursing
+RDS|Respiratory distress syndrome|Maternal-Newborn Nursing
+TTN|Transient tachypnea of the newborn|Maternal-Newborn Nursing
+TTNB|Transient tachypnea of the newborn|Maternal-Newborn Nursing
+BPD|Bronchopulmonary dysplasia|Maternal-Newborn Nursing
+CLD|Chronic lung disease|Maternal-Newborn Nursing
+MAS|Meconium aspiration syndrome|Maternal-Newborn Nursing
+PPHN|Persistent pulmonary hypertension of the newborn|Maternal-Newborn Nursing
+NEC|Necrotizing enterocolitis|Maternal-Newborn Nursing
+SIP|Spontaneous intestinal perforation|Maternal-Newborn Nursing
+IVH|Intraventricular hemorrhage|Maternal-Newborn Nursing
+PVL|Periventricular leukomalacia|Maternal-Newborn Nursing
+ROP|Retinopathy of prematurity|Maternal-Newborn Nursing
+PDA|Patent ductus arteriosus|Maternal-Newborn Nursing
+PFO|Patent foramen ovale|Maternal-Newborn Nursing
+ASD|Atrial septal defect|Maternal-Newborn Nursing
+VSD|Ventricular septal defect|Maternal-Newborn Nursing
+CHD|Congenital heart disease|Maternal-Newborn Nursing
+CDH|Congenital diaphragmatic hernia|Maternal-Newborn Nursing
+TEF|Tracheoesophageal fistula|Maternal-Newborn Nursing
+NTD|Neural tube defect|Maternal-Newborn Nursing
+T21|Trisomy 21|Maternal-Newborn Nursing
+HIE|Hypoxic-ischemic encephalopathy|Maternal-Newborn Nursing
+TH|Therapeutic hypothermia|Maternal-Newborn Nursing
+AOP|Apnea of prematurity|Maternal-Newborn Nursing
+A/B/D|Apnea, bradycardia, desaturation|Maternal-Newborn Nursing
+ABD|Apnea, bradycardia, desaturation|Maternal-Newborn Nursing
+A&B|Apnea and bradycardia|Maternal-Newborn Nursing
+A&Bs|Apneas and bradycardias|Maternal-Newborn Nursing
+As and Bs|Apneas and bradycardias|Maternal-Newborn Nursing
+brady|Bradycardia|Maternal-Newborn Nursing
+desat|Desaturation|Maternal-Newborn Nursing
+GER|Gastroesophageal reflux|Maternal-Newborn Nursing
+BRUE|Brief resolved unexplained event|Maternal-Newborn Nursing
+ALTE|Apparent life-threatening event|Maternal-Newborn Nursing
+CPAP|Continuous positive airway pressure|Maternal-Newborn Nursing
+NCPAP|Nasal continuous positive airway pressure|Maternal-Newborn Nursing
+bCPAP|Bubble continuous positive airway pressure|Maternal-Newborn Nursing
+NC|Nasal cannula|Maternal-Newborn Nursing
+LFNC|Low-flow nasal cannula|Maternal-Newborn Nursing
+HFNC|High-flow nasal cannula|Maternal-Newborn Nursing
+NIPPV|Noninvasive positive pressure ventilation|Maternal-Newborn Nursing
+SIMV|Synchronized intermittent mandatory ventilation|Maternal-Newborn Nursing
+HFOV|High-frequency oscillatory ventilation|Maternal-Newborn Nursing
+HFJV|High-frequency jet ventilation|Maternal-Newborn Nursing
+PEEP|Positive end-expiratory pressure|Maternal-Newborn Nursing
+PIP|Peak inspiratory pressure|Maternal-Newborn Nursing
+MAP|Mean airway pressure|Maternal-Newborn Nursing
+FiO2|Fraction of inspired oxygen|Maternal-Newborn Nursing
+iNO|Inhaled nitric oxide|Maternal-Newborn Nursing
+ETT|Endotracheal tube|Maternal-Newborn Nursing
+LISA|Less invasive surfactant administration|Maternal-Newborn Nursing
+INSURE|Intubate, surfactant, extubate|Maternal-Newborn Nursing
+ECMO|Extracorporeal membrane oxygenation|Maternal-Newborn Nursing
+CXR|Chest x-ray|Maternal-Newborn Nursing
+KUB|Kidneys, ureters, bladder x-ray|Maternal-Newborn Nursing
+AXR|Abdominal x-ray|Maternal-Newborn Nursing
+HUS|Head ultrasound|Maternal-Newborn Nursing
+CUS|Cranial ultrasound|Maternal-Newborn Nursing
+echo|Echocardiogram|Maternal-Newborn Nursing
+EEG|Electroencephalogram|Maternal-Newborn Nursing
+aEEG|Amplitude-integrated electroencephalogram|Maternal-Newborn Nursing
+KC|Kangaroo care|Maternal-Newborn Nursing
+NNS|Non-nutritive sucking|Maternal-Newborn Nursing
+OG|Orogastric|Maternal-Newborn Nursing
+NG|Nasogastric|Maternal-Newborn Nursing
+OGT|Orogastric tube|Maternal-Newborn Nursing
+NGT|Nasogastric tube|Maternal-Newborn Nursing
+NJ|Nasojejunal|Maternal-Newborn Nursing
+GT|Gastrostomy tube|Maternal-Newborn Nursing
+G-tube|Gastrostomy tube|Maternal-Newborn Nursing
+TF|Tube feeds|Maternal-Newborn Nursing
+TF|Total fluids|Maternal-Newborn Nursing
+TFI|Total fluid intake|Maternal-Newborn Nursing
+CF|Continuous feeds|Maternal-Newborn Nursing
+TPN|Total parenteral nutrition|Maternal-Newborn Nursing
+PN|Parenteral nutrition|Maternal-Newborn Nursing
+IL|Intravenous lipid emulsion|Maternal-Newborn Nursing
+HMF|Human milk fortifier|Maternal-Newborn Nursing
+kcal/oz|Kilocalories per ounce|Maternal-Newborn Nursing
+cal/oz|Calories per ounce|Maternal-Newborn Nursing
+kcal/kg/d|Kilocalories per kilogram per day|Maternal-Newborn Nursing
+mL/kg/d|Milliliters per kilogram per day|Maternal-Newborn Nursing
+UVC|Umbilical venous catheter|Maternal-Newborn Nursing
+UAC|Umbilical arterial catheter|Maternal-Newborn Nursing
+PICC|Peripherally inserted central catheter|Maternal-Newborn Nursing
+PAL|Peripheral arterial line|Maternal-Newborn Nursing
+OC|Open crib|Maternal-Newborn Nursing
+RW|Radiant warmer|Maternal-Newborn Nursing
+servo|Servo-controlled skin temperature mode|Maternal-Newborn Nursing
+NTE|Neutral thermal environment|Maternal-Newborn Nursing
+NAS|Neonatal abstinence syndrome|Maternal-Newborn Nursing
+NOWS|Neonatal opioid withdrawal syndrome|Maternal-Newborn Nursing
+ESC|Eat, Sleep, Console|Maternal-Newborn Nursing
+OUD|Opioid use disorder|Maternal-Newborn Nursing
+SUD|Substance use disorder|Maternal-Newborn Nursing
+MOUD|Medications for opioid use disorder|Maternal-Newborn Nursing
+EI|Early intervention|Maternal-Newborn Nursing
+D/C|Discharge|Maternal-Newborn Nursing
+DC|Discharge|Maternal-Newborn Nursing

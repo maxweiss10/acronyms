@@ -1,0 +1,344 @@
+IP|Infection prevention|Infection Prevention
+IP|Infection preventionist|Infection Prevention
+IPC|Infection prevention and control|Infection Prevention
+IC|Infection control|Infection Prevention
+ICP|Infection control practitioner|Infection Prevention
+ICP|Infection control professional|Infection Prevention
+CIC|Certified in infection control|Infection Prevention
+CBIC|Certification Board of Infection Control and Epidemiology|Infection Prevention
+APIC|Association for Professionals in Infection Control and Epidemiology|Infection Prevention
+SHEA|Society for Healthcare Epidemiology of America|Infection Prevention
+IDSA|Infectious Diseases Society of America|Infection Prevention
+HICPAC|Healthcare Infection Control Practices Advisory Committee|Infection Prevention
+ICC|Infection control committee|Infection Prevention
+HAI|Healthcare-associated infection|Infection Prevention
+HAI|Hospital-acquired infection|Infection Prevention
+HAC|Hospital-acquired condition|Infection Prevention
+HACRP|Hospital-Acquired Condition Reduction Program|Infection Prevention
+NHSN|National Healthcare Safety Network|Infection Prevention
+SIR|Standardized infection ratio|Infection Prevention
+SUR|Standardized utilization ratio|Infection Prevention
+DUR|Device utilization ratio|Infection Prevention
+CLABSI|Central line-associated bloodstream infection|Infection Prevention
+CLA-BSI|Central line-associated bloodstream infection|Infection Prevention
+CRBSI|Catheter-related bloodstream infection|Infection Prevention
+CAUTI|Catheter-associated urinary tract infection|Infection Prevention
+SSI|Surgical site infection|Infection Prevention
+DIP|Deep incisional primary surgical site infection|Infection Prevention
+SIP|Superficial incisional primary surgical site infection|Infection Prevention
+NHSN procedure|Operative procedure category tracked for surgical site infection surveillance|Infection Prevention
+VAE|Ventilator-associated event|Infection Prevention
+VAC|Ventilator-associated condition|Infection Prevention
+IVAC|Infection-related ventilator-associated complication|Infection Prevention
+PVAP|Possible ventilator-associated pneumonia|Infection Prevention
+VAP|Ventilator-associated pneumonia|Infection Prevention
+HAP|Hospital-acquired pneumonia|Infection Prevention
+NV-HAP|Non-ventilator hospital-acquired pneumonia|Infection Prevention
+PNEU|Pneumonia event per NHSN definitions|Infection Prevention
+LabID|Laboratory-identified event|Infection Prevention
+LabID event|Laboratory-identified event|Infection Prevention
+MDRO|Multidrug-resistant organism|Infection Prevention
+CDI|Clostridioides difficile infection|Infection Prevention
+HO-CDI|Hospital-onset Clostridioides difficile infection|Infection Prevention
+CO-CDI|Community-onset Clostridioides difficile infection|Infection Prevention
+CO-HCFA|Community-onset healthcare facility-associated|Infection Prevention
+HO-MRSA|Hospital-onset methicillin-resistant Staphylococcus aureus|Infection Prevention
+HO-MRSA bacteremia|Hospital-onset MRSA bloodstream infection LabID event|Infection Prevention
+CO|Community-onset|Infection Prevention
+HO|Hospital-onset|Infection Prevention
+POA|Present on admission|Infection Prevention
+IWP|Infection window period|Infection Prevention
+RIT|Repeat infection timeframe|Infection Prevention
+DOE|Date of event|Infection Prevention
+LCBI|Laboratory-confirmed bloodstream infection|Infection Prevention
+MBI-LCBI|Mucosal barrier injury laboratory-confirmed bloodstream infection|Infection Prevention
+BSI|Bloodstream infection|Infection Prevention
+SBAP|Secondary bloodstream infection attribution period|Infection Prevention
+UTI|Urinary tract infection|Infection Prevention
+SUTI|Symptomatic urinary tract infection|Infection Prevention
+ABUTI|Asymptomatic bacteremic urinary tract infection|Infection Prevention
+ASB|Asymptomatic bacteriuria|Infection Prevention
+IUC|Indwelling urinary catheter|Infection Prevention
+CL|Central line|Infection Prevention
+CVC|Central venous catheter|Infection Prevention
+PICC|Peripherally inserted central catheter|Infection Prevention
+Line days|Number of patient days with a central line in place|Infection Prevention
+PD|Patient days|Infection Prevention
+MRSA|Methicillin-resistant Staphylococcus aureus|Infection Prevention
+MSSA|Methicillin-susceptible Staphylococcus aureus|Infection Prevention
+VRE|Vancomycin-resistant Enterococcus|Infection Prevention
+VRSA|Vancomycin-resistant Staphylococcus aureus|Infection Prevention
+VISA|Vancomycin-intermediate Staphylococcus aureus|Infection Prevention
+ESBL|Extended-spectrum beta-lactamase|Infection Prevention
+CRE|Carbapenem-resistant Enterobacterales|Infection Prevention
+CPE|Carbapenemase-producing Enterobacterales|Infection Prevention
+CP-CRE|Carbapenemase-producing carbapenem-resistant Enterobacterales|Infection Prevention
+CPO|Carbapenemase-producing organism|Infection Prevention
+CRAB|Carbapenem-resistant Acinetobacter baumannii|Infection Prevention
+CRPA|Carbapenem-resistant Pseudomonas aeruginosa|Infection Prevention
+DTR-PA|Difficult-to-treat resistance Pseudomonas aeruginosa|Infection Prevention
+MDR-PA|Multidrug-resistant Pseudomonas aeruginosa|Infection Prevention
+MDR|Multidrug-resistant|Infection Prevention
+XDR|Extensively drug-resistant|Infection Prevention
+PDR|Pandrug-resistant|Infection Prevention
+C auris|Candida auris|Infection Prevention
+C. auris|Candida auris|Infection Prevention
+Candida auris screening|Composite axilla and groin swab to detect Candida auris colonization|Infection Prevention
+C diff|Clostridioides difficile|Infection Prevention
+C. diff|Clostridioides difficile|Infection Prevention
+KPC|Klebsiella pneumoniae carbapenemase|Infection Prevention
+NDM|New Delhi metallo-beta-lactamase|Infection Prevention
+OXA-48|Oxacillinase-48 carbapenemase|Infection Prevention
+VIM|Verona integron-encoded metallo-beta-lactamase|Infection Prevention
+IMP|Imipenemase metallo-beta-lactamase|Infection Prevention
+MBL|Metallo-beta-lactamase|Infection Prevention
+Carbapenemase|Beta-lactamase enzyme that hydrolyzes carbapenems|Infection Prevention
+AmpC|Class C cephalosporinase beta-lactamase|Infection Prevention
+mCIM|Modified carbapenem inactivation method|Infection Prevention
+eCIM|EDTA-modified carbapenem inactivation method|Infection Prevention
+AR Lab Network|Antimicrobial Resistance Laboratory Network|Infection Prevention
+ARLN|Antimicrobial Resistance Laboratory Network|Infection Prevention
+AR|Antimicrobial resistance|Infection Prevention
+AMR|Antimicrobial resistance|Infection Prevention
+MRSA nares PCR|Nasal swab PCR for MRSA colonization|Infection Prevention
+MRSA PCR|MRSA polymerase chain reaction screen|Infection Prevention
+Decolonization|Measures to eliminate carriage of an organism, such as nasal and skin antisepsis|Infection Prevention
+Decol|Decolonization|Infection Prevention
+Mupirocin|Topical intranasal antibiotic used for MRSA decolonization|Infection Prevention
+CHG|Chlorhexidine gluconate|Infection Prevention
+CHG bathing|Daily chlorhexidine gluconate skin cleansing|Infection Prevention
+ASC|Active surveillance culture|Infection Prevention
+AST|Active surveillance testing|Infection Prevention
+Rule-out|Pending test result while isolation is maintained for a suspected infection|Infection Prevention
+r/o|Rule out|Infection Prevention
+SP|Standard precautions|Infection Prevention
+Standard precautions|Baseline infection prevention practices used for all patient care|Infection Prevention
+TBP|Transmission-based precautions|Infection Prevention
+CP|Contact precautions|Infection Prevention
+Contact|Contact precautions|Infection Prevention
+Contact plus|Contact precautions plus soap-and-water hand hygiene and sporicidal cleaning|Infection Prevention
+Enteric precautions|Contact precautions with soap-and-water hand hygiene and sporicidal cleaning for C. difficile or norovirus|Infection Prevention
+Contact enteric|Contact precautions with enteric measures for C. difficile or norovirus|Infection Prevention
+DP|Droplet precautions|Infection Prevention
+Droplet|Droplet precautions|Infection Prevention
+AP|Airborne precautions|Infection Prevention
+Airborne|Airborne precautions|Infection Prevention
+Airborne plus contact|Airborne and contact precautions combined|Infection Prevention
+Special precautions|Enhanced isolation for high-consequence or novel pathogens|Infection Prevention
+Enhanced precautions|Isolation beyond standard categories for a specific pathogen|Infection Prevention
+Strict isolation|Highest-level isolation combining airborne and contact precautions|Infection Prevention
+Protective isolation|Isolation protecting an immunocompromised patient|Infection Prevention
+PE|Protective environment|Infection Prevention
+EBP|Enhanced barrier precautions|Infection Prevention
+AIIR|Airborne infection isolation room|Infection Prevention
+AII|Airborne infection isolation|Infection Prevention
+Neg pressure|Negative pressure room|Infection Prevention
+Negative pressure|Room air pressure lower than the corridor so air flows inward|Infection Prevention
+ACH|Air changes per hour|Infection Prevention
+HEPA|High-efficiency particulate air|Infection Prevention
+HVAC|Heating, ventilation, and air conditioning|Infection Prevention
+PPE|Personal protective equipment|Infection Prevention
+Donning|Putting on personal protective equipment|Infection Prevention
+Doffing|Removing personal protective equipment|Infection Prevention
+N95|Filtering facepiece respirator blocking at least 95 percent of airborne particles|Infection Prevention
+FFR|Filtering facepiece respirator|Infection Prevention
+PAPR|Powered air-purifying respirator|Infection Prevention
+CAPR|Controlled air-purifying respirator|Infection Prevention
+EHMR|Elastomeric half-mask respirator|Infection Prevention
+Fit test|Test confirming a tight-fitting respirator seals to the wearer|Infection Prevention
+QLFT|Qualitative fit test|Infection Prevention
+QNFT|Quantitative fit test|Infection Prevention
+FFP2|Filtering facepiece class 2 respirator|Infection Prevention
+FFP3|Filtering facepiece class 3 respirator|Infection Prevention
+RPP|Respiratory protection program|Infection Prevention
+HH|Hand hygiene|Infection Prevention
+ABHR|Alcohol-based hand rub|Infection Prevention
+ABHS|Alcohol-based hand sanitizer|Infection Prevention
+WHO 5 moments|Five WHO indications for hand hygiene during patient care|Infection Prevention
+WHO|World Health Organization|Infection Prevention
+Terminal clean|Thorough cleaning and disinfection of a room after discharge or transfer|Infection Prevention
+Daily clean|Routine daily cleaning of an occupied patient room|Infection Prevention
+UV|Ultraviolet|Infection Prevention
+UV disinfection|Ultraviolet light room disinfection|Infection Prevention
+UV-C|Ultraviolet C germicidal light|Infection Prevention
+UVGI|Ultraviolet germicidal irradiation|Infection Prevention
+HPV|Hydrogen peroxide vapor|Infection Prevention
+EVS|Environmental services|Infection Prevention
+ES|Environmental services|Infection Prevention
+High-touch surfaces|Frequently touched environmental surfaces needing more frequent disinfection|Infection Prevention
+Sporicidal|Agent that kills bacterial spores|Infection Prevention
+Bleach wipes|Sodium hypochlorite disinfectant wipes|Infection Prevention
+EPA|Environmental Protection Agency|Infection Prevention
+List K|EPA list of disinfectants registered against C. difficile spores|Infection Prevention
+List P|EPA list of disinfectants registered against Candida auris|Infection Prevention
+List N|EPA list of disinfectants for use against SARS-CoV-2|Infection Prevention
+Contact time|Time a disinfectant must stay wet on a surface to be effective|Infection Prevention
+Dwell time|Time a disinfectant must stay wet on a surface to be effective|Infection Prevention
+ATP|Adenosine triphosphate bioluminescence cleaning verification|Infection Prevention
+Outbreak|Cases above the expected baseline linked in time, place, or person|Infection Prevention
+Cluster|Group of cases closer in time or place than expected|Infection Prevention
+Line list|Table of cases with key variables used in an outbreak investigation|Infection Prevention
+Case definition|Standard criteria for deciding whether a person counts as a case|Infection Prevention
+Epi curve|Epidemic curve|Infection Prevention
+Index case|First identified case in an outbreak|Infection Prevention
+Contact tracing|Identifying and following up people exposed to an infectious case|Infection Prevention
+Exposure workup|Assessment of patients and staff exposed to a communicable disease|Infection Prevention
+Lookback|Retrospective review of possible exposures|Infection Prevention
+WGS|Whole-genome sequencing|Infection Prevention
+PFGE|Pulsed-field gel electrophoresis|Infection Prevention
+Point prevalence survey|Screening of all patients on a unit at one point in time|Infection Prevention
+PPS|Point prevalence survey|Infection Prevention
+BBP|Bloodborne pathogen|Infection Prevention
+NSI|Needlestick injury|Infection Prevention
+SESIP|Sharps with engineered sharps injury protection|Infection Prevention
+OPIM|Other potentially infectious materials|Infection Prevention
+ECP|Exposure control plan|Infection Prevention
+PEP|Post-exposure prophylaxis|Infection Prevention
+nPEP|Nonoccupational post-exposure prophylaxis|Infection Prevention
+oPEP|Occupational post-exposure prophylaxis|Infection Prevention
+PrEP|Pre-exposure prophylaxis|Infection Prevention
+Source patient|Patient whose blood or body fluid was involved in an exposure|Infection Prevention
+OH|Occupational health|Infection Prevention
+OHS|Occupational health services|Infection Prevention
+EH|Employee health|Infection Prevention
+Employee health|Department managing staff illness, exposures, and immunization|Infection Prevention
+HCP|Healthcare personnel|Infection Prevention
+HCW|Healthcare worker|Infection Prevention
+OSHA|Occupational Safety and Health Administration|Infection Prevention
+NIOSH|National Institute for Occupational Safety and Health|Infection Prevention
+ATD|Aerosol transmissible disease|Infection Prevention
+ATD standard|California OSHA aerosol transmissible diseases standard|Infection Prevention
+TB|Tuberculosis|Infection Prevention
+TB exposure|Contact with an infectious tuberculosis case requiring evaluation|Infection Prevention
+IGRA|Interferon-gamma release assay|Infection Prevention
+TST|Tuberculin skin test|Infection Prevention
+PPD|Purified protein derivative|Infection Prevention
+LTBI|Latent tuberculosis infection|Infection Prevention
+AFB|Acid-fast bacilli|Infection Prevention
+AFB x3|Three sputum acid-fast bacilli smears to rule out pulmonary tuberculosis|Infection Prevention
+MTB|Mycobacterium tuberculosis|Infection Prevention
+MTB PCR|Mycobacterium tuberculosis nucleic acid amplification test|Infection Prevention
+NAAT|Nucleic acid amplification test|Infection Prevention
+Airborne r/o|Airborne precautions pending rule-out of an airborne infection|Infection Prevention
+R/O TB|Rule out tuberculosis|Infection Prevention
+MDR-TB|Multidrug-resistant tuberculosis|Infection Prevention
+Measles|Rubeola, airborne precautions|Infection Prevention
+MMR|Measles, mumps, and rubella vaccine|Infection Prevention
+VZV|Varicella-zoster virus|Infection Prevention
+Varicella|Chickenpox, airborne and contact precautions|Infection Prevention
+Disseminated zoster|Herpes zoster beyond adjacent dermatomes, airborne and contact precautions|Infection Prevention
+DZ|Disseminated zoster|Infection Prevention
+Localized zoster|Herpes zoster limited to one or two adjacent dermatomes|Infection Prevention
+VariZIG|Varicella-zoster immune globulin|Infection Prevention
+PUI|Person under investigation|Infection Prevention
+COVID PUI|COVID-19 person under investigation|Infection Prevention
+PUM|Person under monitoring|Infection Prevention
+SARS-CoV-2|Severe acute respiratory syndrome coronavirus 2|Infection Prevention
+COVID-19|Coronavirus disease 2019|Infection Prevention
+Flu|Influenza|Infection Prevention
+ILI|Influenza-like illness|Infection Prevention
+RSV|Respiratory syncytial virus|Infection Prevention
+RVP|Respiratory viral panel|Infection Prevention
+SARI|Severe acute respiratory infection|Infection Prevention
+Norovirus|Highly transmissible gastroenteritis virus requiring enteric precautions|Infection Prevention
+Novel pathogen|Newly emerging infectious agent with unknown transmission characteristics|Infection Prevention
+Special pathogens|High-consequence pathogens requiring specialized isolation and response|Infection Prevention
+Ebola|Ebola virus disease|Infection Prevention
+EVD|Ebola virus disease|Infection Prevention
+VHF|Viral hemorrhagic fever|Infection Prevention
+HCID|High-consequence infectious disease|Infection Prevention
+MERS|Middle East respiratory syndrome|Infection Prevention
+SARS|Severe acute respiratory syndrome|Infection Prevention
+HPAI|Highly pathogenic avian influenza|Infection Prevention
+Mpox|Monkeypox virus disease|Infection Prevention
+Biothreat|Biological agent with potential use as a weapon|Infection Prevention
+RESPTC|Regional Emerging Special Pathogen Treatment Center|Infection Prevention
+NETEC|National Emerging Special Pathogens Training and Education Center|Infection Prevention
+CDC|Centers for Disease Control and Prevention|Infection Prevention
+CDPH|California Department of Public Health|Infection Prevention
+LHD|Local health department|Infection Prevention
+PH|Public health|Infection Prevention
+DPH|Department of Public Health|Infection Prevention
+Reportable disease|Disease that must be reported to public health by law|Infection Prevention
+CMR|Confidential morbidity report|Infection Prevention
+CalREDIE|California Reportable Disease Information Exchange|Infection Prevention
+ELR|Electronic laboratory reporting|Infection Prevention
+eCR|Electronic case reporting|Infection Prevention
+CMS|Centers for Medicare and Medicaid Services|Infection Prevention
+TJC|The Joint Commission|Infection Prevention
+NPSG|National patient safety goal|Infection Prevention
+ASP|Antimicrobial stewardship program|Infection Prevention
+AMS|Antimicrobial stewardship|Infection Prevention
+DOT|Days of therapy|Infection Prevention
+LOT|Length of therapy|Infection Prevention
+DDD|Defined daily dose|Infection Prevention
+SAAR|Standardized antimicrobial administration ratio|Infection Prevention
+AU|Antimicrobial use|Infection Prevention
+AUR|Antimicrobial use and resistance|Infection Prevention
+Antibiogram|Cumulative table of local antimicrobial susceptibility rates|Infection Prevention
+PAF|Prospective audit and feedback|Infection Prevention
+SPD|Sterile processing department|Infection Prevention
+CS|Central sterile|Infection Prevention
+CSSD|Central sterile services department|Infection Prevention
+SPD tech|Sterile processing technician|Infection Prevention
+HLD|High-level disinfection|Infection Prevention
+ILD|Intermediate-level disinfection|Infection Prevention
+LLD|Low-level disinfection|Infection Prevention
+IFU|Instructions for use|Infection Prevention
+Critical item|Device entering sterile tissue or the vascular system, requires sterilization|Infection Prevention
+Semicritical item|Device contacting mucous membranes or nonintact skin, requires at least high-level disinfection|Infection Prevention
+Noncritical item|Device contacting only intact skin, requires low-level disinfection|Infection Prevention
+IUSS|Immediate-use steam sterilization|Infection Prevention
+BI|Biological indicator|Infection Prevention
+CI|Chemical indicator|Infection Prevention
+EtO|Ethylene oxide|Infection Prevention
+OPA|Ortho-phthalaldehyde|Infection Prevention
+MEC|Minimum effective concentration|Infection Prevention
+Reprocessing|Cleaning, disinfection, and sterilization of reusable devices|Infection Prevention
+SUD|Single-use device|Infection Prevention
+ICRA|Infection control risk assessment|Infection Prevention
+PCRA|Pre-construction risk assessment|Infection Prevention
+Water management|Program to reduce Legionella and other waterborne pathogen growth in building water|Infection Prevention
+WMP|Water management program|Infection Prevention
+Legionella|Waterborne bacterium causing Legionnaires disease and Pontiac fever|Infection Prevention
+NTM|Nontuberculous mycobacteria|Infection Prevention
+Aspergillus|Mold of concern during construction for immunocompromised patients|Infection Prevention
+HBV|Hepatitis B virus|Infection Prevention
+HCV|Hepatitis C virus|Infection Prevention
+HIV|Human immunodeficiency virus|Infection Prevention
+HBsAg|Hepatitis B surface antigen|Infection Prevention
+Anti-HBs|Hepatitis B surface antibody|Infection Prevention
+HBIG|Hepatitis B immune globulin|Infection Prevention
+Tdap|Tetanus, diphtheria, and acellular pertussis vaccine|Infection Prevention
+IIS|Immunization information system|Infection Prevention
+VAERS|Vaccine Adverse Event Reporting System|Infection Prevention
+ESKAPE|Enterococcus faecium, Staphylococcus aureus, Klebsiella, Acinetobacter, Pseudomonas, Enterobacter|Infection Prevention
+GNR|Gram-negative rod|Infection Prevention
+GNB|Gram-negative bacilli|Infection Prevention
+GAS|Group A Streptococcus|Infection Prevention
+iGAS|Invasive group A streptococcal disease|Infection Prevention
+N meningitidis|Neisseria meningitidis, droplet precautions|Infection Prevention
+Pertussis|Bordetella pertussis infection, droplet precautions|Infection Prevention
+Scabies|Sarcoptes scabiei infestation, contact precautions|Infection Prevention
+CJD|Creutzfeldt-Jakob disease|Infection Prevention
+SSE|Surgical site event|Infection Prevention
+OS|Organ space surgical site infection|Infection Prevention
+OR|Operating room|Infection Prevention
+SCIP|Surgical Care Improvement Project|Infection Prevention
+SAP|Surgical antimicrobial prophylaxis|Infection Prevention
+Bundle|Set of evidence-based practices performed together to prevent an infection|Infection Prevention
+CLABSI bundle|Insertion and maintenance practices to prevent central line infections|Infection Prevention
+CAUTI bundle|Insertion and maintenance practices to prevent catheter urinary infections|Infection Prevention
+HOUDINI|Nurse-driven protocol listing indications to keep a urinary catheter|Infection Prevention
+RCA|Root cause analysis|Infection Prevention
+ACE|Apparent cause evaluation|Infection Prevention
+Surveillance|Systematic collection and analysis of infection data|Infection Prevention
+Syndromic surveillance|Monitoring of symptom data for early outbreak detection|Infection Prevention
+Incidence density|Infections per 1000 device days or patient days|Infection Prevention
+Device days|Number of patient days with a device in place|Infection Prevention
+Isolation cart|Supply cart of PPE placed outside an isolation room|Infection Prevention
+Cohorting|Grouping patients with the same infection or colonization together|Infection Prevention
+Cohort|Group of patients or staff sharing the same exposure or infection|Infection Prevention
+Discontinuation of isolation|Criteria for ending transmission-based precautions|Infection Prevention
+D/C isolation|Discontinue isolation|Infection Prevention
+Isolation flag|Electronic health record alert for MDRO history requiring precautions|Infection Prevention

@@ -1,0 +1,2826 @@
+HPI|History of present illness
+CC|Chief complaint
+cc|Cubic centimeters
+PMH|Past medical history
+PMHx|Past medical history
+PSH|Past surgical history
+PSHx|Past surgical history
+FH|Family history
+FHx|Family history
+SH|Social history
+SHx|Social history
+ROS|Review of systems
+PE|Physical exam
+PE|Pulmonary embolism
+A&P|Assessment and plan
+A/P|Assessment and plan
+H&P|History and physical
+SOAP|Subjective, objective, assessment, plan
+D/C|Discharge
+D/C|Discontinue
+DC|Discharge
+DC|Discontinue
+DCS|Discharge summary
+DS|Discharge summary
+DDx|Differential diagnosis
+Dx|Diagnosis
+Tx|Treatment
+Rx|Prescription
+Sx|Symptoms
+Sx|Surgery
+Hx|History
+Fx|Fracture
+Bx|Biopsy
+Px|Prognosis
+Ppx|Prophylaxis
+Abx|Antibiotics
+Cx|Culture
+Cx|Cervix
+c/f|Concern for
+c/w|Consistent with
+c/w|Continue with
+c/o|Complains of
+i/s/o|In the setting of
+ISO|In the setting of
+s/p|Status post
+w/|With
+w/o|Without
+w/u|Workup
+f/u|Follow up
+F/U|Follow up
+b/l|Bilateral
+B/L|Bilateral
+r/o|Rule out
+R/O|Rule out
+r/i|Rule in
+h/o|History of
+y/o|Year old
+yo|Year old
+YOM|Year old male
+YOF|Year old female
+M|Male
+F|Female
+pt|Patient
+Pt|Patient
+pts|Patients
+NAD|No acute distress
+AAOx3|Awake, alert and oriented to person, place and time
+AOx3|Alert and oriented times three
+A&Ox3|Alert and oriented times three
+A&Ox4|Alert and oriented to person, place, time and situation
+NCAT|Normocephalic, atraumatic
+PERRL|Pupils equal, round, reactive to light
+PERRLA|Pupils equal, round, reactive to light and accommodation
+EOMI|Extraocular movements intact
+MMM|Moist mucous membranes
+OP|Oropharynx
+JVP|Jugular venous pressure
+JVD|Jugular venous distension
+RRR|Regular rate and rhythm
+MRG|Murmurs, rubs, gallops
+m/r/g|Murmurs, rubs or gallops
+CTAB|Clear to auscultation bilaterally
+CTA|Clear to auscultation
+CTA|CT angiography
+NWOB|Normal work of breathing
+WOB|Work of breathing
+NTND|Nontender, nondistended
+NT/ND|Nontender, nondistended
+NABS|Normal active bowel sounds
+BS|Bowel sounds
+BS|Breath sounds
+BS|Blood sugar
++BS|Bowel sounds present
+TTP|Tender to palpation
+NTTP|Not tender to palpation
+RUQ|Right upper quadrant
+LUQ|Left upper quadrant
+RLQ|Right lower quadrant
+LLQ|Left lower quadrant
+CVAT|Costovertebral angle tenderness
+CVA|Costovertebral angle
+CVA|Cerebrovascular accident
+WWP|Warm and well perfused
+WNL|Within normal limits
+c/c/e|Clubbing, cyanosis or edema
+LE|Lower extremity
+LEs|Lower extremities
+UE|Upper extremity
+BLE|Bilateral lower extremities
+BUE|Bilateral upper extremities
+RLE|Right lower extremity
+LLE|Left lower extremity
+RUE|Right upper extremity
+LUE|Left upper extremity
+CN|Cranial nerves
+CN II-XII|Cranial nerves 2 through 12
+FROM|Full range of motion
+ROM|Range of motion
+ROM|Rupture of membranes
+AROM|Active range of motion
+PROM|Passive range of motion
+MAE|Moves all extremities
+MAEW|Moves all extremities well
+MAE x4|Moves all four extremities
+DTR|Deep tendon reflexes
+FTN|Finger to nose
+HTS|Heel to shin
+RAM|Rapid alternating movements
+FND|Focal neurologic deficit
+FNDs|Focal neurologic deficits
+NFD|No focal deficits
+GCS|Glasgow Coma Scale
+LOC|Loss of consciousness
+LOC|Level of consciousness
+AMS|Altered mental status
+MS|Mental status
+MS|Multiple sclerosis
+MS|Mitral stenosis
+MS|Morphine sulfate
+SOB|Shortness of breath
+DOE|Dyspnea on exertion
+PND|Paroxysmal nocturnal dyspnea
+CP|Chest pain
+CP|Cerebral palsy
+N/V|Nausea and vomiting
+N/V/D|Nausea, vomiting, diarrhea
+NVD|Nausea, vomiting, diarrhea
+HA|Headache
+H/A|Headache
+F/C|Fevers and chills
+F/C/S|Fevers, chills, sweats
+LH|Lightheadedness
+LH|Luteinizing hormone
+BM|Bowel movement
+BM|Bone marrow
+BMs|Bowel movements
+LBM|Last bowel movement
+BRBPR|Bright red blood per rectum
+BRB|Bright red blood
+CGE|Coffee ground emesis
+UGIB|Upper GI bleed
+LGIB|Lower GI bleed
+GIB|Gastrointestinal bleed
+GI|Gastrointestinal
+GI|Gastroenterology
+GU|Genitourinary
+MSK|Musculoskeletal
+HEENT|Head, eyes, ears, nose, throat
+CV|Cardiovascular
+CVS|Cardiovascular system
+Resp|Respiratory
+Pulm|Pulmonary
+Derm|Dermatology
+Heme|Hematology
+Onc|Oncology
+Heme/Onc|Hematology and oncology
+ID|Infectious disease
+Endo|Endocrinology
+Endo|Endoscopy
+Uro|Urology
+ENT|Ear, nose and throat
+OMFS|Oral and maxillofacial surgery
+OB|Obstetrics
+OB/GYN|Obstetrics and gynecology
+GYN|Gynecology
+IR|Interventional radiology
+IR|Insulin resistance
+CT surg|Cardiothoracic surgery
+CTS|Cardiothoracic surgery
+CTS|Carpal tunnel syndrome
+VS|Vascular surgery
+VS|Vital signs
+NSGY|Neurosurgery
+NSG|Neurosurgery
+Nsg|Nursing
+PM&R|Physical medicine and rehabilitation
+PMR|Physical medicine and rehabilitation
+PMR|Polymyalgia rheumatica
+EP|Electrophysiology
+IC|Interventional cardiology
+CCU|Cardiac care unit
+CICU|Cardiac intensive care unit
+MICU|Medical intensive care unit
+SICU|Surgical intensive care unit
+NICU|Neonatal intensive care unit
+NICU|Neuro intensive care unit
+NSICU|Neurosurgical intensive care unit
+ICU|Intensive care unit
+IMU|Intermediate care unit
+SDU|Step-down unit
+PCU|Progressive care unit
+TCU|Transitional care unit
+ED|Emergency department
+ED|Erectile dysfunction
+ER|Emergency room
+ER|Extended release
+PACU|Post-anesthesia care unit
+OR|Operating room
+L&D|Labor and delivery
+Tele|Telemetry
+Med-surg|Medical-surgical floor
+RRT|Rapid response team
+RRT|Renal replacement therapy
+RRT|Respiratory therapist, registered
+MET|Medical emergency team
+CODE|Cardiopulmonary arrest response
+ROSC|Return of spontaneous circulation
+CPR|Cardiopulmonary resuscitation
+ACLS|Advanced cardiac life support
+BLS|Basic life support
+PEA|Pulseless electrical activity
+VF|Ventricular fibrillation
+VFib|Ventricular fibrillation
+VT|Ventricular tachycardia
+VTach|Ventricular tachycardia
+pVT|Pulseless ventricular tachycardia
+NSVT|Nonsustained ventricular tachycardia
+SVT|Supraventricular tachycardia
+AF|Atrial fibrillation
+AFib|Atrial fibrillation
+Afib|Atrial fibrillation
+AFL|Atrial flutter
+AFlutter|Atrial flutter
+AFRVR|Atrial fibrillation with rapid ventricular response
+RVR|Rapid ventricular response
+SR|Sinus rhythm
+SR|Sustained release
+NSR|Normal sinus rhythm
+ST|Sinus tachycardia
+ST|Speech therapy
+STach|Sinus tachycardia
+SB|Sinus bradycardia
+SB|Small bowel
+SBA|Standby assist
+SBO|Small bowel obstruction
+PAC|Premature atrial contraction
+PACs|Premature atrial contractions
+PVC|Premature ventricular contraction
+PVCs|Premature ventricular contractions
+AVNRT|Atrioventricular nodal reentrant tachycardia
+AVRT|Atrioventricular reentrant tachycardia
+MAT|Multifocal atrial tachycardia
+AVB|Atrioventricular block
+CHB|Complete heart block
+1AVB|First-degree AV block
+LBBB|Left bundle branch block
+RBBB|Right bundle branch block
+IVCD|Intraventricular conduction delay
+LAFB|Left anterior fascicular block
+LVH|Left ventricular hypertrophy
+RVH|Right ventricular hypertrophy
+LAE|Left atrial enlargement
+TWI|T-wave inversion
+TWIs|T-wave inversions
+STE|ST elevation
+STD|ST depression
+STD|Sexually transmitted disease
+STEMI|ST-elevation myocardial infarction
+NSTEMI|Non-ST-elevation myocardial infarction
+NSTE-ACS|Non-ST-elevation acute coronary syndrome
+ACS|Acute coronary syndrome
+MI|Myocardial infarction
+AMI|Acute myocardial infarction
+UA|Unstable angina
+UA|Urinalysis
+UA|Uric acid
+SA|Stable angina
+CAD|Coronary artery disease
+ASCVD|Atherosclerotic cardiovascular disease
+PAD|Peripheral arterial disease
+PVD|Peripheral vascular disease
+CHF|Congestive heart failure
+HF|Heart failure
+HFrEF|Heart failure with reduced ejection fraction
+HFpEF|Heart failure with preserved ejection fraction
+HFmrEF|Heart failure with mildly reduced ejection fraction
+HFimpEF|Heart failure with improved ejection fraction
+ADHF|Acute decompensated heart failure
+AHF|Acute heart failure
+EF|Ejection fraction
+LVEF|Left ventricular ejection fraction
+LV|Left ventricle
+RV|Right ventricle
+LA|Left atrium
+LA|Long-acting
+RA|Right atrium
+RA|Rheumatoid arthritis
+RA|Room air
+AS|Aortic stenosis
+AR|Aortic regurgitation
+AI|Aortic insufficiency
+MR|Mitral regurgitation
+MR|Modified release
+TR|Tricuspid regurgitation
+TS|Tricuspid stenosis
+PS|Pulmonic stenosis
+PS|Pressure support
+MVP|Mitral valve prolapse
+TAVR|Transcatheter aortic valve replacement
+TAVI|Transcatheter aortic valve implantation
+SAVR|Surgical aortic valve replacement
+AVR|Aortic valve replacement
+MVR|Mitral valve replacement
+MVR|Mitral valve repair
+MitraClip|Transcatheter edge-to-edge mitral repair device
+TEER|Transcatheter edge-to-edge repair
+PFO|Patent foramen ovale
+ASD|Atrial septal defect
+VSD|Ventricular septal defect
+HCM|Hypertrophic cardiomyopathy
+HOCM|Hypertrophic obstructive cardiomyopathy
+DCM|Dilated cardiomyopathy
+NICM|Nonischemic cardiomyopathy
+ICM|Ischemic cardiomyopathy
+CMP|Cardiomyopathy
+CMP|Comprehensive metabolic panel
+CM|Cardiomyopathy
+WMA|Wall motion abnormality
+RWMA|Regional wall motion abnormality
+LVOT|Left ventricular outflow tract
+LVOTO|Left ventricular outflow tract obstruction
+TAPSE|Tricuspid annular plane systolic excursion
+RVSP|Right ventricular systolic pressure
+PASP|Pulmonary artery systolic pressure
+PA|Pulmonary artery
+PA|Physician assistant
+PA|Posteroanterior
+PAP|Pulmonary artery pressure
+PAP|Positive airway pressure
+PCWP|Pulmonary capillary wedge pressure
+PCW|Pulmonary capillary wedge
+CVP|Central venous pressure
+CO|Cardiac output
+CO|Carbon monoxide
+CI|Cardiac index
+SVR|Systemic vascular resistance
+PVR|Pulmonary vascular resistance
+PVR|Post-void residual
+MAP|Mean arterial pressure
+SBP|Systolic blood pressure
+SBP|Spontaneous bacterial peritonitis
+DBP|Diastolic blood pressure
+BP|Blood pressure
+HR|Heart rate
+RR|Respiratory rate
+RR|Rapid response
+T|Temperature
+Tmax|Maximum temperature
+SpO2|Peripheral oxygen saturation
+O2 sat|Oxygen saturation
+SaO2|Arterial oxygen saturation
+VSS|Vital signs stable
+AVSS|Afebrile, vital signs stable
+AF VSS|Afebrile, vital signs stable
+HDS|Hemodynamically stable
+HD|Hemodialysis
+HD|Hospital day
+HD#|Hospital day number
+POD|Postoperative day
+POD#|Postoperative day number
+I/O|Intake and output
+I&O|Intake and output
+I/Os|Intake and output
+UOP|Urine output
+UO|Urine output
+NBP|Noninvasive blood pressure
+NIBP|Noninvasive blood pressure
+ABP|Arterial blood pressure
+A-line|Arterial line
+Aline|Arterial line
+CVC|Central venous catheter
+CVL|Central venous line
+TLC|Triple-lumen catheter
+TLC|Total lung capacity
+PICC|Peripherally inserted central catheter
+PIV|Peripheral IV
+PIVs|Peripheral IVs
+IV|Intravenous
+IVP|IV push
+IVP|Intravenous pyelogram
+IVPB|IV piggyback
+IVF|Intravenous fluids
+IVF|In vitro fertilization
+mIVF|Maintenance IV fluids
+MIVF|Maintenance IV fluids
+LR|Lactated Ringer solution
+NS|Normal saline
+1/2NS|Half normal saline
+D5W|Dextrose 5 percent in water
+D5NS|Dextrose 5 percent in normal saline
+D5LR|Dextrose 5 percent in lactated Ringer
+D10|Dextrose 10 percent
+D50|Dextrose 50 percent
+D50W|Dextrose 50 percent in water
+KVO|Keep vein open
+TKO|To keep open
+SL|Saline lock
+SL|Sublingual
+HL|Heparin lock
+INT|Intermittent needle therapy, saline lock
+HD cath|Hemodialysis catheter
+PAC|Pulmonary artery catheter
+IABP|Intra-aortic balloon pump
+ECMO|Extracorporeal membrane oxygenation
+VA ECMO|Venoarterial ECMO
+VV ECMO|Venovenous ECMO
+LVAD|Left ventricular assist device
+VAD|Ventricular assist device
+ICD|Implantable cardioverter-defibrillator
+ICD|International Classification of Diseases
+AICD|Automatic implantable cardioverter-defibrillator
+PPM|Permanent pacemaker
+PPM|Parts per million
+CRT|Cardiac resynchronization therapy
+CRT-D|Cardiac resynchronization therapy defibrillator
+BiV|Biventricular
+DCCV|Direct current cardioversion
+TEE|Transesophageal echocardiogram
+TTE|Transthoracic echocardiogram
+Echo|Echocardiogram
+ECG|Electrocardiogram
+EKG|Electrocardiogram
+LHC|Left heart catheterization
+RHC|Right heart catheterization
+Cath|Catheterization
+PCI|Percutaneous coronary intervention
+DES|Drug-eluting stent
+BMS|Bare-metal stent
+CABG|Coronary artery bypass graft
+LAD|Left anterior descending artery
+LAD|Left axis deviation
+LCx|Left circumflex artery
+RCA|Right coronary artery
+LM|Left main coronary artery
+OM|Obtuse marginal artery
+PDA|Posterior descending artery
+PDA|Patent ductus arteriosus
+LIMA|Left internal mammary artery
+SVG|Saphenous vein graft
+DAPT|Dual antiplatelet therapy
+SAPT|Single antiplatelet therapy
+ASA|Aspirin
+ASA|American Society of Anesthesiologists
+GDMT|Guideline-directed medical therapy
+ACEi|ACE inhibitor
+ACEI|ACE inhibitor
+ARB|Angiotensin receptor blocker
+ARNI|Angiotensin receptor-neprilysin inhibitor
+MRA|Mineralocorticoid receptor antagonist
+MRA|Magnetic resonance angiography
+BB|Beta blocker
+CCB|Calcium channel blocker
+SGLT2i|SGLT2 inhibitor
+GLP-1 RA|GLP-1 receptor agonist
+GLP1|Glucagon-like peptide 1
+HTN|Hypertension
+HLD|Hyperlipidemia
+HL|Hyperlipidemia
+DLD|Dyslipidemia
+DM|Diabetes mellitus
+DM1|Type 1 diabetes mellitus
+DM2|Type 2 diabetes mellitus
+T1DM|Type 1 diabetes mellitus
+T2DM|Type 2 diabetes mellitus
+IDDM|Insulin-dependent diabetes mellitus
+NIDDM|Non-insulin-dependent diabetes mellitus
+DKA|Diabetic ketoacidosis
+HHS|Hyperosmolar hyperglycemic state
+HHNK|Hyperosmolar hyperglycemic nonketotic state
+OSA|Obstructive sleep apnea
+COPD|Chronic obstructive pulmonary disease
+AECOPD|Acute exacerbation of COPD
+CKD|Chronic kidney disease
+ESRD|End-stage renal disease
+ESKD|End-stage kidney disease
+AKI|Acute kidney injury
+ARF|Acute renal failure
+ARF|Acute respiratory failure
+ATN|Acute tubular necrosis
+AIN|Acute interstitial nephritis
+CIN|Contrast-induced nephropathy
+HRS|Hepatorenal syndrome
+CRS|Cardiorenal syndrome
+CRS|Cytokine release syndrome
+RTA|Renal tubular acidosis
+SIADH|Syndrome of inappropriate antidiuretic hormone
+DI|Diabetes insipidus
+UTI|Urinary tract infection
+CAUTI|Catheter-associated urinary tract infection
+ASB|Asymptomatic bacteriuria
+BPH|Benign prostatic hyperplasia
+LUTS|Lower urinary tract symptoms
+AUR|Acute urinary retention
+CIC|Clean intermittent catheterization
+SCC|Straight cath
+SCC|Squamous cell carcinoma
+I/O cath|In-and-out catheterization
+IOC|In-and-out catheterization
+IUC|Indwelling urinary catheter
+SPC|Suprapubic catheter
+SPT|Suprapubic tube
+PCN|Percutaneous nephrostomy
+PCN|Penicillin
+PNT|Percutaneous nephrostomy tube
+BVS|Bladder volume scan
+GFR|Glomerular filtration rate
+eGFR|Estimated glomerular filtration rate
+CrCl|Creatinine clearance
+Cr|Creatinine
+Scr|Serum creatinine
+BUN|Blood urea nitrogen
+BMP|Basic metabolic panel
+CBC|Complete blood count
+CBC w/ diff|Complete blood count with differential
+Chem7|Basic metabolic panel
+Chem10|Basic metabolic panel plus Mg, Phos, Ca
+Na|Sodium
+K|Potassium
+Cl|Chloride
+HCO3|Bicarbonate
+CO2|Carbon dioxide, serum bicarbonate
+Ca|Calcium
+Ca|Cancer
+iCa|Ionized calcium
+Mg|Magnesium
+Phos|Phosphorus
+PO4|Phosphate
+Glu|Glucose
+BG|Blood glucose
+FSBG|Fingerstick blood glucose
+FSG|Fingerstick glucose
+FS|Fingerstick
+POC|Point of care
+POCT|Point-of-care testing
+POCG|Point-of-care glucose
+CBG|Capillary blood glucose
+BGM|Blood glucose monitoring
+CGM|Continuous glucose monitor
+AC|Before meals
+AC|Assist control
+ACHS|Before meals and at bedtime
+AC/HS|Before meals and at bedtime
+HS|At bedtime
+HbA1c|Hemoglobin A1c
+A1c|Hemoglobin A1c
+AG|Anion gap
+AGMA|Anion gap metabolic acidosis
+NAGMA|Non-anion gap metabolic acidosis
+NAGMA|Normal anion gap metabolic acidosis
+ABG|Arterial blood gas
+VBG|Venous blood gas
+pH|Acidity
+PaO2|Arterial partial pressure of oxygen
+PaCO2|Arterial partial pressure of carbon dioxide
+pCO2|Partial pressure of carbon dioxide
+pO2|Partial pressure of oxygen
+P/F|PaO2 to FiO2 ratio
+S/F|SpO2 to FiO2 ratio
+FiO2|Fraction of inspired oxygen
+Lac|Lactate
+WBC|White blood cell count
+Hgb|Hemoglobin
+Hb|Hemoglobin
+H/H|Hemoglobin and hematocrit
+H&H|Hemoglobin and hematocrit
+Hct|Hematocrit
+Plt|Platelets
+Plts|Platelets
+MCV|Mean corpuscular volume
+RDW|Red cell distribution width
+ANC|Absolute neutrophil count
+ALC|Absolute lymphocyte count
+Diff|Differential
+LDH|Lactate dehydrogenase
+DAT|Direct antiglobulin test
+DAT|Diet as tolerated
+PBS|Peripheral blood smear
+Schistos|Schistocytes
+PT|Prothrombin time
+PT|Physical therapy
+PTT|Partial thromboplastin time
+aPTT|Activated partial thromboplastin time
+INR|International normalized ratio
+Coags|Coagulation studies
+DDimer|D-dimer
+DIC|Disseminated intravascular coagulation
+TTP|Thrombotic thrombocytopenic purpura
+HUS|Hemolytic uremic syndrome
+TMA|Thrombotic microangiopathy
+ITP|Immune thrombocytopenia
+HIT|Heparin-induced thrombocytopenia
+PF4|Platelet factor 4 antibody
+SRA|Serotonin release assay
+VTE|Venous thromboembolism
+DVT|Deep vein thrombosis
+DVT ppx|DVT prophylaxis
+SCDs|Sequential compression devices
+SCD|Sickle cell disease
+SCD|Sudden cardiac death
+TEDs|Thromboembolic deterrent stockings
+LMWH|Low-molecular-weight heparin
+UFH|Unfractionated heparin
+SQH|Subcutaneous heparin
+SQ|Subcutaneous
+SC|Subcutaneous
+subQ|Subcutaneous
+SubQ|Subcutaneous
+DOAC|Direct oral anticoagulant
+NOAC|Novel oral anticoagulant
+AC|Anticoagulation
+A/C|Anticoagulation
+Hep gtt|Heparin drip
+gtt|Drip, drops
+PRBC|Packed red blood cells
+pRBC|Packed red blood cells
+pRBCs|Packed red blood cells
+RBC|Red blood cells
+FFP|Fresh frozen plasma
+Cryo|Cryoprecipitate
+T&S|Type and screen
+T&C|Type and crossmatch
+TS|Type and screen
+LBPIV|Large-bore peripheral IV
+MTP|Massive transfusion protocol
+TRALI|Transfusion-related acute lung injury
+TACO|Transfusion-associated circulatory overload
+IDA|Iron deficiency anemia
+ACD|Anemia of chronic disease
+AOCD|Anemia of chronic disease
+B12|Vitamin B12
+Fe|Iron
+TIBC|Total iron-binding capacity
+Tsat|Transferrin saturation
+IVIG|Intravenous immunoglobulin
+PLEX|Plasma exchange
+TPE|Therapeutic plasma exchange
+SPEP|Serum protein electrophoresis
+UPEP|Urine protein electrophoresis
+SFLC|Serum free light chains
+MM|Multiple myeloma
+MGUS|Monoclonal gammopathy of undetermined significance
+AML|Acute myeloid leukemia
+ALL|Acute lymphoblastic leukemia
+CML|Chronic myeloid leukemia
+CLL|Chronic lymphocytic leukemia
+MDS|Myelodysplastic syndrome
+DLBCL|Diffuse large B-cell lymphoma
+HL|Hodgkin lymphoma
+NHL|Non-Hodgkin lymphoma
+BMT|Bone marrow transplant
+HSCT|Hematopoietic stem cell transplant
+SCT|Stem cell transplant
+alloSCT|Allogeneic stem cell transplant
+GVHD|Graft-versus-host disease
+TLS|Tumor lysis syndrome
+FN|Febrile neutropenia
+NF|Neutropenic fever
+C1D1|Cycle 1 day 1
+XRT|Radiation therapy
+RT|Radiation therapy
+RT|Respiratory therapy
+ECOG|Eastern Cooperative Oncology Group performance status
+KPS|Karnofsky performance status
+NSCLC|Non-small cell lung cancer
+SCLC|Small cell lung cancer
+HCC|Hepatocellular carcinoma
+HCC|Hierarchical condition category
+RCC|Renal cell carcinoma
+CRC|Colorectal cancer
+BCC|Basal cell carcinoma
+IO|Immunotherapy
+IO|Intraosseous
+irAE|Immune-related adverse event
+ICI|Immune checkpoint inhibitor
+CAR-T|Chimeric antigen receptor T-cell therapy
+ICANS|Immune effector cell-associated neurotoxicity syndrome
+LFT|Liver function test
+LFTs|Liver function tests
+HFP|Hepatic function panel
+AST|Aspartate aminotransferase
+ALT|Alanine aminotransferase
+AlkP|Alkaline phosphatase
+ALP|Alkaline phosphatase
+Alk phos|Alkaline phosphatase
+Tbili|Total bilirubin
+T bili|Total bilirubin
+Dbili|Direct bilirubin
+D bili|Direct bilirubin
+Bili|Bilirubin
+Alb|Albumin
+TP|Total protein
+GGT|Gamma-glutamyl transferase
+NH3|Ammonia
+TG|Triglycerides
+TGs|Triglycerides
+LDL|Low-density lipoprotein
+HDL|High-density lipoprotein
+TC|Total cholesterol
+Lp(a)|Lipoprotein a
+TSH|Thyroid-stimulating hormone
+fT4|Free thyroxine
+FT4|Free thyroxine
+T4|Thyroxine
+T3|Triiodothyronine
+TPO|Thyroid peroxidase
+ACTH|Adrenocorticotropic hormone
+PTH|Parathyroid hormone
+Vit D|Vitamin D
+BNP|B-type natriuretic peptide
+NT-proBNP|N-terminal pro-B-type natriuretic peptide
+proBNP|N-terminal pro-B-type natriuretic peptide
+Trop|Troponin
+hsTn|High-sensitivity troponin
+hs-Trop|High-sensitivity troponin
+TnI|Troponin I
+TnT|Troponin T
+CK|Creatine kinase
+CPK|Creatine phosphokinase
+CKMB|Creatine kinase MB
+CRP|C-reactive protein
+ESR|Erythrocyte sedimentation rate
+PCT|Procalcitonin
+BCx|Blood cultures
+BCx2|Blood cultures times two
+UCx|Urine culture
+SCx|Sputum culture
+WCx|Wound culture
+NGTD|No growth to date
+NG|No growth
+NG|Nasogastric
+NGx48h|No growth at 48 hours
+GPC|Gram-positive cocci
+GPCs|Gram-positive cocci
+GNR|Gram-negative rods
+GNRs|Gram-negative rods
+GPR|Gram-positive rods
+GNB|Gram-negative bacilli
+MRSA|Methicillin-resistant Staphylococcus aureus
+MSSA|Methicillin-sensitive Staphylococcus aureus
+SA|Staphylococcus aureus
+SAB|Staphylococcus aureus bacteremia
+CoNS|Coagulase-negative staphylococci
+CONS|Coagulase-negative staphylococci
+VRE|Vancomycin-resistant Enterococcus
+ESBL|Extended-spectrum beta-lactamase
+CRE|Carbapenem-resistant Enterobacterales
+CDI|Clostridioides difficile infection
+C diff|Clostridioides difficile
+C. diff|Clostridioides difficile
+CDiff|Clostridioides difficile
+GAS|Group A Streptococcus
+GBS|Group B Streptococcus
+GBS|Guillain-Barre syndrome
+PsA|Pseudomonas aeruginosa
+PsA|Psoriatic arthritis
+E coli|Escherichia coli
+Kleb|Klebsiella
+MDRO|Multidrug-resistant organism
+MDR|Multidrug resistant
+S/R|Sensitive or resistant
+Sens|Sensitivities
+MIC|Minimum inhibitory concentration
+PCR|Polymerase chain reaction
+RVP|Respiratory viral panel
+RPP|Respiratory pathogen panel
+COVID|COVID-19
+SARS-CoV-2|Severe acute respiratory syndrome coronavirus 2
+Flu|Influenza
+RSV|Respiratory syncytial virus
+HIV|Human immunodeficiency virus
+VL|Viral load
+CD4|CD4 T-cell count
+ART|Antiretroviral therapy
+PrEP|Pre-exposure prophylaxis
+PEP|Post-exposure prophylaxis
+HBV|Hepatitis B virus
+HCV|Hepatitis C virus
+HAV|Hepatitis A virus
+HBsAg|Hepatitis B surface antigen
+HBsAb|Hepatitis B surface antibody
+HBcAb|Hepatitis B core antibody
+CMV|Cytomegalovirus
+EBV|Epstein-Barr virus
+HSV|Herpes simplex virus
+VZV|Varicella zoster virus
+TB|Tuberculosis
+LTBI|Latent tuberculosis infection
+QFT|QuantiFERON-TB Gold test
+IGRA|Interferon gamma release assay
+PPD|Purified protein derivative skin test
+AFB|Acid-fast bacilli
+RPR|Rapid plasma reagin
+GC/CT|Gonorrhea and chlamydia
+GC|Gonorrhea
+CT|Chlamydia
+CT|Computed tomography
+CT|Chest tube
+BV|Bacterial vaginosis
+HPV|Human papillomavirus
+PJP|Pneumocystis jirovecii pneumonia
+PCP|Pneumocystis pneumonia
+PCP|Primary care provider
+PCP|Phencyclidine
+CrAg|Cryptococcal antigen
+BDG|Beta-D-glucan
+IE|Infective endocarditis
+SBE|Subacute bacterial endocarditis
+OM|Osteomyelitis
+OM|Otitis media
+SSTI|Skin and soft tissue infection
+CAP|Community-acquired pneumonia
+HAP|Hospital-acquired pneumonia
+VAP|Ventilator-associated pneumonia
+HCAP|Healthcare-associated pneumonia
+PNA|Pneumonia
+Asp PNA|Aspiration pneumonia
+CLABSI|Central line-associated bloodstream infection
+BSI|Bloodstream infection
+SSI|Surgical site infection
+SIRS|Systemic inflammatory response syndrome
+qSOFA|Quick sequential organ failure assessment
+SOFA|Sequential organ failure assessment
+OPAT|Outpatient parenteral antimicrobial therapy
+Vanc|Vancomycin
+Pip-tazo|Piperacillin-tazobactam
+PTZ|Piperacillin-tazobactam
+CTX|Ceftriaxone
+CTX|Cyclophosphamide
+Ctx|Ceftriaxone
+Mero|Meropenem
+Amp|Ampicillin
+Amp-sul|Ampicillin-sulbactam
+Amox-clav|Amoxicillin-clavulanate
+Amox|Amoxicillin
+Levo|Levofloxacin
+Levo|Levothyroxine
+Levo|Levophed, norepinephrine
+Doxy|Doxycycline
+TMP-SMX|Trimethoprim-sulfamethoxazole
+TMP/SMX|Trimethoprim-sulfamethoxazole
+SMX-TMP|Sulfamethoxazole-trimethoprim
+NTG|Nitroglycerin
+Fluc|Fluconazole
+AUC|Area under the curve dosing
+PK|Pharmacokinetics
+PD|Pharmacodynamics
+PD|Peritoneal dialysis
+PD|Parkinson disease
+PD|Progressive disease
+BL|Beta-lactam
+BL|Baseline
+D#|Day number
+CVVH|Continuous venovenous hemofiltration
+CVVHD|Continuous venovenous hemodialysis
+CVVHDF|Continuous venovenous hemodiafiltration
+CRRT|Continuous renal replacement therapy
+iHD|Intermittent hemodialysis
+IHD|Intermittent hemodialysis
+IHD|Ischemic heart disease
+UF|Ultrafiltration
+AVF|Arteriovenous fistula
+AVG|Arteriovenous graft
+EDW|Estimated dry weight
+TW|Target weight
+DW|Dry weight
+MWF|Monday, Wednesday, Friday dialysis schedule
+TTS|Tuesday, Thursday, Saturday dialysis schedule
+TThS|Tuesday, Thursday, Saturday dialysis schedule
+HDx|Hemodialysis
+UPCR|Urine protein to creatinine ratio
+UACR|Urine albumin to creatinine ratio
+UPr|Urine protein
+UNa|Urine sodium
+UCr|Urine creatinine
+UOsm|Urine osmolality
+Uosm|Urine osmolality
+Sosm|Serum osmolality
+Osm|Osmolality
+FENa|Fractional excretion of sodium
+FEUrea|Fractional excretion of urea
+SG|Specific gravity
+LE|Leukocyte esterase
+UA/UCx|Urinalysis with reflex culture
+UDS|Urine drug screen
+Utox|Urine toxicology screen
+EtOH|Ethanol, alcohol
+ETOH|Ethanol, alcohol
+BAL|Blood alcohol level
+BAL|Bronchoalveolar lavage
+APAP|Acetaminophen
+HCG|Human chorionic gonadotropin
+hCG|Human chorionic gonadotropin
+bHCG|Beta human chorionic gonadotropin
+UPT|Urine pregnancy test
+LMP|Last menstrual period
+G#P#|Gravida, para
+GxPx|Gravida, para
+G|Gravida
+P|Para
+SAB|Spontaneous abortion
+TAB|Therapeutic abortion
+EGA|Estimated gestational age
+GA|Gestational age
+GA|General anesthesia
+EDD|Estimated due date
+IUP|Intrauterine pregnancy
+IUD|Intrauterine device
+OCP|Oral contraceptive pill
+OCPs|Oral contraceptive pills
+HRT|Hormone replacement therapy
+PCOS|Polycystic ovary syndrome
+PMB|Postmenopausal bleeding
+AUB|Abnormal uterine bleeding
+Pap|Papanicolaou smear
+SVE|Sterile vaginal exam
+PID|Pelvic inflammatory disease
+TOA|Tubo-ovarian abscess
+CXR|Chest x-ray
+KUB|Kidneys, ureters, bladder x-ray
+AXR|Abdominal x-ray
+XR|X-ray
+Xray|X-ray
+PA/Lat|Posteroanterior and lateral views
+AP|Anteroposterior
+CTH|CT head
+NCHCT|Noncontrast head CT
+NCCT|Noncontrast CT
+CTAP|CT abdomen and pelvis
+CT A/P|CT abdomen and pelvis
+CTA/P|CT abdomen and pelvis
+CTPA|CT pulmonary angiogram
+CT PE|CT pulmonary embolism protocol
+CTA H/N|CT angiography of the head and neck
+CTV|CT venography
+CTC|CT chest
+w/ con|With contrast
+w/o con|Without contrast
+IVC|Intravenous contrast
+IVC|Inferior vena cava
+MRI|Magnetic resonance imaging
+MR|Magnetic resonance imaging
+MRCP|Magnetic resonance cholangiopancreatography
+MRV|Magnetic resonance venography
+DWI|Diffusion-weighted imaging
+FLAIR|Fluid-attenuated inversion recovery
+US|Ultrasound
+U/S|Ultrasound
+RUQUS|Right upper quadrant ultrasound
+RUQ US|Right upper quadrant ultrasound
+LENI|Lower extremity noninvasive venous duplex
+LENIs|Lower extremity noninvasive venous duplex studies
+UENI|Upper extremity noninvasive venous duplex
+POCUS|Point-of-care ultrasound
+FAST|Focused assessment with sonography in trauma
+eFAST|Extended FAST exam
+TCD|Transcranial Doppler
+ABI|Ankle-brachial index
+ABI|Acquired brain injury
+VQ|Ventilation-perfusion scan
+V/Q|Ventilation-perfusion scan
+PET|Positron emission tomography
+PET-CT|Positron emission tomography CT
+NM|Nuclear medicine
+HIDA|Hepatobiliary iminodiacetic acid scan
+MPI|Myocardial perfusion imaging
+SPECT|Single-photon emission CT
+DSE|Dobutamine stress echo
+ETT|Exercise treadmill test
+ETT|Endotracheal tube
+EEG|Electroencephalogram
+cEEG|Continuous EEG
+vEEG|Video EEG
+EMG|Electromyography
+NCS|Nerve conduction study
+LP|Lumbar puncture
+OP|Opening pressure
+CSF|Cerebrospinal fluid
+EGD|Esophagogastroduodenoscopy
+Colo|Colonoscopy
+C-scope|Colonoscopy
+Flex sig|Flexible sigmoidoscopy
+ERCP|Endoscopic retrograde cholangiopancreatography
+EUS|Endoscopic ultrasound
+PEG|Percutaneous endoscopic gastrostomy
+PEG|Polyethylene glycol
+PEJ|Percutaneous endoscopic jejunostomy
+G-tube|Gastrostomy tube
+GT|Gastrostomy tube
+J-tube|Jejunostomy tube
+GJ|Gastrojejunostomy tube
+NGT|Nasogastric tube
+OGT|Orogastric tube
+OG|Orogastric
+NJ|Nasojejunal
+DHT|Dobhoff tube
+NDT|Nasoduodenal tube
+LIS|Low intermittent suction
+LCWS|Low continuous wall suction
+LCS|Low continuous suction
+TF|Tube feeds
+TFs|Tube feeds
+EN|Enteral nutrition
+PN|Parenteral nutrition
+TPN|Total parenteral nutrition
+PPN|Peripheral parenteral nutrition
+GRV|Gastric residual volume
+FWF|Free water flushes
+FWB|Free water bolus
+FW|Free water
+FWD|Free water deficit
+HOB|Head of bed
+HOB>30|Head of bed elevated above 30 degrees
+NPO|Nothing by mouth
+NPO p MN|Nothing by mouth after midnight
+NPO after MN|Nothing by mouth after midnight
+MN|Midnight
+PO|By mouth
+po|By mouth
+PR|Per rectum
+PR|PR interval
+PV|Per vagina
+PV|Polycythemia vera
+NG|Via nasogastric tube
+CLD|Clear liquid diet
+CLD|Chronic liver disease
+FLD|Full liquid diet
+ADAT|Advance diet as tolerated
+2g Na|Two-gram sodium restricted diet
+CCD|Consistent carbohydrate diet
+CHO|Carbohydrate
+FR|Fluid restriction
+NAS|No added salt
+NAS|Neonatal abstinence syndrome
+Thin liq|Thin liquids
+NTL|Nectar-thick liquids
+HTL|Honey-thick liquids
+MTL|Mildly thick liquids
+IDDSI|International Dysphagia Diet Standardisation Initiative
+Dys 1|Dysphagia diet level 1, pureed
+SLP|Speech-language pathologist
+SLP|Speech-language pathology
+BSE|Bedside swallow evaluation
+BSE|Breast self-exam
+MBS|Modified barium swallow
+MBSS|Modified barium swallow study
+VFSS|Videofluoroscopic swallow study
+FEES|Fiberoptic endoscopic evaluation of swallowing
+BSS|Bedside swallow screen
+Asp prec|Aspiration precautions
+RD|Registered dietitian
+RDN|Registered dietitian nutritionist
+Nutr|Nutrition
+BMI|Body mass index
+IBW|Ideal body weight
+ABW|Actual body weight
+AdjBW|Adjusted body weight
+DBW|Dosing body weight
+LBW|Lean body weight
+UBW|Usual body weight
+Wt|Weight
+Ht|Height
+kcal/kg|Kilocalories per kilogram
+PCM|Protein-calorie malnutrition
+MNA|Mini Nutritional Assessment
+NFPE|Nutrition-focused physical exam
+ONS|Oral nutrition supplement
+MVI|Multivitamin
+MVI|Multivitamin infusion
+FA|Folic acid
+GERD|Gastroesophageal reflux disease
+PUD|Peptic ulcer disease
+IBD|Inflammatory bowel disease
+UC|Ulcerative colitis
+UC|Urgent care
+CD|Crohn disease
+IBS|Irritable bowel syndrome
+H pylori|Helicobacter pylori
+HP|Helicobacter pylori
+EoE|Eosinophilic esophagitis
+HE|Hepatic encephalopathy
+TIPS|Transjugular intrahepatic portosystemic shunt
+EV|Esophageal varices
+EVL|Endoscopic variceal ligation
+MELD|Model for End-Stage Liver Disease
+MELD-Na|MELD-sodium score
+CTP|Child-Turcotte-Pugh score
+ESLD|End-stage liver disease
+NAFLD|Nonalcoholic fatty liver disease
+MASLD|Metabolic dysfunction-associated steatotic liver disease
+NASH|Nonalcoholic steatohepatitis
+MASH|Metabolic dysfunction-associated steatohepatitis
+AH|Alcoholic hepatitis
+AAH|Alcohol-associated hepatitis
+ALD|Alcohol-associated liver disease
+DILI|Drug-induced liver injury
+ALF|Acute liver failure
+PBC|Primary biliary cholangitis
+PSC|Primary sclerosing cholangitis
+AIH|Autoimmune hepatitis
+DF|Discriminant function, Maddrey
+MDF|Maddrey discriminant function
+Para|Paracentesis
+LVP|Large-volume paracentesis
+dx para|Diagnostic paracentesis
+SAAG|Serum-ascites albumin gradient
+PMN|Polymorphonuclear neutrophils
+PTX|Pneumothorax
+HTX|Hemothorax
+PleurX|Indwelling pleural catheter
+IPC|Indwelling pleural catheter
+IPC|Intermittent pneumatic compression
+Panc|Pancreatitis
+AP|Acute pancreatitis
+Lap chole|Laparoscopic cholecystectomy
+ex lap|Exploratory laparotomy
+Ex lap|Exploratory laparotomy
+Appy|Appendectomy
+Perf|Perforation
+LBO|Large bowel obstruction
+JP|Jackson-Pratt drain
+JP|Jackson-Pratt
+HV|Hemovac drain
+NIPPV|Noninvasive positive pressure ventilation
+NIV|Noninvasive ventilation
+BiPAP|Bilevel positive airway pressure
+BPAP|Bilevel positive airway pressure
+CPAP|Continuous positive airway pressure
+APAP|Auto-titrating positive airway pressure
+HFNC|High-flow nasal cannula
+HFNO|High-flow nasal oxygen
+HFO|High-flow oxygen
+NC|Nasal cannula
+NC|No change
+NC/AT|Normocephalic, atraumatic
+LPM|Liters per minute
+L|Liters
+L NC|Liters by nasal cannula
+FM|Face mask
+SM|Simple mask
+NRB|Non-rebreather mask
+NRBM|Non-rebreather mask
+VM|Venturi mask
+TM|Trach mask
+TC|Trach collar
+TCT|Trach collar trial
+ET|Endotracheal
+ET|Essential tremor
+ETCO2|End-tidal carbon dioxide
+EtCO2|End-tidal carbon dioxide
+OETT|Oral endotracheal tube
+ETI|Endotracheal intubation
+RSI|Rapid sequence intubation
+DL|Direct laryngoscopy
+VL|Video laryngoscopy
+MV|Mechanical ventilation
+MV|Minute ventilation
+Vent|Mechanical ventilator
+AC|Assist control ventilation
+AC/VC|Assist control, volume control
+VC|Volume control
+PC|Pressure control
+PC|After meals
+PRVC|Pressure-regulated volume control
+SIMV|Synchronized intermittent mandatory ventilation
+PSV|Pressure support ventilation
+PS/PEEP|Pressure support and PEEP settings
+PEEP|Positive end-expiratory pressure
+Vt|Tidal volume
+TV|Tidal volume
+Ppl|Plateau pressure
+Pplat|Plateau pressure
+PIP|Peak inspiratory pressure
+PIP|Proximal interphalangeal joint
+DP|Driving pressure
+APRV|Airway pressure release ventilation
+SBT|Spontaneous breathing trial
+SAT|Spontaneous awakening trial
+RSBI|Rapid shallow breathing index
+NIF|Negative inspiratory force
+LPV|Lung-protective ventilation
+ARDS|Acute respiratory distress syndrome
+AHRF|Acute hypoxemic respiratory failure
+HRF|Hypoxemic respiratory failure
+AHRF|Acute hypoxic respiratory failure
+AHCRF|Acute hypercapnic respiratory failure
+RF|Respiratory failure
+RF|Rheumatoid factor
+CPT|Chest physiotherapy
+CPT|Current Procedural Terminology code
+IS|Incentive spirometry
+IS|Incentive spirometer
+Neb|Nebulizer
+Nebs|Nebulized treatments
+MDI|Metered-dose inhaler
+DPI|Dry powder inhaler
+HHN|Hand-held nebulizer
+SVN|Small-volume nebulizer
+Duoneb|Ipratropium-albuterol nebulizer
+DuoNeb|Ipratropium-albuterol nebulizer
+Alb|Albuterol
+SABA|Short-acting beta agonist
+LABA|Long-acting beta agonist
+LAMA|Long-acting muscarinic antagonist
+SAMA|Short-acting muscarinic antagonist
+ICS|Inhaled corticosteroid
+OCS|Oral corticosteroid
+PFT|Pulmonary function test
+PFTs|Pulmonary function tests
+FEV1|Forced expiratory volume in one second
+FVC|Forced vital capacity
+DLCO|Diffusing capacity for carbon monoxide
+6MWT|Six-minute walk test
+6MW|Six-minute walk
+Amb sat|Ambulatory oxygen saturation
+HO2|Home oxygen
+Home O2|Home oxygen
+O2|Oxygen
+ILD|Interstitial lung disease
+IPF|Idiopathic pulmonary fibrosis
+PH|Pulmonary hypertension
+PAH|Pulmonary arterial hypertension
+CTEPH|Chronic thromboembolic pulmonary hypertension
+OHS|Obesity hypoventilation syndrome
+GGO|Ground-glass opacity
+GGOs|Ground-glass opacities
+Atx|Atelectasis
+RLL|Right lower lobe
+RML|Right middle lobe
+RUL|Right upper lobe
+LLL|Left lower lobe
+LUL|Left upper lobe
+EBUS|Endobronchial ultrasound
+Exp wheeze|Expiratory wheeze
+DBS|Diminished breath sounds
+DBS|Deep brain stimulation
+dec BS|Decreased breath sounds
+Sxn|Suction
+Sx|Suction
+OP sx|Oropharyngeal suctioning
+NT sx|Nasotracheal suctioning
+TIA|Transient ischemic attack
+AIS|Acute ischemic stroke
+ICH|Intracerebral hemorrhage
+IPH|Intraparenchymal hemorrhage
+SAH|Subarachnoid hemorrhage
+SDH|Subdural hematoma
+EDH|Epidural hematoma
+IVH|Intraventricular hemorrhage
+TBI|Traumatic brain injury
+ICP|Intracranial pressure
+EVD|External ventricular drain
+VPS|Ventriculoperitoneal shunt
+VP shunt|Ventriculoperitoneal shunt
+LVO|Large vessel occlusion
+MCA|Middle cerebral artery
+ACA|Anterior cerebral artery
+PCA|Posterior cerebral artery
+PCA|Patient-controlled analgesia
+ICA|Internal carotid artery
+tPA|Tissue plasminogen activator
+TNK|Tenecteplase
+IVT|Intravenous thrombolysis
+EVT|Endovascular thrombectomy
+MT|Mechanical thrombectomy
+NIHSS|National Institutes of Health Stroke Scale
+mRS|Modified Rankin Scale
+LKW|Last known well
+LKN|Last known normal
+LSN|Last seen normal
+LKWT|Last known well time
+SZ|Seizure
+Sz|Seizure
+GTC|Generalized tonic-clonic seizure
+GTCS|Generalized tonic-clonic seizure
+SE|Status epilepticus
+SE|Side effect
+NCSE|Nonconvulsive status epilepticus
+AED|Antiepileptic drug
+AED|Automated external defibrillator
+ASM|Antiseizure medication
+PNES|Psychogenic nonepileptic seizures
+Szr prec|Seizure precautions
+Sz prec|Seizure precautions
+LEV|Levetiracetam
+PHT|Phenytoin
+VPA|Valproic acid
+TME|Toxic-metabolic encephalopathy
+TME|Total mesorectal excision
+CAM|Confusion Assessment Method
+CAM-ICU|Confusion Assessment Method for the ICU
+RASS|Richmond Agitation-Sedation Scale
+SAS|Sedation-Agitation Scale
+BPS|Behavioral Pain Scale
+CPOT|Critical-Care Pain Observation Tool
+MoCA|Montreal Cognitive Assessment
+MMSE|Mini-Mental State Examination
+SLUMS|Saint Louis University Mental Status exam
+AD|Alzheimer disease
+AD|Advance directive
+MCI|Mild cognitive impairment
+LBD|Lewy body dementia
+DLB|Dementia with Lewy bodies
+FTD|Frontotemporal dementia
+NPH|Normal pressure hydrocephalus
+NPH|Neutral protamine Hagedorn insulin
+MG|Myasthenia gravis
+ALS|Amyotrophic lateral sclerosis
+CIDP|Chronic inflammatory demyelinating polyneuropathy
+PN|Peripheral neuropathy
+DPN|Diabetic peripheral neuropathy
+SCI|Spinal cord injury
+CES|Cauda equina syndrome
+LBP|Low back pain
+DDD|Degenerative disc disease
+HNP|Herniated nucleus pulposus
+C-spine|Cervical spine
+T-spine|Thoracic spine
+L-spine|Lumbar spine
+C-collar|Cervical collar
+TLSO|Thoracolumbosacral orthosis
+LSO|Lumbosacral orthosis
+Log roll|Log-roll precautions
+FP|Fall precautions
+FP|Family planning
+HFR|High fall risk
+1:1|One-to-one sitter
+1:1|One-to-one observation
+CO|Constant observation
+q|Every
+qd|Daily
+QD|Daily
+qday|Daily
+qAM|Every morning
+qPM|Every evening
+qHS|Every night at bedtime
+QHS|Every night at bedtime
+qhs|Every night at bedtime
+qOD|Every other day
+QOD|Every other day
+q2h|Every 2 hours
+q4h|Every 4 hours
+q6h|Every 6 hours
+q8h|Every 8 hours
+q12h|Every 12 hours
+q24h|Every 24 hours
+q4-6h|Every 4 to 6 hours
+q1h|Every hour
+qshift|Every shift
+QS|Every shift
+qwk|Every week
+qmo|Every month
+BID|Twice daily
+bid|Twice daily
+TID|Three times daily
+tid|Three times daily
+QID|Four times daily
+qid|Four times daily
+PRN|As needed
+prn|As needed
+STAT|Immediately
+Stat|Immediately
+ASAP|As soon as possible
+NOW|Now, one-time order
+x1|Once
+LD|Loading dose
+MD|Maintenance dose
+MD|Medical doctor
+mg|Milligrams
+mcg|Micrograms
+mg/kg|Milligrams per kilogram
+mcg/kg/min|Micrograms per kilogram per minute
+mL|Milliliters
+mL/hr|Milliliters per hour
+mEq|Milliequivalents
+U|Units
+units/hr|Units per hour
+IU|International units
+tab|Tablet
+cap|Capsule
+neb|Nebulizer treatment
+inh|Inhaled
+INH|Isoniazid
+gtt|Continuous infusion drip
+IM|Intramuscular
+ID|Intradermal
+IN|Intranasal
+TD|Transdermal
+top|Topical
+OU|Both eyes
+OD|Right eye
+OD|Overdose
+OS|Left eye
+AU|Both ears
+OTC|Over the counter
+DAW|Dispense as written
+Sig|Directions on prescription
+Disp|Dispense
+RF|Refills
+NR|No refills
+PA|Prior authorization
+NF|Nonformulary
+MAR|Medication administration record
+eMAR|Electronic medication administration record
+Med rec|Medication reconciliation
+MedRec|Medication reconciliation
+BPMH|Best possible medication history
+C/h|Continue home medication
+Cont|Continue
+PharmD|Doctor of Pharmacy, pharmacist
+RPh|Registered pharmacist
+PTD|Pharmacy to dose
+P2D|Pharmacy to dose
+TDM|Therapeutic drug monitoring
+DDI|Drug-drug interaction
+ADR|Adverse drug reaction
+ADE|Adverse drug event
+NKA|No known allergies
+NKDA|No known drug allergies
+NKFA|No known food allergies
+SJS|Stevens-Johnson syndrome
+TEN|Toxic epidermal necrolysis
+DRESS|Drug reaction with eosinophilia and systemic symptoms
+AGEP|Acute generalized exanthematous pustulosis
+NSAID|Nonsteroidal anti-inflammatory drug
+NSAIDs|Nonsteroidal anti-inflammatory drugs
+IBU|Ibuprofen
+Oxy|Oxycodone
+OxyIR|Immediate-release oxycodone
+HM|Hydromorphone
+HMN|Hydromorphone
+MSO4|Morphine sulfate
+MSIR|Morphine sulfate immediate release
+MSContin|Morphine sulfate extended release
+Fent|Fentanyl
+MOUD|Medications for opioid use disorder
+MAT|Medication-assisted treatment
+Bup|Buprenorphine
+Bupe|Buprenorphine
+Bup/nal|Buprenorphine-naloxone
+MMT|Methadone maintenance treatment
+OTP|Opioid treatment program
+MME|Morphine milligram equivalents
+MEDD|Morphine equivalent daily dose
+OME|Oral morphine equivalents
+COWS|Clinical Opiate Withdrawal Scale
+CIWA|Clinical Institute Withdrawal Assessment for Alcohol
+CIWA-Ar|Clinical Institute Withdrawal Assessment for Alcohol, revised
+PAWSS|Prediction of Alcohol Withdrawal Severity Scale
+AWS|Alcohol withdrawal syndrome
+EtOH w/d|Alcohol withdrawal
+w/d|Withdrawal
+DTs|Delirium tremens
+WE|Wernicke encephalopathy
+AUD|Alcohol use disorder
+OUD|Opioid use disorder
+SUD|Substance use disorder
+StUD|Stimulant use disorder
+MUD|Methamphetamine use disorder
+CUD|Cannabis use disorder
+TUD|Tobacco use disorder
+IVDU|Intravenous drug use
+IDU|Injection drug use
+PWID|People who inject drugs
+PWUD|People who use drugs
+Meth|Methamphetamine
+MJ|Marijuana
+THC|Tetrahydrocannabinol
+CHS|Cannabinoid hyperemesis syndrome
+Tob|Tobacco
+PPD|Packs per day
+PY|Pack-years
+pk-yr|Pack-years
+NRT|Nicotine replacement therapy
+Nic patch|Nicotine patch
+SBIRT|Screening, brief intervention, and referral to treatment
+NLX|Naloxone
+Benzos|Benzodiazepines
+BZD|Benzodiazepine
+LZP|Lorazepam
+Dex|Dexmedetomidine
+Dex|Dexamethasone
+Prop|Propofol
+Roc|Rocuronium
+Sux|Succinylcholine
+NMB|Neuromuscular blockade
+NMBA|Neuromuscular blocking agent
+TOF|Train of four
+NE|Norepinephrine
+Epi|Epinephrine
+Vaso|Vasopressin
+Neo|Phenylephrine
+Dopa|Dopamine
+Dilt|Diltiazem
+Dilt gtt|Diltiazem drip
+Amio|Amiodarone
+Dig|Digoxin
+HCTZ|Hydrochlorothiazide
+Toprol XL|Metoprolol succinate extended release
+Amlo|Amlodipine
+ISDN|Isosorbide dinitrate
+ISMN|Isosorbide mononitrate
+H/ISDN|Hydralazine and isosorbide dinitrate
+BiDil|Isosorbide dinitrate-hydralazine
+HIST|High-intensity statin therapy
+P2Y12i|P2Y12 inhibitor
+Enox|Enoxaparin
+Hep SQ|Subcutaneous heparin
+PCC|Prothrombin complex concentrate
+4F-PCC|Four-factor prothrombin complex concentrate
+Vit K|Vitamin K
+TXA|Tranexamic acid
+DDAVP|Desmopressin
+PPI|Proton pump inhibitor
+PPI gtt|Proton pump inhibitor infusion
+H2B|H2 blocker
+H2RA|H2 receptor antagonist
+Famo|Famotidine
+MiraLAX|Polyethylene glycol
+MOM|Milk of magnesia
+SSE|Soapsuds enema
+FE|Fleet enema
+Mag cit|Magnesium citrate
+GoLytely|Polyethylene glycol bowel prep
+SSI|Sliding-scale insulin
+ISS|Insulin sliding scale
+RISS|Regular insulin sliding scale
+LDSSI|Low-dose sliding-scale insulin
+LSSI|Low-dose sliding-scale insulin
+MSSI|Moderate-dose sliding-scale insulin
+HDSSI|High-dose sliding-scale insulin
+CF|Correction factor
+CF|Cystic fibrosis
+ISF|Insulin sensitivity factor
+ICR|Insulin-to-carbohydrate ratio
+I:C|Insulin-to-carbohydrate ratio
+TDD|Total daily dose
+RI|Regular insulin
+70/30|NPH and regular insulin mix
+Insulin gtt|Insulin infusion
+IIP|Insulin infusion protocol
+Hypo|Hypoglycemia
+MFM|Metformin
+SU|Sulfonylurea
+DPP4i|DPP-4 inhibitor
+TZD|Thiazolidinedione
+LT4|Levothyroxine
+MMI|Methimazole
+PTU|Propylthiouracil
+Pred|Prednisone
+SoluMedrol|Methylprednisolone
+MP|Methylprednisolone
+HC|Hydrocortisone
+SDS|Stress-dose steroids
+AI|Adrenal insufficiency
+PCV20|20-valent pneumococcal conjugate vaccine
+PPSV23|23-valent pneumococcal polysaccharide vaccine
+Tdap|Tetanus, diphtheria, pertussis vaccine
+Td|Tetanus and diphtheria vaccine
+RZV|Recombinant zoster vaccine
+HCM|Health care maintenance
+HM|Health maintenance
+AWV|Annual wellness visit
+RTC|Return to clinic
+RTC|Round the clock
+FU|Follow up
+TCM|Transitional care management
+CCM|Chronic care management
+SNF|Skilled nursing facility
+SAR|Subacute rehabilitation
+AR|Acute rehabilitation
+AIR|Acute inpatient rehabilitation
+IRF|Inpatient rehabilitation facility
+ARU|Acute rehabilitation unit
+LTACH|Long-term acute care hospital
+LTAC|Long-term acute care hospital
+LTC|Long-term care
+LTCF|Long-term care facility
+NH|Nursing home
+ALF|Assisted living facility
+AL|Assisted living
+B&C|Board and care
+RCFE|Residential care facility for the elderly
+ILF|Independent living facility
+HH|Home health
+HHC|Home health care
+HHA|Home health aide
+HHS|Home health services
+HH PT|Home health physical therapy
+HH RN|Home health nursing
+VNA|Visiting Nurse Association
+IHSS|In-Home Supportive Services
+DME|Durable medical equipment
+HME|Home medical equipment
+FWW|Front-wheeled walker
+RW|Rolling walker
+2WW|Two-wheeled walker
+4WW|Four-wheeled walker
+SPC|Single-point cane
+QC|Quad cane
+LBQC|Large-base quad cane
+SBQC|Small-base quad cane
+WC|Wheelchair
+W/C|Wheelchair
+w/c|Wheelchair
+BSC|Bedside commode
+3in1|Three-in-one commode
+TTB|Tub transfer bench
+SC|Shower chair
+RTS|Raised toilet seat
+GB|Grab bars
+HB|Hospital bed
+AFO|Ankle-foot orthosis
+KAFO|Knee-ankle-foot orthosis
+KI|Knee immobilizer
+CAM boot|Controlled ankle motion boot
+PT|Physical therapist
+OT|Occupational therapy
+OT|Occupational therapist
+PT/OT|Physical and occupational therapy
+DPT|Doctor of Physical Therapy
+PTA|Physical therapist assistant
+PTA|Prior to admission
+COTA|Certified occupational therapy assistant
+OTR|Registered occupational therapist
+OTR/L|Registered and licensed occupational therapist
+CCC-SLP|Certified speech-language pathologist
+AM-PAC|Activity Measure for Post-Acute Care
+6-Clicks|AM-PAC short-form mobility score
+JH-HLM|Johns Hopkins Highest Level of Mobility
+HLM|Highest level of mobility
+TUG|Timed Up and Go test
+BBS|Berg Balance Scale
+Berg|Berg Balance Scale
+DGI|Dynamic Gait Index
+FIM|Functional Independence Measure
+PLOF|Prior level of function
+PLF|Prior level of function
+CLOF|Current level of function
+LOF|Level of function
+ADL|Activities of daily living
+ADLs|Activities of daily living
+IADL|Instrumental activities of daily living
+IADLs|Instrumental activities of daily living
+BADL|Basic activities of daily living
+I|Independent
+Ind|Independent
+Mod I|Modified independent
+ModI|Modified independent
+S|Supervision
+Sup|Supervision
+SUP|Supervision
+CGA|Contact guard assist
+Min A|Minimal assist
+MinA|Minimal assist
+Mod A|Moderate assist
+ModA|Moderate assist
+Max A|Maximal assist
+MaxA|Maximal assist
+Dep|Dependent
+Tot A|Total assist
+TA|Total assist
+A|Assist
+A x1|Assist of one person
+Ax1|Assist of one
+Ax2|Assist of two
+1A|One assist
+VC|Verbal cues
+VCs|Verbal cues
+TC|Tactile cues
+TCs|Tactile cues
+HHA|Hand-held assist
+Amb|Ambulation
+Amb|Ambulatory
+ft|Feet
+GB|Gait belt
+Sit<>stand|Sit-to-stand transfer
+STS|Sit to stand
+SPT|Stand-pivot transfer
+SPT|Stand pivot transfer
+Supine>sit|Supine to sit
+Bed mob|Bed mobility
+Txfr|Transfer
+LB dressing|Lower body dressing
+UB dressing|Upper body dressing
+LBD|Lower body dressing
+UBD|Upper body dressing
+OOB|Out of bed
+OOBTC|Out of bed to chair
+OOB to chair|Out of bed to chair
+OOBC|Out of bed to chair
+BR|Bed rest
+BRP|Bathroom privileges
+CBR|Complete bed rest
+AAT|Activity as tolerated
+AAT|Ambulate as tolerated
+UAT|Up as tolerated
+Up ad lib|Up as desired
+ad lib|As desired
+WB|Weight bearing
+WBAT|Weight bearing as tolerated
+NWB|Non-weight bearing
+TTWB|Toe-touch weight bearing
+TDWB|Touch-down weight bearing
+PWB|Partial weight bearing
+FWB|Full weight bearing
+FFWB|Flat-foot weight bearing
+Hip prec|Hip precautions
+MMT|Manual muscle testing
+MMT|Methadone maintenance therapy
+5/5|Full strength
+Str|Strength
+WFL|Within functional limits
+HEP|Home exercise program
+D/C rec|Discharge recommendation
+DC recs|Discharge recommendations
+Recs|Recommendations
+Rec|Recommend
+Pt tol|Patient tolerated
+RPE|Rating of perceived exertion
+LTG|Long-term goal
+STG|Short-term goal
+POC|Plan of care
+Co-tx|Co-treatment
+Cotx|Co-treatment
+Tx|Treatment session
+Eval|Evaluation
+DOS|Date of service
+NRS|Numeric rating scale
+VAS|Visual analog scale
+PAINAD|Pain Assessment in Advanced Dementia scale
+FLACC|Face, Legs, Activity, Cry, Consolability scale
+0-10|Pain scale out of ten
+P/10|Pain out of 10
+OPQRST|Onset, provocation, quality, radiation, severity, timing
+SOCRATES|Site, onset, character, radiation, associations, time course, exacerbating factors, severity
+RN|Registered nurse
+LVN|Licensed vocational nurse
+LPN|Licensed practical nurse
+CNA|Certified nursing assistant
+CNA|Clinical nurse assistant
+PCA|Patient care assistant
+PCT|Patient care technician
+NA|Nursing assistant
+NA|Not applicable
+N/A|Not applicable
+UAP|Unlicensed assistive personnel
+CN|Charge nurse
+CRN|Charge registered nurse
+NM|Nurse manager
+CNS|Clinical nurse specialist
+CNS|Central nervous system
+NP|Nurse practitioner
+APP|Advanced practice provider
+APRN|Advanced practice registered nurse
+PA-C|Physician assistant, certified
+DO|Doctor of osteopathic medicine
+Attg|Attending
+Res|Resident
+PGY1|Postgraduate year 1
+PGY-1|Postgraduate year 1
+PGY2|Postgraduate year 2
+PGY3|Postgraduate year 3
+JAR|Junior assistant resident
+SAR|Senior assistant resident
+MS3|Third-year medical student
+MS4|Fourth-year medical student
+Sub-I|Sub-internship
+SubI|Sub-intern
+AI|Acting intern
+NF|Night float
+NF|Neurofibromatosis
+Cross-cover|Covering resident overnight
+XC|Cross-cover
+CC|Cross-cover
+HM|Hospital medicine
+IM|Internal medicine
+FM|Family medicine
+EM|Emergency medicine
+RT|Respiratory therapist
+RCP|Respiratory care practitioner
+RRT|Registered respiratory therapist
+CRT|Certified respiratory therapist
+CM|Case manager
+CM|Case management
+RNCM|Registered nurse case manager
+UM|Utilization management
+UR|Utilization review
+SW|Social work
+SW|Social worker
+MSW|Master of Social Work
+LCSW|Licensed clinical social worker
+CCM|Certified case manager
+WOC|Wound, ostomy and continence
+WOCN|Wound, ostomy and continence nurse
+WOC RN|Wound, ostomy and continence nurse
+CWOCN|Certified wound, ostomy, continence nurse
+WCN|Wound care nurse
+Chap|Chaplain
+SC|Spiritual care
+PC|Palliative care
+PCS|Palliative care service
+PCT|Palliative care team
+PCU|Palliative care unit
+Pall|Palliative
+CMO|Comfort measures only
+CC|Comfort care
+DNR|Do not resuscitate
+DNAR|Do not attempt resuscitation
+DNI|Do not intubate
+DNR/DNI|Do not resuscitate, do not intubate
+AND|Allow natural death
+FC|Full code
+POLST|Physician Orders for Life-Sustaining Treatment
+MOLST|Medical Orders for Life-Sustaining Treatment
+AHCD|Advance health care directive
+DPOA|Durable power of attorney
+DPOA-HC|Durable power of attorney for health care
+HCPOA|Health care power of attorney
+POA|Power of attorney
+POA|Present on admission
+HCP|Health care proxy
+HCP|Health care provider
+HCA|Health care agent
+SDM|Surrogate decision maker
+SDM|Shared decision making
+NOK|Next of kin
+GOC|Goals of care
+GOCD|Goals of care discussion
+FM|Family meeting
+FMtg|Family meeting
+ACP|Advance care planning
+SIC|Serious illness conversation
+DMC|Decision-making capacity
+AMA|Against medical advice
+LWBS|Left without being seen
+AWOL|Absent without leave
+5150|California 72-hour involuntary psychiatric hold
+5250|California 14-day involuntary hold certification
+LPS|Lanterman-Petris-Short conservatorship
+IVC|Involuntary commitment
+SI|Suicidal ideation
+HI|Homicidal ideation
+SI/HI|Suicidal or homicidal ideation
+AVH|Auditory or visual hallucinations
+AH|Auditory hallucinations
+VH|Visual hallucinations
+SIB|Self-injurious behavior
+SA|Suicide attempt
+SSRI|Selective serotonin reuptake inhibitor
+SNRI|Serotonin-norepinephrine reuptake inhibitor
+TCA|Tricyclic antidepressant
+MAOI|Monoamine oxidase inhibitor
+SGA|Second-generation antipsychotic
+FGA|First-generation antipsychotic
+NMS|Neuroleptic malignant syndrome
+SS|Serotonin syndrome
+EPS|Extrapyramidal symptoms
+TD|Tardive dyskinesia
+MDD|Major depressive disorder
+GAD|Generalized anxiety disorder
+BPAD|Bipolar affective disorder
+BAD|Bipolar affective disorder
+BD|Bipolar disorder
+SCZ|Schizophrenia
+PTSD|Post-traumatic stress disorder
+ADHD|Attention-deficit hyperactivity disorder
+OCD|Obsessive-compulsive disorder
+PHQ-9|Patient Health Questionnaire 9
+PHQ-2|Patient Health Questionnaire 2
+GAD-7|Generalized Anxiety Disorder 7-item scale
+C-SSRS|Columbia Suicide Severity Rating Scale
+CL|Consult-liaison psychiatry
+C/L|Consultation-liaison
+CL psych|Consultation-liaison psychiatry
+MSE|Mental status exam
+4-pt|Four-point restraints
+4PR|Four-point restraints
+B52|Haloperidol, lorazepam, diphenhydramine combination
+DPH|Diphenhydramine
+DCP|Discharge planning
+EDD|Expected discharge date
+EDOD|Estimated date of discharge
+ELOS|Expected length of stay
+GMLOS|Geometric mean length of stay
+LOS|Length of stay
+DCH|Discharge home
+Home w/ HH|Home with home health
+HwS|Home with services
+Auth|Insurance authorization
+Pre-auth|Prior authorization
+P2P|Peer-to-peer review
+IM letter|Important Message from Medicare notice
+IMM|Important Message from Medicare
+MOON|Medicare Outpatient Observation Notice
+NOMNC|Notice of Medicare Non-Coverage
+ABN|Advance Beneficiary Notice
+Obs|Observation status
+OBS|Observation status
+IP|Inpatient
+IP|Inpatient status
+OP|Outpatient
+2MN|Two-midnight rule
+CMS|Centers for Medicare and Medicaid Services
+CMS|Circulation, motor, sensation
+MCR|Medicare
+MCD|Medicaid
+Medi-Cal|California Medicaid
+MA|Medicare Advantage
+MA|Medical assistant
+HMO|Health maintenance organization
+PPO|Preferred provider organization
+SSI|Supplemental Security Income
+SSDI|Social Security Disability Insurance
+SSA|Social Security Administration
+GA|General assistance
+DRG|Diagnosis-related group
+MS-DRG|Medicare severity diagnosis-related group
+CC|Complication or comorbidity
+MCC|Major complication or comorbidity
+CDI|Clinical documentation integrity
+CDS|Clinical documentation specialist
+ICD-10|International Classification of Diseases, 10th revision
+CPT|Current Procedural Terminology
+E/M|Evaluation and management
+E&M|Evaluation and management
+MDM|Medical decision making
+RVU|Relative value unit
+wRVU|Work relative value unit
+PHI|Protected health information
+HIPAA|Health Insurance Portability and Accountability Act
+ROI|Release of information
+ROI|Region of interest
+MRN|Medical record number
+FIN|Financial identification number
+CSN|Contact serial number
+DOB|Date of birth
+SSN|Social Security number
+EHR|Electronic health record
+EMR|Electronic medical record
+CPOE|Computerized provider order entry
+BPA|Best practice advisory
+OPA|Our practice advisory
+IB|In Basket
+InBasket|Epic In Basket
+SmartPhrase|Epic SmartPhrase
+SBAR|Situation, background, assessment, recommendation
+I-PASS|Illness severity, patient summary, action list, situation awareness, synthesis
+IPASS|Illness severity, patient summary, action list, situation awareness, synthesis
+SO|Sign-out
+S/O|Sign-out
+TBD|To be determined
+TBA|To be arranged
+TBC|To be continued
+FYI|For your information
+NTD|Nothing to do
+NNO|No new orders
+NOO|New orders obtained
+MDA|Medical doctor aware
+RB|Read back
+RBV|Read back verified
+TORB|Telephone order read back
+VORB|Verbal order read back
+VO|Verbal order
+TO|Telephone order
+T/O|Telephone order
+V/O|Verbal order
+ATC|Around the clock
+RTC|Around the clock
+WTD|Wet-to-dry dressing
+W-D|Wet-to-dry dressing
+WD|Wet-to-dry dressing
+WTD|Wet to dry
+DSD|Dry sterile dressing
+DD|Dry dressing
+DD|Differential diagnosis
+C/D/I|Clean, dry, intact
+CDI|Clean, dry and intact
+c/d/i|Clean, dry and intact
+NPWT|Negative pressure wound therapy
+VAC|Vacuum-assisted closure wound therapy
+Wound VAC|Negative pressure wound therapy device
+Wound vac|Negative pressure wound therapy device
+PI|Pressure injury
+PU|Pressure ulcer
+HAPI|Hospital-acquired pressure injury
+DTI|Deep tissue injury
+DTPI|Deep tissue pressure injury
+MDRPI|Medical device-related pressure injury
+MASD|Moisture-associated skin damage
+IAD|Incontinence-associated dermatitis
+ITD|Intertriginous dermatitis
+SKT|Skin tear
+DFU|Diabetic foot ulcer
+VLU|Venous leg ulcer
+VSU|Venous stasis ulcer
+AU|Arterial ulcer
+L x W x D|Length by width by depth
+LxWxD|Length by width by depth
+Gran|Granulation tissue
+Epi|Epithelialization
+SS|Serosanguineous
+Sang|Sanguineous
+ABD|Abdominal pad dressing
+ABD|Abdomen
+Abd|Abdomen
+Ag|Silver
+BC|Barrier cream
+Q2 turns|Turn every 2 hours
+T&P|Turn and position
+TAP|Turn and position
+LAL|Low air loss mattress
+LAL mattress|Low air loss mattress
+FMS|Fecal management system
+PureWick|External female urinary catheter
+EUC|External urinary catheter
+UI|Urinary incontinence
+FI|Fecal incontinence
+DTV|Due to void
+Chux|Disposable underpad
+BS|Bladder scan
+I/S|Incentive spirometer
+Accu-Chek|Fingerstick glucose
+Accucheck|Fingerstick glucose
+Pulse ox|Pulse oximetry
+CPOx|Continuous pulse oximetry
+Strict I/O|Strict intake and output
+Daily wt|Daily weight
+OVS|Orthostatic vital signs
+Pt ed|Patient education
+Iso|Isolation
+Contact iso|Contact isolation
+CP|Contact precautions
+AIIR|Airborne infection isolation room
+PPE|Personal protective equipment
+N95|N95 respirator
+PAPR|Powered air-purifying respirator
+Std prec|Standard precautions
+IP|Infection prevention
+IC|Infection control
+CHG|Chlorhexidine gluconate
+CHG bath|Chlorhexidine bath
+NP swab|Nasopharyngeal swab
+Pt c/o|Patient complains of
+Per pt|According to patient
+CLWR|Call light within reach
+BLL|Bed in low and locked position
+SRx2|Side rails up times two
+SR up|Side rails up
+WCTM|Will continue to monitor
+WCM|Will continue to monitor
+Will cont to monitor|Will continue to monitor
+CTM|Continue to monitor
+Cont to monitor|Continue to monitor
+Pend|Pending
+Ppd|Pending
+P|Pending
+NAEO|No acute events overnight
+NAE|No acute events
+NEO|No events overnight
+ON|Overnight
+O/N|Overnight
+o/n|Overnight
+Interval hx|Interval history
+Subj|Subjective
+Obj|Objective
+A|Assessment
+P|Plan
+Imp|Impression
+Prob|Problem
+D/O|Disorder
+d/o|Disorder
+2/2|Secondary to
+2/2|Two out of two
+2/2 BCx|Two of two blood culture sets positive
+sec to|Secondary to
+d/t|Due to
+DT|Due to
+AOC|Acute on chronic
+A/C|Acute on chronic
+AoC|Acute on chronic
+vs|Versus
+vs.|Versus
+v/s|Vital signs
+ddx|Differential diagnosis
+ppx|Prophylaxis
+r/b/a|Risks, benefits, alternatives
+R/B/A|Risks, benefits and alternatives
+RBA|Risks, benefits, alternatives
+IC|Informed consent
+EBL|Estimated blood loss
+No comps|No complications
+POCUS-guided|Ultrasound-guided
+US-guided|Ultrasound-guided
+USG|Ultrasound-guided
+IJ|Internal jugular
+RIJ|Right internal jugular
+LIJ|Left internal jugular
+SC|Subclavian
+Fem|Femoral
+CFV|Common femoral vein
+CAJ|Cavoatrial junction
+Rad art|Radial artery
+TR band|Transradial compression band
+Steri-strips|Adhesive skin closures
+SR|Suture removal
+S/R|Suture or staple removal
+Post-op|Postoperative
+Pre-op|Preoperative
+Peri-op|Perioperative
+Intra-op|Intraoperative
+RCRI|Revised Cardiac Risk Index
+METs|Metabolic equivalents
+MET|Metabolic equivalent
+Anes|Anesthesia
+MAC|Monitored anesthesia care
+MAC|Mycobacterium avium complex
+MAC|Minimum alveolar concentration
+GETA|General endotracheal anesthesia
+LMA|Laryngeal mask airway
+PONV|Postoperative nausea and vomiting
+POUR|Postoperative urinary retention
+HP|Hold parameters
+CMI|Call MD if
+ATLS|Advanced Trauma Life Support
+GSW|Gunshot wound
+SW|Stab wound
+MVC|Motor vehicle collision
+MVA|Motor vehicle accident
+MCC|Motorcycle collision
+PVA|Pedestrian versus auto
+Ped vs auto|Pedestrian struck by vehicle
+GLF|Ground-level fall
+FFH|Fall from height
+FOOSH|Fall on outstretched hand
+HS|Head strike
++HS|Positive head strike
++LOC|Positive loss of consciousness
+-LOC|No loss of consciousness
+ETOH+|Alcohol intoxicated
+ICE|In case of emergency
+EMS|Emergency medical services
+BLS|Basic life support ambulance
+ALS|Advanced life support ambulance
+CCT|Critical care transport
+IFT|Interfacility transfer
+PTA|Prior to arrival
+EMT|Emergency medical technician
+SFFD|San Francisco Fire Department
+FD|Fire department
+PD|Police department
+ETA|Estimated time of arrival
+c/o|Complaining of
+BVM|Bag-valve mask
+OPA|Oropharyngeal airway
+NPA|Nasopharyngeal airway
+LUCAS|Mechanical CPR device
+BGL|Blood glucose level
+FD|Found down
+Medi-van|Wheelchair-accessible van transport
+PEH|People experiencing homelessness
+UH|Unhoused
+SRO|Single-room occupancy hotel
+MR|Medical respite
+SDOH|Social determinants of health
+APS|Adult Protective Services
+CPS|Child Protective Services
+IPV|Intimate partner violence
+DV|Domestic violence
+LEP|Limited English proficiency
+Spanish-speaking|Spanish language preference
+Fam|Family
+Dtr|Daughter
+Husb|Husband
+SO|Significant other
+GF|Girlfriend
+BF|Boyfriend
+Bro|Brother
+Sis|Sister
+Mo|Mother
+Fa|Father
+CG|Caregiver
+PCG|Primary caregiver
+Lives w/|Lives with
+SFH|Single-family home
+Apt|Apartment
+STE|Steps to enter
+1-story|Single-story home
+2-story|Two-story home
+Edu|Education
+Ins|Insurance
+PCP|Primary care physician
+Phys|Physician
+Doc|Doctor
+Recd|Recommended
+eConsult|Electronic consultation
+Cards|Cardiology
+Card|Cardiology
+Pulm|Pulmonology
+Neph|Nephrology
+ID|Infectious diseases
+Gen surg|General surgery
+Surg|Surgery
+ACS|Acute care surgery
+EGS|Emergency general surgery
+Vasc|Vascular surgery
+Optho|Ophthalmology
+Ophtho|Ophthalmology
+Ophtho|Ophthalmology consult
+ENT|Otolaryngology
+Gyn|Gynecology
+Pall|Palliative care
+Geri|Geriatrics
+ACE|Acute Care for Elders unit
+ACE|Angiotensin-converting enzyme
+Txp|Transplant
+Tx|Transplant
+LT|Liver transplant
+KT|Kidney transplant
+OLT|Orthotopic liver transplant
+LTx|Liver transplant
+KTx|Kidney transplant
+Tac|Tacrolimus
+FK|Tacrolimus
+FK506|Tacrolimus
+MMF|Mycophenolate mofetil
+CNI|Calcineurin inhibitor
+IS|Immunosuppression
+IC|Immunocompromised
+ICH|Immunocompromised host
+SOT|Solid organ transplant
+DSA|Donor-specific antibody
+DGF|Delayed graft function
+SLE|Systemic lupus erythematosus
+OA|Osteoarthritis
+DJD|Degenerative joint disease
+GCA|Giant cell arteritis
+AS|Ankylosing spondylitis
+SpA|Spondyloarthritis
+CPPD|Calcium pyrophosphate deposition disease
+ANA|Antinuclear antibody
+dsDNA|Anti-double-stranded DNA antibody
+ANCA|Antineutrophil cytoplasmic antibody
+CCP|Cyclic citrullinated peptide antibody
+C3/C4|Complement levels
+HCQ|Hydroxychloroquine
+MTX|Methotrexate
+TNFi|TNF inhibitor
+DMARD|Disease-modifying antirheumatic drug
+JAKi|Janus kinase inhibitor
+SA|Septic arthritis
+THA|Total hip arthroplasty
+TKA|Total knee arthroplasty
+THR|Total hip replacement
+TKR|Total knee replacement
+ORIF|Open reduction internal fixation
+CRPP|Closed reduction percutaneous pinning
+IMN|Intramedullary nail
+Hip fx|Hip fracture
+FNF|Femoral neck fracture
+ITF|Intertrochanteric fracture
+NVI|Neurovascularly intact
+NV intact|Neurovascularly intact
+CSM|Circulation, sensation, motion
+SILT|Sensation intact to light touch
+Cap refill|Capillary refill
+CR|Capillary refill
+CRT|Capillary refill time
+DP|Dorsalis pedis pulse
+PT|Posterior tibial pulse
+2+|Normal pulse
+1+|Diminished pulse
+BLE edema|Bilateral lower extremity edema
+HSM|Hepatosplenomegaly
+SM|Splenomegaly
+HM|Hepatomegaly
+LAD|Lymphadenopathy
+LAN|Lymphadenopathy
+LN|Lymph node
+LNs|Lymph nodes
+HJR|Hepatojugular reflux
+AJR|Abdominojugular reflux
+PMI|Point of maximal impulse
+S1S2|First and second heart sounds
+S3|Third heart sound
+S4|Fourth heart sound
+SEM|Systolic ejection murmur
+HSM|Holosystolic murmur
+LUSB|Left upper sternal border
+RUSB|Right upper sternal border
+LLSB|Left lower sternal border
+IRIR|Irregularly irregular
+HoTN|Hypotension
+HOTN|Hypotension
+Hypotn|Hypotension
+HTN emergency|Hypertensive emergency
+HTN urgency|Hypertensive urgency
+SBP>180|Systolic blood pressure above 180
+Afeb|Afebrile
+AF|Afebrile
+Wean to RA|Wean to room air
+On RA|On room air
+SaRA|Saturating on room air
+FC|Follows commands
+F/C|Follows commands
+FCx2|Follows two-step commands
+OX3|Oriented times three
+Ox1|Oriented to self only
+A&O|Alert and oriented
+AxO|Alert and oriented
+Non-verbal|Nonverbal
+HZ|Herpes zoster
+I&D|Incision and drainage
+NSTI|Necrotizing soft tissue infection
+Nec fasc|Necrotizing fasciitis
+DFI|Diabetic foot infection
+Amp|Amputation
+BKA|Below-knee amputation
+AKA|Above-knee amputation
+AKA|Also known as
+TMA|Transmetatarsal amputation
+Toe amp|Toe amputation
+Fem-pop|Femoral-popliteal bypass
+CLI|Critical limb ischemia
+CLTI|Chronic limb-threatening ischemia
+ALI|Acute limb ischemia
+AAA|Abdominal aortic aneurysm
+EVAR|Endovascular aneurysm repair
+CEA|Carotid endarterectomy
+CEA|Carcinoembryonic antigen
+CAS|Carotid artery stenting
+SVC|Superior vena cava
+IVC filter|Inferior vena cava filter
+IVCF|Inferior vena cava filter
+EJ|External jugular IV
+IO|Intraosseous access
+Port-a-cath|Implanted venous port
+DEXA|Dual-energy x-ray absorptiometry
+DXA|Dual-energy x-ray absorptiometry
+OP|Osteoporosis
+BMD|Bone mineral density
+FRAX|Fracture Risk Assessment Tool
+Ca/vitD|Calcium and vitamin D
+Hypo-K|Hypokalemia
+HypoK|Hypokalemia
+HyperK|Hyperkalemia
+HypoNa|Hyponatremia
+HyperNa|Hypernatremia
+HypoMg|Hypomagnesemia
+HypoCa|Hypocalcemia
+HyperCa|Hypercalcemia
+HypoPhos|Hypophosphatemia
+KCl|Potassium chloride
+KPhos|Potassium phosphate
+K-Phos|Potassium phosphate
+NaPhos|Sodium phosphate
+MgSO4|Magnesium sulfate
+MgOx|Magnesium oxide
+Mag ox|Magnesium oxide
+CaGluc|Calcium gluconate
+Ca gluc|Calcium gluconate
+CaCl|Calcium chloride
+NaHCO3|Sodium bicarbonate
+Bicarb gtt|Sodium bicarbonate infusion
+SPS|Sodium polystyrene sulfonate
+SZC|Sodium zirconium cyclosilicate
+HTS|Hypertonic saline
+3%|Three percent hypertonic saline
+3% NS|Three percent hypertonic saline
+23.4%|23.4 percent hypertonic saline
+NaCl tabs|Sodium chloride tablets
+25% alb|Twenty-five percent albumin
+mL/kg|Milliliters per kilogram
+PLR|Passive leg raise
+Net neg|Net negative fluid balance
+Net pos|Net positive fluid balance
+Net even|Net even fluid balance
+Vol overload|Volume overload
+VO|Volume overload
+CS|Cardiogenic shock
+SCAI|Society for Cardiovascular Angiography and Interventions shock stage
+SEP-1|CMS sepsis bundle measure
+Pan-cx|Pan-culture
+Pan-culture|Cultures of blood, urine, and sputum
+De-escalate|Narrow antibiotics
+IV to PO|Intravenous to oral conversion
+EOT|End of therapy
+Tmax|Maximum temperature in last 24 hours
+Tx|Transfusion
+Txn|Transfusion
+Coag|Coagulopathy
+Anti-Xa|Anti-factor Xa level
+Xa|Anti-factor Xa level
+Hold AC|Hold anticoagulation
+ACC|Anticoagulation clinic
+CHA2DS2-VASc|Stroke risk score in atrial fibrillation
+CHADS-VASc|Stroke risk score in atrial fibrillation
+HAS-BLED|Bleeding risk score
+PERC|Pulmonary Embolism Rule-out Criteria
+PESI|Pulmonary Embolism Severity Index
+sPESI|Simplified Pulmonary Embolism Severity Index
+HEART|HEART score for chest pain
+TIMI|Thrombolysis in Myocardial Infarction score
+GRACE|Global Registry of Acute Coronary Events score
+CURB-65|Pneumonia severity score
+PSI|Pneumonia Severity Index
+Glasgow-Blatchford|Upper GI bleed risk score
+GBS|Glasgow-Blatchford score
+BISAP|Bedside Index of Severity in Acute Pancreatitis
+IMPROVE|IMPROVE VTE or bleeding risk score
+PREVENT|PREVENT cardiovascular risk equations
+STOP-BANG|Obstructive sleep apnea screening tool
+AUDIT-C|Alcohol use screening tool
+CAGE|Alcohol screening questionnaire
+GDS|Geriatric Depression Scale
+MFS|Morse Fall Scale
+NEWS|National Early Warning Score
+MEWS|Modified Early Warning Score
+DI|Deterioration Index
+EWS|Early warning score
+APACHE|Acute Physiology and Chronic Health Evaluation
+LACE|Readmission risk index
+CCI|Charlson Comorbidity Index
+CFS|Clinical Frailty Scale
+FTT|Failure to thrive
+GW|Generalized weakness
+Unsafe d/c|Unsafe discharge
+MSFD|Medically stable for discharge
+MRFD|Medically ready for discharge
+Med ready|Medically ready for discharge
+DC tmrw|Discharge tomorrow
+Tmrw|Tomorrow
+Tmw|Tomorrow
+Tom|Tomorrow
+Yday|Yesterday
+Yest|Yesterday
+Hrs|Hours
+hr|Hour
+h|Hour
+min|Minutes
+wk|Week
+wks|Weeks
+mo|Month
+mos|Months
+yr|Year
+yrs|Years
+d|Day
+d#|Day number
+Wkd|Weekend
+WE|Weekend
+AM|Morning
+PM|Evening
+AM labs|Morning labs
+QNS|Quantity not sufficient
+Add on|Add-on lab test
+Crit|Critical value
+Crit|Hematocrit
+H|High
+L|Low
+HH|Critical high
+LL|Critical low
+Abnl|Abnormal
+Nl|Normal
+nl|Normal
+Neg|Negative
+Pos|Positive
++|Positive
+-|Negative
+Mod|Moderate
+Sl|Slight
+TNTC|Too numerous to count
+HPF|High-power field
+LPF|Low-power field
+RBC/hpf|Red blood cells per high-power field
+WBC/hpf|White blood cells per high-power field
+Epis|Epithelial cells
+SqEpi|Squamous epithelial cells
+BHB|Beta-hydroxybutyrate
+Gap|Anion gap
+Osm gap|Osmolar gap
+OG|Osmolar gap
+Path|Pathology
+Cyto|Cytology
+FNA|Fine-needle aspiration
+Core bx|Core needle biopsy
+IHC|Immunohistochemistry
+Flow|Flow cytometry
+FISH|Fluorescence in situ hybridization
+NGS|Next-generation sequencing
+BMBx|Bone marrow biopsy
+Wet read|Preliminary radiology read
+Rads|Radiology
+Gad|Gadolinium
+Mod sed|Moderate sedation
+Tele|Telemetry monitoring
+On tele|On telemetry
+Off tele|Off telemetry
+QTc|Corrected QT interval
+QT|QT interval
+QRS|QRS duration
+RAD|Right axis deviation
+NSSTTW|Nonspecific ST-T wave changes
+NSSTTWC|Nonspecific ST-T wave changes
+STTW|ST and T wave
+TWF|T-wave flattening
+V-paced|Ventricular paced
+A-paced|Atrial paced
+ATP|Antitachycardia pacing
+ATP|Adenosine triphosphate
+LifeVest|Wearable cardioverter-defibrillator
+WCD|Wearable cardioverter-defibrillator
+Zio|Zio patch ambulatory monitor
+ILR|Implantable loop recorder
+Nuc|Nuclear stress test
+CCTA|Coronary CT angiography
+CAC|Coronary artery calcium score
+FFR|Fractional flow reserve
+LVEDP|Left ventricular end-diastolic pressure
+Fick|Fick cardiac output
+TD|Thermodilution
+SvO2|Mixed venous oxygen saturation
+ScvO2|Central venous oxygen saturation
+MvO2|Mixed venous oxygen saturation
+CPO|Cardiac power output
+PAPi|Pulmonary artery pulsatility index
+MCS|Mechanical circulatory support
+tMCS|Temporary mechanical circulatory support
+HFrecEF|Heart failure with recovered ejection fraction
+NYHA|New York Heart Association class
+ACC/AHA|American College of Cardiology and American Heart Association
+Warm/wet|Warm and wet hemodynamic profile
+Cold/wet|Cold and wet hemodynamic profile
+Warm/dry|Warm and dry hemodynamic profile
+SCAD|Spontaneous coronary artery dissection
+MINOCA|Myocardial infarction with nonobstructive coronary arteries
+Type 2 MI|Supply-demand myocardial infarction
+T2MI|Type 2 myocardial infarction
+OH|Orthostatic hypotension
+POTS|Postural orthostatic tachycardia syndrome
+Palps|Palpitations
+Palp|Palpitations
+ACT|Asthma Control Test
+EIB|Exercise-induced bronchoconstriction
+COPD exac|COPD exacerbation
+Exac|Exacerbation
+GOLD|Global Initiative for Chronic Obstructive Lung Disease stage
+CBI|Continuous bladder irrigation
+3-way|Three-way Foley catheter
++flatus|Passing gas
++BM|Had bowel movement
+Tol PO|Tolerating oral intake
+Poor PO|Poor oral intake
+25%|Ate a quarter of meal
+Wt loss|Weight loss
+B sx|B symptoms
+EpiPen|Epinephrine autoinjector
+Epi IM|Intramuscular epinephrine
+Rxn|Reaction
+Vit|Vitamin
+Supp|Supplement
+Gaba|Gabapentin
+APS|Acute Pain Service
+BT|Breakthrough
+BTP|Breakthrough pain
+POSS|Pasero Opioid-Induced Sedation Scale
+OIC|Opioid-induced constipation
+OIH|Opioid-induced hyperalgesia
+PDMP|Prescription drug monitoring program
+CURES|California prescription drug monitoring program
+CSA|Controlled substance agreement
+C-II|Schedule II controlled substance
+UTOX|Urine toxicology
+SSP|Syringe services program
+Micro-induction|Low-dose buprenorphine initiation
+LDBI|Low-dose buprenorphine induction
+XR-NTX|Extended-release naltrexone
+PB|Phenobarbital
+CRAFFT|Adolescent substance use screen
+Drinks/day|Standard drinks per day
+DPD|Drinks per day
+Pk/day|Packs per day
+Ppd|Packs per day
+AA|Alcoholics Anonymous
+AA|African American
+NA|Narcotics Anonymous
+IOP|Intensive outpatient program
+IOP|Intraocular pressure
+PHP|Partial hospitalization program
+ACS|Addiction consult service
+AMS|Addiction medicine service
+IPU|Inpatient psychiatric unit
+PES|Psychiatric emergency services
+CPEP|Comprehensive psychiatric emergency program
+GD|Gravely disabled
+DTS|Danger to self
+DTO|Danger to others
+DTS/DTO|Danger to self or others
+BFCRS|Bush-Francis Catatonia Rating Scale
+ECT|Electroconvulsive therapy
+LAI|Long-acting injectable antipsychotic
+Li|Lithium
+fPHT|Fosphenytoin
+ILE|Intravenous lipid emulsion
+RFS|Refeeding syndrome
+Cal count|Calorie count
+ProSource|Liquid protein supplement
+Cont TF|Continuous tube feeds
+TF @ goal|Tube feeds at goal rate
+LIWS|Low intermittent wall suction
+JP output|Jackson-Pratt drain output
+HOO|High-output ostomy
+WS|Water seal
+-20 suction|Chest tube to minus 20 cm water suction
+Pleur-evac|Chest drainage system
+Pull CT|Remove chest tube
+EBP|Enhanced barrier precautions
+EBP|Evidence-based practice
+SNF rehab|Skilled nursing facility rehabilitation
+QIO|Quality Improvement Organization
+3MN|Three-midnight inpatient stay rule for SNF coverage
+OOP|Out-of-pocket
+Meds to beds|Bedside medication delivery program
+M2B|Meds to beds
+eRx|Electronic prescription
+Rx sent|Prescription sent
+GoodRx|Discount drug pricing service
+PAP|Patient assistance program
+AVS|After visit summary
+RTED|Return to emergency department
+If/then|Contingency plan
+TD|To do
+F/U labs|Follow up labs
+Chk|Check
+Ck|Check
+D/w|Discussed with
+d/w|Discussed with
+Disc w/|Discussed with
+Spoke w/|Spoke with
+s/w|Spoke with
+c/s|Consult
+c/s|C-section
+C/S|Cesarean section
+C/S|Culture and sensitivity
+C&S|Culture and sensitivity
+CS|Cesarean section
+Pg|Page
+VM|Voicemail
+LVM|Left voicemail
+SC|Secure chat
+CB|Call back
+x|Extension
+ext|Extension
+Pls|Please
+pls|Please
+Thx|Thanks
+Thnx|Thanks
+ty|Thank you
+TY|Thank you
+re|Regarding
+Re:|Regarding
+NTR|Nothing to report
+NNTR|Nothing new to report
+NFN|Nothing further needed
+NOTED|Acknowledged
+Ack|Acknowledged
+Pt aware|Patient informed
+Fam aware|Family informed
+ABS|At bedside
+Noc|Night shift
+NOC|Night shift
+7a-7p|Day shift
+7p-7a|Night shift
+IDR|Interdisciplinary rounds
+MDR|Multidisciplinary rounds
+IDT|Interdisciplinary team
+Xfer|Transfer
+LOC|Level of care
+Adm|Admission
+Admit H&P|Admission history and physical
+PN|Progress note
+TOD|Time of death
+ME|Medical examiner
+OPO|Organ procurement organization
+Op note|Operative note
+FS|Flowsheet
+LDA|Lines, drains and airways
+LDAs|Lines, drains and airways
+Doc|Documentation
+Pend|Pend order
+S&H|Signed and held
+OS|Order set
+NDP|Nurse-driven protocol
+CMS checks|Circulation, motor, sensation checks
+NV checks|Neurovascular checks
+CHG wipes|Chlorhexidine wipes
+SAT/SBT|Paired spontaneous awakening and breathing trials
+EOB|Edge of bed
+Sitting EOB|Sitting at edge of bed
+LH sponge|Long-handled sponge
+AE|Adaptive equipment
+AE|Adverse event
+STM|Short-term memory
+EF|Executive function
+Mini-Cog|Mini-Cog screen
+Overt s/s asp|Overt signs and symptoms of aspiration
+s/s|Signs and symptoms
+S/S|Signs and symptoms
+s/sx|Signs and symptoms
+Silent asp|Silent aspiration
+PMV|Passy-Muir speaking valve
+PMSV|Passy-Muir speaking valve
+AAC|Augmentative and alternative communication
+HOH|Hard of hearing
+HA|Hearing aid
+PSA|Patient safety attendant
+PSA|Prostate-specific antigen
+VM|Virtual monitoring
+Tele-sitter|Remote video safety monitoring
+Fall w/o injury|Fall without injury
+SRS|Safety reporting system
+RL|Safety event report
+RCA|Root cause analysis
+Accu|Fingerstick glucose
+Hep|Heparin
+Hep|Hepatitis
+Renal fxn|Renal function
+Fxn|Function
+fxn|Function
+Hx of|History of
+Cr bump|Small creatinine rise
+BL Cr|Baseline creatinine
+b/l|Baseline
+Dec|Decreased
+incr|Increased
+decr|Decreased
+inc|Increase
+dec|Decrease
+sig|Significant
+~|Approximately
+>|Greater than
+<|Less than
+@|At
+&|And
++/-|With or without
++/−|Plus or minus
+c|With
+s|Without
+p|After
+a|Before
+pre|Before
+xN|Times N
+x|Times
+Rx|Treatment
+Ddx|Differential diagnosis
+Tx|Therapy
+Mgmt|Management
+Mgt|Management
+Pts|Patients
+Hosp|Hospital
+Adm|Admitted
+OSH|Outside hospital
+OSF|Outside facility
+OSR|Outside records
+CE|Care Everywhere
+CareEverywhere|Epic external records exchange
+SFGH|San Francisco General Hospital
+ZSFG|Zuckerberg San Francisco General Hospital
+VA|Veterans Affairs
+VAMC|Veterans Affairs Medical Center
+SFVA|San Francisco VA Medical Center
+KP|Kaiser Permanente
+UCSF|University of California, San Francisco
+MZ|Mount Zion campus
+MB|Mission Bay campus
+GIM|General internal medicine
+Clinic f/u|Clinic follow-up
+Appt|Appointment
+OV|Office visit
+RV|Return visit
+TV|Telehealth visit
+No show|Missed appointment
+NS|No show
+LTFU|Lost to follow-up
+RTC 2 wks|Return to clinic in two weeks
+PRN f/u|Follow up as needed
+FIT|Fecal immunochemical test
+FOBT|Fecal occult blood test
+gFOBT|Guaiac fecal occult blood test
+Gu+|Guaiac positive
+G+|Guaiac positive
+FIT-DNA|Multitarget stool DNA test
+LDCT|Low-dose CT lung cancer screening
+Vax|Vaccination
+Imm|Immunizations
+UTD|Up to date
+UTD|Unable to determine
+Pt declined|Patient declined
+Ref|Refused
+Non-adherent|Not taking medications as prescribed
+Pill box|Weekly pill organizer
+Ed|Education
+Ed|Emergency department
+CDE|Certified diabetes educator
+CDCES|Certified diabetes care and education specialist
+S&E|Seen and examined
+Agree w/|Agree with
+Split/shared|Split or shared visit

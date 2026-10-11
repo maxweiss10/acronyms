@@ -1,0 +1,229 @@
+HD|Hemodialysis|Dialysis Nursing
+iHD|Intermittent hemodialysis|Dialysis Nursing
+IHD|Intermittent hemodialysis|Dialysis Nursing
+HHD|Home hemodialysis|Dialysis Nursing
+ICHD|In-center hemodialysis|Dialysis Nursing
+NHD|Nocturnal hemodialysis|Dialysis Nursing
+SDHD|Short daily hemodialysis|Dialysis Nursing
+HDF|Hemodiafiltration|Dialysis Nursing
+PD|Peritoneal dialysis|Dialysis Nursing
+CAPD|Continuous ambulatory peritoneal dialysis|Dialysis Nursing
+APD|Automated peritoneal dialysis|Dialysis Nursing
+CCPD|Continuous cycling peritoneal dialysis|Dialysis Nursing
+NIPD|Nocturnal intermittent peritoneal dialysis|Dialysis Nursing
+IPD|Intermittent peritoneal dialysis|Dialysis Nursing
+TPD|Tidal peritoneal dialysis|Dialysis Nursing
+CRRT|Continuous renal replacement therapy|Dialysis Nursing
+CKRT|Continuous kidney replacement therapy|Dialysis Nursing
+CVVH|Continuous venovenous hemofiltration|Dialysis Nursing
+CVVHD|Continuous venovenous hemodialysis|Dialysis Nursing
+CVVHDF|Continuous venovenous hemodiafiltration|Dialysis Nursing
+SCUF|Slow continuous ultrafiltration|Dialysis Nursing
+SLED|Sustained low-efficiency dialysis|Dialysis Nursing
+SLEDD|Sustained low-efficiency daily dialysis|Dialysis Nursing
+EDD|Extended daily dialysis|Dialysis Nursing
+PIRRT|Prolonged intermittent renal replacement therapy|Dialysis Nursing
+RRT|Renal replacement therapy|Dialysis Nursing
+KRT|Kidney replacement therapy|Dialysis Nursing
+TPE|Therapeutic plasma exchange|Dialysis Nursing
+PLEX|Plasma exchange|Dialysis Nursing
+UF|Ultrafiltration|Dialysis Nursing
+UFR|Ultrafiltration rate|Dialysis Nursing
+UF goal|Ultrafiltration goal|Dialysis Nursing
+Net UF|Net ultrafiltration|Dialysis Nursing
+NUF|Net ultrafiltration|Dialysis Nursing
+Qf|Ultrafiltration flow rate|Dialysis Nursing
+FF|Filtration fraction|Dialysis Nursing
+Qeff|Effluent flow rate|Dialysis Nursing
+RF|Replacement fluid|Dialysis Nursing
+FO|Fluid overload|Dialysis Nursing
+FB|Fluid balance|Dialysis Nursing
+AVF|Arteriovenous fistula|Dialysis Nursing
+AV fistula|Arteriovenous fistula|Dialysis Nursing
+AVG|Arteriovenous graft|Dialysis Nursing
+AV graft|Arteriovenous graft|Dialysis Nursing
+AVA|Arteriovenous access|Dialysis Nursing
+VA|Vascular access|Dialysis Nursing
+PTFE|Polytetrafluoroethylene graft|Dialysis Nursing
+RCF|Radiocephalic fistula|Dialysis Nursing
+BCF|Brachiocephalic fistula|Dialysis Nursing
+BBF|Brachiobasilic fistula|Dialysis Nursing
+BBT|Brachiobasilic transposition|Dialysis Nursing
+LUE|Left upper extremity|Dialysis Nursing
+RUE|Right upper extremity|Dialysis Nursing
+TDC|Tunneled dialysis catheter|Dialysis Nursing
+TCC|Tunneled cuffed catheter|Dialysis Nursing
+HD cath|Hemodialysis catheter|Dialysis Nursing
+HDC|Hemodialysis catheter|Dialysis Nursing
+CVC|Central venous catheter|Dialysis Nursing
+NTC|Non-tunneled catheter|Dialysis Nursing
+NTDC|Non-tunneled dialysis catheter|Dialysis Nursing
+Temp cath|Temporary dialysis catheter|Dialysis Nursing
+IJ|Internal jugular|Dialysis Nursing
+RIJ|Right internal jugular|Dialysis Nursing
+LIJ|Left internal jugular|Dialysis Nursing
+Fem|Femoral|Dialysis Nursing
+CVS|Central vein stenosis|Dialysis Nursing
+AP|Arterial pressure|Dialysis Nursing
+VP|Venous pressure|Dialysis Nursing
+TMP|Transmembrane pressure|Dialysis Nursing
+BFR|Blood flow rate|Dialysis Nursing
+Qb|Blood flow rate|Dialysis Nursing
+QB|Blood flow rate|Dialysis Nursing
+Qd|Dialysate flow rate|Dialysis Nursing
+QD|Dialysate flow rate|Dialysis Nursing
+DFR|Dialysate flow rate|Dialysis Nursing
+EDW|Estimated dry weight|Dialysis Nursing
+DW|Dry weight|Dialysis Nursing
+TW|Target weight|Dialysis Nursing
+Pre-wt|Pre-dialysis weight|Dialysis Nursing
+Post-wt|Post-dialysis weight|Dialysis Nursing
+IDWG|Interdialytic weight gain|Dialysis Nursing
+K bath|Potassium dialysate bath|Dialysis Nursing
+0K|Zero potassium dialysate bath|Dialysis Nursing
+1K|1 mEq per L potassium dialysate bath|Dialysis Nursing
+2K|2 mEq per L potassium dialysate bath|Dialysis Nursing
+3K|3 mEq per L potassium dialysate bath|Dialysis Nursing
+4K|4 mEq per L potassium dialysate bath|Dialysis Nursing
+Ca bath|Calcium dialysate bath|Dialysis Nursing
+2.5 Ca|2.5 mEq per L calcium dialysate bath|Dialysis Nursing
+2.5Ca|2.5 mEq per L calcium dialysate bath|Dialysis Nursing
+3.0 Ca|3.0 mEq per L calcium dialysate bath|Dialysis Nursing
+Na modeling|Sodium modeling|Dialysis Nursing
+HCO3|Bicarbonate|Dialysis Nursing
+Bicarb|Bicarbonate|Dialysis Nursing
+UFH|Unfractionated heparin|Dialysis Nursing
+HIT|Heparin-induced thrombocytopenia|Dialysis Nursing
+RCA|Regional citrate anticoagulation|Dialysis Nursing
+ACD-A|Anticoagulant citrate dextrose solution A|Dialysis Nursing
+TSC|Trisodium citrate|Dialysis Nursing
+iCa|Ionized calcium|Dialysis Nursing
+tCa|Total calcium|Dialysis Nursing
+tPA|Tissue plasminogen activator|Dialysis Nursing
+CLS|Catheter lock solution|Dialysis Nursing
+Kt/V|Dialyzer clearance times treatment time divided by urea volume of distribution|Dialysis Nursing
+spKt/V|Single-pool Kt/V|Dialysis Nursing
+eKt/V|Equilibrated Kt/V|Dialysis Nursing
+stdKt/V|Standard Kt/V|Dialysis Nursing
+URR|Urea reduction ratio|Dialysis Nursing
+nPCR|Normalized protein catabolic rate|Dialysis Nursing
+PCR|Protein catabolic rate|Dialysis Nursing
+nPNA|Normalized protein nitrogen appearance|Dialysis Nursing
+BUN|Blood urea nitrogen|Dialysis Nursing
+Recirc|Recirculation|Dialysis Nursing
+AR|Access recirculation|Dialysis Nursing
+KoA|Dialyzer mass transfer area coefficient|Dialysis Nursing
+Kuf|Ultrafiltration coefficient|Dialysis Nursing
+KUF|Ultrafiltration coefficient|Dialysis Nursing
+HF|High-flux|Dialysis Nursing
+LF|Low-flux|Dialysis Nursing
+MCO|Medium cut-off|Dialysis Nursing
+RKF|Residual kidney function|Dialysis Nursing
+RRF|Residual renal function|Dialysis Nursing
+IDH|Intradialytic hypotension|Dialysis Nursing
+IDHTN|Intradialytic hypertension|Dialysis Nursing
+DDS|Dialysis disequilibrium syndrome|Dialysis Nursing
+BLD|Blood leak detector|Dialysis Nursing
+RO|Reverse osmosis|Dialysis Nursing
+CFU|Colony-forming units|Dialysis Nursing
+EU|Endotoxin units|Dialysis Nursing
+PTA|Percutaneous transluminal angioplasty|Dialysis Nursing
+IR|Interventional radiology|Dialysis Nursing
+DRIL|Distal revascularization and interval ligation|Dialysis Nursing
+DASS|Dialysis access-associated steal syndrome|Dialysis Nursing
+HAIDI|Hemodialysis access-induced distal ischemia|Dialysis Nursing
+RUDI|Revision using distal inflow|Dialysis Nursing
+CRBSI|Catheter-related bloodstream infection|Dialysis Nursing
+CLABSI|Central line-associated bloodstream infection|Dialysis Nursing
+BSI|Bloodstream infection|Dialysis Nursing
+ESI|Exit site infection|Dialysis Nursing
+PDAP|Peritoneal dialysis-associated peritonitis|Dialysis Nursing
+EPS|Encapsulating peritoneal sclerosis|Dialysis Nursing
+ISPD|International society for peritoneal dialysis|Dialysis Nursing
+MRSA|Methicillin-resistant Staphylococcus aureus|Dialysis Nursing
+VRE|Vancomycin-resistant Enterococcus|Dialysis Nursing
+HBV|Hepatitis B virus|Dialysis Nursing
+HBsAg|Hepatitis B surface antigen|Dialysis Nursing
+Anti-HBs|Hepatitis B surface antibody|Dialysis Nursing
+HCV|Hepatitis C virus|Dialysis Nursing
+PD cath|Peritoneal dialysis catheter|Dialysis Nursing
+1.5%|1.5% dextrose dialysis solution|Dialysis Nursing
+2.5%|2.5% dextrose dialysis solution|Dialysis Nursing
+4.25%|4.25% dextrose dialysis solution|Dialysis Nursing
+Ico|Icodextrin|Dialysis Nursing
+FV|Fill volume|Dialysis Nursing
+TTV|Total therapy volume|Dialysis Nursing
+PET|Peritoneal equilibration test|Dialysis Nursing
+D/P|Dialysate-to-plasma ratio|Dialysis Nursing
+D/P Cr|Dialysate-to-plasma creatinine ratio|Dialysis Nursing
+D/D0|Dialysate glucose to initial dialysate glucose ratio|Dialysis Nursing
+MTAC|Mass transfer area coefficient|Dialysis Nursing
+ESRD|End-stage renal disease|Dialysis Nursing
+ESKD|End-stage kidney disease|Dialysis Nursing
+CKD|Chronic kidney disease|Dialysis Nursing
+CKD 5D|Chronic kidney disease stage 5 on dialysis|Dialysis Nursing
+AKI|Acute kidney injury|Dialysis Nursing
+AKI-D|Acute kidney injury requiring dialysis|Dialysis Nursing
+GFR|Glomerular filtration rate|Dialysis Nursing
+eGFR|Estimated glomerular filtration rate|Dialysis Nursing
+Cr|Creatinine|Dialysis Nursing
+K|Potassium|Dialysis Nursing
+Phos|Phosphorus|Dialysis Nursing
+PO4|Phosphate|Dialysis Nursing
+Alb|Albumin|Dialysis Nursing
+Hgb|Hemoglobin|Dialysis Nursing
+CKD-MBD|Chronic kidney disease mineral and bone disorder|Dialysis Nursing
+MBD|Mineral and bone disorder|Dialysis Nursing
+SHPT|Secondary hyperparathyroidism|Dialysis Nursing
+PTH|Parathyroid hormone|Dialysis Nursing
+iPTH|Intact parathyroid hormone|Dialysis Nursing
+ESA|Erythropoiesis-stimulating agent|Dialysis Nursing
+TSAT|Transferrin saturation|Dialysis Nursing
+Fe|Iron|Dialysis Nursing
+MWF|Monday, Wednesday, Friday|Dialysis Nursing
+M/W/F|Monday, Wednesday, Friday|Dialysis Nursing
+TTS|Tuesday, Thursday, Saturday|Dialysis Nursing
+TuThSa|Tuesday, Thursday, Saturday|Dialysis Nursing
+TThS|Tuesday, Thursday, Saturday|Dialysis Nursing
+T/Th/Sa|Tuesday, Thursday, Saturday|Dialysis Nursing
+Tx|Treatment|Dialysis Nursing
+Pre-tx|Pretreatment|Dialysis Nursing
+Post-tx|Posttreatment|Dialysis Nursing
+Missed tx|Missed treatment|Dialysis Nursing
+AMA|Against medical advice|Dialysis Nursing
+CMS|Centers for Medicare and Medicaid services|Dialysis Nursing
+CMS 2728|ESRD medical evidence report form|Dialysis Nursing
+2728|ESRD medical evidence report form|Dialysis Nursing
+CMS 2746|ESRD death notification form|Dialysis Nursing
+QIP|Quality incentive program|Dialysis Nursing
+ESRD QIP|ESRD quality incentive program|Dialysis Nursing
+EQRS|ESRD quality reporting system|Dialysis Nursing
+NHSN|National healthcare safety network|Dialysis Nursing
+KDOQI|Kidney disease outcomes quality initiative|Dialysis Nursing
+KDIGO|Kidney disease improving global outcomes|Dialysis Nursing
+ANNA|American nephrology nurses association|Dialysis Nursing
+CNN|Certified nephrology nurse|Dialysis Nursing
+CDN|Certified dialysis nurse|Dialysis Nursing
+CCHT|Certified clinical hemodialysis technician|Dialysis Nursing
+CHT|Certified hemodialysis technician|Dialysis Nursing
+PCT|Patient care technician|Dialysis Nursing
+IDT|Interdisciplinary team|Dialysis Nursing
+POC|Plan of care|Dialysis Nursing
+LDO|Large dialysis organization|Dialysis Nursing
+KT|Kidney transplant|Dialysis Nursing
+KTx|Kidney transplant|Dialysis Nursing
+LDKT|Living donor kidney transplant|Dialysis Nursing
+DDKT|Deceased donor kidney transplant|Dialysis Nursing
+UNOS|United network for organ sharing|Dialysis Nursing
+OPTN|Organ procurement and transplantation network|Dialysis Nursing
+PRA|Panel reactive antibody|Dialysis Nursing
+cPRA|Calculated panel reactive antibody|Dialysis Nursing
+HLA|Human leukocyte antigen|Dialysis Nursing
+KDPI|Kidney donor profile index|Dialysis Nursing
+VS|Vital signs|Dialysis Nursing
+BP|Blood pressure|Dialysis Nursing
+HR|Heart rate|Dialysis Nursing
+NS|Normal saline|Dialysis Nursing
+SOB|Shortness of breath|Dialysis Nursing
+N/V|Nausea and vomiting|Dialysis Nursing
+ECMO|Extracorporeal membrane oxygenation|Dialysis Nursing

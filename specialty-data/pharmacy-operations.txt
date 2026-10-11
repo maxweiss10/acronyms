@@ -1,0 +1,353 @@
+RPh|Registered pharmacist|Pharmacy Operations
+PharmD|Doctor of pharmacy|Pharmacy Operations
+CPhT|Certified pharmacy technician|Pharmacy Operations
+PIC|Pharmacist in charge|Pharmacy Operations
+BCPS|Board certified pharmacotherapy specialist|Pharmacy Operations
+BCCCP|Board certified critical care pharmacist|Pharmacy Operations
+BCIDP|Board certified infectious diseases pharmacist|Pharmacy Operations
+BCOP|Board certified oncology pharmacist|Pharmacy Operations
+BCPPS|Board certified pediatric pharmacy specialist|Pharmacy Operations
+BCGP|Board certified geriatric pharmacist|Pharmacy Operations
+BCCP|Board certified cardiology pharmacist|Pharmacy Operations
+BCACP|Board certified ambulatory care pharmacist|Pharmacy Operations
+BCNSP|Board certified nutrition support pharmacist|Pharmacy Operations
+BCPP|Board certified psychiatric pharmacist|Pharmacy Operations
+BCEMP|Board certified emergency medicine pharmacist|Pharmacy Operations
+BCSCP|Board certified sterile compounding pharmacist|Pharmacy Operations
+BCTXP|Board certified transplant pharmacist|Pharmacy Operations
+BPS|Board of Pharmacy Specialties|Pharmacy Operations
+CPP|Clinical pharmacist practitioner|Pharmacy Operations
+CDTM|Collaborative drug therapy management|Pharmacy Operations
+CPA|Collaborative practice agreement|Pharmacy Operations
+MTM|Medication therapy management|Pharmacy Operations
+CMR|Comprehensive medication review|Pharmacy Operations
+DTP|Drug therapy problem|Pharmacy Operations
+TOC|Transitions of care|Pharmacy Operations
+TOC pharmacist|Transitions of care pharmacist|Pharmacy Operations
+M2B|Meds to beds bedside discharge prescription delivery|Pharmacy Operations
+Med rec|Medication reconciliation|Pharmacy Operations
+BPMH|Best possible medication history|Pharmacy Operations
+PTA|Prior to admission medication|Pharmacy Operations
+POM|Patient own medications|Pharmacy Operations
+NKDA|No known drug allergies|Pharmacy Operations
+NKA|No known allergies|Pharmacy Operations
+P&T|Pharmacy and therapeutics committee|Pharmacy Operations
+ASP|Antimicrobial stewardship program|Pharmacy Operations
+AMS|Antimicrobial stewardship|Pharmacy Operations
+DOT|Days of therapy|Pharmacy Operations
+DDD|Defined daily dose|Pharmacy Operations
+IV to PO|Intravenous to oral conversion|Pharmacy Operations
+IV2PO|Intravenous to oral conversion|Pharmacy Operations
+NF|Nonformulary|Pharmacy Operations
+NF|National Formulary|Pharmacy Operations
+USP-NF|United States Pharmacopeia-National Formulary|Pharmacy Operations
+USP|United States Pharmacopeia|Pharmacy Operations
+Formulary|List of drugs approved for use and stocked by the institution|Pharmacy Operations
+Restricted|Formulary drug requiring specialist or stewardship approval|Pharmacy Operations
+TI|Therapeutic interchange|Pharmacy Operations
+TS|Therapeutic substitution|Pharmacy Operations
+DUE|Drug use evaluation|Pharmacy Operations
+MUE|Medication use evaluation|Pharmacy Operations
+DUR|Drug utilization review|Pharmacy Operations
+PTD|Pharmacy to dose|Pharmacy Operations
+Per pharmacy|Pharmacy to dose|Pharmacy Operations
+PK|Pharmacokinetics|Pharmacy Operations
+PK consult|Pharmacokinetic dosing consult|Pharmacy Operations
+PD|Pharmacodynamics|Pharmacy Operations
+PD|Peritoneal dialysis|Pharmacy Operations
+HD|Hazardous drug|Pharmacy Operations
+HD|Hemodialysis|Pharmacy Operations
+iHD|Intermittent hemodialysis|Pharmacy Operations
+CRRT|Continuous renal replacement therapy|Pharmacy Operations
+TDM|Therapeutic drug monitoring|Pharmacy Operations
+AUC|Area under the concentration-time curve|Pharmacy Operations
+AUC24|24-hour area under the concentration-time curve|Pharmacy Operations
+AUC/MIC|Ratio of AUC to minimum inhibitory concentration|Pharmacy Operations
+AUC-guided|Dosing adjusted to a target area under the curve|Pharmacy Operations
+Trough|Drug level drawn just before the next dose|Pharmacy Operations
+Peak|Drug level drawn after distribution following a dose|Pharmacy Operations
+Random level|Drug level drawn without a fixed relation to dosing|Pharmacy Operations
+Bayesian dosing|Software-based dosing using population models and patient levels|Pharmacy Operations
+Cmax|Maximum or peak concentration|Pharmacy Operations
+Cmin|Minimum or trough concentration|Pharmacy Operations
+Css|Steady-state concentration|Pharmacy Operations
+SS|Steady state|Pharmacy Operations
+Vd|Volume of distribution|Pharmacy Operations
+CL|Clearance|Pharmacy Operations
+t1/2|Elimination half-life|Pharmacy Operations
+ke|Elimination rate constant|Pharmacy Operations
+LD|Loading dose|Pharmacy Operations
+MD|Maintenance dose|Pharmacy Operations
+EID|Extended-interval dosing|Pharmacy Operations
+ODA|Once-daily aminoglycoside dosing|Pharmacy Operations
+EI|Extended infusion|Pharmacy Operations
+PI|Prolonged infusion|Pharmacy Operations
+CI|Continuous infusion|Pharmacy Operations
+IBW|Ideal body weight|Pharmacy Operations
+ABW|Adjusted body weight|Pharmacy Operations
+ABW|Actual body weight|Pharmacy Operations
+AdjBW|Adjusted body weight|Pharmacy Operations
+TBW|Total body weight|Pharmacy Operations
+LBW|Lean body weight|Pharmacy Operations
+DW|Dosing weight|Pharmacy Operations
+BSA|Body surface area|Pharmacy Operations
+CrCl|Creatinine clearance|Pharmacy Operations
+CG|Cockcroft-Gault equation|Pharmacy Operations
+Renal dosing|Dose adjustment for kidney function|Pharmacy Operations
+MME|Morphine milligram equivalents|Pharmacy Operations
+OME|Oral morphine equivalents|Pharmacy Operations
+DDI|Drug-drug interaction|Pharmacy Operations
+DFI|Drug-food interaction|Pharmacy Operations
+ADE|Adverse drug event|Pharmacy Operations
+pADE|Potential adverse drug event|Pharmacy Operations
+ADR|Adverse drug reaction|Pharmacy Operations
+MedWatch|FDA safety information and adverse event reporting program|Pharmacy Operations
+FAERS|FDA Adverse Event Reporting System|Pharmacy Operations
+VAERS|Vaccine Adverse Event Reporting System|Pharmacy Operations
+FDA|Food and Drug Administration|Pharmacy Operations
+ISMP|Institute for Safe Medication Practices|Pharmacy Operations
+MERP|Medication Errors Reporting Program|Pharmacy Operations
+ASHP|American Society of Health-System Pharmacists|Pharmacy Operations
+TJC|The Joint Commission|Pharmacy Operations
+NPSG|National Patient Safety Goals|Pharmacy Operations
+BOP|Board of pharmacy|Pharmacy Operations
+NABP|National Association of Boards of Pharmacy|Pharmacy Operations
+HAM|High-alert medication|Pharmacy Operations
+High-alert|Medication with heightened risk of significant harm when used in error|Pharmacy Operations
+IDC|Independent double check|Pharmacy Operations
+LASA|Look-alike sound-alike|Pharmacy Operations
+TML|Tall man lettering|Pharmacy Operations
+BBW|Boxed warning|Pharmacy Operations
+REMS|Risk Evaluation and Mitigation Strategy|Pharmacy Operations
+ETASU|Elements to assure safe use|Pharmacy Operations
+U|Units (do-not-use abbreviation, write units)|Pharmacy Operations
+IU|International units (do-not-use abbreviation, write international units)|Pharmacy Operations
+QD|Daily (do-not-use abbreviation, write daily)|Pharmacy Operations
+Q.D.|Daily (do-not-use abbreviation, write daily)|Pharmacy Operations
+QOD|Every other day (do-not-use abbreviation, write every other day)|Pharmacy Operations
+Q.O.D.|Every other day (do-not-use abbreviation, write every other day)|Pharmacy Operations
+MS|Morphine sulfate or magnesium sulfate (do-not-use abbreviation)|Pharmacy Operations
+MSO4|Morphine sulfate (do-not-use abbreviation)|Pharmacy Operations
+MgSO4|Magnesium sulfate (do-not-use abbreviation)|Pharmacy Operations
+1.0 mg|Trailing zero (do-not-use, write 1 mg)|Pharmacy Operations
+.5 mg|Missing leading zero (do-not-use, write 0.5 mg)|Pharmacy Operations
+cc|Cubic centimeters (error-prone, write mL)|Pharmacy Operations
+μg|Micrograms (error-prone, write mcg)|Pharmacy Operations
+mcg|Micrograms|Pharmacy Operations
+mEq|Milliequivalents|Pharmacy Operations
+mmol|Millimoles|Pharmacy Operations
+D/C|Discharge or discontinue (error-prone abbreviation)|Pharmacy Operations
+DC|Discontinue|Pharmacy Operations
+TIW|Three times a week (error-prone abbreviation)|Pharmacy Operations
+HS|At bedtime (error-prone abbreviation)|Pharmacy Operations
+HS|Half-strength (error-prone abbreviation)|Pharmacy Operations
+SC|Subcutaneous (error-prone abbreviation)|Pharmacy Operations
+NTE|Not to exceed|Pharmacy Operations
+QS|Quantity sufficient|Pharmacy Operations
+STAT|Immediately|Pharmacy Operations
+ASAP|As soon as possible|Pharmacy Operations
+PRN|As needed|Pharmacy Operations
+ATC|Around the clock|Pharmacy Operations
+x1|One time dose|Pharmacy Operations
+Once|Single one-time dose|Pharmacy Operations
+BID|Twice daily|Pharmacy Operations
+TID|Three times daily|Pharmacy Operations
+QID|Four times daily|Pharmacy Operations
+QAM|Every morning|Pharmacy Operations
+QPM|Every evening|Pharmacy Operations
+QHS|Every night at bedtime|Pharmacy Operations
+AC|Before meals|Pharmacy Operations
+PC|After meals|Pharmacy Operations
+Q4H|Every 4 hours|Pharmacy Operations
+Q6H|Every 6 hours|Pharmacy Operations
+Q8H|Every 8 hours|Pharmacy Operations
+Q12H|Every 12 hours|Pharmacy Operations
+Q24H|Every 24 hours|Pharmacy Operations
+Q48H|Every 48 hours|Pharmacy Operations
+QWK|Every week|Pharmacy Operations
+MAR|Medication administration record|Pharmacy Operations
+eMAR|Electronic medication administration record|Pharmacy Operations
+BCMA|Barcode medication administration|Pharmacy Operations
+CPOE|Computerized provider order entry|Pharmacy Operations
+CDS|Clinical decision support|Pharmacy Operations
+Verify|Pharmacist order verification before dispensing|Pharmacy Operations
+Order verification|Pharmacist review and approval of a medication order|Pharmacy Operations
+ADC|Automated dispensing cabinet|Pharmacy Operations
+ADM|Automated dispensing machine|Pharmacy Operations
+Override|Removal from a dispensing cabinet before pharmacist verification|Pharmacy Operations
+Discrepancy|Mismatch between expected and actual controlled substance count|Pharmacy Operations
+Diversion|Theft or misuse of controlled substances from the supply chain|Pharmacy Operations
+Waste|Witnessed disposal of unused controlled substance|Pharmacy Operations
+CS|Controlled substance|Pharmacy Operations
+CS vault|Controlled substance vault|Pharmacy Operations
+DEA|Drug Enforcement Administration|Pharmacy Operations
+DEA 222|DEA order form for schedule I and II controlled substances|Pharmacy Operations
+DEA Form 222|DEA order form for schedule I and II controlled substances|Pharmacy Operations
+CSOS|Controlled Substance Ordering System|Pharmacy Operations
+CII|Schedule II controlled substance|Pharmacy Operations
+C-II|Schedule II controlled substance|Pharmacy Operations
+C2|Schedule II controlled substance|Pharmacy Operations
+CIII|Schedule III controlled substance|Pharmacy Operations
+C-III|Schedule III controlled substance|Pharmacy Operations
+C3|Schedule III controlled substance|Pharmacy Operations
+CIV|Schedule IV controlled substance|Pharmacy Operations
+C-IV|Schedule IV controlled substance|Pharmacy Operations
+C4|Schedule IV controlled substance|Pharmacy Operations
+CV|Schedule V controlled substance|Pharmacy Operations
+C-V|Schedule V controlled substance|Pharmacy Operations
+C5|Schedule V controlled substance|Pharmacy Operations
+CIII-V|Schedule III through V controlled substances|Pharmacy Operations
+PDMP|Prescription drug monitoring program|Pharmacy Operations
+PMP|Prescription monitoring program|Pharmacy Operations
+CURES|Controlled Substance Utilization Review and Evaluation System|Pharmacy Operations
+Rx|Prescription|Pharmacy Operations
+eRx|Electronic prescription|Pharmacy Operations
+EPCS|Electronic prescribing of controlled substances|Pharmacy Operations
+OTC|Over the counter|Pharmacy Operations
+DAW|Dispense as written|Pharmacy Operations
+DAW 1|Dispense as written, brand medically necessary|Pharmacy Operations
+Disp|Dispense|Pharmacy Operations
+Sig|Directions for use on the prescription label|Pharmacy Operations
+PA|Prior authorization|Pharmacy Operations
+ST|Step therapy|Pharmacy Operations
+QL|Quantity limit|Pharmacy Operations
+DS|Days supply|Pharmacy Operations
+RF|Refills|Pharmacy Operations
+NR|No refills|Pharmacy Operations
+PBM|Pharmacy benefit manager|Pharmacy Operations
+Mail order|Prescriptions filled and shipped by a mail-service pharmacy|Pharmacy Operations
+SP|Specialty pharmacy|Pharmacy Operations
+LDD|Limited distribution drug|Pharmacy Operations
+340B|Federal drug pricing program for safety-net covered entities|Pharmacy Operations
+GPO|Group purchasing organization|Pharmacy Operations
+WAC|Wholesale acquisition cost|Pharmacy Operations
+AWP|Average wholesale price|Pharmacy Operations
+NDC|National Drug Code|Pharmacy Operations
+Lot|Manufacturer lot number|Pharmacy Operations
+Exp|Expiration date|Pharmacy Operations
+IDS|Investigational drug service|Pharmacy Operations
+IND|Investigational new drug|Pharmacy Operations
+UD|Unit dose|Pharmacy Operations
+MDV|Multiple-dose vial|Pharmacy Operations
+SDV|Single-dose vial|Pharmacy Operations
+PFS|Prefilled syringe|Pharmacy Operations
+Premix|Manufacturer premixed ready-to-use IV product|Pharmacy Operations
+Mini-bag|Small-volume IV bag for intermittent infusion|Pharmacy Operations
+LVP|Large-volume parenteral|Pharmacy Operations
+SVP|Small-volume parenteral|Pharmacy Operations
+IV room|Pharmacy sterile compounding area|Pharmacy Operations
+CSP|Compounded sterile preparation|Pharmacy Operations
+CNSP|Compounded nonsterile preparation|Pharmacy Operations
+USP 795|Standard for nonsterile compounding|Pharmacy Operations
+USP 797|Standard for sterile compounding|Pharmacy Operations
+USP 800|Standard for handling hazardous drugs in healthcare settings|Pharmacy Operations
+BUD|Beyond-use date|Pharmacy Operations
+PEC|Primary engineering control|Pharmacy Operations
+SEC|Secondary engineering control|Pharmacy Operations
+C-PEC|Containment primary engineering control|Pharmacy Operations
+C-SEC|Containment secondary engineering control|Pharmacy Operations
+SCA|Segregated compounding area|Pharmacy Operations
+C-SCA|Containment segregated compounding area|Pharmacy Operations
+LAFW|Laminar airflow workbench|Pharmacy Operations
+BSC|Biological safety cabinet|Pharmacy Operations
+CACI|Compounding aseptic containment isolator|Pharmacy Operations
+CAI|Compounding aseptic isolator|Pharmacy Operations
+HEPA|High-efficiency particulate air|Pharmacy Operations
+ISO 5|ISO class 5 air quality for the direct compounding area|Pharmacy Operations
+ISO class 5|ISO class 5 air quality for the direct compounding area|Pharmacy Operations
+ISO 7|ISO class 7 air quality for the buffer room|Pharmacy Operations
+ISO class 7|ISO class 7 air quality for the buffer room|Pharmacy Operations
+ISO 8|ISO class 8 air quality for the ante room|Pharmacy Operations
+ISO class 8|ISO class 8 air quality for the ante room|Pharmacy Operations
+CSTD|Closed system drug-transfer device|Pharmacy Operations
+PPE|Personal protective equipment|Pharmacy Operations
+NIOSH|National Institute for Occupational Safety and Health|Pharmacy Operations
+SWFI|Sterile water for injection|Pharmacy Operations
+BWFI|Bacteriostatic water for injection|Pharmacy Operations
+NS|Normal saline (0.9% sodium chloride)|Pharmacy Operations
+1/2NS|Half-normal saline (0.45% sodium chloride)|Pharmacy Operations
+D5W|Dextrose 5% in water|Pharmacy Operations
+D10W|Dextrose 10% in water|Pharmacy Operations
+D5NS|Dextrose 5% in normal saline|Pharmacy Operations
+D5 1/2NS|Dextrose 5% in half-normal saline|Pharmacy Operations
+LR|Lactated Ringer solution|Pharmacy Operations
+TPN|Total parenteral nutrition|Pharmacy Operations
+PN|Parenteral nutrition|Pharmacy Operations
+PPN|Peripheral parenteral nutrition|Pharmacy Operations
+TNA|Total nutrient admixture|Pharmacy Operations
+2-in-1|Parenteral nutrition with dextrose and amino acids, lipid given separately|Pharmacy Operations
+3-in-1|Parenteral nutrition with dextrose, amino acids and lipid in one bag|Pharmacy Operations
+ILE|Intravenous lipid emulsion|Pharmacy Operations
+IVFE|Intravenous fat emulsion|Pharmacy Operations
+AA|Amino acids|Pharmacy Operations
+GIR|Glucose infusion rate|Pharmacy Operations
+PCA|Patient-controlled analgesia|Pharmacy Operations
+PCA cassette|Pharmacy-prepared drug reservoir for a PCA pump|Pharmacy Operations
+PCEA|Patient-controlled epidural analgesia|Pharmacy Operations
+NCA|Nurse-controlled analgesia|Pharmacy Operations
+Code tray|Pharmacy-stocked tray of resuscitation drugs|Pharmacy Operations
+RSI|Rapid sequence intubation|Pharmacy Operations
+RSI kit|Rapid sequence intubation medication kit|Pharmacy Operations
+MH|Malignant hyperthermia|Pharmacy Operations
+MH cart|Malignant hyperthermia treatment cart|Pharmacy Operations
+KVO|Keep vein open|Pharmacy Operations
+TKO|To keep open|Pharmacy Operations
+DNC|Do not crush|Pharmacy Operations
+ER|Extended release|Pharmacy Operations
+XR|Extended release|Pharmacy Operations
+SR|Sustained release|Pharmacy Operations
+CR|Controlled release|Pharmacy Operations
+LA|Long acting|Pharmacy Operations
+XL|Extended release|Pharmacy Operations
+EC|Enteric coated|Pharmacy Operations
+DR|Delayed release|Pharmacy Operations
+IR|Immediate release|Pharmacy Operations
+ODT|Orally disintegrating tablet|Pharmacy Operations
+CD|Controlled delivery|Pharmacy Operations
+SA|Sustained action|Pharmacy Operations
+TR|Timed release|Pharmacy Operations
+Tab|Tablet|Pharmacy Operations
+Cap|Capsule|Pharmacy Operations
+Susp|Suspension|Pharmacy Operations
+Soln|Solution|Pharmacy Operations
+Supp|Suppository|Pharmacy Operations
+Inj|Injection|Pharmacy Operations
+Oint|Ointment|Pharmacy Operations
+Gtt|Drops|Pharmacy Operations
+Neb|Nebulized solution|Pharmacy Operations
+MDI|Metered-dose inhaler|Pharmacy Operations
+DPI|Dry powder inhaler|Pharmacy Operations
+SMI|Soft mist inhaler|Pharmacy Operations
+PO|By mouth|Pharmacy Operations
+NPO|Nothing by mouth|Pharmacy Operations
+SL|Sublingual|Pharmacy Operations
+Buccal|Placed between cheek and gum|Pharmacy Operations
+IN|Intranasal|Pharmacy Operations
+INH|Inhaled|Pharmacy Operations
+TD|Transdermal|Pharmacy Operations
+TOP|Topical|Pharmacy Operations
+PR|Per rectum|Pharmacy Operations
+PV|Per vagina|Pharmacy Operations
+IT|Intrathecal|Pharmacy Operations
+IV|Intravenous|Pharmacy Operations
+IVP|Intravenous push|Pharmacy Operations
+IVPB|Intravenous piggyback|Pharmacy Operations
+CIV|Continuous intravenous infusion|Pharmacy Operations
+IM|Intramuscular|Pharmacy Operations
+SQ|Subcutaneous|Pharmacy Operations
+subQ|Subcutaneous|Pharmacy Operations
+ID|Intradermal|Pharmacy Operations
+IO|Intraosseous|Pharmacy Operations
+IP|Intraperitoneal|Pharmacy Operations
+NG|Via nasogastric tube|Pharmacy Operations
+NGT|Nasogastric tube|Pharmacy Operations
+OGT|Orogastric tube|Pharmacy Operations
+GT|Gastrostomy tube|Pharmacy Operations
+PEG|Percutaneous endoscopic gastrostomy tube|Pharmacy Operations
+NJ|Nasojejunal tube|Pharmacy Operations
+OU|Both eyes|Pharmacy Operations
+OD|Right eye|Pharmacy Operations
+OS|Left eye|Pharmacy Operations
+AU|Both ears|Pharmacy Operations
+AD|Right ear|Pharmacy Operations
+AS|Left ear|Pharmacy Operations

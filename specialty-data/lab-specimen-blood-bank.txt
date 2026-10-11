@@ -1,0 +1,450 @@
+VP|Venipuncture|Lab Specimens & Blood Bank
+Phleb|Phlebotomy|Lab Specimens & Blood Bank
+Phleb|Phlebotomist|Lab Specimens & Blood Bank
+Heelstick|Capillary heel puncture specimen in infants|Lab Specimens & Blood Bank
+FS|Fingerstick|Lab Specimens & Blood Bank
+FSBG|Fingerstick blood glucose|Lab Specimens & Blood Bank
+CBG|Capillary blood glucose|Lab Specimens & Blood Bank
+CBG|Capillary blood gas|Lab Specimens & Blood Bank
+ABG|Arterial blood gas|Lab Specimens & Blood Bank
+VBG|Venous blood gas|Lab Specimens & Blood Bank
+Cap|Capillary specimen|Lab Specimens & Blood Bank
+Line draw|Specimen drawn from a central venous or arterial line|Lab Specimens & Blood Bank
+A-line|Arterial line|Lab Specimens & Blood Bank
+CVC|Central venous catheter|Lab Specimens & Blood Bank
+PICC|Peripherally inserted central catheter|Lab Specimens & Blood Bank
+Waste|Discard volume drawn from a line before the specimen|Lab Specimens & Blood Bank
+Discard|Initial line blood drawn and thrown away to clear infusate|Lab Specimens & Blood Bank
+Discard tube|Tube drawn first and not tested, to prime tubing or clear the line|Lab Specimens & Blood Bank
+Order of draw|Standard tube fill sequence to avoid additive carryover|Lab Specimens & Blood Bank
+Lav|Lavender top tube (EDTA)|Lab Specimens & Blood Bank
+Lavender top|EDTA anticoagulated tube for CBC and hemoglobin A1c|Lab Specimens & Blood Bank
+EDTA|Ethylenediaminetetraacetic acid anticoagulant|Lab Specimens & Blood Bank
+K2EDTA|Dipotassium EDTA anticoagulant|Lab Specimens & Blood Bank
+Lt blue|Light blue top tube (sodium citrate)|Lab Specimens & Blood Bank
+Light blue top|Sodium citrate tube for coagulation testing|Lab Specimens & Blood Bank
+Blue top|Sodium citrate tube for coagulation testing|Lab Specimens & Blood Bank
+Citrate|Sodium citrate anticoagulant|Lab Specimens & Blood Bank
+3.2% citrate|Buffered sodium citrate concentration used in coagulation tubes|Lab Specimens & Blood Bank
+9:1|Blood to citrate ratio required in coagulation tubes|Lab Specimens & Blood Bank
+Underfilled|Tube with insufficient blood volume for its additive|Lab Specimens & Blood Bank
+SST|Serum separator tube|Lab Specimens & Blood Bank
+Gold top|Serum separator tube with clot activator and gel|Lab Specimens & Blood Bank
+Tiger top|Red and gray serum separator tube|Lab Specimens & Blood Bank
+Red top|Plain serum tube without gel|Lab Specimens & Blood Bank
+PST|Plasma separator tube (lithium heparin with gel)|Lab Specimens & Blood Bank
+Lt green|Light green top plasma separator tube|Lab Specimens & Blood Bank
+Green top|Heparin tube|Lab Specimens & Blood Bank
+Dark green|Heparin tube without gel|Lab Specimens & Blood Bank
+Li hep|Lithium heparin|Lab Specimens & Blood Bank
+LiHep|Lithium heparin|Lab Specimens & Blood Bank
+Na hep|Sodium heparin|Lab Specimens & Blood Bank
+Gray top|Sodium fluoride and potassium oxalate tube for glucose or lactate|Lab Specimens & Blood Bank
+Grey top|Sodium fluoride and potassium oxalate tube for glucose or lactate|Lab Specimens & Blood Bank
+NaF|Sodium fluoride|Lab Specimens & Blood Bank
+Pink top|EDTA tube for blood bank testing|Lab Specimens & Blood Bank
+Royal blue|Trace element tube|Lab Specimens & Blood Bank
+Royal blue top|Trace element tube|Lab Specimens & Blood Bank
+Yellow top|Acid citrate dextrose tube|Lab Specimens & Blood Bank
+Yellow top|Sodium polyanethol sulfonate tube for blood culture|Lab Specimens & Blood Bank
+ACD|Acid citrate dextrose|Lab Specimens & Blood Bank
+SPS|Sodium polyanethol sulfonate|Lab Specimens & Blood Bank
+Tan top|EDTA tube for lead testing|Lab Specimens & Blood Bank
+White top|Plasma preparation tube|Lab Specimens & Blood Bank
+PPT|Plasma preparation tube|Lab Specimens & Blood Bank
+Whole blood|Unseparated anticoagulated blood specimen|Lab Specimens & Blood Bank
+Serum|Fluid portion of clotted blood|Lab Specimens & Blood Bank
+Plasma|Fluid portion of anticoagulated blood|Lab Specimens & Blood Bank
+On ice|Specimen transported chilled on ice|Lab Specimens & Blood Bank
+Add-on|Test added to a specimen already in the lab|Lab Specimens & Blood Bank
+Recollect|New specimen required, original rejected|Lab Specimens & Blood Bank
+Recoll|Recollect|Lab Specimens & Blood Bank
+Redraw|Repeat blood draw requested|Lab Specimens & Blood Bank
+Hemolyzed|Specimen with lysed red cells|Lab Specimens & Blood Bank
+Hemolysis|Release of red cell contents into serum or plasma|Lab Specimens & Blood Bank
+Grossly hemolyzed|Visibly hemolyzed specimen, often rejected|Lab Specimens & Blood Bank
+QNS|Quantity not sufficient|Lab Specimens & Blood Bank
+Clotted|Anticoagulated specimen containing clots, rejected|Lab Specimens & Blood Bank
+Lipemic|Specimen turbid from excess lipids|Lab Specimens & Blood Bank
+Icteric|Specimen discolored by elevated bilirubin|Lab Specimens & Blood Bank
+HIL|Hemolysis, icterus and lipemia indices|Lab Specimens & Blood Bank
+H index|Hemolysis index|Lab Specimens & Blood Bank
+I index|Icterus index|Lab Specimens & Blood Bank
+L index|Lipemia index|Lab Specimens & Blood Bank
+Mislabeled|Specimen with incorrect or mismatched label|Lab Specimens & Blood Bank
+Unlabeled|Specimen received without a patient label|Lab Specimens & Blood Bank
+WBIT|Wrong blood in tube|Lab Specimens & Blood Bank
+TNP|Test not performed|Lab Specimens & Blood Bank
+Cancelled|Test cancelled by the laboratory or ordering provider|Lab Specimens & Blood Bank
+Rejected|Specimen not acceptable for testing|Lab Specimens & Blood Bank
+CV|Critical value|Lab Specimens & Blood Bank
+Critical|Result requiring immediate notification of a provider|Lab Specimens & Blood Bank
+Panic value|Critical value|Lab Specimens & Blood Bank
+Read-back|Recipient repeats a called critical result to confirm it|Lab Specimens & Blood Bank
+Delta check|Comparison of a result against the prior value for the same patient|Lab Specimens & Blood Bank
+Timed draw|Specimen collected at a specified time|Lab Specimens & Blood Bank
+AM draw|Early morning routine lab collection|Lab Specimens & Blood Bank
+AM labs|Early morning routine labs|Lab Specimens & Blood Bank
+Fasting|Specimen collected after a fast|Lab Specimens & Blood Bank
+Routine|Standard priority lab order|Lab Specimens & Blood Bank
+STAT|Highest priority, immediate processing|Lab Specimens & Blood Bank
+POCT|Point-of-care testing|Lab Specimens & Blood Bank
+POC|Point of care|Lab Specimens & Blood Bank
+CLIA|Clinical Laboratory Improvement Amendments|Lab Specimens & Blood Bank
+CLIA-waived|Simple test approved for use outside a full laboratory|Lab Specimens & Blood Bank
+CAP|College of American Pathologists|Lab Specimens & Blood Bank
+LIS|Laboratory information system|Lab Specimens & Blood Bank
+LOINC|Logical Observation Identifiers Names and Codes|Lab Specimens & Blood Bank
+Ref range|Reference range|Lab Specimens & Blood Bank
+RI|Reference interval|Lab Specimens & Blood Bank
+WNL|Within normal limits|Lab Specimens & Blood Bank
+H|High result flag|Lab Specimens & Blood Bank
+L|Low result flag|Lab Specimens & Blood Bank
+HH|Critically high result flag|Lab Specimens & Blood Bank
+LL|Critically low result flag|Lab Specimens & Blood Bank
+A|Abnormal result flag|Lab Specimens & Blood Bank
+Abn|Abnormal|Lab Specimens & Blood Bank
+Prelim|Preliminary result|Lab Specimens & Blood Bank
+Preliminary|Result reported before final verification|Lab Specimens & Blood Bank
+Final|Completed verified result|Lab Specimens & Blood Bank
+Corrected|Result changed after release because of an error|Lab Specimens & Blood Bank
+Amended|Result updated with added information after release|Lab Specimens & Blood Bank
+Send-out|Test sent to a reference laboratory|Lab Specimens & Blood Bank
+Sendout|Test sent to a reference laboratory|Lab Specimens & Blood Bank
+TAT|Turnaround time|Lab Specimens & Blood Bank
+Cx|Culture|Lab Specimens & Blood Bank
+BCx|Blood culture|Lab Specimens & Blood Bank
+BC|Blood culture|Lab Specimens & Blood Bank
+BCx x2|Two sets of blood cultures from separate sites|Lab Specimens & Blood Bank
+Set|One aerobic plus one anaerobic blood culture bottle|Lab Specimens & Blood Bank
+UCx|Urine culture|Lab Specimens & Blood Bank
+UA|Urinalysis|Lab Specimens & Blood Bank
+UA w reflex|Urinalysis with reflex to culture|Lab Specimens & Blood Bank
+UA/UCx|Urinalysis and urine culture|Lab Specimens & Blood Bank
+Contaminant|Organism likely introduced during collection rather than true infection|Lab Specimens & Blood Bank
+CoNS|Coagulase-negative staphylococci|Lab Specimens & Blood Bank
+TTP|Time to positivity|Lab Specimens & Blood Bank
+NGTD|No growth to date|Lab Specimens & Blood Bank
+NG|No growth|Lab Specimens & Blood Bank
+NG x5d|No growth at 5 days|Lab Specimens & Blood Bank
+GS|Gram stain|Lab Specimens & Blood Bank
+GPC|Gram-positive cocci|Lab Specimens & Blood Bank
+GPC in clusters|Gram-positive cocci in clusters|Lab Specimens & Blood Bank
+GPC in chains|Gram-positive cocci in chains|Lab Specimens & Blood Bank
+GPC in pairs|Gram-positive cocci in pairs|Lab Specimens & Blood Bank
+GPR|Gram-positive rods|Lab Specimens & Blood Bank
+GPB|Gram-positive bacilli|Lab Specimens & Blood Bank
+GNR|Gram-negative rods|Lab Specimens & Blood Bank
+GNB|Gram-negative bacilli|Lab Specimens & Blood Bank
+GNC|Gram-negative cocci|Lab Specimens & Blood Bank
+GNDC|Gram-negative diplococci|Lab Specimens & Blood Bank
+PMN|Polymorphonuclear leukocytes|Lab Specimens & Blood Bank
+SEC|Squamous epithelial cells|Lab Specimens & Blood Bank
+C&S|Culture and sensitivity|Lab Specimens & Blood Bank
+C/S|Culture and sensitivity|Lab Specimens & Blood Bank
+AST|Antimicrobial susceptibility testing|Lab Specimens & Blood Bank
+MIC|Minimum inhibitory concentration|Lab Specimens & Blood Bank
+S|Susceptible|Lab Specimens & Blood Bank
+I|Intermediate|Lab Specimens & Blood Bank
+R|Resistant|Lab Specimens & Blood Bank
+SDD|Susceptible dose-dependent|Lab Specimens & Blood Bank
+BCID|Blood culture identification panel|Lab Specimens & Blood Bank
+BCID2|Blood culture identification panel, second version|Lab Specimens & Blood Bank
+MALDI-TOF|Matrix-assisted laser desorption ionization time-of-flight mass spectrometry|Lab Specimens & Blood Bank
+mecA|Methicillin resistance gene|Lab Specimens & Blood Bank
+mecA/C|Methicillin resistance genes|Lab Specimens & Blood Bank
+vanA/B|Vancomycin resistance genes|Lab Specimens & Blood Bank
+KPC|Klebsiella pneumoniae carbapenemase|Lab Specimens & Blood Bank
+NDM|New Delhi metallo-beta-lactamase|Lab Specimens & Blood Bank
+VIM|Verona integron-encoded metallo-beta-lactamase|Lab Specimens & Blood Bank
+IMP|Imipenemase metallo-beta-lactamase|Lab Specimens & Blood Bank
+OXA-48|Oxacillinase-48 carbapenemase|Lab Specimens & Blood Bank
+CTX-M|Cefotaximase extended-spectrum beta-lactamase gene|Lab Specimens & Blood Bank
+mcr-1|Mobile colistin resistance gene|Lab Specimens & Blood Bank
+MRSA|Methicillin-resistant Staphylococcus aureus|Lab Specimens & Blood Bank
+MSSA|Methicillin-susceptible Staphylococcus aureus|Lab Specimens & Blood Bank
+VRE|Vancomycin-resistant enterococcus|Lab Specimens & Blood Bank
+ESBL|Extended-spectrum beta-lactamase|Lab Specimens & Blood Bank
+CRE|Carbapenem-resistant Enterobacterales|Lab Specimens & Blood Bank
+CPE|Carbapenemase-producing Enterobacterales|Lab Specimens & Blood Bank
+CPO|Carbapenemase-producing organism|Lab Specimens & Blood Bank
+AFB|Acid-fast bacilli|Lab Specimens & Blood Bank
+AFB smear|Acid-fast bacilli smear|Lab Specimens & Blood Bank
+AFB cx|Acid-fast bacilli culture|Lab Specimens & Blood Bank
+MTB|Mycobacterium tuberculosis|Lab Specimens & Blood Bank
+MTB PCR|Mycobacterium tuberculosis nucleic acid amplification test|Lab Specimens & Blood Bank
+NTM|Nontuberculous mycobacteria|Lab Specimens & Blood Bank
+Fungal cx|Fungal culture|Lab Specimens & Blood Bank
+KOH|Potassium hydroxide preparation|Lab Specimens & Blood Bank
+O&P|Ova and parasites|Lab Specimens & Blood Bank
+GIP|Gastrointestinal pathogen panel|Lab Specimens & Blood Bank
+GI PCR|Gastrointestinal pathogen PCR panel|Lab Specimens & Blood Bank
+Stool PCR|Gastrointestinal pathogen PCR panel|Lab Specimens & Blood Bank
+C diff|Clostridioides difficile|Lab Specimens & Blood Bank
+C. diff|Clostridioides difficile|Lab Specimens & Blood Bank
+CDI|Clostridioides difficile infection|Lab Specimens & Blood Bank
+GDH|Glutamate dehydrogenase antigen|Lab Specimens & Blood Bank
+Toxin EIA|Toxin enzyme immunoassay|Lab Specimens & Blood Bank
+EIA|Enzyme immunoassay|Lab Specimens & Blood Bank
+Formed stool|Stool that holds its shape, typically rejected for C diff testing|Lab Specimens & Blood Bank
+CC|Clean catch urine|Lab Specimens & Blood Bank
+CCMS|Clean-catch midstream urine|Lab Specimens & Blood Bank
+MSU|Midstream urine|Lab Specimens & Blood Bank
+Cath UA|Urinalysis on a catheterized specimen|Lab Specimens & Blood Bank
+SPA|Suprapubic aspirate|Lab Specimens & Blood Bank
+24h urine|24-hour urine collection|Lab Specimens & Blood Bank
+24-hr urine|24-hour urine collection|Lab Specimens & Blood Bank
+Spot urine|Random single urine sample|Lab Specimens & Blood Bank
+CSF|Cerebrospinal fluid|Lab Specimens & Blood Bank
+CSF tube 1|First CSF tube, usually chemistry and serology|Lab Specimens & Blood Bank
+CSF tube 2|Second CSF tube, usually microbiology|Lab Specimens & Blood Bank
+CSF tube 3|Third CSF tube, usually cell count|Lab Specimens & Blood Bank
+CSF tube 4|Fourth CSF tube, usually repeat cell count or extra studies|Lab Specimens & Blood Bank
+OP|Opening pressure|Lab Specimens & Blood Bank
+LP|Lumbar puncture|Lab Specimens & Blood Bank
+NP swab|Nasopharyngeal swab|Lab Specimens & Blood Bank
+NP|Nasopharyngeal|Lab Specimens & Blood Bank
+OP swab|Oropharyngeal swab|Lab Specimens & Blood Bank
+OP|Oropharyngeal|Lab Specimens & Blood Bank
+AN swab|Anterior nasal swab|Lab Specimens & Blood Bank
+NAAT|Nucleic acid amplification test|Lab Specimens & Blood Bank
+PCR|Polymerase chain reaction|Lab Specimens & Blood Bank
+VTM|Viral transport medium|Lab Specimens & Blood Bank
+UTM|Universal transport medium|Lab Specimens & Blood Bank
+RVP|Respiratory viral panel|Lab Specimens & Blood Bank
+RPP|Respiratory pathogen panel|Lab Specimens & Blood Bank
+BAL|Bronchoalveolar lavage|Lab Specimens & Blood Bank
+ETA|Endotracheal aspirate|Lab Specimens & Blood Bank
+Sputum cx|Sputum culture|Lab Specimens & Blood Bank
+Anaerobic cx|Anaerobic culture|Lab Specimens & Blood Bank
+Wound cx|Wound culture|Lab Specimens & Blood Bank
+BF|Body fluid|Lab Specimens & Blood Bank
+Pleural fluid|Fluid from the pleural space|Lab Specimens & Blood Bank
+BB|Blood bank|Lab Specimens & Blood Bank
+TM|Transfusion medicine|Lab Specimens & Blood Bank
+T&S|Type and screen|Lab Specimens & Blood Bank
+T/S|Type and screen|Lab Specimens & Blood Bank
+TS|Type and screen|Lab Specimens & Blood Bank
+Type and screen|ABO/Rh typing plus antibody screen|Lab Specimens & Blood Bank
+T&C|Type and crossmatch|Lab Specimens & Blood Bank
+T/C|Type and crossmatch|Lab Specimens & Blood Bank
+TC|Type and crossmatch|Lab Specimens & Blood Bank
+XM|Crossmatch|Lab Specimens & Blood Bank
+X-match|Crossmatch|Lab Specimens & Blood Bank
+EXM|Electronic crossmatch|Lab Specimens & Blood Bank
+eXM|Electronic crossmatch|Lab Specimens & Blood Bank
+Electronic crossmatch|Computer-verified ABO compatibility without serologic crossmatch|Lab Specimens & Blood Bank
+IS|Immediate spin|Lab Specimens & Blood Bank
+IS XM|Immediate spin crossmatch|Lab Specimens & Blood Bank
+AHG|Antihuman globulin|Lab Specimens & Blood Bank
+AHG XM|Antihuman globulin crossmatch|Lab Specimens & Blood Bank
+ABO/Rh|ABO group and Rh type|Lab Specimens & Blood Bank
+ABO|ABO blood group|Lab Specimens & Blood Bank
+Rh|Rh blood group|Lab Specimens & Blood Bank
+RhD|Rh D antigen|Lab Specimens & Blood Bank
+Rh+|Rh D positive|Lab Specimens & Blood Bank
+Rh-|Rh D negative|Lab Specimens & Blood Bank
+Rh pos|Rh D positive|Lab Specimens & Blood Bank
+Rh neg|Rh D negative|Lab Specimens & Blood Bank
+D+|Rh D positive|Lab Specimens & Blood Bank
+D-|Rh D negative|Lab Specimens & Blood Bank
+Weak D|Weakened expression of the Rh D antigen|Lab Specimens & Blood Bank
+Du|Weak D (older term)|Lab Specimens & Blood Bank
+Partial D|Rh D antigen missing some epitopes|Lab Specimens & Blood Bank
+Forward type|Testing patient red cells with anti-A and anti-B reagents|Lab Specimens & Blood Bank
+Reverse type|Testing patient plasma against A1 and B reagent red cells|Lab Specimens & Blood Bank
+ABO discrepancy|Mismatch between forward and reverse ABO typing|Lab Specimens & Blood Bank
+Second sample|Separate draw to confirm ABO type before issuing type-specific blood|Lab Specimens & Blood Bank
+ABSC|Antibody screen|Lab Specimens & Blood Bank
+ABS|Antibody screen|Lab Specimens & Blood Bank
+Ab screen|Antibody screen|Lab Specimens & Blood Bank
+Ab ID|Antibody identification|Lab Specimens & Blood Bank
+Antibody ID|Antibody identification|Lab Specimens & Blood Bank
+Panel|Antibody identification panel of reagent red cells|Lab Specimens & Blood Bank
+DAT|Direct antiglobulin test|Lab Specimens & Blood Bank
+DCT|Direct Coombs test|Lab Specimens & Blood Bank
+IAT|Indirect antiglobulin test|Lab Specimens & Blood Bank
+ICT|Indirect Coombs test|Lab Specimens & Blood Bank
+Poly DAT|Polyspecific direct antiglobulin test|Lab Specimens & Blood Bank
+IgG DAT|Direct antiglobulin test with anti-IgG reagent|Lab Specimens & Blood Bank
+C3d|Complement C3d on red cells|Lab Specimens & Blood Bank
+Eluate|Antibody removed from red cells for identification|Lab Specimens & Blood Bank
+Elution|Removal of bound antibody from red cells|Lab Specimens & Blood Bank
+Adsorption|Removal of autoantibody from plasma to unmask alloantibodies|Lab Specimens & Blood Bank
+PEG|Polyethylene glycol enhancement|Lab Specimens & Blood Bank
+LISS|Low ionic strength saline|Lab Specimens & Blood Bank
+DTT|Dithiothreitol|Lab Specimens & Blood Bank
+Alloab|Alloantibody|Lab Specimens & Blood Bank
+Alloantibody|Antibody against foreign red cell antigens from transfusion or pregnancy|Lab Specimens & Blood Bank
+Autoab|Autoantibody|Lab Specimens & Blood Bank
+Warm auto|Warm-reactive autoantibody|Lab Specimens & Blood Bank
+Warm autoantibody|IgG autoantibody reactive at body temperature|Lab Specimens & Blood Bank
+Cold auto|Cold-reactive autoantibody|Lab Specimens & Blood Bank
+Cold autoantibody|IgM autoantibody reactive at low temperature|Lab Specimens & Blood Bank
+WAIHA|Warm autoimmune hemolytic anemia|Lab Specimens & Blood Bank
+CAD|Cold agglutinin disease|Lab Specimens & Blood Bank
+Pan-reactive|Antibody reacting with all panel cells|Lab Specimens & Blood Bank
+Anti-D|Antibody to Rh D antigen|Lab Specimens & Blood Bank
+Anti-C|Antibody to Rh C antigen|Lab Specimens & Blood Bank
+Anti-c|Antibody to Rh c antigen|Lab Specimens & Blood Bank
+Anti-E|Antibody to Rh E antigen|Lab Specimens & Blood Bank
+Anti-e|Antibody to Rh e antigen|Lab Specimens & Blood Bank
+Anti-K|Antibody to Kell antigen|Lab Specimens & Blood Bank
+Anti-Fya|Antibody to Duffy a antigen|Lab Specimens & Blood Bank
+Anti-Fyb|Antibody to Duffy b antigen|Lab Specimens & Blood Bank
+Anti-Jka|Antibody to Kidd a antigen|Lab Specimens & Blood Bank
+Anti-Jkb|Antibody to Kidd b antigen|Lab Specimens & Blood Bank
+Anti-M|Antibody to M antigen|Lab Specimens & Blood Bank
+Anti-N|Antibody to N antigen|Lab Specimens & Blood Bank
+Anti-S|Antibody to S antigen|Lab Specimens & Blood Bank
+Anti-s|Antibody to s antigen|Lab Specimens & Blood Bank
+Anti-Lea|Antibody to Lewis a antigen|Lab Specimens & Blood Bank
+Anti-Leb|Antibody to Lewis b antigen|Lab Specimens & Blood Bank
+Anti-I|Antibody to I antigen|Lab Specimens & Blood Bank
+Anti-IgA|Antibody to immunoglobulin A|Lab Specimens & Blood Bank
+Ag-neg|Antigen-negative units|Lab Specimens & Blood Bank
+Antigen-negative|Red cell units lacking the antigen to the patient antibody|Lab Specimens & Blood Bank
+Phenotype-matched|Units matched for selected red cell antigens|Lab Specimens & Blood Bank
+Extended match|Units matched for Rh, Kell, Duffy, Kidd and other antigens|Lab Specimens & Blood Bank
+Sickle neg|Hemoglobin S-negative red cell units|Lab Specimens & Blood Bank
+HbS-neg|Hemoglobin S-negative red cell units|Lab Specimens & Blood Bank
+Least incompatible|Best-available crossmatch-incompatible units|Lab Specimens & Blood Bank
+Uncrossmatched|Blood issued before crossmatch is complete|Lab Specimens & Blood Bank
+Emergency release|Uncrossmatched blood issued with physician signature|Lab Specimens & Blood Bank
+Type-specific|Units matching the patient ABO and Rh type|Lab Specimens & Blood Bank
+O-neg|Group O Rh-negative blood|Lab Specimens & Blood Bank
+O neg|Group O Rh-negative blood|Lab Specimens & Blood Bank
+O-|Group O Rh-negative blood|Lab Specimens & Blood Bank
+O-pos|Group O Rh-positive blood|Lab Specimens & Blood Bank
+O pos|Group O Rh-positive blood|Lab Specimens & Blood Bank
+O+|Group O Rh-positive blood|Lab Specimens & Blood Bank
+AB plasma|Group AB universal donor plasma|Lab Specimens & Blood Bank
+LTOWB|Low-titer group O whole blood|Lab Specimens & Blood Bank
+WB|Whole blood|Lab Specimens & Blood Bank
+MTP|Massive transfusion protocol|Lab Specimens & Blood Bank
+Cooler|Validated container for transport of blood products|Lab Specimens & Blood Bank
+MTP cooler|Massive transfusion protocol product cooler|Lab Specimens & Blood Bank
+1:1:1|Equal ratio of plasma, platelets and red cells|Lab Specimens & Blood Bank
+1:1|Equal ratio of plasma to red cells|Lab Specimens & Blood Bank
+pRBC|Packed red blood cells|Lab Specimens & Blood Bank
+PRBC|Packed red blood cells|Lab Specimens & Blood Bank
+pRBCs|Packed red blood cells|Lab Specimens & Blood Bank
+RBC|Red blood cells|Lab Specimens & Blood Bank
+RBCs|Red blood cells|Lab Specimens & Blood Bank
+1u|One unit|Lab Specimens & Blood Bank
+1 unit|One unit|Lab Specimens & Blood Bank
+2u|Two units|Lab Specimens & Blood Bank
+2 units|Two units|Lab Specimens & Blood Bank
+U|Unit of blood product|Lab Specimens & Blood Bank
+FFP|Fresh frozen plasma|Lab Specimens & Blood Bank
+FP24|Plasma frozen within 24 hours of phlebotomy|Lab Specimens & Blood Bank
+PF24|Plasma frozen within 24 hours of phlebotomy|Lab Specimens & Blood Bank
+PF24RT24|Plasma frozen within 24 hours, held at room temperature up to 24 hours|Lab Specimens & Blood Bank
+TP|Thawed plasma|Lab Specimens & Blood Bank
+Thawed plasma|Plasma kept refrigerated up to 5 days after thawing|Lab Specimens & Blood Bank
+Liquid plasma|Never-frozen plasma stored refrigerated|Lab Specimens & Blood Bank
+CPP|Cryo-poor plasma|Lab Specimens & Blood Bank
+Cryo|Cryoprecipitate|Lab Specimens & Blood Bank
+Pooled cryo|Pooled cryoprecipitate|Lab Specimens & Blood Bank
+Cryo pool|Pooled cryoprecipitate|Lab Specimens & Blood Bank
+Plt|Platelets|Lab Specimens & Blood Bank
+PLT|Platelets|Lab Specimens & Blood Bank
+Plts|Platelets|Lab Specimens & Blood Bank
+Apheresis platelets|Platelets collected from a single donor by apheresis|Lab Specimens & Blood Bank
+Apheresis|Collection of a specific blood component from a donor|Lab Specimens & Blood Bank
+SDP|Single-donor platelets|Lab Specimens & Blood Bank
+RDP|Random-donor platelets|Lab Specimens & Blood Bank
+WBD|Whole blood-derived platelets|Lab Specimens & Blood Bank
+PAS|Platelet additive solution|Lab Specimens & Blood Bank
+PAS platelets|Platelets stored in platelet additive solution|Lab Specimens & Blood Bank
+PRT|Pathogen reduction technology|Lab Specimens & Blood Bank
+PR|Pathogen-reduced|Lab Specimens & Blood Bank
+Pathogen-reduced|Component treated to inactivate pathogens and leukocytes|Lab Specimens & Blood Bank
+LVDS|Large-volume delayed sampling bacterial culture of platelets|Lab Specimens & Blood Bank
+Irr|Irradiated|Lab Specimens & Blood Bank
+IRR|Irradiated|Lab Specimens & Blood Bank
+Irradiated|Component treated with radiation to prevent TA-GVHD|Lab Specimens & Blood Bank
+LR|Leukoreduced|Lab Specimens & Blood Bank
+LR|Leukocyte-reduced|Lab Specimens & Blood Bank
+Leukoreduced|Component with white cells removed by filtration|Lab Specimens & Blood Bank
+CMV-safe|Leukoreduced or CMV-seronegative component|Lab Specimens & Blood Bank
+CMV-neg|CMV-seronegative component|Lab Specimens & Blood Bank
+CMV seroneg|CMV-seronegative component|Lab Specimens & Blood Bank
+Washed|Component with plasma removed by saline washing|Lab Specimens & Blood Bank
+Volume-reduced|Component with plasma partially removed|Lab Specimens & Blood Bank
+VR|Volume-reduced|Lab Specimens & Blood Bank
+HLA-matched|Platelets matched to recipient HLA type|Lab Specimens & Blood Bank
+HLA|Human leukocyte antigen|Lab Specimens & Blood Bank
+Crossmatched platelets|Platelets selected by platelet crossmatch compatibility|Lab Specimens & Blood Bank
+PRA|Panel reactive antibody|Lab Specimens & Blood Bank
+cPRA|Calculated panel reactive antibody|Lab Specimens & Blood Bank
+CCI|Corrected count increment|Lab Specimens & Blood Bank
+1-hr post count|Platelet count 10 to 60 minutes after transfusion|Lab Specimens & Blood Bank
+Refractoriness|Inadequate platelet count rise after transfusion|Lab Specimens & Blood Bank
+Transfusion reaction workup|Lab investigation of a suspected transfusion reaction|Lab Specimens & Blood Bank
+TRxn|Transfusion reaction|Lab Specimens & Blood Bank
+TR|Transfusion reaction|Lab Specimens & Blood Bank
+HTR|Hemolytic transfusion reaction|Lab Specimens & Blood Bank
+AHTR|Acute hemolytic transfusion reaction|Lab Specimens & Blood Bank
+DHTR|Delayed hemolytic transfusion reaction|Lab Specimens & Blood Bank
+DSTR|Delayed serologic transfusion reaction|Lab Specimens & Blood Bank
+FNHTR|Febrile nonhemolytic transfusion reaction|Lab Specimens & Blood Bank
+ATR|Allergic transfusion reaction|Lab Specimens & Blood Bank
+TRALI|Transfusion-related acute lung injury|Lab Specimens & Blood Bank
+TACO|Transfusion-associated circulatory overload|Lab Specimens & Blood Bank
+TAD|Transfusion-associated dyspnea|Lab Specimens & Blood Bank
+TA-GVHD|Transfusion-associated graft-versus-host disease|Lab Specimens & Blood Bank
+TAGVHD|Transfusion-associated graft-versus-host disease|Lab Specimens & Blood Bank
+PTP|Post-transfusion purpura|Lab Specimens & Blood Bank
+TTI|Transfusion-transmitted infection|Lab Specimens & Blood Bank
+TAS|Transfusion-associated sepsis|Lab Specimens & Blood Bank
+Hemovigilance|Surveillance of adverse events in transfusion|Lab Specimens & Blood Bank
+IgA def|IgA deficiency|Lab Specimens & Blood Bank
+IgA deficiency|Absent IgA, risk of anaphylaxis with plasma-containing products|Lab Specimens & Blood Bank
+IgA-deficient|Products from IgA-deficient donors|Lab Specimens & Blood Bank
+Bloodless medicine|Care plan avoiding allogeneic blood transfusion|Lab Specimens & Blood Bank
+Auto|Autologous|Lab Specimens & Blood Bank
+Autologous|Blood donated by the patient for their own use|Lab Specimens & Blood Bank
+PAD|Preoperative autologous donation|Lab Specimens & Blood Bank
+Directed donation|Blood donated for a specific named recipient|Lab Specimens & Blood Bank
+Allogeneic|Blood from another donor|Lab Specimens & Blood Bank
+Cell saver|Intraoperative cell salvage|Lab Specimens & Blood Bank
+ICS|Intraoperative cell salvage|Lab Specimens & Blood Bank
+MSBOS|Maximum surgical blood order schedule|Lab Specimens & Blood Bank
+ISBT 128|International blood product labeling standard|Lab Specimens & Blood Bank
+DIN|Donation identification number|Lab Specimens & Blood Bank
+Unit number|Donation identification number on a blood product|Lab Specimens & Blood Bank
+Blood warmer|Device warming blood products during transfusion|Lab Specimens & Blood Bank
+Rapid infuser|Device for high-flow warmed transfusion|Lab Specimens & Blood Bank
+RhIG|Rh immune globulin|Lab Specimens & Blood Bank
+Rh IG|Rh immune globulin|Lab Specimens & Blood Bank
+KB|Kleihauer-Betke test|Lab Specimens & Blood Bank
+Kleihauer-Betke|Acid elution test quantifying fetal red cells in maternal blood|Lab Specimens & Blood Bank
+Fetal screen|Rosette test for fetomaternal hemorrhage|Lab Specimens & Blood Bank
+Rosette test|Qualitative screen for Rh D-positive fetal cells in maternal blood|Lab Specimens & Blood Bank
+FMH|Fetomaternal hemorrhage|Lab Specimens & Blood Bank
+HDFN|Hemolytic disease of the fetus and newborn|Lab Specimens & Blood Bank
+Cord blood|Specimen from umbilical cord for newborn type and DAT|Lab Specimens & Blood Bank
+4F-PCC|Four-factor prothrombin complex concentrate|Lab Specimens & Blood Bank
+3F-PCC|Three-factor prothrombin complex concentrate|Lab Specimens & Blood Bank
+PCC|Prothrombin complex concentrate|Lab Specimens & Blood Bank
+aPCC|Activated prothrombin complex concentrate|Lab Specimens & Blood Bank
+rFVIIa|Recombinant activated factor VII|Lab Specimens & Blood Bank
+FVIIa|Activated factor VII|Lab Specimens & Blood Bank
+Fibrinogen concentrate|Plasma-derived purified fibrinogen|Lab Specimens & Blood Bank
+TPE|Therapeutic plasma exchange|Lab Specimens & Blood Bank
+PLEX|Plasma exchange|Lab Specimens & Blood Bank
+RCE|Red cell exchange|Lab Specimens & Blood Bank
+Issue|Release of a blood product from the blood bank|Lab Specimens & Blood Bank
+Return|Blood product sent back to the blood bank unused|Lab Specimens & Blood Bank
+Wasted unit|Blood product discarded after issue|Lab Specimens & Blood Bank
+4-hr rule|Transfusion of a unit must finish within 4 hours of spiking|Lab Specimens & Blood Bank
+Spike|Insertion of the administration set into a blood product bag|Lab Specimens & Blood Bank
+Armband|Blood bank patient identification band|Lab Specimens & Blood Bank
+BB band|Blood bank identification band|Lab Specimens & Blood Bank
+Specimen expiration|Blood bank sample validity, typically 3 days if recently transfused or pregnant|Lab Specimens & Blood Bank
+Pretransfusion sample|Specimen used for compatibility testing before transfusion|Lab Specimens & Blood Bank
+Post-transfusion sample|Specimen drawn after a suspected reaction for workup|Lab Specimens & Blood Bank
+Clerical check|Verification of patient and unit identifiers during a reaction workup|Lab Specimens & Blood Bank
+Visual check|Inspection of plasma for hemolysis during a reaction workup|Lab Specimens & Blood Bank
+Bag culture|Culture of the implicated blood product|Lab Specimens & Blood Bank

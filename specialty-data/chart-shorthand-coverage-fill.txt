@@ -1,0 +1,461 @@
+NWOB|Normal work of breathing|Chart Shorthand
+FNDs|Focal neurologic deficits|Chart Shorthand
+NFD|No focal deficits|Chart Shorthand
+CGE|Coffee ground emesis|Chart Shorthand
+Resp|Respiratory|Chart Shorthand
+Pulm|Pulmonary|Chart Shorthand
+Derm|Dermatology|Chart Shorthand
+Heme|Hematology|Chart Shorthand
+Uro|Urology|Chart Shorthand
+CT surg|Cardiothoracic surgery|Chart Shorthand
+NSGY|Neurosurgery|Chart Shorthand
+IMU|Intermediate care unit|Chart Shorthand
+Med-surg|Medical-surgical floor|Chart Shorthand
+CODE|Cardiopulmonary arrest response|Chart Shorthand
+STach|Sinus tachycardia|Chart Shorthand
+TWIs|T-wave inversions|Chart Shorthand
+MitraClip|Transcatheter edge-to-edge mitral repair device|Chart Shorthand
+PCW|Pulmonary capillary wedge|Chart Shorthand
+NBP|Noninvasive blood pressure|Chart Shorthand
+PIVs|Peripheral IVs|Chart Shorthand
+D50W|Dextrose 50 percent in water|Chart Shorthand
+PNT|Percutaneous nephrostomy tube|Chart Shorthand
+BGM|Blood glucose monitoring|Chart Shorthand
+LBPIV|Large-bore peripheral IV|Chart Shorthand
+C1D1|Cycle 1 day 1|Chart Shorthand
+AlkP|Alkaline phosphatase|Chart Shorthand
+TGs|Triglycerides|Chart Shorthand
+proBNP|N-terminal pro-B-type natriuretic peptide|Chart Shorthand
+hsTn|High-sensitivity troponin|Chart Shorthand
+WCx|Wound culture|Chart Shorthand
+Kleb|Klebsiella|Chart Shorthand
+Asp PNA|Aspiration pneumonia|Chart Shorthand
+Mero|Meropenem|Chart Shorthand
+Levo|Levofloxacin|Chart Shorthand
+Levo|Levothyroxine|Chart Shorthand
+Levo|Levophed, norepinephrine|Chart Shorthand
+Fluc|Fluconazole|Chart Shorthand
+HDx|Hemodialysis|Chart Shorthand
+UPr|Urine protein|Chart Shorthand
+OCPs|Oral contraceptive pills|Chart Shorthand
+Xray|X-ray|Chart Shorthand
+CT PE|CT pulmonary embolism protocol|Chart Shorthand
+C-scope|Colonoscopy|Chart Shorthand
+Flex sig|Flexible sigmoidoscopy|Chart Shorthand
+FWD|Free water deficit|Chart Shorthand
+Thin liq|Thin liquids|Chart Shorthand
+Dys 1|Dysphagia diet level 1, pureed|Chart Shorthand
+Nutr|Nutrition|Chart Shorthand
+Panc|Pancreatitis|Chart Shorthand
+L NC|Liters by nasal cannula|Chart Shorthand
+Vent|Mechanical ventilator|Chart Shorthand
+PS/PEEP|Pressure support and PEEP settings|Chart Shorthand
+6MW|Six-minute walk|Chart Shorthand
+Amb sat|Ambulatory oxygen saturation|Chart Shorthand
+HO2|Home oxygen|Chart Shorthand
+Home O2|Home oxygen|Chart Shorthand
+GGOs|Ground-glass opacities|Chart Shorthand
+dec BS|Decreased breath sounds|Chart Shorthand
+Sxn|Suction|Chart Shorthand
+OP sx|Oropharyngeal suctioning|Chart Shorthand
+NT sx|Nasotracheal suctioning|Chart Shorthand
+VP shunt|Ventriculoperitoneal shunt|Chart Shorthand
+LKWT|Last known well time|Chart Shorthand
+Szr prec|Seizure precautions|Chart Shorthand
+Sz prec|Seizure precautions|Chart Shorthand
+qday|Daily|Chart Shorthand
+q4-6h|Every 4 to 6 hours|Chart Shorthand
+qmo|Every month|Chart Shorthand
+NOW|Now, one-time order|Chart Shorthand
+P2D|Pharmacy to dose|Chart Shorthand
+OxyIR|Immediate-release oxycodone|Chart Shorthand
+HMN|Hydromorphone|Chart Shorthand
+MSIR|Morphine sulfate immediate release|Chart Shorthand
+MSContin|Morphine sulfate extended release|Chart Shorthand
+Bupe|Buprenorphine|Chart Shorthand
+Bup/nal|Buprenorphine-naloxone|Chart Shorthand
+EtOH w/d|Alcohol withdrawal|Chart Shorthand
+Nic patch|Nicotine patch|Chart Shorthand
+Benzos|Benzodiazepines|Chart Shorthand
+Dopa|Dopamine|Chart Shorthand
+Dilt|Diltiazem|Chart Shorthand
+Dilt gtt|Diltiazem drip|Chart Shorthand
+Toprol XL|Metoprolol succinate extended release|Chart Shorthand
+Amlo|Amlodipine|Chart Shorthand
+H/ISDN|Hydralazine and isosorbide dinitrate|Chart Shorthand
+BiDil|Isosorbide dinitrate-hydralazine|Chart Shorthand
+HIST|High-intensity statin therapy|Chart Shorthand
+Enox|Enoxaparin|Chart Shorthand
+PPI gtt|Proton pump inhibitor infusion|Chart Shorthand
+H2B|H2 blocker|Chart Shorthand
+Famo|Famotidine|Chart Shorthand
+MiraLAX|Polyethylene glycol|Chart Shorthand
+Mag cit|Magnesium citrate|Chart Shorthand
+GoLytely|Polyethylene glycol bowel prep|Chart Shorthand
+LDSSI|Low-dose sliding-scale insulin|Chart Shorthand
+LSSI|Low-dose sliding-scale insulin|Chart Shorthand
+MSSI|Moderate-dose sliding-scale insulin|Chart Shorthand
+HDSSI|High-dose sliding-scale insulin|Chart Shorthand
+SoluMedrol|Methylprednisolone|Chart Shorthand
+HH RN|Home health nursing|Chart Shorthand
+OOBC|Out of bed to chair|Chart Shorthand
+UAT|Up as tolerated|Chart Shorthand
+Pt tol|Patient tolerated|Chart Shorthand
+P/10|Pain out of 10|Chart Shorthand
+SOCRATES|Site, onset, character, radiation, associations, time course, exacerbating factors, severity|Chart Shorthand
+CRN|Charge registered nurse|Chart Shorthand
+PGY2|Postgraduate year 2|Chart Shorthand
+PGY3|Postgraduate year 3|Chart Shorthand
+MS3|Third-year medical student|Chart Shorthand
+MS4|Fourth-year medical student|Chart Shorthand
+Cross-cover|Covering resident overnight|Chart Shorthand
+WCN|Wound care nurse|Chart Shorthand
+Chap|Chaplain|Chart Shorthand
+Pall|Palliative|Chart Shorthand
+GOCD|Goals of care discussion|Chart Shorthand
+FMtg|Family meeting|Chart Shorthand
+EDOD|Estimated date of discharge|Chart Shorthand
+DCH|Discharge home|Chart Shorthand
+Home w/ HH|Home with home health|Chart Shorthand
+IM letter|Important Message from Medicare notice|Chart Shorthand
+IMM|Important Message from Medicare|Chart Shorthand
+TBC|To be continued|Chart Shorthand
+NOO|New orders obtained|Chart Shorthand
+SKT|Skin tear|Chart Shorthand
+Q2 turns|Turn every 2 hours|Chart Shorthand
+PureWick|External female urinary catheter|Chart Shorthand
+Accu-Chek|Fingerstick glucose|Chart Shorthand
+Accucheck|Fingerstick glucose|Chart Shorthand
+Pulse ox|Pulse oximetry|Chart Shorthand
+CPOx|Continuous pulse oximetry|Chart Shorthand
+Pt ed|Patient education|Chart Shorthand
+Contact iso|Contact isolation|Chart Shorthand
+Std prec|Standard precautions|Chart Shorthand
+Pt c/o|Patient complains of|Chart Shorthand
+WCM|Will continue to monitor|Chart Shorthand
+Will cont to monitor|Will continue to monitor|Chart Shorthand
+Cont to monitor|Continue to monitor|Chart Shorthand
+Interval hx|Interval history|Chart Shorthand
+Subj|Subjective|Chart Shorthand
+Obj|Objective|Chart Shorthand
+Prob|Problem|Chart Shorthand
+2/2 BCx|Two of two blood culture sets positive|Chart Shorthand
+sec to|Secondary to|Chart Shorthand
+No comps|No complications|Chart Shorthand
+POCUS-guided|Ultrasound-guided|Chart Shorthand
+Rad art|Radial artery|Chart Shorthand
+TR band|Transradial compression band|Chart Shorthand
+Anes|Anesthesia|Chart Shorthand
+Ped vs auto|Pedestrian struck by vehicle|Chart Shorthand
+SFFD|San Francisco Fire Department (EMS)|Chart Shorthand
+LUCAS|Mechanical CPR device|Chart Shorthand
+Medi-van|Wheelchair-accessible van transport|Chart Shorthand
+UH|Unhoused|Chart Shorthand
+Spanish-speaking|Spanish language preference|Chart Shorthand
+Husb|Husband|Chart Shorthand
+Bro|Brother|Chart Shorthand
+Lives w/|Lives with|Chart Shorthand
+1-story|Single-story home|Chart Shorthand
+2-story|Two-story home|Chart Shorthand
+Edu|Education|Chart Shorthand
+Phys|Physician|Chart Shorthand
+Recd|Recommended|Chart Shorthand
+eConsult|Electronic consultation|Chart Shorthand
+Cards|Cardiology|Chart Shorthand
+Card|Cardiology|Chart Shorthand
+Pulm|Pulmonology|Chart Shorthand
+Neph|Nephrology|Chart Shorthand
+Gen surg|General surgery|Chart Shorthand
+Surg|Surgery|Chart Shorthand
+Vasc|Vascular surgery|Chart Shorthand
+Optho|Ophthalmology|Chart Shorthand
+Ophtho|Ophthalmology|Chart Shorthand
+Ophtho|Ophthalmology consult|Chart Shorthand
+Pall|Palliative care|Chart Shorthand
+Geri|Geriatrics|Chart Shorthand
+Txp|Transplant|Chart Shorthand
+C3/C4|Complement levels|Chart Shorthand
+Hip fx|Hip fracture|Chart Shorthand
+NV intact|Neurovascularly intact|Chart Shorthand
+Cap refill|Capillary refill|Chart Shorthand
+S1S2|First and second heart sounds|Chart Shorthand
+Hypotn|Hypotension|Chart Shorthand
+SBP>180|Systolic blood pressure above 180|Chart Shorthand
+Wean to RA|Wean to room air|Chart Shorthand
+On RA|On room air|Chart Shorthand
+FCx2|Follows two-step commands|Chart Shorthand
+OX3|Oriented times three|Chart Shorthand
+Ox1|Oriented to self only|Chart Shorthand
+Non-verbal|Nonverbal|Chart Shorthand
+Toe amp|Toe amputation|Chart Shorthand
+Port-a-cath|Implanted venous port|Chart Shorthand
+NaPhos|Sodium phosphate|Chart Shorthand
+MgOx|Magnesium oxide|Chart Shorthand
+Mag ox|Magnesium oxide|Chart Shorthand
+Bicarb gtt|Sodium bicarbonate infusion|Chart Shorthand
+SZC|Sodium zirconium cyclosilicate|Chart Shorthand
+3% NS|Three percent hypertonic saline|Chart Shorthand
+NaCl tabs|Sodium chloride tablets|Chart Shorthand
+Net even|Net even fluid balance|Chart Shorthand
+Vol overload|Volume overload|Chart Shorthand
+SEP-1|CMS sepsis bundle measure|Chart Shorthand
+Pan-cx|Pan-culture|Chart Shorthand
+Pan-culture|Cultures of blood, urine, and sputum|Chart Shorthand
+De-escalate|Narrow antibiotics|Chart Shorthand
+Txn|Transfusion|Chart Shorthand
+Coag|Coagulopathy|Chart Shorthand
+Xa|Anti-factor Xa level|Chart Shorthand
+Hold AC|Hold anticoagulation|Chart Shorthand
+CHADS-VASc|Stroke risk score in atrial fibrillation|Chart Shorthand
+Glasgow-Blatchford|Upper GI bleed risk score|Chart Shorthand
+IMPROVE|IMPROVE VTE or bleeding risk score|Chart Shorthand
+Unsafe d/c|Unsafe discharge|Chart Shorthand
+MSFD|Medically stable for discharge|Chart Shorthand
+DC tmrw|Discharge tomorrow|Chart Shorthand
+Tmw|Tomorrow|Chart Shorthand
+wk|Week|Chart Shorthand
+yr|Year|Chart Shorthand
+yrs|Years|Chart Shorthand
+Wkd|Weekend|Chart Shorthand
+Crit|Critical value|Chart Shorthand
+Crit|Hematocrit|Chart Shorthand
+Abnl|Abnormal|Chart Shorthand
+RBC/hpf|Red blood cells per high-power field|Chart Shorthand
+SqEpi|Squamous epithelial cells|Chart Shorthand
+Mod sed|Moderate sedation|Chart Shorthand
+On tele|On telemetry|Chart Shorthand
+Off tele|Off telemetry|Chart Shorthand
+NSSTTWC|Nonspecific ST-T wave changes|Chart Shorthand
+STTW|ST and T wave|Chart Shorthand
+TWF|T-wave flattening|Chart Shorthand
+LifeVest|Wearable cardioverter-defibrillator|Chart Shorthand
+Zio|Zio patch ambulatory monitor|Chart Shorthand
+Fick|Fick cardiac output|Chart Shorthand
+Warm/wet|Warm and wet hemodynamic profile|Chart Shorthand
+Cold/wet|Cold and wet hemodynamic profile|Chart Shorthand
+Warm/dry|Warm and dry hemodynamic profile|Chart Shorthand
+Type 2 MI|Supply-demand myocardial infarction|Chart Shorthand
+Palps|Palpitations|Chart Shorthand
+Palp|Palpitations|Chart Shorthand
+COPD exac|COPD exacerbation|Chart Shorthand
+Exac|Exacerbation|Chart Shorthand
+3-way|Three-way Foley catheter|Chart Shorthand
+Poor PO|Poor oral intake|Chart Shorthand
+B sx|B symptoms|Chart Shorthand
+EpiPen|Epinephrine autoinjector|Chart Shorthand
+Epi IM|Intramuscular epinephrine|Chart Shorthand
+Rxn|Reaction|Chart Shorthand
+Micro-induction|Low-dose buprenorphine initiation|Chart Shorthand
+LDBI|Low-dose buprenorphine induction|Chart Shorthand
+Drinks/day|Standard drinks per day|Chart Shorthand
+Pk/day|Packs per day|Chart Shorthand
+ProSource|Liquid protein supplement|Chart Shorthand
+JP output|Jackson-Pratt drain output|Chart Shorthand
+-20 suction|Chest tube to minus 20 cm water suction|Chart Shorthand
+Pleur-evac|Chest drainage system|Chart Shorthand
+Pull CT|Remove chest tube|Chart Shorthand
+SNF rehab|Skilled nursing facility rehabilitation|Chart Shorthand
+3MN|Three-midnight inpatient stay rule for SNF coverage|Chart Shorthand
+Meds to beds|Bedside medication delivery program|Chart Shorthand
+Rx sent|Prescription sent|Chart Shorthand
+GoodRx|Discount drug pricing service|Chart Shorthand
+RTED|Return to emergency department|Chart Shorthand
+Chk|Check|Chart Shorthand
+Disc w/|Discussed with|Chart Shorthand
+Spoke w/|Spoke with|Chart Shorthand
+Thx|Thanks|Chart Shorthand
+Thnx|Thanks|Chart Shorthand
+ty|Thank you|Chart Shorthand
+NNTR|Nothing new to report|Chart Shorthand
+NFN|Nothing further needed|Chart Shorthand
+NOTED|Acknowledged|Chart Shorthand
+Ack|Acknowledged|Chart Shorthand
+Pt aware|Patient informed|Chart Shorthand
+Fam aware|Family informed|Chart Shorthand
+Xfer|Transfer|Chart Shorthand
+Admit H&P|Admission history and physical|Chart Shorthand
+Op note|Operative note|Chart Shorthand
+LDAs|Lines, drains and airways|Chart Shorthand
+NDP|Nurse-driven protocol|Chart Shorthand
+CMS checks|Circulation, motor, sensation checks|Chart Shorthand
+Sitting EOB|Sitting at edge of bed|Chart Shorthand
+LH sponge|Long-handled sponge|Chart Shorthand
+Overt s/s asp|Overt signs and symptoms of aspiration|Chart Shorthand
+Silent asp|Silent aspiration|Chart Shorthand
+Fall w/o injury|Fall without injury|Chart Shorthand
+Accu|Fingerstick glucose|Chart Shorthand
+Renal fxn|Renal function|Chart Shorthand
+Hx of|History of|Chart Shorthand
+BL Cr|Baseline creatinine|Chart Shorthand
+xN|Times N|Chart Shorthand
+Mgt|Management|Chart Shorthand
+Hosp|Hospital|Chart Shorthand
+SFGH|San Francisco General Hospital|Chart Shorthand
+VAMC|Veterans Affairs Medical Center|Chart Shorthand
+UCSF|University of California, San Francisco|Chart Shorthand
+Clinic f/u|Clinic follow-up|Chart Shorthand
+Appt|Appointment|Chart Shorthand
+OV|Office visit|Chart Shorthand
+No show|Missed appointment|Chart Shorthand
+RTC 2 wks|Return to clinic in two weeks|Chart Shorthand
+PRN f/u|Follow up as needed|Chart Shorthand
+FIT-DNA|Multitarget stool DNA test|Chart Shorthand
+Vax|Vaccination|Chart Shorthand
+Imm|Immunizations|Chart Shorthand
+Pt declined|Patient declined|Chart Shorthand
+Non-adherent|Not taking medications as prescribed|Chart Shorthand
+Pill box|Weekly pill organizer|Chart Shorthand
+Agree w/|Agree with|Chart Shorthand
+r/i|Rule in|Chart Shorthand
+M|Male|Chart Shorthand
+F|Female|Chart Shorthand
+FND|Focal neurologic deficit|Chart Shorthand
+F/C|Fevers and chills|Chart Shorthand
+F/C/S|Fevers, chills, sweats|Chart Shorthand
+LH|Lightheadedness|Chart Shorthand
+Onc|Oncology|Chart Shorthand
+Endo|Endocrinology|Chart Shorthand
+Endo|Endoscopy|Chart Shorthand
+VS|Vascular surgery|Chart Shorthand
+NSG|Neurosurgery|Chart Shorthand
+Nsg|Nursing|Chart Shorthand
+IC|Interventional cardiology|Chart Shorthand
+SA|Stable angina|Chart Shorthand
+I/Os|Intake and output|Chart Shorthand
+HL|Hyperlipidemia|Chart Shorthand
+DLD|Dyslipidemia|Chart Shorthand
+SCC|Straight cath|Chart Shorthand
+BVS|Bladder volume scan|Chart Shorthand
+DDimer|D-dimer|Chart Shorthand
+SA|Staphylococcus aureus|Chart Shorthand
+COVID|COVID-19|Chart Shorthand
+BL|Beta-lactam|Chart Shorthand
+NCCT|Noncontrast CT|Chart Shorthand
+CTC|CT chest|Chart Shorthand
+NM|Nuclear medicine|Chart Shorthand
+Colo|Colonoscopy|Chart Shorthand
+MTL|Mildly thick liquids|Chart Shorthand
+BSS|Bedside swallow screen|Chart Shorthand
+HFO|High-flow oxygen|Chart Shorthand
+NC|No change|Chart Shorthand
+Atx|Atelectasis|Chart Shorthand
+TME|Toxic-metabolic encephalopathy|Chart Shorthand
+C/h|Continue home medication|Chart Shorthand
+Tob|Tobacco|Chart Shorthand
+RISS|Regular insulin sliding scale|Chart Shorthand
+IIP|Insulin infusion protocol|Chart Shorthand
+Hypo|Hypoglycemia|Chart Shorthand
+MFM|Metformin|Chart Shorthand
+SDS|Stress-dose steroids|Chart Shorthand
+HCM|Health care maintenance|Chart Shorthand
+TA|Total assist|Chart Shorthand
+A|Assist|Chart Shorthand
+Amb|Ambulatory|Chart Shorthand
+Str|Strength|Chart Shorthand
+Rec|Recommend|Chart Shorthand
+Res|Resident|Chart Shorthand
+AI|Acting intern|Chart Shorthand
+CC|Cross-cover|Chart Shorthand
+HM|Hospital medicine|Chart Shorthand
+IM|Internal medicine|Chart Shorthand
+SIC|Serious illness conversation|Chart Shorthand
+Pre-auth|Prior authorization|Chart Shorthand
+OPA|Our practice advisory|Chart Shorthand
+IB|In Basket|Chart Shorthand
+TBA|To be arranged|Chart Shorthand
+DD|Dry dressing|Chart Shorthand
+Epi|Epithelialization|Chart Shorthand
+BC|Barrier cream|Chart Shorthand
+TAP|Turn and position|Chart Shorthand
+Iso|Isolation|Chart Shorthand
+BLL|Bed in low and locked position|Chart Shorthand
+NEO|No events overnight|Chart Shorthand
+A|Assessment|Chart Shorthand
+Imp|Impression|Chart Shorthand
+D/O|Disorder|Chart Shorthand
+HP|Hold parameters|Chart Shorthand
+CMI|Call MD if|Chart Shorthand
+ICE|In case of emergency|Chart Shorthand
+c/o|Complaining of|Chart Shorthand
+FD|Found down|Chart Shorthand
+MR|Medical respite|Chart Shorthand
+Dtr|Daughter|Chart Shorthand
+GF|Girlfriend|Chart Shorthand
+BF|Boyfriend|Chart Shorthand
+Sis|Sister|Chart Shorthand
+Mo|Mother|Chart Shorthand
+Fa|Father|Chart Shorthand
+SFH|Single-family home|Chart Shorthand
+Apt|Apartment|Chart Shorthand
+STE|Steps to enter|Chart Shorthand
+Ins|Insurance|Chart Shorthand
+Doc|Doctor|Chart Shorthand
+ENT|Otolaryngology|Chart Shorthand
+FK|Tacrolimus|Chart Shorthand
+IC|Immunocompromised|Chart Shorthand
+ICH|Immunocompromised host|Chart Shorthand
+CR|Capillary refill|Chart Shorthand
+SM|Splenomegaly|Chart Shorthand
+HM|Hepatomegaly|Chart Shorthand
+SaRA|Saturating on room air|Chart Shorthand
+Amp|Amputation|Chart Shorthand
+VO|Volume overload|Chart Shorthand
+Tx|Transfusion|Chart Shorthand
+ACC|Anticoagulation clinic|Chart Shorthand
+DI|Deterioration Index|Chart Shorthand
+GW|Generalized weakness|Chart Shorthand
+Tom|Tomorrow|Chart Shorthand
+mo|Month|Chart Shorthand
+AM|Morning|Chart Shorthand
+PM|Evening|Chart Shorthand
+Sl|Slight|Chart Shorthand
+Epis|Epithelial cells|Chart Shorthand
+Gap|Anion gap|Chart Shorthand
+Rads|Radiology|Chart Shorthand
+Gad|Gadolinium|Chart Shorthand
+Nuc|Nuclear stress test|Chart Shorthand
+Supp|Supplement|Chart Shorthand
+Gaba|Gabapentin|Chart Shorthand
+BT|Breakthrough|Chart Shorthand
+DPD|Drinks per day|Chart Shorthand
+AA|African American|Chart Shorthand
+ACS|Addiction consult service|Chart Shorthand
+AMS|Addiction medicine service|Chart Shorthand
+Ck|Check|Chart Shorthand
+Pg|Page|Chart Shorthand
+SC|Secure chat|Chart Shorthand
+CB|Call back|Chart Shorthand
+Pls|Please|Chart Shorthand
+NTR|Nothing to report|Chart Shorthand
+ABS|At bedside|Chart Shorthand
+FS|Flowsheet|Chart Shorthand
+Doc|Documentation|Chart Shorthand
+Pend|Pend order|Chart Shorthand
+S&H|Signed and held|Chart Shorthand
+OS|Order set|Chart Shorthand
+PSA|Patient safety attendant|Chart Shorthand
+VM|Virtual monitoring|Chart Shorthand
+RL|Safety event report|Chart Shorthand
+Hep|Heparin|Chart Shorthand
+Hep|Hepatitis|Chart Shorthand
+Dec|Decreased|Chart Shorthand
+incr|Increased|Chart Shorthand
+decr|Decreased|Chart Shorthand
+sig|Significant|Chart Shorthand
+pre|Before|Chart Shorthand
+Tx|Therapy|Chart Shorthand
+Mgmt|Management|Chart Shorthand
+Adm|Admitted|Chart Shorthand
+OSF|Outside facility|Chart Shorthand
+MZ|Mount Zion campus|Chart Shorthand
+MB|Mission Bay campus|Chart Shorthand
+GIM|General internal medicine|Chart Shorthand
+RV|Return visit|Chart Shorthand
+TV|Telehealth visit|Chart Shorthand
+Gu+|Guaiac positive|Chart Shorthand
+G+|Guaiac positive|Chart Shorthand
+UTD|Unable to determine|Chart Shorthand
+Ref|Refused|Chart Shorthand
+Ed|Education|Chart Shorthand
+CDE|Certified diabetes educator|Chart Shorthand
+S&E|Seen and examined|Chart Shorthand

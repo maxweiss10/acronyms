@@ -1,0 +1,398 @@
+OR|Operating room|Perioperative Nursing
+OT|Operating theatre|Perioperative Nursing
+PACU|Post-anesthesia care unit|Perioperative Nursing
+PACU|Recovery room|Perioperative Nursing
+RR|Recovery room|Perioperative Nursing
+RR|Respiratory rate|Perioperative Nursing
+PAR|Post-anesthesia recovery|Perioperative Nursing
+PACU I|Phase I post-anesthesia care unit|Perioperative Nursing
+PACU II|Phase II post-anesthesia care unit|Perioperative Nursing
+Phase I|Phase I post-anesthesia recovery|Perioperative Nursing
+Phase II|Phase II post-anesthesia recovery|Perioperative Nursing
+Phase III|Phase III extended observation|Perioperative Nursing
+ER|Extended recovery|Perioperative Nursing
+Pre-op|Preoperative|Perioperative Nursing
+Preop|Preoperative|Perioperative Nursing
+Intra-op|Intraoperative|Perioperative Nursing
+Intraop|Intraoperative|Perioperative Nursing
+Post-op|Postoperative|Perioperative Nursing
+Postop|Postoperative|Perioperative Nursing
+Peri-op|Perioperative|Perioperative Nursing
+POD|Postoperative day|Perioperative Nursing
+POD|Postoperative delirium|Perioperative Nursing
+DOS|Day of surgery|Perioperative Nursing
+SDS|Same-day surgery|Perioperative Nursing
+SDA|Same-day admission|Perioperative Nursing
+SDA|Same-day admit|Perioperative Nursing
+SDD|Same-day discharge|Perioperative Nursing
+ASC|Ambulatory surgery center|Perioperative Nursing
+ASU|Ambulatory surgery unit|Perioperative Nursing
+OP|Outpatient|Perioperative Nursing
+IP|Inpatient|Perioperative Nursing
+Obs|Observation|Perioperative Nursing
+OR RN|Operating room registered nurse|Perioperative Nursing
+Circ|Circulator|Perioperative Nursing
+Circ RN|Circulating nurse|Perioperative Nursing
+CST|Certified surgical technologist|Perioperative Nursing
+ST|Surgical technologist|Perioperative Nursing
+CSFA|Certified surgical first assistant|Perioperative Nursing
+RNFA|Registered nurse first assistant|Perioperative Nursing
+CRNFA|Certified registered nurse first assistant|Perioperative Nursing
+CNOR|Certified perioperative registered nurse credential|Perioperative Nursing
+CPAN|Certified post anesthesia nurse|Perioperative Nursing
+CAPA|Certified ambulatory perianesthesia nurse|Perioperative Nursing
+CRNA|Certified registered nurse anesthetist|Perioperative Nursing
+CAA|Certified anesthesiologist assistant|Perioperative Nursing
+AA|Anesthesiologist assistant|Perioperative Nursing
+AORN|Association of perioperative registered nurses|Perioperative Nursing
+ASPAN|American society of perianesthesia nurses|Perioperative Nursing
+ASA|American society of anesthesiologists|Perioperative Nursing
+ASA|ASA physical status classification|Perioperative Nursing
+ASA|Aspirin|Perioperative Nursing
+ASA PS|ASA physical status|Perioperative Nursing
+ASA I|Normal healthy patient|Perioperative Nursing
+ASA II|Mild systemic disease|Perioperative Nursing
+ASA III|Severe systemic disease|Perioperative Nursing
+ASA IV|Severe systemic disease that is a constant threat to life|Perioperative Nursing
+ASA V|Moribund patient not expected to survive without the operation|Perioperative Nursing
+ASA VI|Brain-dead organ donor|Perioperative Nursing
+E|Emergency modifier to ASA class|Perioperative Nursing
+UP|Universal protocol|Perioperative Nursing
+WSS|Wrong-site surgery|Perioperative Nursing
+SSC|Surgical safety checklist|Perioperative Nursing
+WHO SSC|World Health Organization surgical safety checklist|Perioperative Nursing
+TJC|The Joint Commission|Perioperative Nursing
+NPSG|National patient safety goals|Perioperative Nursing
+SRE|Serious reportable event|Perioperative Nursing
+SSE|Serious safety event|Perioperative Nursing
+RCA|Root cause analysis|Perioperative Nursing
+QI|Quality improvement|Perioperative Nursing
+RSI|Retained surgical item|Perioperative Nursing
+RSI|Rapid sequence induction|Perioperative Nursing
+RSI|Rapid sequence intubation|Perioperative Nursing
+RFO|Retained foreign object|Perioperative Nursing
+RFID|Radiofrequency identification|Perioperative Nursing
+Lap|Laparotomy sponge|Perioperative Nursing
+Lap|Laparoscopic|Perioperative Nursing
+Lap chole|Laparoscopic cholecystectomy|Perioperative Nursing
+Ex lap|Exploratory laparotomy|Perioperative Nursing
+MIS|Minimally invasive surgery|Perioperative Nursing
+RAS|Robotic-assisted surgery|Perioperative Nursing
+ESU|Electrosurgical unit|Perioperative Nursing
+REM|Return electrode monitoring|Perioperative Nursing
+APC|Argon plasma coagulation|Perioperative Nursing
+ABC|Argon beam coagulator|Perioperative Nursing
+LOP|Limb occlusion pressure|Perioperative Nursing
+EBL|Estimated blood loss|Perioperative Nursing
+QBL|Quantitative blood loss|Perioperative Nursing
+UOP|Urine output|Perioperative Nursing
+UO|Urine output|Perioperative Nursing
+I&O|Intake and output|Perioperative Nursing
+I/O|Intake and output|Perioperative Nursing
+IVF|Intravenous fluids|Perioperative Nursing
+LR|Lactated Ringer solution|Perioperative Nursing
+NS|Normal saline|Perioperative Nursing
+PRBC|Packed red blood cells|Perioperative Nursing
+pRBC|Packed red blood cells|Perioperative Nursing
+FFP|Fresh frozen plasma|Perioperative Nursing
+PLT|Platelets|Perioperative Nursing
+Cryo|Cryoprecipitate|Perioperative Nursing
+MTP|Massive transfusion protocol|Perioperative Nursing
+T&S|Type and screen|Perioperative Nursing
+T&C|Type and crossmatch|Perioperative Nursing
+BB|Blood bank|Perioperative Nursing
+ICS|Intraoperative cell salvage|Perioperative Nursing
+IOCS|Intraoperative cell salvage|Perioperative Nursing
+CS|Cell saver|Perioperative Nursing
+CS|Cesarean section|Perioperative Nursing
+CS|Conscious sedation|Perioperative Nursing
+C-section|Cesarean section|Perioperative Nursing
+FS|Frozen section|Perioperative Nursing
+Path|Pathology|Perioperative Nursing
+UDI|Unique device identifier|Perioperative Nursing
+IFU|Instructions for use|Perioperative Nursing
+SSI|Surgical site infection|Perioperative Nursing
+HAI|Hospital-acquired infection|Perioperative Nursing
+Class I|Clean wound|Perioperative Nursing
+Class II|Clean-contaminated wound|Perioperative Nursing
+Class III|Contaminated wound|Perioperative Nursing
+Class IV|Dirty or infected wound|Perioperative Nursing
+NPO|Nothing by mouth|Perioperative Nursing
+NPO after MN|Nothing by mouth after midnight|Perioperative Nursing
+MN|Midnight|Perioperative Nursing
+CL|Clear liquids|Perioperative Nursing
+CLD|Clear liquid diet|Perioperative Nursing
+PAT|Preadmission testing|Perioperative Nursing
+H&P|History and physical|Perioperative Nursing
+PMH|Past medical history|Perioperative Nursing
+PSH|Past surgical history|Perioperative Nursing
+NKDA|No known drug allergies|Perioperative Nursing
+NKA|No known allergies|Perioperative Nursing
+LMP|Last menstrual period|Perioperative Nursing
+hCG|Human chorionic gonadotropin|Perioperative Nursing
+UPT|Urine pregnancy test|Perioperative Nursing
+POC|Point of care|Perioperative Nursing
+POCT|Point-of-care testing|Perioperative Nursing
+FSBG|Fingerstick blood glucose|Perioperative Nursing
+FSBS|Fingerstick blood sugar|Perioperative Nursing
+BG|Blood glucose|Perioperative Nursing
+EKG|Electrocardiogram|Perioperative Nursing
+ECG|Electrocardiogram|Perioperative Nursing
+CXR|Chest x-ray|Perioperative Nursing
+IC|Informed consent|Perioperative Nursing
+DNR|Do not resuscitate|Perioperative Nursing
+DNAR|Do not attempt resuscitation|Perioperative Nursing
+POLST|Physician orders for life-sustaining treatment|Perioperative Nursing
+AD|Advance directive|Perioperative Nursing
+HCP|Health care proxy|Perioperative Nursing
+POA|Power of attorney|Perioperative Nursing
+EHR|Electronic health record|Perioperative Nursing
+EMR|Electronic medical record|Perioperative Nursing
+CHG|Chlorhexidine gluconate|Perioperative Nursing
+PVI|Povidone-iodine|Perioperative Nursing
+Abx|Antibiotics|Perioperative Nursing
+ABX|Antibiotics|Perioperative Nursing
+SAP|Surgical antimicrobial prophylaxis|Perioperative Nursing
+SAP|Surgical antibiotic prophylaxis|Perioperative Nursing
+SCIP|Surgical care improvement project|Perioperative Nursing
+MRSA|Methicillin-resistant Staphylococcus aureus|Perioperative Nursing
+MSSA|Methicillin-susceptible Staphylococcus aureus|Perioperative Nursing
+VTE|Venous thromboembolism|Perioperative Nursing
+DVT|Deep vein thrombosis|Perioperative Nursing
+PE|Pulmonary embolism|Perioperative Nursing
+SCD|Sequential compression device|Perioperative Nursing
+IPC|Intermittent pneumatic compression|Perioperative Nursing
+LMWH|Low-molecular-weight heparin|Perioperative Nursing
+UFH|Unfractionated heparin|Perioperative Nursing
+DOAC|Direct oral anticoagulant|Perioperative Nursing
+TXA|Tranexamic acid|Perioperative Nursing
+GLP-1 RA|Glucagon-like peptide-1 receptor agonist|Perioperative Nursing
+SGLT2i|Sodium-glucose cotransporter 2 inhibitor|Perioperative Nursing
+ACEi|Angiotensin-converting enzyme inhibitor|Perioperative Nursing
+ARB|Angiotensin receptor blocker|Perioperative Nursing
+RCRI|Revised cardiac risk index|Perioperative Nursing
+MET|Metabolic equivalent|Perioperative Nursing
+METs|Metabolic equivalents|Perioperative Nursing
+NSQIP|National surgical quality improvement program|Perioperative Nursing
+OSA|Obstructive sleep apnea|Perioperative Nursing
+BMI|Body mass index|Perioperative Nursing
+ERAS|Enhanced recovery after surgery|Perioperative Nursing
+LOS|Length of stay|Perioperative Nursing
+Trend|Trendelenburg position|Perioperative Nursing
+rTrend|Reverse Trendelenburg position|Perioperative Nursing
+RTG|Reverse Trendelenburg position|Perioperative Nursing
+RTP|Reverse Trendelenburg position|Perioperative Nursing
+Litho|Lithotomy position|Perioperative Nursing
+BC|Beach chair position|Perioperative Nursing
+Lat|Lateral decubitus position|Perioperative Nursing
+LLD|Left lateral decubitus|Perioperative Nursing
+RLD|Right lateral decubitus|Perioperative Nursing
+LUD|Left uterine displacement|Perioperative Nursing
+HOB|Head of bed|Perioperative Nursing
+FAW|Forced-air warming|Perioperative Nursing
+IPH|Inadvertent perioperative hypothermia|Perioperative Nursing
+MH|Malignant hyperthermia|Perioperative Nursing
+MHAUS|Malignant hyperthermia association of the United States|Perioperative Nursing
+PI|Pressure injury|Perioperative Nursing
+HAPI|Hospital-acquired pressure injury|Perioperative Nursing
+MDRPI|Medical device-related pressure injury|Perioperative Nursing
+POVL|Postoperative visual loss|Perioperative Nursing
+ION|Ischemic optic neuropathy|Perioperative Nursing
+PNI|Peripheral nerve injury|Perioperative Nursing
+BPI|Brachial plexus injury|Perioperative Nursing
+ROM|Range of motion|Perioperative Nursing
+GA|General anesthesia|Perioperative Nursing
+GETA|General endotracheal anesthesia|Perioperative Nursing
+TIVA|Total intravenous anesthesia|Perioperative Nursing
+MAC|Monitored anesthesia care|Perioperative Nursing
+MAC|Minimum alveolar concentration|Perioperative Nursing
+RA|Regional anesthesia|Perioperative Nursing
+SAB|Subarachnoid block|Perioperative Nursing
+SA|Spinal anesthesia|Perioperative Nursing
+CSE|Combined spinal-epidural|Perioperative Nursing
+TEA|Thoracic epidural analgesia|Perioperative Nursing
+PCEA|Patient-controlled epidural analgesia|Perioperative Nursing
+PCA|Patient-controlled analgesia|Perioperative Nursing
+LOR|Loss of resistance|Perioperative Nursing
+IT|Intrathecal|Perioperative Nursing
+ITM|Intrathecal morphine|Perioperative Nursing
+CSF|Cerebrospinal fluid|Perioperative Nursing
+PDPH|Post-dural puncture headache|Perioperative Nursing
+EBP|Epidural blood patch|Perioperative Nursing
+PNB|Peripheral nerve block|Perioperative Nursing
+CPNB|Continuous peripheral nerve block|Perioperative Nursing
+USGRA|Ultrasound-guided regional anesthesia|Perioperative Nursing
+US|Ultrasound|Perioperative Nursing
+BPB|Brachial plexus block|Perioperative Nursing
+ISB|Interscalene block|Perioperative Nursing
+SCB|Supraclavicular block|Perioperative Nursing
+ICB|Infraclavicular block|Perioperative Nursing
+TAP|Transversus abdominis plane block|Perioperative Nursing
+TAP block|Transversus abdominis plane block|Perioperative Nursing
+ESP|Erector spinae plane block|Perioperative Nursing
+ESPB|Erector spinae plane block|Perioperative Nursing
+QL|Quadratus lumborum block|Perioperative Nursing
+QLB|Quadratus lumborum block|Perioperative Nursing
+ACB|Adductor canal block|Perioperative Nursing
+FNB|Femoral nerve block|Perioperative Nursing
+FIB|Fascia iliaca block|Perioperative Nursing
+FICB|Fascia iliaca compartment block|Perioperative Nursing
+PENG|Pericapsular nerve group block|Perioperative Nursing
+IPACK|Infiltration between the popliteal artery and capsule of the knee|Perioperative Nursing
+PVB|Paravertebral block|Perioperative Nursing
+TPVB|Thoracic paravertebral block|Perioperative Nursing
+SAPB|Serratus anterior plane block|Perioperative Nursing
+PECS|Pectoral nerve block|Perioperative Nursing
+IVRA|Intravenous regional anesthesia|Perioperative Nursing
+LA|Local anesthesia|Perioperative Nursing
+LA|Local anesthetic|Perioperative Nursing
+LAST|Local anesthetic systemic toxicity|Perioperative Nursing
+WALANT|Wide-awake local anesthesia no tourniquet|Perioperative Nursing
+MS|Moderate sedation|Perioperative Nursing
+PSA|Procedural sedation and analgesia|Perioperative Nursing
+ETT|Endotracheal tube|Perioperative Nursing
+ET tube|Endotracheal tube|Perioperative Nursing
+LMA|Laryngeal mask airway|Perioperative Nursing
+SGA|Supraglottic airway|Perioperative Nursing
+SAD|Supraglottic airway device|Perioperative Nursing
+OPA|Oropharyngeal airway|Perioperative Nursing
+NPA|Nasopharyngeal airway|Perioperative Nursing
+BVM|Bag-valve-mask|Perioperative Nursing
+NC|Nasal cannula|Perioperative Nursing
+NRB|Non-rebreather mask|Perioperative Nursing
+HFNC|High-flow nasal cannula|Perioperative Nursing
+DL|Direct laryngoscopy|Perioperative Nursing
+VL|Video laryngoscopy|Perioperative Nursing
+FOI|Fiberoptic intubation|Perioperative Nursing
+AFOI|Awake fiberoptic intubation|Perioperative Nursing
+DLT|Double-lumen tube|Perioperative Nursing
+DA|Difficult airway|Perioperative Nursing
+CICO|Cannot intubate cannot oxygenate|Perioperative Nursing
+CICV|Cannot intubate cannot ventilate|Perioperative Nursing
+EtCO2|End-tidal carbon dioxide|Perioperative Nursing
+ETCO2|End-tidal carbon dioxide|Perioperative Nursing
+CO2|Carbon dioxide|Perioperative Nursing
+CPAP|Continuous positive airway pressure|Perioperative Nursing
+NIPPV|Noninvasive positive-pressure ventilation|Perioperative Nursing
+PEEP|Positive end-expiratory pressure|Perioperative Nursing
+TV|Tidal volume|Perioperative Nursing
+Vt|Tidal volume|Perioperative Nursing
+FiO2|Fraction of inspired oxygen|Perioperative Nursing
+SpO2|Peripheral oxygen saturation|Perioperative Nursing
+IAP|Intra-abdominal pressure|Perioperative Nursing
+Pneumo|Pneumoperitoneum|Perioperative Nursing
+NMB|Neuromuscular blockade|Perioperative Nursing
+NMBA|Neuromuscular blocking agent|Perioperative Nursing
+TOF|Train of four|Perioperative Nursing
+PTC|Post-tetanic count|Perioperative Nursing
+RNMB|Residual neuromuscular blockade|Perioperative Nursing
+PORC|Postoperative residual curarization|Perioperative Nursing
+Sux|Succinylcholine|Perioperative Nursing
+Roc|Rocuronium|Perioperative Nursing
+Vec|Vecuronium|Perioperative Nursing
+Glyco|Glycopyrrolate|Perioperative Nursing
+Dex|Dexamethasone|Perioperative Nursing
+Dex|Dexmedetomidine|Perioperative Nursing
+Epi|Epinephrine|Perioperative Nursing
+Scop|Scopolamine|Perioperative Nursing
+APAP|Acetaminophen|Perioperative Nursing
+NSAID|Nonsteroidal anti-inflammatory drug|Perioperative Nursing
+MMA|Multimodal analgesia|Perioperative Nursing
+OFA|Opioid-free anesthesia|Perioperative Nursing
+MME|Morphine milligram equivalents|Perioperative Nursing
+OIRD|Opioid-induced respiratory depression|Perioperative Nursing
+PADSS|Post-anesthesia discharge scoring system|Perioperative Nursing
+PARS|Post-anesthesia recovery score|Perioperative Nursing
+PONV|Postoperative nausea and vomiting|Perioperative Nursing
+PDNV|Postdischarge nausea and vomiting|Perioperative Nursing
+N/V|Nausea and vomiting|Perioperative Nursing
+N&V|Nausea and vomiting|Perioperative Nursing
+ED|Emergence delirium|Perioperative Nursing
+EA|Emergence agitation|Perioperative Nursing
+PAED|Pediatric anesthesia emergence delirium scale|Perioperative Nursing
+POCD|Postoperative cognitive dysfunction|Perioperative Nursing
+CAM|Confusion assessment method|Perioperative Nursing
+RASS|Richmond agitation-sedation scale|Perioperative Nursing
+NPPE|Negative-pressure pulmonary edema|Perioperative Nursing
+POUR|Postoperative urinary retention|Perioperative Nursing
+PVR|Post-void residual|Perioperative Nursing
+IOH|Intraoperative hypotension|Perioperative Nursing
+LOC|Level of consciousness|Perioperative Nursing
+LOC|Loss of consciousness|Perioperative Nursing
+A&O|Alert and oriented|Perioperative Nursing
+A&Ox3|Alert and oriented to person, place, and time|Perioperative Nursing
+CMS|Circulation, motion, sensation|Perioperative Nursing
+CSM|Circulation, sensation, motion|Perioperative Nursing
+CMS|Centers for Medicare and Medicaid services|Perioperative Nursing
+NVI|Neurovascularly intact|Perioperative Nursing
+NV checks|Neurovascular checks|Perioperative Nursing
+NRS|Numeric rating scale|Perioperative Nursing
+VAS|Visual analog scale|Perioperative Nursing
+FLACC|Face, legs, activity, cry, consolability|Perioperative Nursing
+NIBP|Noninvasive blood pressure|Perioperative Nursing
+MAP|Mean arterial pressure|Perioperative Nursing
+A-line|Arterial line|Perioperative Nursing
+Art line|Arterial line|Perioperative Nursing
+CVC|Central venous catheter|Perioperative Nursing
+CVL|Central venous line|Perioperative Nursing
+PAC|Pulmonary artery catheter|Perioperative Nursing
+PIV|Peripheral intravenous catheter|Perioperative Nursing
+PICC|Peripherally inserted central catheter|Perioperative Nursing
+IUC|Indwelling urinary catheter|Perioperative Nursing
+CAUTI|Catheter-associated urinary tract infection|Perioperative Nursing
+OGT|Orogastric tube|Perioperative Nursing
+OG|Orogastric|Perioperative Nursing
+NGT|Nasogastric tube|Perioperative Nursing
+NG|Nasogastric|Perioperative Nursing
+CT|Chest tube|Perioperative Nursing
+NPWT|Negative-pressure wound therapy|Perioperative Nursing
+TEE|Transesophageal echocardiography|Perioperative Nursing
+IONM|Intraoperative neuromonitoring|Perioperative Nursing
+SSEP|Somatosensory evoked potentials|Perioperative Nursing
+MEP|Motor evoked potentials|Perioperative Nursing
+IOC|Intraoperative cholangiogram|Perioperative Nursing
+Fluoro|Fluoroscopy|Perioperative Nursing
+CIED|Cardiac implantable electronic device|Perioperative Nursing
+PPM|Permanent pacemaker|Perioperative Nursing
+ICD|Implantable cardioverter-defibrillator|Perioperative Nursing
+AICD|Automatic implantable cardioverter-defibrillator|Perioperative Nursing
+SCS|Spinal cord stimulator|Perioperative Nursing
+I&D|Incision and drainage|Perioperative Nursing
+ORIF|Open reduction and internal fixation|Perioperative Nursing
+TKA|Total knee arthroplasty|Perioperative Nursing
+THA|Total hip arthroplasty|Perioperative Nursing
+TKR|Total knee replacement|Perioperative Nursing
+THR|Total hip replacement|Perioperative Nursing
+ACDF|Anterior cervical discectomy and fusion|Perioperative Nursing
+D&C|Dilation and curettage|Perioperative Nursing
+EUA|Examination under anesthesia|Perioperative Nursing
+TURP|Transurethral resection of the prostate|Perioperative Nursing
+TURBT|Transurethral resection of bladder tumor|Perioperative Nursing
+CABG|Coronary artery bypass graft|Perioperative Nursing
+EGD|Esophagogastroduodenoscopy|Perioperative Nursing
+ERCP|Endoscopic retrograde cholangiopancreatography|Perioperative Nursing
+IR|Interventional radiology|Perioperative Nursing
+SPD|Sterile processing department|Perioperative Nursing
+CSSD|Central sterile services department|Perioperative Nursing
+IUSS|Immediate-use steam sterilization|Perioperative Nursing
+EtO|Ethylene oxide|Perioperative Nursing
+ETO|Ethylene oxide|Perioperative Nursing
+BI|Biological indicator|Perioperative Nursing
+CI|Chemical indicator|Perioperative Nursing
+PPE|Personal protective equipment|Perioperative Nursing
+PAPR|Powered air-purifying respirator|Perioperative Nursing
+HEPA|High-efficiency particulate air|Perioperative Nursing
+ACH|Air changes per hour|Perioperative Nursing
+FCOTS|First case on-time start|Perioperative Nursing
+TOT|Turnover time|Perioperative Nursing
+TAT|Turnaround time|Perioperative Nursing
+SBAR|Situation, background, assessment, recommendation|Perioperative Nursing
+I-PASS|Illness severity, patient summary, action list, situation awareness, synthesis by receiver|Perioperative Nursing
+SICU|Surgical intensive care unit|Perioperative Nursing
+CVICU|Cardiovascular intensive care unit|Perioperative Nursing
+RRT|Rapid response team|Perioperative Nursing
+DC|Discharge|Perioperative Nursing
+D/C|Discharge|Perioperative Nursing
+D/C|Discontinue|Perioperative Nursing
+AMA|Against medical advice|Perioperative Nursing
+PSH|Perioperative surgical home|Perioperative Nursing

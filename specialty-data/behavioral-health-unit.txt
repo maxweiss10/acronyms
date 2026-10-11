@@ -1,0 +1,296 @@
+PES|Psychiatric emergency services|Behavioral Health Unit
+CL|Consultation-liaison psychiatry|Behavioral Health Unit
+C-L|Consultation-liaison psychiatry|Behavioral Health Unit
+C/L|Consultation-liaison psychiatry|Behavioral Health Unit
+CLP|Consultation-liaison psychiatry|Behavioral Health Unit
+IPU|Inpatient psychiatric unit|Behavioral Health Unit
+BHU|Behavioral health unit|Behavioral Health Unit
+BH|Behavioral health|Behavioral Health Unit
+PHF|Psychiatric health facility|Behavioral Health Unit
+IMD|Institution for mental disease|Behavioral Health Unit
+5150|72-hour involuntary hold for evaluation and treatment (California)|Behavioral Health Unit
+5250|14-day certification for intensive treatment (California)|Behavioral Health Unit
+5270|30-day additional certification for grave disability (California)|Behavioral Health Unit
+5350|Conservatorship for grave disability under LPS (California)|Behavioral Health Unit
+5585|72-hour involuntary hold for a minor (California)|Behavioral Health Unit
+1799|Emergency department detention of a person for psychiatric evaluation (California)|Behavioral Health Unit
+W&I|Welfare and Institutions Code|Behavioral Health Unit
+WIC|Welfare and Institutions Code|Behavioral Health Unit
+LPS|Lanterman-Petris-Short Act|Behavioral Health Unit
+T-con|Temporary conservatorship|Behavioral Health Unit
+TCON|Temporary conservatorship|Behavioral Health Unit
+PG|Public guardian|Behavioral Health Unit
+Riese|Hearing on capacity to refuse antipsychotic medication (California)|Behavioral Health Unit
+Riese petition|Petition to medicate an involuntary patient over objection (California)|Behavioral Health Unit
+CRH|Certification review hearing|Behavioral Health Unit
+AOT|Assisted outpatient treatment|Behavioral Health Unit
+CARE Court|Community Assistance, Recovery, and Empowerment Court (California)|Behavioral Health Unit
+GD|Grave disability|Behavioral Health Unit
+DTS|Danger to self|Behavioral Health Unit
+DTO|Danger to others|Behavioral Health Unit
+DTS/DTO|Danger to self or others|Behavioral Health Unit
+SI|Suicidal ideation|Behavioral Health Unit
+HI|Homicidal ideation|Behavioral Health Unit
+SI/HI|Suicidal or homicidal ideation|Behavioral Health Unit
+NSSI|Nonsuicidal self-injury|Behavioral Health Unit
+SIB|Self-injurious behavior|Behavioral Health Unit
+SA|Suicide attempt|Behavioral Health Unit
+SH|Self-harm|Behavioral Health Unit
+DSH|Deliberate self-harm|Behavioral Health Unit
+AH|Auditory hallucinations|Behavioral Health Unit
+VH|Visual hallucinations|Behavioral Health Unit
+TH|Tactile hallucinations|Behavioral Health Unit
+AVH|Auditory and visual hallucinations|Behavioral Health Unit
+A/VH|Auditory and visual hallucinations|Behavioral Health Unit
+CAH|Command auditory hallucinations|Behavioral Health Unit
+RIS|Responding to internal stimuli|Behavioral Health Unit
+RTIS|Responding to internal stimuli|Behavioral Health Unit
+IP|Internally preoccupied|Behavioral Health Unit
+AOx3|Alert and oriented to person, place, and time|Behavioral Health Unit
+AOx4|Alert and oriented to person, place, time, and situation|Behavioral Health Unit
+A&O|Alert and oriented|Behavioral Health Unit
+MSE|Mental status examination|Behavioral Health Unit
+MMSE|Mini-mental state examination|Behavioral Health Unit
+MoCA|Montreal Cognitive Assessment|Behavioral Health Unit
+SLUMS|Saint Louis University Mental Status examination|Behavioral Health Unit
+LOA|Loosening of associations|Behavioral Health Unit
+FOI|Flight of ideas|Behavioral Health Unit
+TC|Thought content|Behavioral Health Unit
+TP|Thought process|Behavioral Health Unit
+LGD|Linear and goal-directed|Behavioral Health Unit
+I/J|Insight and judgment|Behavioral Health Unit
+I&J|Insight and judgment|Behavioral Health Unit
+PMA|Psychomotor agitation|Behavioral Health Unit
+PMR|Psychomotor retardation|Behavioral Health Unit
+EtOH|Alcohol|Behavioral Health Unit
+C-SSRS|Columbia Suicide Severity Rating Scale|Behavioral Health Unit
+CSSRS|Columbia Suicide Severity Rating Scale|Behavioral Health Unit
+ASQ|Ask Suicide-Screening Questions|Behavioral Health Unit
+SAFE-T|Suicide Assessment Five-step Evaluation and Triage|Behavioral Health Unit
+PHQ-9|Patient Health Questionnaire 9-item|Behavioral Health Unit
+PHQ-2|Patient Health Questionnaire 2-item|Behavioral Health Unit
+GAD-7|Generalized Anxiety Disorder 7-item scale|Behavioral Health Unit
+BPRS|Brief Psychiatric Rating Scale|Behavioral Health Unit
+PANSS|Positive and Negative Syndrome Scale|Behavioral Health Unit
+YMRS|Young Mania Rating Scale|Behavioral Health Unit
+MADRS|Montgomery-Asberg Depression Rating Scale|Behavioral Health Unit
+HAM-D|Hamilton Depression Rating Scale|Behavioral Health Unit
+HAMD|Hamilton Depression Rating Scale|Behavioral Health Unit
+HDRS|Hamilton Depression Rating Scale|Behavioral Health Unit
+HAM-A|Hamilton Anxiety Rating Scale|Behavioral Health Unit
+HAMA|Hamilton Anxiety Rating Scale|Behavioral Health Unit
+MDQ|Mood Disorder Questionnaire|Behavioral Health Unit
+PCL-5|PTSD Checklist for DSM-5|Behavioral Health Unit
+Y-BOCS|Yale-Brown Obsessive Compulsive Scale|Behavioral Health Unit
+AUDIT|Alcohol Use Disorders Identification Test|Behavioral Health Unit
+AUDIT-C|Alcohol Use Disorders Identification Test-Concise|Behavioral Health Unit
+CIWA|Clinical Institute Withdrawal Assessment|Behavioral Health Unit
+CIWA-Ar|Clinical Institute Withdrawal Assessment for Alcohol, revised|Behavioral Health Unit
+COWS|Clinical Opiate Withdrawal Scale|Behavioral Health Unit
+CAM|Confusion Assessment Method|Behavioral Health Unit
+CAM-ICU|Confusion Assessment Method for the ICU|Behavioral Health Unit
+RASS|Richmond Agitation-Sedation Scale|Behavioral Health Unit
+BARS|Barnes Akathisia Rating Scale|Behavioral Health Unit
+AIMS|Abnormal Involuntary Movement Scale|Behavioral Health Unit
+BFCRS|Bush-Francis Catatonia Rating Scale|Behavioral Health Unit
+BFCSI|Bush-Francis Catatonia Screening Instrument|Behavioral Health Unit
+EPS|Extrapyramidal symptoms|Behavioral Health Unit
+TD|Tardive dyskinesia|Behavioral Health Unit
+NMS|Neuroleptic malignant syndrome|Behavioral Health Unit
+SS|Serotonin syndrome|Behavioral Health Unit
+QTc|Corrected QT interval|Behavioral Health Unit
+LAI|Long-acting injectable antipsychotic|Behavioral Health Unit
+LAIs|Long-acting injectable antipsychotics|Behavioral Health Unit
+IM|Intramuscular|Behavioral Health Unit
+PRN|As needed|Behavioral Health Unit
+IM PRN|As-needed intramuscular medication|Behavioral Health Unit
+PO/IM|By mouth or intramuscular|Behavioral Health Unit
+B52|Haloperidol, lorazepam, and diphenhydramine combination for agitation|Behavioral Health Unit
+B-52|Haloperidol, lorazepam, and diphenhydramine combination for agitation|Behavioral Health Unit
+ODT|Orally disintegrating tablet|Behavioral Health Unit
+SGA|Second-generation antipsychotic|Behavioral Health Unit
+FGA|First-generation antipsychotic|Behavioral Health Unit
+SSRI|Selective serotonin reuptake inhibitor|Behavioral Health Unit
+SNRI|Serotonin-norepinephrine reuptake inhibitor|Behavioral Health Unit
+TCA|Tricyclic antidepressant|Behavioral Health Unit
+MAOI|Monoamine oxidase inhibitor|Behavioral Health Unit
+BZD|Benzodiazepine|Behavioral Health Unit
+benzo|Benzodiazepine|Behavioral Health Unit
+Li|Lithium|Behavioral Health Unit
+VPA|Valproic acid|Behavioral Health Unit
+LTG|Lamotrigine|Behavioral Health Unit
+CBZ|Carbamazepine|Behavioral Health Unit
+ANC|Absolute neutrophil count|Behavioral Health Unit
+REMS|Risk Evaluation and Mitigation Strategy|Behavioral Health Unit
+BERT|Behavioral emergency response team|Behavioral Health Unit
+Code green|Behavioral emergency or combative person alert (institution-specific)|Behavioral Health Unit
+Code gray|Combative person alert|Behavioral Health Unit
+Code grey|Combative person alert|Behavioral Health Unit
+S&R|Seclusion and restraint|Behavioral Health Unit
+R&S|Restraint and seclusion|Behavioral Health Unit
+4-pt|Four-point restraints|Behavioral Health Unit
+5-pt|Five-point restraints|Behavioral Health Unit
+1:1|One-to-one continuous observation|Behavioral Health Unit
+CO|Constant observation|Behavioral Health Unit
+Q15|Every 15 minute safety checks|Behavioral Health Unit
+q15|Every 15 minute safety checks|Behavioral Health Unit
+q15 min checks|Every 15 minute safety checks|Behavioral Health Unit
+LOS|Line of sight observation|Behavioral Health Unit
+LOS|Length of stay|Behavioral Health Unit
+SP|Suicide precautions|Behavioral Health Unit
+AWOL|Absent without leave|Behavioral Health Unit
+AMA|Against medical advice|Behavioral Health Unit
+ECT|Electroconvulsive therapy|Behavioral Health Unit
+mECT|Maintenance electroconvulsive therapy|Behavioral Health Unit
+RUL|Right unilateral electrode placement|Behavioral Health Unit
+BT|Bitemporal electrode placement|Behavioral Health Unit
+BL|Bilateral electrode placement|Behavioral Health Unit
+TMS|Transcranial magnetic stimulation|Behavioral Health Unit
+rTMS|Repetitive transcranial magnetic stimulation|Behavioral Health Unit
+iTBS|Intermittent theta burst stimulation|Behavioral Health Unit
+TBS|Theta burst stimulation|Behavioral Health Unit
+VNS|Vagus nerve stimulation|Behavioral Health Unit
+DBS|Deep brain stimulation|Behavioral Health Unit
+MDD|Major depressive disorder|Behavioral Health Unit
+MDE|Major depressive episode|Behavioral Health Unit
+TRD|Treatment-resistant depression|Behavioral Health Unit
+PDD|Persistent depressive disorder|Behavioral Health Unit
+BPAD|Bipolar affective disorder|Behavioral Health Unit
+BAD|Bipolar affective disorder|Behavioral Health Unit
+BP1|Bipolar I disorder|Behavioral Health Unit
+BPI|Bipolar I disorder|Behavioral Health Unit
+BP2|Bipolar II disorder|Behavioral Health Unit
+BPII|Bipolar II disorder|Behavioral Health Unit
+SCZ|Schizophrenia|Behavioral Health Unit
+SZ|Schizophrenia|Behavioral Health Unit
+SAD|Schizoaffective disorder|Behavioral Health Unit
+SAD|Social anxiety disorder|Behavioral Health Unit
+SAD|Seasonal affective disorder|Behavioral Health Unit
+SCZA|Schizoaffective disorder|Behavioral Health Unit
+FEP|First-episode psychosis|Behavioral Health Unit
+SIPD|Substance-induced psychotic disorder|Behavioral Health Unit
+SIMD|Substance-induced mood disorder|Behavioral Health Unit
+NOS|Not otherwise specified|Behavioral Health Unit
+GAD|Generalized anxiety disorder|Behavioral Health Unit
+PD|Panic disorder|Behavioral Health Unit
+PTSD|Posttraumatic stress disorder|Behavioral Health Unit
+ASD|Acute stress disorder|Behavioral Health Unit
+ASD|Autism spectrum disorder|Behavioral Health Unit
+OCD|Obsessive-compulsive disorder|Behavioral Health Unit
+BPD|Borderline personality disorder|Behavioral Health Unit
+ASPD|Antisocial personality disorder|Behavioral Health Unit
+NPD|Narcissistic personality disorder|Behavioral Health Unit
+PD|Personality disorder|Behavioral Health Unit
+ADHD|Attention-deficit/hyperactivity disorder|Behavioral Health Unit
+ID|Intellectual disability|Behavioral Health Unit
+NCD|Neurocognitive disorder|Behavioral Health Unit
+FND|Functional neurological disorder|Behavioral Health Unit
+PNES|Psychogenic nonepileptic seizures|Behavioral Health Unit
+SSD|Somatic symptom disorder|Behavioral Health Unit
+DMDD|Disruptive mood dysregulation disorder|Behavioral Health Unit
+ODD|Oppositional defiant disorder|Behavioral Health Unit
+CD|Conduct disorder|Behavioral Health Unit
+PPD|Postpartum depression|Behavioral Health Unit
+PMDD|Premenstrual dysphoric disorder|Behavioral Health Unit
+AUD|Alcohol use disorder|Behavioral Health Unit
+OUD|Opioid use disorder|Behavioral Health Unit
+SUD|Substance use disorder|Behavioral Health Unit
+StUD|Stimulant use disorder|Behavioral Health Unit
+MUD|Methamphetamine use disorder|Behavioral Health Unit
+CUD|Cannabis use disorder|Behavioral Health Unit
+CUD|Cocaine use disorder|Behavioral Health Unit
+MAT|Medication for addiction treatment|Behavioral Health Unit
+MOUD|Medications for opioid use disorder|Behavioral Health Unit
+AWS|Alcohol withdrawal syndrome|Behavioral Health Unit
+DTs|Delirium tremens|Behavioral Health Unit
+WE|Wernicke encephalopathy|Behavioral Health Unit
+UDS|Urine drug screen|Behavioral Health Unit
+Utox|Urine toxicology|Behavioral Health Unit
+BAL|Blood alcohol level|Behavioral Health Unit
+ED|Eating disorder|Behavioral Health Unit
+ED|Emergency department|Behavioral Health Unit
+AN|Anorexia nervosa|Behavioral Health Unit
+AN-R|Anorexia nervosa, restricting type|Behavioral Health Unit
+AN-BP|Anorexia nervosa, binge-eating/purging type|Behavioral Health Unit
+BN|Bulimia nervosa|Behavioral Health Unit
+BED|Binge-eating disorder|Behavioral Health Unit
+ARFID|Avoidant/restrictive food intake disorder|Behavioral Health Unit
+OSFED|Other specified feeding or eating disorder|Behavioral Health Unit
+RFS|Refeeding syndrome|Behavioral Health Unit
+IBW|Ideal body weight|Behavioral Health Unit
+%IBW|Percent of ideal body weight|Behavioral Health Unit
+EBW|Expected body weight|Behavioral Health Unit
+FBT|Family-based treatment|Behavioral Health Unit
+CBT|Cognitive behavioral therapy|Behavioral Health Unit
+DBT|Dialectical behavior therapy|Behavioral Health Unit
+CPT|Cognitive processing therapy|Behavioral Health Unit
+PE|Prolonged exposure therapy|Behavioral Health Unit
+ERP|Exposure and response prevention|Behavioral Health Unit
+MI|Motivational interviewing|Behavioral Health Unit
+IPT|Interpersonal psychotherapy|Behavioral Health Unit
+EMDR|Eye movement desensitization and reprocessing|Behavioral Health Unit
+ACT|Assertive community treatment|Behavioral Health Unit
+ACT|Acceptance and commitment therapy|Behavioral Health Unit
+FSP|Full service partnership|Behavioral Health Unit
+ICM|Intensive case management|Behavioral Health Unit
+CM|Case management|Behavioral Health Unit
+psych DC|Psychiatric discharge|Behavioral Health Unit
+DC|Discharge|Behavioral Health Unit
+PHP|Partial hospitalization program|Behavioral Health Unit
+IOP|Intensive outpatient program|Behavioral Health Unit
+CRU|Crisis residential unit|Behavioral Health Unit
+CSU|Crisis stabilization unit|Behavioral Health Unit
+MCT|Mobile crisis team|Behavioral Health Unit
+PERT|Psychiatric emergency response team|Behavioral Health Unit
+CIT|Crisis intervention team|Behavioral Health Unit
+988|Suicide and Crisis Lifeline|Behavioral Health Unit
+B&C|Board and care|Behavioral Health Unit
+SNF|Skilled nursing facility|Behavioral Health Unit
+SRO|Single room occupancy hotel|Behavioral Health Unit
+PEH|People experiencing homelessness|Behavioral Health Unit
+CMHC|Community mental health center|Behavioral Health Unit
+OP|Outpatient|Behavioral Health Unit
+OPP|Outpatient psychiatry|Behavioral Health Unit
+SW|Social work|Behavioral Health Unit
+LCSW|Licensed clinical social worker|Behavioral Health Unit
+LMFT|Licensed marriage and family therapist|Behavioral Health Unit
+PMHNP|Psychiatric mental health nurse practitioner|Behavioral Health Unit
+MHW|Mental health worker|Behavioral Health Unit
+SPMI|Serious and persistent mental illness|Behavioral Health Unit
+SMI|Serious mental illness|Behavioral Health Unit
+CAP|Child and adolescent psychiatry|Behavioral Health Unit
+ROI|Release of information|Behavioral Health Unit
+SDM|Surrogate decision maker|Behavioral Health Unit
+DPOA|Durable power of attorney|Behavioral Health Unit
+TDO|Temporary detention order|Behavioral Health Unit
+IVC|Involuntary commitment|Behavioral Health Unit
+CPS|Child protective services|Behavioral Health Unit
+APS|Adult protective services|Behavioral Health Unit
+IPV|Intimate partner violence|Behavioral Health Unit
+ACEs|Adverse childhood experiences|Behavioral Health Unit
+TIC|Trauma-informed care|Behavioral Health Unit
+LOC|Level of care|Behavioral Health Unit
+LOC|Loss of consciousness|Behavioral Health Unit
+PRN agitation|As-needed medication for agitation|Behavioral Health Unit
+DOC|Drug of choice|Behavioral Health Unit
+IVDU|Intravenous drug use|Behavioral Health Unit
+PWID|People who inject drugs|Behavioral Health Unit
+SRA|Suicide risk assessment|Behavioral Health Unit
+VRA|Violence risk assessment|Behavioral Health Unit
+HCR-20|Historical Clinical Risk Management-20|Behavioral Health Unit
+BVC|Broset Violence Checklist|Behavioral Health Unit
+DASA|Dynamic Appraisal of Situational Aggression|Behavioral Health Unit
+SPI|Safety planning intervention|Behavioral Health Unit
+CAMS|Collaborative Assessment and Management of Suicidality|Behavioral Health Unit
+CALM|Counseling on Access to Lethal Means|Behavioral Health Unit
+SDOH|Social determinants of health|Behavioral Health Unit
+WNL|Within normal limits|Behavioral Health Unit
+ROS|Review of systems|Behavioral Health Unit
+PPHx|Past psychiatric history|Behavioral Health Unit
+PPH|Past psychiatric history|Behavioral Health Unit
+FHx|Family history|Behavioral Health Unit
+SHx|Social history|Behavioral Health Unit
+HPI|History of present illness|Behavioral Health Unit
+CC|Chief complaint|Behavioral Health Unit
+DSM-5|Diagnostic and Statistical Manual of Mental Disorders, fifth edition|Behavioral Health Unit
+DSM-5-TR|Diagnostic and Statistical Manual of Mental Disorders, fifth edition, text revision|Behavioral Health Unit

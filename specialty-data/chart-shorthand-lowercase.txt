@@ -1,0 +1,28 @@
+pt|Patient|Chart Shorthand
+pts|Patients|Chart Shorthand
+hx|History|Chart Shorthand
+dx|Diagnosis|Chart Shorthand
+ddx|Differential diagnosis|Chart Shorthand
+tx|Treatment|Chart Shorthand
+sx|Symptoms|Chart Shorthand
+fx|Fracture|Chart Shorthand
+rx|Prescription|Chart Shorthand
+rx|Treatment|Chart Shorthand
+abx|Antibiotics|Chart Shorthand
+bx|Biopsy|Chart Shorthand
+cx|Culture|Chart Shorthand
+px|Prognosis|Chart Shorthand
+ppx|Prophylaxis|Chart Shorthand
+wt|Weight|Chart Shorthand
+ht|Height|Chart Shorthand
+sob|Shortness of breath|Chart Shorthand
+cp|Chest pain|Chart Shorthand
+n/v|Nausea and vomiting|Chart Shorthand
+n/v/d|Nausea, vomiting and diarrhea|Chart Shorthand
+abd|Abdomen|Chart Shorthand
+ext|Extremities|Chart Shorthand
+meds|Medications|Chart Shorthand
+labs|Laboratory tests|Chart Shorthand
+dc|Discharge|Chart Shorthand
+dc|Discontinue|Chart Shorthand
+fu|Follow-up|Chart Shorthand

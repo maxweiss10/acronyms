@@ -1,0 +1,641 @@
+PIV|Peripheral intravenous catheter|Nursing
+PIVC|Peripheral intravenous catheter|Nursing
+16g|16-gauge IV catheter|Nursing
+16G|16-gauge IV catheter|Nursing
+18g|18-gauge IV catheter|Nursing
+18G|18-gauge IV catheter|Nursing
+20g|20-gauge IV catheter|Nursing
+20G|20-gauge IV catheter|Nursing
+22g|22-gauge IV catheter|Nursing
+22G|22-gauge IV catheter|Nursing
+24g|24-gauge IV catheter|Nursing
+AC|Antecubital|Nursing
+ACF|Antecubital fossa|Nursing
+LAC|Left antecubital|Nursing
+RAC|Right antecubital|Nursing
+FA|Forearm|Nursing
+LFA|Left forearm|Nursing
+RFA|Right forearm|Nursing
+EJ|External jugular|Nursing
+EJ IV|External jugular peripheral IV|Nursing
+DOH|Dorsum of hand|Nursing
+USGPIV|Ultrasound-guided peripheral IV|Nursing
+USGIV|Ultrasound-guided IV|Nursing
+UGPIV|Ultrasound-guided peripheral IV|Nursing
+US PIV|Ultrasound-guided peripheral IV|Nursing
+DIVA|Difficult intravenous access|Nursing
+VAT|Vascular access team|Nursing
+IV team|Vascular access team|Nursing
+PICC|Peripherally inserted central catheter|Nursing
+SL PICC|Single-lumen peripherally inserted central catheter|Nursing
+DL PICC|Double-lumen peripherally inserted central catheter|Nursing
+TL PICC|Triple-lumen peripherally inserted central catheter|Nursing
+ML|Midline catheter|Nursing
+Midline|Peripheral midline catheter|Nursing
+CVC|Central venous catheter|Nursing
+CVL|Central venous line|Nursing
+CL|Central line|Nursing
+CVAD|Central venous access device|Nursing
+VAD|Vascular access device|Nursing
+TLC|Triple-lumen catheter|Nursing
+TLC|Triple-lumen central venous catheter|Nursing
+IJ|Internal jugular|Nursing
+RIJ|Right internal jugular|Nursing
+LIJ|Left internal jugular|Nursing
+SC|Subclavian|Nursing
+Port|Implanted port|Nursing
+IVAD|Implanted venous access device|Nursing
+TIVAD|Totally implanted venous access device|Nursing
+TCVC|Tunneled central venous catheter|Nursing
+Tunneled|Tunneled central venous catheter|Nursing
+TDC|Tunneled dialysis catheter|Nursing
+TCC|Tunneled cuffed catheter|Nursing
+HD cath|Hemodialysis catheter|Nursing
+IO|Intraosseous|Nursing
+A-line|Arterial line|Nursing
+Art line|Arterial line|Nursing
+NS flush|Normal saline flush|Nursing
+Flush|Saline flush of an IV catheter|Nursing
+SASH|Saline, administer drug, saline, heparin|Nursing
+SAS|Saline, administer drug, saline|Nursing
+HL|Heparin lock|Nursing
+Hep lock|Heparin lock|Nursing
+SL|Saline lock|Nursing
+INT|Intermittent infusion device (saline lock)|Nursing
+Lumen|Catheter channel|Nursing
+Occl|Occlusion|Nursing
+PWO|Persistent withdrawal occlusion|Nursing
+Infilt|Infiltration|Nursing
+Extrav|Extravasation|Nursing
+PIVIE|Peripheral intravenous infiltration and extravasation|Nursing
+VIP|Visual infusion phlebitis score|Nursing
+VIP score|Visual infusion phlebitis score|Nursing
+CLABSI|Central line-associated bloodstream infection|Nursing
+CRBSI|Catheter-related bloodstream infection|Nursing
+CHG|Chlorhexidine gluconate|Nursing
+CHG bath|Chlorhexidine gluconate bath|Nursing
+CHG wipes|Chlorhexidine gluconate cleansing cloths|Nursing
+CHG dsg|Chlorhexidine gluconate-impregnated dressing|Nursing
+CHG dressing|Chlorhexidine gluconate-impregnated dressing|Nursing
+CHG disc|Chlorhexidine gluconate-impregnated sponge disc|Nursing
+TSM|Transparent semipermeable membrane dressing|Nursing
+Dsg|Dressing|Nursing
+Drsg|Dressing|Nursing
+CDI|Clean, dry and intact|Nursing
+C/D/I|Clean, dry and intact|Nursing
+Dsg CDI|Dressing clean, dry and intact|Nursing
+Smart pump|Infusion pump with dose error reduction software|Nursing
+DERS|Dose error reduction software|Nursing
+VTBI|Volume to be infused|Nursing
+Primary|Primary infusion line|Nursing
+Secondary|Secondary (piggyback) infusion|Nursing
+IVPB|Intravenous piggyback|Nursing
+PB|Piggyback|Nursing
+mL/hr|Milliliters per hour|Nursing
+gtt|Drop|Nursing
+gtt|Continuous infusion (drip)|Nursing
+gtts|Drops|Nursing
+IVP|Intravenous push|Nursing
+SIVP|Slow intravenous push|Nursing
+IVF|Intravenous fluids|Nursing
+MIVF|Maintenance intravenous fluids|Nursing
+mIVF|Maintenance intravenous fluids|Nursing
+KVO|Keep vein open|Nursing
+TKO|To keep open|Nursing
+D/C|Discontinued|Nursing
+PCA|Patient-controlled analgesia|Nursing
+PCEA|Patient-controlled epidural analgesia|Nursing
+Basal|Continuous basal infusion rate|Nursing
+Demand dose|Patient-activated bolus dose|Nursing
+Lockout|Minimum interval between patient-activated doses|Nursing
+Capno|Capnography|Nursing
+EtCO2|End-tidal carbon dioxide|Nursing
+ETCO2|End-tidal carbon dioxide|Nursing
+PetCO2|Partial pressure of end-tidal carbon dioxide|Nursing
+OIRD|Opioid-induced respiratory depression|Nursing
+MFS|Morse Fall Scale|Nursing
+Morse|Morse Fall Scale|Nursing
+HFR|High fall risk|Nursing
+Fall prec|Fall precautions|Nursing
+BA|Bed alarm|Nursing
+BA on|Bed alarm on|Nursing
+Chair alarm|Chair exit alarm|Nursing
+Low bed|Bed in lowest position|Nursing
+SR|Side rails|Nursing
+SR up|Side rails up|Nursing
+SR up x2|Two side rails up|Nursing
+SRx2|Two side rails up|Nursing
+SR x2|Two side rails up|Nursing
+3/4 SR|Three of four side rails up|Nursing
+CLIR|Call light in reach|Nursing
+CLWR|Call light within reach|Nursing
+CBWR|Call bell within reach|Nursing
+Gait belt|Transfer belt used for ambulation and transfers|Nursing
+GB|Gait belt|Nursing
+Sitter|Continuous observer at the bedside|Nursing
+1:1|One-to-one observation|Nursing
+1:1 sitter|One-to-one sitter|Nursing
+CO|Constant observation|Nursing
+CVM|Continuous video monitoring|Nursing
+Telesitter|Remote video monitoring in place of an in-room sitter|Nursing
+q15|Every 15 minutes|Nursing
+q15 checks|Safety checks every 15 minutes|Nursing
+Neuro checks|Serial neurological assessments|Nursing
+Neuro q1h|Neurological checks every hour|Nursing
+NVC|Neurovascular checks|Nursing
+NV checks|Neurovascular checks|Nursing
+CMS|Circulation, motion, sensation|Nursing
+CSM|Circulation, sensation, movement|Nursing
+PERRL|Pupils equal, round, reactive to light|Nursing
+PERRLA|Pupils equal, round, reactive to light and accommodation|Nursing
+NPi|Neurological Pupil index|Nursing
+GCS|Glasgow Coma Scale|Nursing
+LOC|Level of consciousness|Nursing
+A&O|Alert and oriented|Nursing
+A&Ox4|Alert and oriented to person, place, time and situation|Nursing
+AOx4|Alert and oriented to person, place, time and situation|Nursing
+A&Ox3|Alert and oriented to person, place and time|Nursing
+AOx3|Alert and oriented to person, place and time|Nursing
+AAOx3|Awake, alert and oriented to person, place and time|Nursing
+MAE|Moves all extremities|Nursing
+MAEW|Moves all extremities well|Nursing
+FC|Follows commands|Nursing
+BUE|Bilateral upper extremities|Nursing
+BLE|Bilateral lower extremities|Nursing
+NIHSS|National Institutes of Health Stroke Scale|Nursing
+CIWA|Clinical Institute Withdrawal Assessment for Alcohol|Nursing
+CIWA-Ar|Clinical Institute Withdrawal Assessment for Alcohol, revised|Nursing
+CIWA-B|Clinical Institute Withdrawal Assessment for Benzodiazepines|Nursing
+COWS|Clinical Opiate Withdrawal Scale|Nursing
+RASS|Richmond Agitation-Sedation Scale|Nursing
+SAS|Riker Sedation-Agitation Scale|Nursing
+CAM|Confusion Assessment Method|Nursing
+CAM-ICU|Confusion Assessment Method for the Intensive Care Unit|Nursing
+bCAM|Brief Confusion Assessment Method|Nursing
+3D-CAM|3-Minute Diagnostic Interview for CAM-defined delirium|Nursing
+4AT|4 As Test for delirium|Nursing
+CPOT|Critical-Care Pain Observation Tool|Nursing
+BPS|Behavioral Pain Scale|Nursing
+PAINAD|Pain Assessment in Advanced Dementia|Nursing
+FLACC|Face, Legs, Activity, Cry, Consolability|Nursing
+NRS|Numeric rating scale|Nursing
+NPRS|Numeric pain rating scale|Nursing
+VAS|Visual analog scale|Nursing
+FPS-R|Faces Pain Scale-Revised|Nursing
+POSS|Pasero Opioid-Induced Sedation Scale|Nursing
+MEWS|Modified Early Warning Score|Nursing
+NEWS|National Early Warning Score|Nursing
+NEWS2|National Early Warning Score 2|Nursing
+PEWS|Pediatric Early Warning Score|Nursing
+EWS|Early warning score|Nursing
+RRT|Rapid response team|Nursing
+RR|Rapid response|Nursing
+MET|Medical emergency team|Nursing
+BPA|Best practice advisory|Nursing
+VS|Vital signs|Nursing
+VSS|Vital signs stable|Nursing
+Orthos|Orthostatic vital signs|Nursing
+OVS|Orthostatic vital signs|Nursing
+IS|Incentive spirometer|Nursing
+TCDB|Turn, cough and deep breathe|Nursing
+C&DB|Cough and deep breathe|Nursing
+BM|Bowel movement|Nursing
+LBM|Last bowel movement|Nursing
+BS|Bowel sounds|Nursing
++BS|Positive bowel sounds|Nursing
+BSx4|Bowel sounds present in all four quadrants|Nursing
++flatus|Passing flatus|Nursing
+Incont|Incontinent|Nursing
+Inc|Incontinent|Nursing
+Cont|Continent|Nursing
+B&B|Bowel and bladder|Nursing
+IUC|Indwelling urinary catheter|Nursing
+IDC|Indwelling catheter|Nursing
+Foley|Indwelling urinary catheter|Nursing
+FC|Foley catheter|Nursing
+UC|Urinary catheter|Nursing
+CAUTI|Catheter-associated urinary tract infection|Nursing
+Bladder scan|Ultrasound measurement of bladder volume|Nursing
+PVR|Post-void residual|Nursing
+SC|Straight catheterization|Nursing
+St cath|Straight catheterization|Nursing
+I&O cath|In-and-out catheterization|Nursing
+ISC|Intermittent straight catheterization|Nursing
+ISC|Intermittent self-catheterization|Nursing
+IC|Intermittent catheterization|Nursing
+CIC|Clean intermittent catheterization|Nursing
+DTV|Due to void|Nursing
+TOV|Trial of void|Nursing
+VT|Voiding trial|Nursing
+UOP|Urine output|Nursing
+UO|Urine output|Nursing
+U/O|Urine output|Nursing
+BRP|Bathroom privileges|Nursing
+BRP|Bed rest with bathroom privileges|Nursing
+BSC|Bedside commode|Nursing
+Ext cath|External urinary catheter|Nursing
+EUC|External urinary catheter|Nursing
+MEC|Male external catheter|Nursing
+Condom cath|Male external catheter|Nursing
+RT|Rectal tube|Nursing
+FMS|Fecal management system|Nursing
+BMS|Bowel management system|Nursing
+SSE|Soap suds enema|Nursing
+TWE|Tap water enema|Nursing
+DRE|Digital rectal exam|Nursing
+NGT|Nasogastric tube|Nursing
+NG|Nasogastric|Nursing
+OGT|Orogastric tube|Nursing
+OG|Orogastric|Nursing
+NJ|Nasojejunal|Nursing
+ND|Nasoduodenal|Nursing
+FT|Feeding tube|Nursing
+SBFT|Small-bore feeding tube|Nursing
+PEG|Percutaneous endoscopic gastrostomy|Nursing
+GT|Gastrostomy tube|Nursing
+G-tube|Gastrostomy tube|Nursing
+GJ|Gastrojejunostomy tube|Nursing
+J-tube|Jejunostomy tube|Nursing
+JT|Jejunostomy tube|Nursing
+PEJ|Percutaneous endoscopic jejunostomy|Nursing
+LIS|Low intermittent suction|Nursing
+LIWS|Low intermittent wall suction|Nursing
+LCS|Low continuous suction|Nursing
+LCWS|Low continuous wall suction|Nursing
+LWS|Low wall suction|Nursing
+To gravity|Drainage by gravity without suction|Nursing
+NGT to gravity|Nasogastric tube to gravity drainage|Nursing
+NGT to LIS|Nasogastric tube to low intermittent suction|Nursing
+Clamped|Tube clamped closed|Nursing
+Clamp trial|Tube clamped to test tolerance before removal|Nursing
+GRV|Gastric residual volume|Nursing
+GR|Gastric residual|Nursing
+TF|Tube feeds|Nursing
+TFs|Tube feeds|Nursing
+TF at goal|Tube feeds at goal rate|Nursing
+TF @ goal|Tube feeds at goal rate|Nursing
+EN|Enteral nutrition|Nursing
+Cont TF|Continuous tube feeds|Nursing
+Bolus TF|Bolus tube feeds|Nursing
+Cyclic TF|Cycled tube feeds|Nursing
+FWF|Free water flush|Nursing
+FWB|Free water bolus|Nursing
+WOC|Wound, ostomy and continence|Nursing
+WOCN|Wound, Ostomy and Continence Nurse|Nursing
+NPO|Nothing by mouth|Nursing
+NPO p MN|Nothing by mouth after midnight|Nursing
+NPO after MN|Nothing by mouth after midnight|Nursing
+NPO @ MN|Nothing by mouth at midnight|Nursing
+MN|Midnight|Nursing
+NPO exc meds|Nothing by mouth except medications|Nursing
+CLD|Clear liquid diet|Nursing
+CL|Clear liquids|Nursing
+FLD|Full liquid diet|Nursing
+FL|Full liquids|Nursing
+CCD|Consistent carbohydrate diet|Nursing
+CCHO|Consistent carbohydrate|Nursing
+ADA diet|Diabetic diet|Nursing
+HH|Heart healthy diet|Nursing
+2g Na|2-gram sodium diet|Nursing
+LS|Low sodium|Nursing
+NAS|No added salt|Nursing
+FR|Fluid restriction|Nursing
+1.5L FR|1.5-liter fluid restriction|Nursing
+FR 1.5L|1.5-liter fluid restriction|Nursing
+DAT|Diet as tolerated|Nursing
+ADAT|Advance diet as tolerated|Nursing
+Mech soft|Mechanical soft diet|Nursing
+IDDSI|International Dysphagia Diet Standardisation Initiative|Nursing
+NDD|National Dysphagia Diet|Nursing
+TL|Thin liquids|Nursing
+NTL|Nectar-thick liquids|Nursing
+HTL|Honey-thick liquids|Nursing
+Asp prec|Aspiration precautions|Nursing
+Aspiration prec|Aspiration precautions|Nursing
+SLP|Speech-language pathology|Nursing
+ST|Speech therapy|Nursing
+BSE|Bedside swallow evaluation|Nursing
+MBS|Modified barium swallow|Nursing
+MBSS|Modified barium swallow study|Nursing
+VFSS|Videofluoroscopic swallow study|Nursing
+FEES|Fiberoptic endoscopic evaluation of swallowing|Nursing
+1:1 feeding|One-to-one feeding assistance|Nursing
+Cal count|Calorie count|Nursing
+ONS|Oral nutrition supplement|Nursing
+Strict I&O|Strict intake and output|Nursing
+Daily wt|Daily weight|Nursing
+T&P|Turn and position|Nursing
+T/P|Turn and position|Nursing
+T&R|Turn and reposition|Nursing
+q2h turns|Turns every 2 hours|Nursing
+q2h T&P|Turn and position every 2 hours|Nursing
+Repo|Reposition|Nursing
+HOB|Head of bed|Nursing
+HOB 30|Head of bed elevated 30 degrees|Nursing
+HOB >30|Head of bed elevated more than 30 degrees|Nursing
+RTG|Reverse Trendelenburg|Nursing
+LLD|Left lateral decubitus|Nursing
+RLD|Right lateral decubitus|Nursing
+Heels floated|Heels offloaded off the mattress|Nursing
+Braden|Braden Scale for pressure injury risk|Nursing
+Braden Q|Braden Q Scale (pediatric pressure injury risk)|Nursing
+PI|Pressure injury|Nursing
+HAPI|Hospital-acquired pressure injury|Nursing
+DTI|Deep tissue injury|Nursing
+DTPI|Deep tissue pressure injury|Nursing
+MDRPI|Medical device-related pressure injury|Nursing
+IAD|Incontinence-associated dermatitis|Nursing
+MASD|Moisture-associated skin damage|Nursing
+MARSI|Medical adhesive-related skin injury|Nursing
+NPWT|Negative pressure wound therapy|Nursing
+WTD|Wet-to-dry dressing|Nursing
+LAL|Low air loss mattress|Nursing
+Peri care|Perineal care|Nursing
+Dangle|Sit at the edge of the bed with legs hanging|Nursing
+EOB|Edge of bed|Nursing
+OOB|Out of bed|Nursing
+OOBTC|Out of bed to chair|Nursing
+OOB to chair|Out of bed to chair|Nursing
+OOB2C|Out of bed to chair|Nursing
+OOB ad lib|Out of bed as desired|Nursing
+Amb|Ambulate|Nursing
+Amb in hall|Ambulated in the hallway|Nursing
+Up ad lib|Up as desired|Nursing
+AAT|Activity as tolerated|Nursing
+BR|Bed rest|Nursing
+CBR|Complete bed rest|Nursing
+SBR|Strict bed rest|Nursing
+SBA|Stand-by assist|Nursing
+CGA|Contact guard assist|Nursing
+Min A|Minimal assist|Nursing
+Mod A|Moderate assist|Nursing
+Max A|Maximal assist|Nursing
+Dep|Dependent|Nursing
+Total A|Total assist|Nursing
+Ind|Independent|Nursing
+Mod I|Modified independent|Nursing
+Sup|Supervision|Nursing
+Ax1|Assist of one|Nursing
+Assist x1|Assist of one|Nursing
+Ax2|Assist of two|Nursing
+Assist x2|Assist of two|Nursing
+1PA|One-person assist|Nursing
+2PA|Two-person assist|Nursing
+Mech lift|Mechanical lift|Nursing
+ML|Mechanical lift|Nursing
+STS|Sit-to-stand|Nursing
+STS lift|Sit-to-stand lift|Nursing
+SPHM|Safe patient handling and mobility|Nursing
+BMAT|Bedside Mobility Assessment Tool|Nursing
+JH-HLM|Johns Hopkins Highest Level of Mobility|Nursing
+HLM|Highest level of mobility|Nursing
+AM-PAC|Activity Measure for Post-Acute Care|Nursing
+FWW|Front-wheeled walker|Nursing
+RW|Rolling walker|Nursing
+SPC|Single-point cane|Nursing
+QC|Quad cane|Nursing
+W/C|Wheelchair|Nursing
+WBAT|Weight bearing as tolerated|Nursing
+NWB|Non-weight bearing|Nursing
+TDWB|Touch-down weight bearing|Nursing
+TTWB|Toe-touch weight bearing|Nursing
+PWB|Partial weight bearing|Nursing
+FWB|Full weight bearing|Nursing
+SCD|Sequential compression device|Nursing
+SCDs|Sequential compression devices|Nursing
+IPC|Intermittent pneumatic compression|Nursing
+Sternal prec|Sternal precautions|Nursing
+Hip prec|Hip precautions|Nursing
+PHP|Posterior hip precautions|Nursing
+Contact|Contact precautions|Nursing
+CP|Contact precautions|Nursing
+Contact prec|Contact precautions|Nursing
+Contact plus|Contact precautions with soap-and-water hand hygiene|Nursing
+Contact+|Contact precautions with soap-and-water hand hygiene|Nursing
+Enteric|Enteric contact precautions|Nursing
+ECP|Enteric contact precautions|Nursing
+Droplet|Droplet precautions|Nursing
+DP|Droplet precautions|Nursing
+Airborne|Airborne precautions|Nursing
+AIIR|Airborne infection isolation room|Nursing
+AII|Airborne infection isolation|Nursing
+NPR|Negative pressure room|Nursing
+Neutropenic|Neutropenic precautions|Nursing
+NP|Neutropenic precautions|Nursing
+Neut prec|Neutropenic precautions|Nursing
+PE|Protective environment|Nursing
+SP|Standard precautions|Nursing
+UP|Universal precautions|Nursing
+TBP|Transmission-based precautions|Nursing
+PPE|Personal protective equipment|Nursing
+PAPR|Powered air-purifying respirator|Nursing
+N95|N95 filtering facepiece respirator|Nursing
+MDRO|Multidrug-resistant organism|Nursing
+MRSA|Methicillin-resistant Staphylococcus aureus|Nursing
+MRSA nares|MRSA nasal swab|Nursing
+VRE|Vancomycin-resistant Enterococcus|Nursing
+CRE|Carbapenem-resistant Enterobacterales|Nursing
+CPO|Carbapenemase-producing organism|Nursing
+ESBL|Extended-spectrum beta-lactamase|Nursing
+C diff|Clostridioides difficile|Nursing
+CDI|Clostridioides difficile infection|Nursing
+C auris|Candida auris|Nursing
+IP|Infection prevention|Nursing
+IPC|Infection prevention and control|Nursing
+HH|Hand hygiene|Nursing
+MAR|Medication administration record|Nursing
+eMAR|Electronic medication administration record|Nursing
+BCMA|Barcode medication administration|Nursing
+ADC|Automated dispensing cabinet|Nursing
+Override|Medication removed from the dispensing cabinet before pharmacist verification|Nursing
+Witnessed waste|Controlled substance discarded in front of a second nurse|Nursing
+Wasted w/|Wasted with (witness named)|Nursing
+IDC|Independent double check|Nursing
+HAM|High-alert medication|Nursing
+LASA|Look-alike sound-alike|Nursing
+5 rights|Five rights of medication administration|Nursing
+PRN|As needed|Nursing
+PRN reassess|Reassessment of PRN medication effect|Nursing
+PRN reassessment|Reassessment of PRN medication effect|Nursing
+Hold params|Hold parameters|Nursing
+Hold parameters|Vital sign or lab thresholds for withholding a dose|Nursing
+Crush|Medication may be crushed|Nursing
+DNC|Do not crush|Nursing
+ER|Extended release|Nursing
+SR|Sustained release|Nursing
+EC|Enteric coated|Nursing
+ODT|Orally disintegrating tablet|Nursing
+Via tube|Administered through a feeding tube|Nursing
+Per tube|Administered through a feeding tube|Nursing
+Per NGT|Through the nasogastric tube|Nursing
+Per PEG|Through the gastrostomy tube|Nursing
+SL|Sublingual|Nursing
+SQ|Subcutaneous|Nursing
+SubQ|Subcutaneous|Nursing
+POC|Point of care|Nursing
+POCG|Point-of-care glucose|Nursing
+POC BG|Point-of-care blood glucose|Nursing
+FSBG|Fingerstick blood glucose|Nursing
+FSBS|Fingerstick blood sugar|Nursing
+FS|Fingerstick|Nursing
+FSG|Fingerstick glucose|Nursing
+CBG|Capillary blood glucose|Nursing
+BS|Blood sugar|Nursing
+AC|Before meals|Nursing
+AC/HS|Before meals and at bedtime|Nursing
+ACHS|Before meals and at bedtime|Nursing
+HS|At bedtime|Nursing
+SSI|Sliding scale insulin|Nursing
+ISS|Insulin sliding scale|Nursing
+CF|Correction factor|Nursing
+ICR|Insulin-to-carbohydrate ratio|Nursing
+I:C|Insulin-to-carbohydrate ratio|Nursing
+Insulin gtt|Insulin drip|Nursing
+Insulin drip protocol|Nurse-driven intravenous insulin titration protocol|Nursing
+IVII|Intravenous insulin infusion|Nursing
+Hypo protocol|Hypoglycemia protocol|Nursing
+Hep gtt|Heparin drip|Nursing
+Hep nomogram|Heparin dosing nomogram|Nursing
+Heparin nomogram|Weight-based heparin titration protocol|Nursing
+Anti-Xa|Anti-factor Xa level|Nursing
+Med pass|Scheduled medication administration round|Nursing
+Med rec|Medication reconciliation|Nursing
+CS|Controlled substance|Nursing
+CII|Schedule II controlled substance|Nursing
+Narc|Narcotic|Nursing
+Narc count|Controlled substance count|Nursing
+NTE|Not to exceed|Nursing
+SBAR|Situation, Background, Assessment, Recommendation|Nursing
+ISBAR|Identify, Situation, Background, Assessment, Recommendation|Nursing
+ISBARR|Identify, Situation, Background, Assessment, Recommendation, Read-back|Nursing
+I-PASS|Illness severity, Patient summary, Action list, Situation awareness, Synthesis by receiver|Nursing
+IPASS|Illness severity, Patient summary, Action list, Situation awareness, Synthesis by receiver|Nursing
+BSR|Bedside shift report|Nursing
+MD aware|Physician notified and aware|Nursing
+MDA|Physician aware|Nursing
+MDN|Physician notified|Nursing
+MD notified|Physician notified|Nursing
+MD made aware|Physician notified and aware|Nursing
+Provider aware|Treating clinician notified and aware|Nursing
+NNO|No new orders|Nursing
+NNOR|No new orders received|Nursing
+NOR|New orders received|Nursing
+N/O|New order|Nursing
+VO|Verbal order|Nursing
+TO|Telephone order|Nursing
+TORB|Telephone order read back|Nursing
+VORB|Verbal order read back|Nursing
+RB|Read back|Nursing
+RBV|Read back and verified|Nursing
+Paged|Provider paged|Nursing
+Charge RN|Charge nurse|Nursing
+CN|Charge nurse|Nursing
+RN|Registered nurse|Nursing
+NP|Nurse practitioner|Nursing
+APRN|Advanced practice registered nurse|Nursing
+LVN|Licensed vocational nurse|Nursing
+LPN|Licensed practical nurse|Nursing
+CNA|Certified nursing assistant|Nursing
+PCT|Patient care technician|Nursing
+PCA|Patient care assistant|Nursing
+UAP|Unlicensed assistive personnel|Nursing
+HUC|Health unit coordinator|Nursing
+UC|Unit coordinator|Nursing
+NM|Nurse manager|Nursing
+ANM|Assistant nurse manager|Nursing
+CNM|Clinical nurse manager|Nursing
+CNS|Clinical nurse specialist|Nursing
+NE|Nurse educator|Nursing
+CNO|Chief nursing officer|Nursing
+DON|Director of nursing|Nursing
+House sup|House supervisor|Nursing
+Resource RN|Resource nurse|Nursing
+Float|Float pool nurse|Nursing
+Float pool|Nurses deployed to units by daily need|Nursing
+Traveler|Travel nurse|Nursing
+Travel RN|Travel nurse|Nursing
+PRN|Per diem staff|Nursing
+Preceptor|Experienced nurse who orients a new nurse|Nursing
+New grad|Newly graduated nurse|Nursing
+NGRN|New graduate registered nurse|Nursing
+Noc|Night shift|Nursing
+NOC|Night shift|Nursing
+Nocs|Night shifts|Nursing
+Days|Day shift|Nursing
+7a-7p|Day shift|Nursing
+7p-7a|Night shift|Nursing
+3-11|Evening shift|Nursing
+11-7|Night shift|Nursing
+Eves|Evening shift|Nursing
+Ratio|Nurse-to-patient ratio|Nursing
+1:2|One nurse to two patients|Nursing
+Acuity|Patient care intensity used for staffing|Nursing
+IDR|Interdisciplinary rounds|Nursing
+IDT|Interdisciplinary team|Nursing
+MDR|Multidisciplinary rounds|Nursing
+Armband|Patient identification wristband|Nursing
+ID band|Patient identification wristband|Nursing
+Allergy band|Allergy alert wristband|Nursing
+Fall band|Fall risk wristband|Nursing
+LAB|Limb alert band|Nursing
+Limb alert|Limb alert band|Nursing
+Restricted extremity|Limb with no blood pressures, IVs or needle sticks|Nursing
+No BP/sticks|No blood pressures or needle sticks in this limb|Nursing
+2 PI|Two patient identifiers|Nursing
+Teach-back|Patient restates teaching in own words|Nursing
+Teachback|Patient restates teaching in own words|Nursing
+VU|Verbalized understanding|Nursing
+Pt VU|Patient verbalized understanding|Nursing
+Return demo|Return demonstration|Nursing
+AVS|After Visit Summary|Nursing
+DCI|Discharge instructions|Nursing
+D/C instr|Discharge instructions|Nursing
+DC teaching|Discharge teaching|Nursing
+D/C home|Discharged home|Nursing
+HHC|Home health care|Nursing
+VNA|Visiting Nurse Association|Nursing
+Elopement risk|Patient at risk of leaving unsupervised|Nursing
+Interp|Interpreter|Nursing
+LEP|Limited English proficiency|Nursing
+VRI|Video remote interpreting|Nursing
+DNAR|Do not attempt resuscitation|Nursing
+AND|Allow natural death|Nursing
+FC|Full code|Nursing
+POLST|Physician Orders for Life-Sustaining Treatment|Nursing
+DPOA-HC|Durable power of attorney for health care|Nursing
+Soft restraints|Soft limb restraints|Nursing
+BUE soft restraints|Soft restraints on both wrists|Nursing
+2-point|Two-point restraints|Nursing
+2pt|Two-point restraints|Nursing
+4-point|Four-point restraints|Nursing
+4pt|Four-point restraints|Nursing
+Mitts|Hand mitts|Nursing
+Hand mitts|Padded mitts that prevent pulling at lines and tubes|Nursing
+Enclosure bed|Enclosed bed|Nursing
+LRA|Less restrictive alternatives|Nursing
+NV restraint|Non-violent restraint|Nursing
+Non-violent|Non-violent (medical) restraint|Nursing
+Violent restraint|Restraint for violent or self-destructive behavior|Nursing
+R&S|Restraint and seclusion|Nursing
+F2F|Face-to-face evaluation within 1 hour of restraint|Nursing
+Face-to-face|Face-to-face evaluation within 1 hour of restraint|Nursing
+Chemical restraint|Medication used to control behavior|Nursing
+BERT|Behavioral emergency response team|Nursing
+BRT|Behavioral response team|Nursing
+Code gray|Combative person alert|Nursing
+De-esc|De-escalation|Nursing
+Seclusion|Involuntary confinement alone in a room|Nursing
+5150|Involuntary 72-hour psychiatric hold (California)|Nursing
+5250|14-day involuntary psychiatric certification (California)|Nursing
+Suicide prec|Suicide precautions|Nursing
+Ligature risk|Item that could be used for self-strangulation|Nursing
+PMC|Postmortem care|Nursing
+PM care|Postmortem care|Nursing
+ME|Medical examiner|Nursing
+ME case|Medical examiner case|Nursing
+Coroner|Official who investigates reportable deaths|Nursing
+Coroner case|Death reportable to the coroner|Nursing
+OPO|Organ procurement organization|Nursing
+OPO notified|Organ procurement organization notified|Nursing
+OPO referral|Referral to the organ procurement organization|Nursing
+TOD|Time of death|Nursing

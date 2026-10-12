@@ -1,0 +1,27 @@
+# INPUT|words the decoded meaning must contain (checked by tools/check_compounds.js)
+# Dosing schedules glued together; each must decode as a schedule, never as unrelated acronyms
+TIDAC|three times daily before meals
+tid ac|three times daily before meals
+T.I.D.A.C.|three times daily before meals
+BIDPC|twice daily after meals
+QIDACHS|four times daily before meals bedtime
+QACHS|before each meal bedtime
+QAMAC|every morning before meals
+QHSPRN|bedtime as needed
+Q6HPRN|every 6 hours as needed
+q4-6hprn|every 4 to 6 hours as needed
+POBID|by mouth twice daily
+POTIDAC|by mouth three times daily before meals
+POQ6HPRN|by mouth every 6 hours as needed
+SQQHS|subcutaneous bedtime
+IVQ8H|intravenous every 8 hours
+SLPRN|sublingual as needed
+QDX7D|once daily for 7 days
+Q12HX5D|every 12 hours for 5 days
+QIDPCHS|four times daily after meals bedtime
+TIDWM|three times daily with meals
+QW|once weekly
+Q2-4HPRN|every 2 to 4 hours as needed
+# Non-schedule compounds keep working
+MVCAD|multivessel coronary artery disease
+3VCAD|3-vessel coronary artery disease

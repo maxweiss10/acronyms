@@ -1765,6 +1765,7 @@ WM|Withdrawal management|Addiction Medicine, Social Work & Case Management
 WM|Waldenstrom macroglobulinemia (lymphoplasmacytic lymphoma)|Hematology, Laboratory Medicine, Pathology
 WM|Working memory|Speech-Language Pathology
 W/M|Wet-to-moist dressing|Wound & Ostomy Care
+WM|With meals|Chart Shorthand
 LOC|Level of care|Addiction Medicine, Behavioral Health Unit, Chart Shorthand, Health Administration, Health Insurance & Billing, Palliative Care, Physical Medicine & Rehab, Psychiatry, Social Work & Case Management
 LOC|Loss of consciousness|Addiction Medicine, Anesthesiology, Behavioral Health Unit, Chart Shorthand, Critical Care, EMS & Prehospital, Electrophysiology, Emergency Medicine, General Surgery, Geriatrics, Hospital Medicine, Neurology, Neurosurgery, Nursing, Pain Medicine, Palliative Care, Pediatrics, Perioperative Nursing, Physical Medicine & Rehab, Plastic Surgery, Psychiatry, Radiology, Speech-Language Pathology, Sports Medicine, Toxicology, Trauma Surgery, Vascular Surgery
 LOC|Level of consciousness|Anesthesiology, Chart Shorthand, Critical Care, EMS & Prehospital, Emergency Medicine, Nursing, Perioperative Nursing, Speech-Language Pathology, Trauma Surgery
@@ -16970,6 +16971,7 @@ IU|Internal urethrotomy|Urology
 IU|International units (do-not-use abbreviation, write international units)|Pharmacy Operations
 gtt/min|Drops per minute|Nursing
 ac&hs|Before meals and at bedtime|Chart Shorthand, Nursing
+ACHS|Before meals and at bedtime|Chart Shorthand
 NKFA|No known food allergies|Nursing, Nutrition
 1:1|One-to-one observation|Chart Shorthand, Nursing, Psychiatry
 1:1|Equal ratio of plasma to red cells|Lab Specimens & Blood Bank
@@ -20142,7 +20144,7 @@ MEE|Middle ear effusion|Pediatrics
 TFT|Thyroid function tests|Pediatrics
 TPR|Temperature, pulse, respirations|Maternal-Newborn Nursing, Pediatrics
 TPR|True positive rate|Evidence-Based Medicine
-QAC|Before each meal|Pharmacology
+QAC|Before each meal|Chart Shorthand, Pharmacology
 QW|Once weekly|Pharmacology
 QW|CLIA-waived test (modifier)|Health Insurance & Billing
 q36h|Every 36 hours|Pharmacology
@@ -25947,4 +25949,57 @@ yr|Year|Chart Shorthand
 yrs|Years|Chart Shorthand
 Zio|Zio patch ambulatory monitor|Chart Shorthand
 labs|Laboratory tests|Chart Shorthand
+ACHSPRN|Before meals and at bedtime as needed|Chart Shorthand
+ACPRN|Before meals as needed|Chart Shorthand
+BIDAC|Twice daily before meals|Chart Shorthand
+BIDACHS|Twice daily before meals and at bedtime|Chart Shorthand
+BIDPC|Twice daily after meals|Chart Shorthand
+BIDPCHS|Twice daily after meals and at bedtime|Chart Shorthand
+BIDPRN|Twice daily as needed|Chart Shorthand
+BIDWM|Twice daily with meals|Chart Shorthand
+Daily PRN|Daily as needed|Chart Shorthand
+HSPRN|At bedtime as needed|Chart Shorthand
+PCHS|After meals and at bedtime|Chart Shorthand
+PCPRN|After meals as needed|Chart Shorthand
+Q12HPRN|Every 12 hours as needed|Chart Shorthand
+Q1HPRN|Every hour as needed|Chart Shorthand
+Q2-4HPRN|Every 2 to 4 hours as needed|Chart Shorthand
+Q24HPRN|Every 24 hours as needed|Chart Shorthand
+Q2HPRN|Every 2 hours as needed|Chart Shorthand
+Q3HPRN|Every 3 hours as needed|Chart Shorthand
+Q4-6HPRN|Every 4 to 6 hours as needed|Chart Shorthand
+Q4HPRN|Every 4 hours as needed|Chart Shorthand
+Q6-8HPRN|Every 6 to 8 hours as needed|Chart Shorthand
+Q6HPRN|Every 6 hours as needed|Chart Shorthand
+Q8HPRN|Every 8 hours as needed|Chart Shorthand
+QACHS|Before each meal and at bedtime|Chart Shorthand
+QAMAC|Every morning before meals|Chart Shorthand
+QAMPC|Every morning after meals|Chart Shorthand
+QAMPRN|Every morning as needed|Chart Shorthand
+QAMWM|Every morning with meals|Chart Shorthand
+QDAC|Once daily before meals|Chart Shorthand
+QDPC|Once daily after meals|Chart Shorthand
+QDPRN|Once daily as needed|Chart Shorthand
+QDWM|Once daily with meals|Chart Shorthand
+QHSAC|At bedtime and before meals|Chart Shorthand
+QHSPRN|At bedtime as needed|Chart Shorthand
+QIDAC|Four times daily before meals|Chart Shorthand
+QIDACHS|Four times daily before meals and at bedtime|Chart Shorthand
+QIDPC|Four times daily after meals|Chart Shorthand
+QIDPCHS|Four times daily after meals and at bedtime|Chart Shorthand
+QIDPRN|Four times daily as needed|Chart Shorthand
+QIDWM|Four times daily with meals|Chart Shorthand
+QODPRN|Every other day as needed|Chart Shorthand
+QPC|After each meal|Chart Shorthand
+QPMAC|Every evening before meals|Chart Shorthand
+QPMPC|Every evening after meals|Chart Shorthand
+QPMPRN|Every evening as needed|Chart Shorthand
+QPMWM|Every evening with meals|Chart Shorthand
+TIDAC|Three times daily before meals|Chart Shorthand
+TIDACHS|Three times daily before meals and at bedtime|Chart Shorthand
+TIDPC|Three times daily after meals|Chart Shorthand
+TIDPCHS|Three times daily after meals and at bedtime|Chart Shorthand
+TIDPRN|Three times daily as needed|Chart Shorthand
+TIDWM|Three times daily with meals|Chart Shorthand
+WMPRN|With meals as needed|Chart Shorthand
 `;

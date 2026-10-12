@@ -68,16 +68,56 @@ for(let n=1;n<=6;n++){
   add({a:n+"VD",m:n+"-vessel disease",spec:"Cardiology"});
 }
 
+// ---- dosing schedules: frequency + timing + route + PRN glued together (TIDAC, POQ6HPRN, SQQHS) ----
+const SIG={qd:"Once daily",daily:"Daily",bid:"Twice daily",tid:"Three times daily",qid:"Four times daily",
+ qod:"Every other day",qam:"Every morning",qpm:"Every evening",qhs:"At bedtime",hs:"At bedtime",qn:"Every night",
+ qwk:"Every week",qweek:"Every week",biw:"Twice weekly",tiw:"Three times weekly",qmo:"Every month",
+ ac:"Before meals",pc:"After meals",wm:"With meals",achs:"Before meals and at bedtime",pchs:"After meals and at bedtime",
+ qac:"Before each meal",qpc:"After each meal",prn:"As needed",stat:"Immediately",
+ po:"By mouth",iv:"Intravenous",ivp:"IV push",ivpb:"IV piggyback",im:"Intramuscular",sq:"Subcutaneous",sc:"Subcutaneous",
+ subq:"Subcutaneous",sl:"Sublingual",pr:"Per rectum",top:"Topical",inh:"Inhaled",neb:"Nebulized",td:"Transdermal",ou:"Both eyes"};
+const SIG_ROUTE=new Set("po iv ivp ivpb im sq sc subq sl pr top inh neb td ou".split(" "));
+function sigAtom(k){
+  if(SIG[k]) return SIG[k];
+  let m=k.match(/^q(\d{1,2})h$/); if(m) return m[1]==="1"?"Every hour":`Every ${m[1]} hours`;
+  m=k.match(/^q(\d)(\d{1,2})h$/); if(m&&+m[1]<+m[2]) return `Every ${m[1]} to ${m[2]} hours`;
+  m=k.match(/^q(\d{1,2})(min|d)$/); if(m) return `Every ${m[1]} ${m[2]==="d"?"days":"minutes"}`;
+  m=k.match(/^x(\d{1,2})d$/); if(m) return `For ${m[1]} days`;
+  return null;
+}
+// whole token must split into schedule pieces, at least two, and not only routes
+function sigSegment(w){
+  const n=w.length, best=Array(n+1).fill(null); best[0]=[];
+  for(let i=0;i<n;i++){ if(!best[i]) continue;
+    for(let j=i+1;j<=Math.min(n,i+6);j++){ const k=w.slice(i,j);
+      if(sigAtom(k)&&(!best[j]||best[i].length+1<best[j].length)) best[j]=best[i].concat(k); } }
+  const p=best[n];
+  return p&&p.length>1&&p.some(k=>!SIG_ROUTE.has(k))?p.map(k=>({k,e:{m:sigAtom(k)}})):null;
+}
+
 // ---- compound splitting (fewest pieces, longer known pieces preferred) ----
-function segment(w){
+// ok(e) limits which entries may serve as pieces; used to keep every piece in one specialty
+function segment(w,ok){
   const n=w.length, best=Array(n+1).fill(null); best[0]={c:0,p:[]};
   for(let i=0;i<n;i++){ if(!best[i]) continue;
     for(let j=i+1;j<=n;j++){
       const k=w.slice(i,j); if(!LEX[k]||k.length<2) continue;
+      const es=ok?LEX[k].filter(ok):LEX[k]; if(!es.length) continue;
       const c=best[i].c+1+(k.length<3?0.5:0);
-      if(!best[j]||c<best[j].c) best[j]={c,p:best[i].p.concat(k)};
+      if(!best[j]||c<best[j].c) best[j]={c,p:best[i].p.concat({k,e:es[0]})};
     } }
-  return best[n]?best[n].p:null;
+  return best[n]||null;
+}
+// Prefer a split whose pieces all come from one specialty (TID + AC in Pharmacology) over a
+// cheaper split stitched from unrelated fields (TI + DAC). Ties go to the more widely used pieces.
+const SPECS=[...new Set(ENTRIES.flatMap(e=>e[2].split(", ")))];
+const wide=r=>r.p.reduce((s,x)=>s+x.e.spec.split(", ").length,0);
+function bestSplit(w){
+  let best=null;
+  for(const s of SPECS){ const r=segment(w,e=>e.spec==="Compound modifier"||e.spec.split(", ").includes(s));
+    if(r&&r.p.length>1&&(!best||r.c<best.c||(r.c===best.c&&wide(r)>wide(best)))) best=r; }
+  if(best) return {p:best.p,sure:true};
+  const g=segment(w); return g&&g.p.length>1?{p:g.p,sure:false}:null;
 }
 // tok keeps the user's casing: "pt" (patient) and "PT" (prothrombin time) rank differently
 function decodeToken(tok){
@@ -87,8 +127,10 @@ function decodeToken(tok){
     const by=(x,y)=>(y.a===tok)-(x.a===tok)||(low?lc(y.a)-lc(x.a):0)||y.spec.split(", ").length-x.spec.split(", ").length;
     return {t:tok,exact:(ex.length?ex:LEX[k]).slice().sort(by)}; }
   if(k.length>2&&k.endsWith("s")&&LEX[k.slice(0,-1)]) return decodeToken(tok.slice(0,-1));
-  const seg=segment(k);
-  if(seg&&seg.length>1) return {t:tok,seg:seg.map(s=>({k:s,e:LEX[s][0]}))};
+  const sig=sigSegment(k);
+  if(sig) return {t:tok,seg:sig,why:"dosing schedule"};
+  const b=bestSplit(k);
+  if(b) return {t:tok,seg:b.p,why:b.sure?"best guess":"low-confidence guess, pieces from unrelated fields"};
   return {t:tok,none:true};
 }
 
@@ -125,7 +167,7 @@ function render(){
       toks.filter(w=>!WORDS.has(w)).map(decodeToken).filter(Boolean).forEach(o=>{
         const d=document.createElement("div"); if(o.exact||o.seg) known++;
         if(o.exact) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.exact.map(e=>esc(e.m)+` <span class="g">(${esc(e.spec)})</span>`).join("; ")}`;
-        else if(o.seg) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.seg.map(x=>esc(x.e.m)).join(" + ")} <span class="g">(best guess: ${o.seg.map(x=>esc(x.k.toUpperCase())).join(" + ")})</span>`;
+        else if(o.seg) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.seg.map(x=>esc(x.e.m)).join(" + ")} <span class="g">(${o.why}: ${o.seg.map(x=>esc(x.k.toUpperCase())).join(" + ")})</span>`;
         else d.innerHTML=`<b>${esc(o.t)}</b>: <span class="g">not recognized</span>`;
         dec.append(d);
       });

@@ -1,0 +1,51 @@
+dz|Disease|Chart Shorthand
+fxs|Fractures|Chart Shorthand
+o/w|Otherwise|Chart Shorthand
+s/f|Significant for|Chart Shorthand
+usoh|Usual state of health|Chart Shorthand
+d/ced|Discontinued|Chart Shorthand
+WNWD|Well nourished, well developed|Chart Shorthand
+NBNB|Nonbloody, nonbilious|Chart Shorthand
+m/g/r|Murmurs, gallops or rubs|Chart Shorthand
+g/r/m|Gallops, rubs or murmurs|Chart Shorthand
+cv|Costovertebral|Chart Shorthand
+ROMI|Rule out myocardial infarction|Chart Shorthand
+r/o MI|Rule out myocardial infarction|Chart Shorthand
+SSCP|Substernal chest pain|Chart Shorthand
+PPI|Peripheral pulses intact|Chart Shorthand
+NC|Normocephalic|Chart Shorthand
+NC|Noncontributory|Chart Shorthand
+AA|Awake and alert|Chart Shorthand
+la|Lymphadenopathy|Chart Shorthand
+sb|Sternal border|Chart Shorthand
+rt|Rebound tenderness|Chart Shorthand
+ms|Muscle strength|Chart Shorthand
+MS|Musculoskeletal|Chart Shorthand
+MM|Mucous membranes|Chart Shorthand
+HS|Heart sounds|Chart Shorthand
+RR|Regular rhythm|Chart Shorthand
+tw|T wave|Chart Shorthand
+TW|T wave|Chart Shorthand
+bb|Bedbound|Chart Shorthand
+BB|Blow-by oxygen|Respiratory Therapy
+psa|Polysubstance abuse|Chart Shorthand
+vns|Visiting nurse service|Chart Shorthand
+ha|Home health aide|Chart Shorthand
+ap|Abdomen and pelvis|Chart Shorthand
+A/P|Abdomen and pelvis|Radiology
+Tm|Maximum temperature|Chart Shorthand
+GFR|Grunting, flaring, retracting|Pediatrics
+BB|Baby boy|Maternal-Newborn Nursing
+BG|Baby girl|Maternal-Newborn Nursing
+GM|Grandmother|Chart Shorthand
+GF|Grandfather|Chart Shorthand
+WF|White female|Chart Shorthand
+WM|White male|Chart Shorthand
+ss|Sliding scale|Chart Shorthand
+s/s|Sliding scale|Chart Shorthand
+SS|Single strength|Pharmacology
+DS|Double strength|Pharmacology
+ES|Extra strength|Pharmacology
+s&s|Swish and swallow|Pharmacology
+cc|With meals (cum cibo)|Pharmacology
+LM|Left message|Chart Shorthand

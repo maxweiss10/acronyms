@@ -1241,7 +1241,6 @@ DM|Dry matter|Nutrition
 DM|Distant metastasis|Oncology
 DM|Distal margin|Pathology
 DM|Diastolic murmur|Chart Shorthand
-dm|Dextromethorphan|Pharmacology
 CKD|Chronic kidney disease|Addiction Medicine, Anesthesiology, Cardiac Imaging, Cardiology, Dentistry, Dermatology, Dialysis Nursing, Electrophysiology, Emergency Medicine, Gastroenterology, General Surgery, Geriatrics, Heart Failure, Hepatology, Hospital Medicine, Interventional Cardiology, Laboratory Medicine, Nephrology, Nursing, Nutrition, Obstetrics, Orthopedics, Pain Medicine, Palliative Care, Pediatrics, Pharmacology, Physical Medicine & Rehab, Plastic Surgery, Podiatry, Public Health, Radiology, Rheumatology, Sleep Medicine, Sports Medicine, Toxicology, Transplant, Trauma Surgery, Urology, Vascular Surgery
 COPD|Chronic obstructive pulmonary disease|Addiction Medicine, Anesthesiology, Cardiology, Critical Care, Dentistry, Electrophysiology, Emergency Medicine, Geriatrics, Heart Failure, Hospital Medicine, Interventional Cardiology, Nephrology, Nursing, Orthopedics, Pain Medicine, Palliative Care, Physical Medicine & Rehab, Plastic Surgery, Public Health, Pulmonology, Radiology, Respiratory Therapy, Sleep Medicine, Sports Medicine, Toxicology, Transplant, Trauma Surgery, Vascular Surgery
 CAD|Coronary artery disease|Addiction Medicine, Anesthesiology, Cardiac Imaging, Cardiac Surgery, Cardiology, Critical Care, Electrophysiology, Emergency Medicine, General Surgery, Geriatrics, Heart Failure, Hospital Medicine, Interventional Cardiology, Nephrology, Nursing, Nutrition, Ophthalmology, Orthopedics, Pain Medicine, Palliative Care, Pathology, Pharmacology, Physical Medicine & Rehab, Plastic Surgery, Radiology, Rheumatology, Sleep Medicine, Sports Medicine, Toxicology, Transplant, Trauma Surgery, Urology, Vascular Surgery
@@ -1858,7 +1857,6 @@ ALT|Alanine aminotransferase|Addiction Medicine, Critical Care, Emergency Medici
 ALT|Argon laser trabeculoplasty|Ophthalmology
 ALT|Anterolateral thigh (flap)|Orthopedics, Otolaryngology, Plastic Surgery
 ALT|Atypical lipomatous tumor|Pathology
-alt|Alternating|Chart Shorthand
 ALP|Alkaline phosphatase|Addiction Medicine, Critical Care, Emergency Medicine, Endocrinology, Gastroenterology, General Surgery, Heart Failure, Hepatology, Hospital Medicine, Laboratory Medicine, Nephrology, Nutrition, Oncology, Orthopedics, Pain Medicine, Pathology, Rheumatology, Transplant, Trauma Surgery, Vascular Surgery
 ALP|Alpelisib|Oncology
 ALP|Alprazolam|Psychiatry
@@ -1901,7 +1899,6 @@ Phos|Phosphorus (phosphate)|Addiction Medicine, Anesthesiology, Endocrinology, N
 Phos|Phosphate|Emergency Medicine, General Surgery, Laboratory Medicine
 Phos|Phosphorus|Dialysis Nursing
 K|Potassium|Addiction Medicine, Anesthesiology, Dialysis Nursing, Emergency Medicine, General Surgery, Heart Failure, Laboratory Medicine, Nephrology, Nursing, Nutrition, Sports Medicine, Toxicology, Transplant, Trauma Surgery, Vascular Surgery
-K|Thousand|Laboratory Medicine
 Na|Sodium|Addiction Medicine, Anesthesiology, Emergency Medicine, General Surgery, Heart Failure, Laboratory Medicine, Nephrology, Nursing, Nutrition, Sports Medicine, Toxicology, Trauma Surgery, Vascular Surgery
 Na|Neuraxial anesthesia|Anesthesiology
 Na|Nursing assistant|Nursing
@@ -2421,8 +2418,6 @@ CSU|Crisis stabilization unit|Behavioral Health Unit, Psychiatry, Social Work & 
 CIU|Chronic idiopathic urticaria|Allergy & Immunology, Dermatology
 CINDU|Chronic inducible urticaria|Allergy & Immunology, Dermatology
 ASST|Autologous serum skin test|Allergy & Immunology
-asst|Assistant|Chart Shorthand
-asst|Assistance|Chart Shorthand
 UAS7|Urticaria activity score over 7 days|Allergy & Immunology, Dermatology
 UCT|Urticaria control test|Allergy & Immunology, Dermatology
 AAE|Acquired angioedema|Allergy & Immunology
@@ -3672,7 +3667,6 @@ PIP|Proximal interphalangeal (joint)|Hospital Medicine, Orthopedics, Pain Medici
 PIP|Proximal interphalangeal joint|Orthotics & Prosthetics, Podiatry, Trauma Surgery
 PIP|Proximal interphalangeal|Occupational Therapy
 PIP|Personal injury protection|Health Insurance & Billing
-pip|Piperacillin|Pharmacology
 Pplat|Plateau pressure|Anesthesiology, Critical Care, Emergency Medicine, Respiratory Therapy, Trauma Surgery
 Pplat|Plateau airway pressure|Critical Care
 Pmean|Mean airway pressure|Anesthesiology, Critical Care, Respiratory Therapy
@@ -3820,7 +3814,6 @@ MS|Moderate sedation|Perioperative Nursing
 MS|Morphine sulfate or magnesium sulfate (do-not-use abbreviation)|Pharmacy Operations
 ms|Muscle strength|Chart Shorthand
 MS|Musculoskeletal|Chart Shorthand
-ms|Milliseconds|Electrophysiology
 MR|Mitral regurgitation|Anesthesiology, Cardiac Imaging, Cardiac Surgery, Cardiology, Critical Care, Electrophysiology, Emergency Medicine, Heart Failure, Hospital Medicine, Interventional Cardiology, Pediatrics, Radiology, Transplant
 MR|Minimal response|Oncology
 MR|Medial rectus|Ophthalmology
@@ -3841,7 +3834,6 @@ TR|Transradial|Orthotics & Prosthetics
 tr|Trace|Chart Shorthand
 T&R|Turn and reposition|Nursing, Wound & Ostomy Care
 T&R|Treat and release|EMS & Prehospital
-tr|Trough level|Pharmacology
 PS|Pulmonic stenosis|Anesthesiology, Cardiac Imaging, Interventional Cardiology
 PS|Pulmonary stenosis|Cardiac Surgery, Cardiology, Pediatrics
 PS|Pressure support|Critical Care, Emergency Medicine, Neonatology, Respiratory Therapy, Sleep Medicine, Trauma Surgery
@@ -4214,7 +4206,6 @@ NG|Neisseria gonorrhoeae|Gynecology, Infectious Disease, Public Health
 NG|No growth|Lab Specimens & Blood Bank, Laboratory Medicine
 NG|Nerve graft|Plastic Surgery
 NG|Via nasogastric tube|Pharmacy Operations
-ng|Nanogram|Laboratory Medicine
 NGT|Nasogastric tube|Anesthesiology, Cardiac Surgery, Chart Shorthand, Critical Care, Emergency Medicine, Gastroenterology, General Surgery, Geriatrics, Hospital Medicine, Maternal-Newborn Nursing, Neonatology, Neurology, Nursing, Nutrition, Otolaryngology, Palliative Care, Pediatrics, Perioperative Nursing, Pharmacy Operations, Physical Medicine & Rehab, Plastic Surgery, Procedures & Sedation, Radiology, Speech-Language Pathology, Toxicology, Transplant, Trauma Surgery, Vascular Surgery
 NGT|Normal glucose tolerance|Endocrinology
 OGT|Orogastric tube|Anesthesiology, Cardiac Surgery, Chart Shorthand, Critical Care, EMS & Prehospital, Emergency Medicine, Gastroenterology, General Surgery, Maternal-Newborn Nursing, Neonatology, Nursing, Nutrition, Pediatrics, Perioperative Nursing, Pharmacy Operations, Procedures & Sedation, Radiology, Toxicology, Trauma Surgery, Vascular Surgery
@@ -4476,7 +4467,6 @@ CTS|Cardiothoracic surgery|Cardiac Surgery, Electrophysiology
 CTS|Chest tubes|Cardiac Surgery
 CTS|Cracked tooth syndrome|Dentistry
 CTS|Chest tube suction|Pulmonology
-cts|Counts|Laboratory Medicine
 PHN|Postherpetic neuralgia|Anesthesiology, Dentistry, Dermatology, Geriatrics, Infectious Disease, Neurology, Neurosurgery, Pain Medicine, Palliative Care, Physical Medicine & Rehab
 DPN|Diabetic peripheral neuropathy|Anesthesiology, Endocrinology, Geriatrics, Neurology, Orthotics & Prosthetics, Pain Medicine, Palliative Care, Physical Medicine & Rehab, Podiatry
 DPN|Deep peroneal nerve|Orthopedics, Podiatry
@@ -5030,7 +5020,6 @@ EDT|E-wave deceleration time|Cardiac Imaging
 EDT|Emergency department thoracotomy|Emergency Medicine, Trauma Surgery
 E/A|Ratio of early to late mitral inflow velocity|Cardiac Imaging, Heart Failure, Interventional Cardiology
 E->A|E-to-A change (egophony)|Chart Shorthand
-EA|Each|Pharmacy Operations
 e'|Early diastolic mitral annular tissue velocity|Cardiac Imaging
 a'|Late diastolic mitral annular tissue velocity|Cardiac Imaging
 a|Before (a-bar, ante)|Chart Shorthand
@@ -5365,8 +5354,6 @@ THR|Total hip replacement|Geriatrics, Orthopedics, Perioperative Nursing, Physic
 EST|Exercise stress test|Cardiac Imaging
 EST|Endoscopic sphincterotomy|Gastroenterology, Hepatology
 EST|Early stent thrombosis|Interventional Cardiology
-est|Estimated|Chart Shorthand
-est|Established patient|Chart Shorthand
 GXT|Graded exercise test|Cardiac Imaging, Sports Medicine
 CPX|Cardiopulmonary exercise testing|Cardiac Imaging
 CPX|Cardiopulmonary exercise test|Respiratory Therapy
@@ -6389,7 +6376,6 @@ CSP|Cold snare polypectomy|Gastroenterology
 CSP|Cesarean scar pregnancy|Gynecology
 CSP|Caspofungin|Infectious Disease
 CSP|Compounded sterile preparation|Pharmacology, Pharmacy Operations
-CSP|Cyclosporine|Pharmacology
 VSRR|Valve-sparing root replacement|Cardiac Surgery
 VSARR|Valve-sparing aortic root replacement|Cardiac Surgery
 Lac|Lactate|Cardiac Surgery, Chart Shorthand, Critical Care, General Surgery, Heart Failure, Laboratory Medicine, Neonatology, Radiology, Trauma Surgery
@@ -6492,7 +6478,6 @@ CF|Counting fingers vision|Ophthalmology
 CLI|Critical limb ischemia|Cardiology, General Surgery, Interventional Cardiology, Plastic Surgery, Podiatry, Radiology, Trauma Surgery, Vascular Surgery, Wound & Ostomy Care
 CLI|Clindamycin|Infectious Disease, Pharmacology
 COR|Class of recommendation|Cardiology, Evidence-Based Medicine
-COR|Heart (cardiac exam heading)|Chart Shorthand
 CPVT|Catecholaminergic polymorphic ventricular tachycardia|Cardiology, Electrophysiology, Genetics, Sports Medicine
 CSM|Carotid sinus massage|Cardiology, Electrophysiology, Geriatrics
 CSM|Cervical spondylotic myelopathy|Neurology, Neurosurgery, Orthopedics, Pain Medicine, Sports Medicine
@@ -7398,7 +7383,6 @@ TCC|Total contact cast|Orthotics & Prosthetics, Podiatry, Wound & Ostomy Care
 TDC|Tunneled dialysis catheter|Chart Shorthand, Critical Care, Dialysis Nursing, Nephrology, Nursing, Procedures & Sedation, Transplant, Vascular Surgery
 NTDC|Non-tunneled dialysis catheter|Critical Care, Dialysis Nursing, Nephrology, Procedures & Sedation, Vascular Surgery
 AVG|Arteriovenous graft|Critical Care, Dialysis Nursing, Emergency Medicine, General Surgery, Nephrology, Nursing, Procedures & Sedation, Transplant, Vascular Surgery
-avg|Average|Chart Shorthand
 UVC|Umbilical venous catheter|Critical Care, Maternal-Newborn Nursing, Neonatology, Nursing, Pediatrics, Radiology, Trauma Surgery
 UV-C|Ultraviolet C germicidal light|Infection Prevention
 UAC|Umbilical artery catheter|Critical Care
@@ -7513,7 +7497,6 @@ FDP|Fibrin degradation products|Critical Care, Hematology, Hospital Medicine, La
 FDP|Flexor digitorum profundus|Occupational Therapy, Orthopedics, Physical Medicine & Rehab, Plastic Surgery, Sports Medicine
 Diff|White blood cell differential|Critical Care
 Diff|Differential white cell count|Laboratory Medicine
-diff|Clostridioides difficile|Infectious Disease
 Retic|Reticulocyte count|Critical Care, Hematology, Laboratory Medicine, Neonatology, Nephrology
 Retic|Reticulin stain|Pathology
 Hapto|Haptoglobin|Critical Care, Hematology, Laboratory Medicine, Nephrology
@@ -7868,7 +7851,6 @@ SBT|Slide board transfer|Occupational Therapy, Physical Therapy
 SAT|Spontaneous awakening trial|Critical Care, Hospital Medicine, Nursing, Pharmacology, Pulmonology, Respiratory Therapy, Trauma Surgery
 SAT|Serum agglutination test|Infectious Disease
 SAT|Subcutaneous adipose tissue|Nutrition, Radiology
-sat|Oxygen saturation|Chart Shorthand
 NIF|Negative inspiratory force|Critical Care, Neurology, Pulmonology, Respiratory Therapy, Sleep Medicine, Trauma Surgery
 Ppeak|Peak inspiratory pressure|Critical Care, Respiratory Therapy
 Ti|Inspiratory time|Critical Care, Neonatology, Respiratory Therapy, Sleep Medicine
@@ -8107,7 +8089,6 @@ CPM|Cricopharyngeal myotomy|Otolaryngology, Speech-Language Pathology
 CPM|Conditioned pain modulation|Pain Medicine
 CPM|Contralateral prophylactic mastectomy|Plastic Surgery
 CPM|Counts per minute|Radiology
-CPM|Cyclophosphamide|Pharmacology
 HypoNa|Hyponatremia|Critical Care, Endocrinology, Heart Failure, Nephrology, Toxicology
 HypoK|Hypokalemia|Critical Care, Endocrinology, Heart Failure, Nephrology, Toxicology
 HyperCa|Hypercalcemia|Critical Care, Endocrinology, Nephrology, Toxicology
@@ -8724,7 +8705,6 @@ OAF|Oroantral fistula|Dentistry
 EXT|Extraction|Dentistry
 EXT|Extension|Occupational Therapy, Orthopedics, Physical Therapy, Sports Medicine
 ext|Extremities|Chart Shorthand
-ext|External|Chart Shorthand
 M3|Third molar|Dentistry
 M3s|Third molars|Dentistry
 WT|Wisdom tooth|Dentistry
@@ -8746,7 +8726,6 @@ DIP|Desquamative interstitial pneumonia|Pathology, Pulmonology, Radiology
 DIP|Distal interphalangeal joint|Orthotics & Prosthetics, Podiatry, Trauma Surgery
 DIP|Distal interphalangeal|Occupational Therapy
 DIP|Deep incisional primary surgical site infection|Infection Prevention, Wound & Ostomy Care
-dip|Urine dipstick|Laboratory Medicine
 ISQ|Implant stability quotient|Dentistry
 BIC|Bone-to-implant contact|Dentistry
 BIC|Bictegravir|Infectious Disease, Pharmacology
@@ -8919,7 +8898,6 @@ LO|Linguo-occlusal|Dentistry
 LO|Lateral oblique (view)|Podiatry
 LO|Licensed orthotist|Orthotics & Prosthetics
 OCC|Occlusal surface|Dentistry
-occ|Occasional|Chart Shorthand
 INCL|Incisal surface|Dentistry
 BUC|Buccal surface|Dentistry
 BUC|Buccal|Pharmacology
@@ -8996,7 +8974,6 @@ SMG|Submandibular gland|Dentistry, Otolaryngology, Pathology
 SMG|Streptococcus milleri group|Infectious Disease
 SLG|Sublingual gland|Dentistry, Otolaryngology
 MSG|Minor salivary gland|Dentistry, Otolaryngology, Rheumatology
-msg|Message|Chart Shorthand
 SF|Salivary flow|Dentistry
 SF|Steroid-free|Gastroenterology
 SF|Severe features|Obstetrics
@@ -9035,8 +9012,6 @@ IVRO|Intraoral vertical ramus osteotomy|Dentistry, Plastic Surgery
 OGS|Orthognathic surgery|Dentistry
 GEN|Genioplasty|Dentistry
 GEN|Gentamicin|Infectious Disease
-gen|General|Chart Shorthand
-Gen|General appearance (exam heading)|Chart Shorthand
 ZMC|Zygomaticomaticomaxillary complex|Dentistry
 ZMC|Zygomaticomaxillary complex (fracture)|Otolaryngology, Plastic Surgery
 ZMC|Zygomaticomaxillary complex fracture|Trauma Surgery
@@ -9823,7 +9798,6 @@ BVAS|Birmingham Vasculitis Activity Score|Dermatology, Rheumatology
 LTG|Lamotrigine|Behavioral Health Unit, Dermatology, Neurology, Neurosurgery, Obstetrics, Pain Medicine, Pharmacology, Psychiatry, Toxicology
 LTG|Long-term goal|Occupational Therapy, Physical Medicine & Rehab, Physical Therapy, Speech-Language Pathology
 ALLO|Allopurinol|Dermatology
-allo|Allogeneic|Pharmacology
 DHR|Delayed hypersensitivity reaction|Dermatology
 DHR|Dihydrorhodamine test|Laboratory Medicine
 IHR|Immediate hypersensitivity reaction|Dermatology
@@ -10737,7 +10711,6 @@ AMAB|Assigned male at birth|Chart Shorthand, Endocrinology
 T3|Triiodothyronine|Endocrinology, Laboratory Medicine
 T3|Third trimester|Obstetrics
 T3|Primary tumor, larger or locally advanced category|Oncology
-T3|Acetaminophen with codeine 30 mg (Tylenol #3)|Pharmacology
 FT3|Free triiodothyronine|Endocrinology, Laboratory Medicine
 TT3|Total triiodothyronine|Endocrinology
 TT4|Total thyroxine|Endocrinology
@@ -12774,7 +12747,6 @@ t|Temperature|Nursing
 tHcy|Total homocysteine|Genetics, Laboratory Medicine, Nutrition
 tRNA|Transfer RNA|Genetics
 tel|Telomere|Genetics
-tel|Telephone|Chart Shorthand
 trans|Variants on opposite chromosome copies|Genetics
 Trans|Transfers|Occupational Therapy
 uE3|Unconjugated estriol|Genetics, Laboratory Medicine, Obstetrics
@@ -13327,7 +13299,6 @@ POCs|Progestin-only contraceptives|Gynecology
 Cu-IUD|Copper intrauterine device|Gynecology, Maternal-Newborn Nursing
 LNG-EC|Levonorgestrel emergency contraception|Gynecology
 SPR|Selected practice recommendations for contraceptive use|Gynecology
-spr|Spray|Pharmacology
 AN|Acanthosis nigricans|Gynecology
 AN|Acoustic neuroma|Otolaryngology
 AN|Anorexia nervosa|Behavioral Health Unit, Psychiatry
@@ -13651,7 +13622,6 @@ FMEA|Failure mode and effects analysis|Evidence-Based Medicine, Health Administr
 M&M|Morbidity and mortality|Health Administration
 M&M|Morbidity and mortality conference|Evidence-Based Medicine
 MM|Mucous membranes|Chart Shorthand
-mm|Millimeter|Chart Shorthand
 HRO|High reliability organization|Health Administration
 837|Electronic health care claim transaction|Health Administration
 835|Electronic remittance advice transaction|Health Administration
@@ -14101,7 +14071,6 @@ EPO|Erythropoietin|Hematology, Hospital Medicine, Laboratory Medicine, Neonatolo
 EPO|Epididymo-orchitis|Urology
 EPO|Exclusive provider organization|Health Insurance & Billing, Social Work & Case Management
 EPO|Emergency protective order|Social Work & Case Management
-epo|Epoetin alfa|Pharmacology
 rHuEPO|Recombinant human erythropoietin|Hematology
 HIF-PHI|Hypoxia-inducible factor prolyl hydroxylase inhibitor|Hematology, Nephrology
 APCA|Anti-parietal cell antibody|Hematology
@@ -14293,7 +14262,6 @@ HMA|Hypomethylating agent|Hematology, Oncology, Pharmacology
 DEC|Decitabine|Hematology
 dec|Decrease|Chart Shorthand
 Dec|Decreased|Chart Shorthand
-dec|Deceased|Chart Shorthand
 VEN|Venetoclax|Hematology, Oncology
 VEN|Venlafaxine|Psychiatry
 Carfil|Carfilzomib|Hematology
@@ -16012,7 +15980,6 @@ GM|Gut microbiota|Nutrition
 GM|Gluteus maximus|Physical Medicine & Rehab
 GM|Gross motor|Occupational Therapy
 GM|Grandmother|Chart Shorthand
-gm|Gram|Pharmacology
 anti-Sm|Anti-Smith antibody|Laboratory Medicine, Rheumatology
 anti-GBM|Anti-glomerular basement membrane antibody|Laboratory Medicine, Nephrology, Pathology, Pulmonology
 CA 125|Cancer antigen 125|Laboratory Medicine, Oncology, Pathology
@@ -16021,7 +15988,6 @@ CA 27.29|Cancer antigen 27.29|Laboratory Medicine, Oncology
 LDH (tumor)|Lactate dehydrogenase as tumor marker|Laboratory Medicine
 ALK|Anaplastic lymphoma kinase|Laboratory Medicine
 ALK|Anterior lamellar keratoplasty|Ophthalmology
-alk|Alkaline|Chart Shorthand
 IPOX|Immunoperoxidase stain|Laboratory Medicine
 NBF|Neutral buffered formalin|Laboratory Medicine, Pathology
 SCC (tumor)|Squamous cell carcinoma|Laboratory Medicine
@@ -17335,7 +17301,6 @@ TRL|Triglyceride-rich lipoprotein|Nutrition
 UL|Tolerable upper intake level|Nutrition, Pharmacology, Public Health
 UL|Unilateral|Otolaryngology
 UL|Upper limb|Orthotics & Prosthetics
-U/L|Units per liter|Laboratory Medicine
 UPF|Ultra-processed food|Nutrition, Public Health
 VLCKD|Very low-calorie ketogenic diet|Nutrition
 VLC|Very low carbohydrate|Nutrition
@@ -17997,7 +17962,6 @@ LEUP|Leuprolide|Oncology
 TRIP|Triptorelin|Oncology
 DEG|Degarelix|Oncology
 DEG|Diethylene glycol|Toxicology
-deg|Degrees|Chart Shorthand
 REL|Relugolix|Oncology
 REL|Relapse|Oncology
 REL|Recommended exposure limit|Public Health
@@ -18179,8 +18143,6 @@ I-131 MIBG|Iodine-131 metaiodobenzylguanidine|Oncology
 RNT|Radionuclide therapy|Oncology
 RPT|Radiopharmaceutical therapy|Oncology
 RPT|Rifapentine|Pharmacology, Public Health
-rpt|Repeat|Chart Shorthand
-rpt|Report|Chart Shorthand
 RIT-Y90|Yttrium-90 radioimmunotherapy|Oncology
 HIFU-ablation|High-intensity focused ultrasound ablation|Oncology
 EBRT-boost|External beam radiation therapy boost|Oncology
@@ -19073,8 +19035,6 @@ PED|Pigment epithelial detachment|Ophthalmology
 PED|Persistent epithelial defect|Ophthalmology
 PED|Performance-enhancing drug|Sports Medicine
 PED|Post-extubation dysphagia|Speech-Language Pathology
-ped|Pediatric|Chart Shorthand
-ped|Pediatrician|Chart Shorthand
 CSCR|Central serous chorioretinopathy|Ophthalmology
 CIME|Center-involving macular edema|Ophthalmology
 ME|Macular edema|Ophthalmology
@@ -20460,12 +20420,10 @@ PEN G|Penicillin G|Pharmacology
 CEX|Cephalexin|Pharmacology
 M/V|Meropenem-vaborbactam|Pharmacology
 MV|Minimum value|Health Insurance & Billing
-mV|Millivolt|Electrophysiology
 I/R|Imipenem-relebactam|Pharmacology
 I/R|Ischemia-reperfusion|Transplant
 IR|Incident report|Chart Shorthand
 IR|Interventional radiology team|Chart Shorthand
-ir|Irregular|Chart Shorthand
 DAL|Dalbavancin|Pharmacology
 ORI|Oritavancin|Pharmacology
 TLV|Telavancin|Pharmacology
@@ -20901,8 +20859,6 @@ CMHT|Community mental health team|Psychiatry
 SPMI|Severe and persistent mental illness|Psychiatry
 SPMI|Serious and persistent mental illness|Behavioral Health Unit, Social Work & Case Management
 SED|Serious emotional disturbance|Psychiatry, Social Work & Case Management
-sed|Sedation|Chart Shorthand
-sed|Sedimentation rate|Chart Shorthand
 5150|Involuntary 72-hour psychiatric hold in California|Psychiatry
 5150|72-hour involuntary psychiatric hold (California W&I Code)|Social Work & Case Management
 5150|California 72-hour involuntary psychiatric hold|Chart Shorthand
@@ -21600,7 +21556,6 @@ SO|Significant other|Maternal-Newborn Nursing, Social Work & Case Management
 SO|Sacroiliac orthosis|Orthotics & Prosthetics
 S/O|Sign-out|Chart Shorthand
 inf|Inferior|Radiology
-inf|Infusion|Chart Shorthand
 prox|Proximal|Orthotics & Prosthetics, Podiatry, Radiology
 IVC-CI|Inferior vena cava collapsibility index|Radiology
 NPSLE|Neuropsychiatric systemic lupus erythematosus|Rheumatology
@@ -22246,7 +22201,6 @@ PGI-S|Patient Global Impression of Severity|Urology
 PFDI|Pelvic Floor Distress Inventory|Urology
 PFIQ|Pelvic Floor Impact Questionnaire|Urology
 PUF|Pelvic Pain and Urgency/Frequency patient symptom scale|Urology
-puf|Puff|Pharmacology
 ICPI|Interstitial Cystitis Problem Index|Urology
 IIEF|International Index of Erectile Function|Urology
 IIEF-5|International Index of Erectile Function, five-item version|Urology
@@ -22636,7 +22590,6 @@ APSO|Assessment, plan, subjective, objective|Chart Shorthand
 APTC|Advance premium tax credit|Health Insurance & Billing
 AQ|Aphasia quotient|Speech-Language Pathology
 AQ|Service furnished in a health professional shortage area (modifier)|Health Insurance & Billing
-AQ|Aqueous|Pharmacology
 ARRIVE|Animal research: reporting of in vivo experiments|Evidence-Based Medicine
 Artic|Articulation|Speech-Language Pathology
 ASAM|American Society of Addiction Medicine level-of-care criteria|Social Work & Case Management
@@ -24052,15 +24005,11 @@ readmit|Readmission|Chart Shorthand
 REB|Research ethics board|Evidence-Based Medicine
 REC|Research ethics committee|Evidence-Based Medicine
 Rec|Recommend|Chart Shorthand
-Rec|Recipient|Transplant
 Recert|Recertification|Health Insurance & Billing
 RECORD|Reporting of studies conducted using observational routinely collected data|Evidence-Based Medicine
 recs|Recommendations|Chart Shorthand
 REEL-4|Receptive-expressive emergent language test, fourth edition|Speech-Language Pathology
 REG|Rapid exchange grip|Occupational Therapy
-reg|Regular|Chart Shorthand
-reg|Regular insulin|Chart Shorthand
-reg|Regimen|Chart Shorthand
 REH|Rural emergency hospital|Health Insurance & Billing
 REIL|Repeated extension in lying|Physical Therapy
 REIS|Repeated extension in standing|Physical Therapy
@@ -25014,8 +24963,6 @@ Eves|Evening shift|Nursing
 EVOC|Emergency vehicle operations course|EMS & Prehospital
 EXM|Electronic crossmatch|Lab Specimens & Blood Bank
 Exp|Expiration date|Pharmacy Operations
-exp|Exploratory|Chart Shorthand
-exp|Exposure|Chart Shorthand
 Exposure workup|Assessment of patients and staff exposed to a communicable disease|Infection Prevention
 ext cath|External catheter|Wound & Ostomy Care
 Ext cath|External urinary catheter|Nursing
@@ -25201,7 +25148,6 @@ L3/4|Third and fourth lumbar vertebral interspace|Procedures & Sedation
 L4-L5|Fourth and fifth lumbar vertebral interspace|Procedures & Sedation
 L4/5|Fourth and fifth lumbar vertebral interspace|Procedures & Sedation
 LAB|Limb alert band|Nursing
-lab|Laboratory|Chart Shorthand
 LabID|Laboratory-identified event|Infection Prevention
 LabID event|Laboratory-identified event|Infection Prevention
 LAIs|Long-acting injectable antipsychotics|Behavioral Health Unit
@@ -26157,292 +26103,54 @@ TIDPCHS|Three times daily after meals and at bedtime|Chart Shorthand
 TIDPRN|Three times daily as needed|Chart Shorthand
 TIDWM|Three times daily with meals|Chart Shorthand
 WMPRN|With meals as needed|Chart Shorthand
-Ab-Scr|Antibody screen|Lab Specimens & Blood Bank
-abilify|Aripiprazole|Pharmacology
 ACNP|Acute care nurse practitioner|Nursing
-acyclo|Acyclovir|Pharmacology
-adj|Adjusted|Chart Shorthand
-adj|Adjacent|Chart Shorthand
-advair|Fluticasone-salmeterol|Pharmacology
 AFV|Amniotic fluid volume|Obstetrics
-ambien|Zolpidem|Pharmacology
-amicar|Aminocaproic acid|Pharmacology
-ampho|Amphotericin B|Pharmacology
-AN-GAP|Anion gap|Laboratory Medicine
-ancef|Cefazolin|Pharmacology
-andexxa|Andexanet alfa|Pharmacology
-anesth|Anesthesia|Chart Shorthand
-anesth|Anesthesiology|Chart Shorthand
-aranesp|Darbepoetin alfa|Pharmacology
-aricept|Donepezil|Pharmacology
-assoc|Associated|Chart Shorthand
-ativan|Lorazepam|Pharmacology
-atorva|Atorvastatin|Pharmacology
-atrovent|Ipratropium|Pharmacology
-AtyLym|Atypical lymphocytes|Laboratory Medicine
-augmentin|Amoxicillin-clavulanate|Pharmacology
-BAbs|Absolute basophil count|Laboratory Medicine
-bactrim|Trimethoprim-sulfamethoxazole|Pharmacology
-Baso|Basophils|Laboratory Medicine
-BedGluc|Bedside glucose|Laboratory Medicine
-benadryl|Diphenhydramine|Pharmacology
-bival|Bivalirudin|Pharmacology
-brilinta|Ticagrelor|Pharmacology
 BT shunt|Blalock-Taussig shunt|Cardiac Surgery
-bumex|Bumetanide|Pharmacology
-CaIo|Ionized calcium|Laboratory Medicine
-carafate|Sucralfate|Pharmacology
-carb|Carbohydrate|Chart Shorthand
-carbs|Carbohydrates|Chart Shorthand
-cardio|Cardiology|Chart Shorthand
-cardio|Cardiovascular|Chart Shorthand
 CBil|Conjugated bilirubin|Laboratory Medicine
 CCLS|Certified child life specialist|Pediatrics
-cefaz|Cefazolin|Pharmacology
-cefepime|Cefepime|Pharmacology
-celexa|Citalopram|Pharmacology
-cellcept|Mycophenolate mofetil|Pharmacology
-chem|Chemistry panel|Chart Shorthand
-chemo|Chemotherapy|Chart Shorthand
-cigs|Cigarettes|Chart Shorthand
-cipro|Ciprofloxacin|Pharmacology
 CKMB-RI|CK-MB relative index|Laboratory Medicine
-cleviprex|Clevidipine|Pharmacology
-clin|Clinic|Chart Shorthand
-clin|Clinical|Chart Shorthand
-colace|Docusate|Pharmacology
-compazine|Prochlorperazine|Pharmacology
-coreg|Carvedilol|Pharmacology
-coumadin|Warfarin|Pharmacology
-creat|Creatinine|Chart Shorthand
 CxBx|Cervical biopsy|Gynecology
-cymbalta|Duloxetine|Pharmacology
 d/ced|Discontinued|Chart Shorthand
-def|Deficiency|Chart Shorthand
-depakote|Divalproex (valproate)|Pharmacology
-depo|Medroxyprogesterone injection (Depo-Provera)|Pharmacology
-depo-medrol|Methylprednisolone acetate injection|Pharmacology
-detox|Detoxification|Chart Shorthand
 DiDi|Dichorionic diamniotic twins|Obstetrics
-diflucan|Fluconazole|Pharmacology
-dilantin|Phenytoin|Pharmacology
-dilaudid|Hydromorphone|Pharmacology
-dsch|Discharge|Chart Shorthand
-dulcolax|Bisacodyl|Pharmacology
 EENT|Eyes, ears, nose and throat|Chart Shorthand
-effexor|Venlafaxine|Pharmacology
 eGFRAA|Estimated GFR, African American (older race-based equation)|Laboratory Medicine
 EICF|Echogenic intracardiac focus|Obstetrics
-eliquis|Apixaban|Pharmacology
 EMBx|Endometrial biopsy|Gynecology
 ENMT|Ears, nose, mouth and throat|Chart Shorthand
-entresto|Sacubitril-valsartan|Pharmacology
-EoAbs|Absolute eosinophil count|Laboratory Medicine
-extr|Extremities|Chart Shorthand
-farxiga|Dapagliflozin|Pharmacology
-feraheme|Ferumoxytol|Pharmacology
-flagyl|Metronidazole|Pharmacology
-flexeril|Cyclobenzaprine|Pharmacology
-flomax|Tamsulosin|Pharmacology
-flovent|Fluticasone inhaler|Pharmacology
-fludro|Fludrocortisone|Pharmacology
 FTNSVD|Full-term normal spontaneous vaginal delivery|Obstetrics
 g/r/m|Gallops, rubs or murmurs|Chart Shorthand
-gastro|Gastroenterology|Chart Shorthand
-gastro|Gastroenteritis|Chart Shorthand
-geodon|Ziprasidone|Pharmacology
 GFM|Good fetal movement|Obstetrics
-glc|Glucose|Chart Shorthand
-GluWB|Glucose, whole blood|Laboratory Medicine
-GramSt|Gram stain|Laboratory Medicine
 GSUI|Genuine stress urinary incontinence|Gynecology
-haldol|Haloperidol|Pharmacology
 HGSIL|High-grade squamous intraepithelial lesion|Gynecology
-humalog|Insulin lispro|Pharmacology
-humira|Adalimumab|Pharmacology
-hydral|Hydralazine|Pharmacology
-hydrocort|Hydrocortisone|Pharmacology
-I's and O's|Intake and output|Chart Shorthand
 ICD-9|International Classification of Diseases, 9th revision|Health Insurance & Billing
-imodium|Loperamide|Pharmacology
-imuran|Azathioprine|Pharmacology
-jardiance|Empagliflozin|Pharmacology
-K-dur|Potassium chloride extended release|Pharmacology
-kayexalate|Sodium polystyrene sulfonate|Pharmacology
-kcentra|Four-factor prothrombin complex concentrate|Pharmacology
-keflex|Cephalexin|Pharmacology
-keppra|Levetiracetam|Pharmacology
-klonopin|Clonazepam|Pharmacology
-labet|Labetalol|Pharmacology
-lamictal|Lamotrigine|Pharmacology
-lantus|Insulin glargine|Pharmacology
-lasix|Furosemide|Pharmacology
-levaquin|Levofloxacin|Pharmacology
-levophed|Norepinephrine|Pharmacology
-lexapro|Escitalopram|Pharmacology
 LGSIL|Low-grade squamous intraepithelial lesion|Gynecology
-lokelma|Sodium zirconium cyclosilicate|Pharmacology
-lopressor|Metoprolol tartrate|Pharmacology
-lovenox|Enoxaparin|Pharmacology
-loz|Lozenge|Chart Shorthand
 LTL|Laparoscopic tubal ligation|Gynecology
-lvq|Levofloxacin|Pharmacology
-Lym|Lymphocytes|Laboratory Medicine
-LymAbs|Absolute lymphocyte count|Laboratory Medicine
-lyrica|Pregabalin|Pharmacology
 m/g/r|Murmurs, gallops or rubs|Chart Shorthand
-macrobid|Nitrofurantoin|Pharmacology
-methylpred|Methylprednisolone|Pharmacology
-metop|Metoprolol|Pharmacology
-milri|Milrinone|Pharmacology
 MMX|Myomectomy|Gynecology
 MoMo|Monochorionic monoamniotic twins|Obstetrics
 Mono-Di|Monochorionic diamniotic twins|Obstetrics
-MonoAbs|Absolute monocyte count|Laboratory Medicine
-msec|Milliseconds|Electrophysiology
-mucomyst|Acetylcysteine|Pharmacology
-mult|Multiple|Chart Shorthand
-musc|Musculoskeletal|Chart Shorthand
-myfortic|Mycophenolic acid|Pharmacology
-narcan|Naloxone|Pharmacology
 NBNB|Nonbloody, nonbilious|Chart Shorthand
 NCU|Neuroscience critical care unit|Neurology
-nephro|Nephrology|Chart Shorthand
-neulasta|Pegfilgrastim|Pharmacology
-neupogen|Filgrastim|Pharmacology
-neuro|Neurology|Chart Shorthand
-neuro|Neurologic exam|Chart Shorthand
-Neut|Neutrophils|Laboratory Medicine
 nho|Notify house officer|Chart Shorthand
-nicard|Nicardipine|Pharmacology
-nitro|Nitroglycerin|Pharmacology
-nitro gtt|Nitroglycerin infusion|Pharmacology
-nml|Normal|Chart Shorthand
-norco|Hydrocodone-acetaminophen|Pharmacology
-norepi|Norepinephrine|Pharmacology
-novolog|Insulin aspart|Pharmacology
-NtAbs|Absolute neutrophil count|Laboratory Medicine
 OMX|Omentectomy|Gynecology
-ortho|Orthopedics|Chart Shorthand
-ortho|Orthostatic|Chart Shorthand
-oxycontin|Oxycodone extended release|Pharmacology
-ozempic|Semaglutide|Pharmacology
-palli|Palliative care|Chart Shorthand
-palliative|Palliative care|Chart Shorthand
-paxlovid|Nirmatrelvir-ritonavir|Pharmacology
 PBSCT|Peripheral blood stem cell transplant|Transplant
 PCCU|Pediatric critical care unit|Pediatrics
-pepcid|Famotidine|Pharmacology
-percocet|Oxycodone-acetaminophen|Pharmacology
-pH-Ven|Venous pH|Laboratory Medicine
-phenergan|Promethazine|Pharmacology
-phoslo|Calcium acetate|Pharmacology
-pkt|Packet|Chart Shorthand
-plaquenil|Hydroxychloroquine|Pharmacology
-plavix|Clopidogrel|Pharmacology
-Plt-Ct|Platelet count|Laboratory Medicine
-Poik|Poikilocytosis|Laboratory Medicine
 PPLND|Pelvic and para-aortic lymph node dissection|Gynecology
-precedex|Dexmedetomidine|Pharmacology
-procal|Procalcitonin|Chart Shorthand
-procrit|Epoetin alfa|Pharmacology
-prograf|Tacrolimus|Pharmacology
-protonix|Pantoprazole|Pharmacology
-prozac|Fluoxetine|Pharmacology
-psych|Psychiatry|Chart Shorthand
-psych|Psychiatric|Chart Shorthand
 PUBS|Percutaneous umbilical blood sampling|Obstetrics
 PUPPS|Pruritic urticarial papules and plaques of pregnancy|Obstetrics
-pyridium|Phenazopyridine|Pharmacology
 RA-TLH|Robotic-assisted total laparoscopic hysterectomy|Gynecology
-rad onc|Radiation oncology|Chart Shorthand
-RBCMor|Red blood cell morphology|Laboratory Medicine
 RBOW|Ruptured bag of water|Obstetrics
 RDW-CV|Red cell distribution width, coefficient of variation|Laboratory Medicine
 RDW-SD|Red cell distribution width, standard deviation|Laboratory Medicine
-reglan|Metoclopramide|Pharmacology
-remdes|Remdesivir|Pharmacology
-remeron|Mirtazapine|Pharmacology
-remicade|Infliximab|Pharmacology
-renvela|Sevelamer carbonate|Pharmacology
-RetiCt|Reticulocyte count|Laboratory Medicine
-rheum|Rheumatology|Chart Shorthand
-risperdal|Risperidone|Pharmacology
 RN-BC|Registered nurse, board certified|Nursing
-robaxin|Methocarbamol|Pharmacology
-rocephin|Ceftriaxone|Pharmacology
-rosuva|Rosuvastatin|Pharmacology
-sats|Oxygen saturation|Chart Shorthand
-SedRat|Erythrocyte sedimentation rate|Laboratory Medicine
-sensipar|Cinacalcet|Pharmacology
-seroquel|Quetiapine|Pharmacology
-sinemet|Carbidopa-levodopa|Pharmacology
-singulair|Montelukast|Pharmacology
-spiriva|Tiotropium|Pharmacology
-statin|HMG-CoA reductase inhibitor|Pharmacology
-stepdown|Step-down unit|Chart Shorthand
-stim|Stimulation|Chart Shorthand
-subcu|Subcutaneous|Chart Shorthand
-suboxone|Buprenorphine-naloxone|Pharmacology
-subutex|Buprenorphine|Pharmacology
-sust|Sustained|Chart Shorthand
-symbicort|Budesonide-formoterol|Pharmacology
-synthroid|Levothyroxine|Pharmacology
-tacro|Tacrolimus|Pharmacology
-tamiflu|Oseltamivir|Pharmacology
 TBil|Total bilirubin|Laboratory Medicine
-tegretol|Carbamazepine|Pharmacology
 TMG|Toxic multinodular goiter|Endocrinology
-toprol|Metoprolol succinate|Pharmacology
-toradol|Ketorolac|Pharmacology
 TProt|Total protein|Laboratory Medicine
-TropnT|Troponin T|Laboratory Medicine
-TRPI|Troponin I|Laboratory Medicine
-tums|Calcium carbonate|Pharmacology
-tylenol|Acetaminophen|Pharmacology
-UAlb|Urine albumin|Laboratory Medicine
-UBact|Urine bacteria|Laboratory Medicine
-UBili|Urine bilirubin|Laboratory Medicine
-UBlood|Urine blood|Laboratory Medicine
-UCath|Urine specimen, catheterized|Lab Specimens & Blood Bank
-UGluc|Urine glucose|Laboratory Medicine
-UKeto|Urine ketones|Laboratory Medicine
-ultram|Tramadol|Pharmacology
-ULuEst|Urine leukocyte esterase|Laboratory Medicine
-unasyn|Ampicillin-sulbactam|Pharmacology
-UNitri|Urine nitrite|Laboratory Medicine
-unk|Unknown|Chart Shorthand
 UpH|Urine pH|Laboratory Medicine
 URBC|Urine red blood cells|Laboratory Medicine
-UricA|Uric acid|Laboratory Medicine
 usoh|Usual state of health|Chart Shorthand
-USpGr|Urine specific gravity|Laboratory Medicine
-UUrob|Urine urobilinogen|Laboratory Medicine
 UWBC|Urine white blood cells|Laboratory Medicine
-valgan|Valganciclovir|Pharmacology
-valium|Diazepam|Pharmacology
-valtrex|Valacyclovir|Pharmacology
-vanco|Vancomycin|Pharmacology
-var|Variant|Chart Shorthand
-veltassa|Patiromer|Pharmacology
-venofer|Iron sucrose|Pharmacology
-versed|Midazolam|Pharmacology
-vicodin|Hydrocodone-acetaminophen|Pharmacology
-vimpat|Lacosamide|Pharmacology
-vitals|Vital signs|Chart Shorthand
-vivitrol|Extended-release naltrexone|Pharmacology
 VTOP|Voluntary termination of pregnancy|Obstetrics
-w/out|Without|Chart Shorthand
-wellbutrin|Bupropion|Pharmacology
 WF|White female|Chart Shorthand
 WNWD|Well nourished, well developed|Chart Shorthand
-xanax|Alprazolam|Pharmacology
-xarelto|Rivaroxaban|Pharmacology
-xopenex|Levalbuterol|Pharmacology
-Z-pak|Azithromycin|Pharmacology
-zofran|Ondansetron|Pharmacology
-zoloft|Sertraline|Pharmacology
-zosyn|Piperacillin-tazobactam|Pharmacology
-zyprexa|Olanzapine|Pharmacology
-zyvox|Linezolid|Pharmacology
 `;

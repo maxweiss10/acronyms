@@ -57,12 +57,7 @@ q12hr|every 12 hours
 q4wk|every 4 weeks
 QOHS|every other
 QBEDTIME|bedtime
-# Note shorthand from real-note inventories
-cipro|ciprofloxacin
-lasix|furosemide
-neuro|neurology
-psych|psychiatry
-procal|procalcitonin
+# Initialisms from real-note inventories
 TBil|total bilirubin
 UpH|urine pH
 NBNB|nonbloody nonbilious

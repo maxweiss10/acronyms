@@ -1,6 +1,6 @@
 # Sources
 
-`emr-notes-meta-inventory.txt` and much of `note-clipped-words.txt` were curated from the gaps found by
+`emr-notes-meta-inventory.txt` and part of `note-initialisms.txt` were curated from the gaps found by
 comparing this dictionary with the abbreviation inventories in the **Medical Abbreviation and Acronym
 Meta-Inventory** that were built from real medical records:
 

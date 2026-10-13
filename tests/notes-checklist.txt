@@ -1,25 +1,17 @@
-# Note shorthand seen in real notes, beyond acronyms: clipped words, drug nicknames, exam strings, unit names.
+# Initialisms seen in real notes beyond the specialty lists: exam strings, sign-out and disposition shorthand.
 # Numbered forms (L5-S1, POD3, G2P1, D5, x3) are read by rule and checked in tests/compounds.txt instead.
-neuro|Neurology
-psych|Psychiatry
-cardio|Cardiology
 pulm|Pulmonology
-nephro|Nephrology
 neph|Nephrology
-gastro|Gastroenterology
 heme|Hematology
 onc|Oncology
 heme/onc|Hematology and oncology
-ortho|Orthopedics
 derm|Dermatology
 endo|Endocrinology
-rheum|Rheumatology
 uro|Urology
 ophtho|Ophthalmology
 optho|Ophthalmology
 gyn|Gynecology
 peds|Pediatrics
-ped|Pediatric
 geri|Geriatrics
 gen surg|General surgery
 nsgy|Neurosurgery
@@ -27,36 +19,26 @@ NSG|Neurosurgery
 IR|Interventional radiology
 rads|Radiology
 path|Pathology
-anesth|Anesthesia
 anes|Anesthesia
-palli|Palliative care
 pall|Palliative care
-chemo|Chemotherapy
-rad onc|Radiation oncology
 XRT|Radiation therapy
 lytes|Electrolytes
 abx|Antibiotics
 meds|Medications
 labs|Laboratory tests
-vitals|Vital signs
-sats|Oxygen saturation
-sat|Saturation
 trop|Troponin
 trops|Troponins
 coags|Coagulation studies
-procal|Procalcitonin
 lac|Lactate
 bicarb|Bicarbonate
 phos|Phosphorus
 mag|Magnesium
 cr|Creatinine
 Cr|Creatinine
-creat|Creatinine
 plt|Platelets
 plts|Platelets
 retic|Reticulocyte count
 diff|Differential
-chem|Chemistry panel
 chem7|Basic metabolic panel
 chem 7|Basic metabolic panel
 chem10|Basic metabolic panel with calcium, magnesium and phosphorus
@@ -83,20 +65,14 @@ BG|Blood glucose
 BGs|Blood glucose readings
 CBG|Capillary blood glucose
 vanc|Vancomycin
-vanco|Vancomycin
 levo|Levofloxacin
 levo|Levothyroxine
 levo|Norepinephrine (Levophed)
 mero|Meropenem
 pip-tazo|Piperacillin-tazobactam
 pip/tazo|Piperacillin-tazobactam
-zosyn|Piperacillin-tazobactam
-cefepime|Cefepime
 CTX|Ceftriaxone
 CRO|Ceftriaxone
-cipro|Ciprofloxacin
-flagyl|Metronidazole
-bactrim|Trimethoprim-sulfamethoxazole
 TMP-SMX|Trimethoprim-sulfamethoxazole
 dapto|Daptomycin
 amp|Ampicillin
@@ -104,67 +80,28 @@ gent|Gentamicin
 clinda|Clindamycin
 doxy|Doxycycline
 azithro|Azithromycin
-Z-pak|Azithromycin
-augmentin|Amoxicillin-clavulanate
 amox|Amoxicillin
-keflex|Cephalexin
 fluc|Fluconazole
 mica|Micafungin
-ampho|Amphotericin B
-acyclo|Acyclovir
-valgan|Valganciclovir
 neo|Phenylephrine
 vaso|Vasopressin
 epi|Epinephrine
-norepi|Norepinephrine
 dobut|Dobutamine
 dopa|Dopamine
-milri|Milrinone
-nitro|Nitroglycerin
 hep gtt|Heparin infusion
 gtt|Infusion (drip)
-precedex|Dexmedetomidine
 prop|Propofol
 fent|Fentanyl
-dilaudid|Hydromorphone
 HM|Hydromorphone
 oxy|Oxycodone
-norco|Hydrocodone-acetaminophen
-tylenol|Acetaminophen
-toradol|Ketorolac
-zofran|Ondansetron
-reglan|Metoclopramide
-protonix|Pantoprazole
-lasix|Furosemide
-coreg|Carvedilol
-metop|Metoprolol
-lopressor|Metoprolol tartrate
-toprol|Metoprolol succinate
 dilt|Diltiazem
 amio|Amiodarone
 dig|Digoxin
 hep|Heparin
 SQH|Subcutaneous heparin
-lovenox|Enoxaparin
-eliquis|Apixaban
-xarelto|Rivaroxaban
-coumadin|Warfarin
-plavix|Clopidogrel
-brilinta|Ticagrelor
-statin|HMG-CoA reductase inhibitor
-atorva|Atorvastatin
-rosuva|Rosuvastatin
 benzo|Benzodiazepine
 benzos|Benzodiazepines
-ativan|Lorazepam
-haldol|Haloperidol
-seroquel|Quetiapine
-zyprexa|Olanzapine
-keppra|Levetiracetam
-narcan|Naloxone
-benadryl|Diphenhydramine
 KCl|Potassium chloride
-K-dur|Potassium chloride extended release
 MgSO4|Magnesium sulfate
 Mg|Magnesium
 NaHCO3|Sodium bicarbonate
@@ -227,7 +164,6 @@ NBNB|Nonbloody, nonbilious
 CDI|Clean, dry, intact
 C/D/I|Clean, dry, intact
 WNL|Within normal limits
-nml|Normal
 nl|Normal
 USOH|Usual state of health
 ppd|Packs per day
@@ -266,7 +202,6 @@ RTED|Return to emergency department
 obs|Observation
 tele|Telemetry
 SDU|Step-down unit
-stepdown|Step-down unit
 MICU|Medical intensive care unit
 SICU|Surgical intensive care unit
 CVICU|Cardiovascular intensive care unit
@@ -289,7 +224,6 @@ a/w|Associated with
 c/w|Consistent with
 w/|With
 w/o|Without
-w/out|Without
 b/l|Bilateral
 n/v|Nausea and vomiting
 n/v/d|Nausea, vomiting and diarrhea
@@ -365,7 +299,6 @@ RR|Respiratory rate
 BP|Blood pressure
 SBP|Systolic blood pressure
 MAP|Mean arterial pressure
-I's and O's|Intake and output
 CXR|Chest X-ray
 KUB|Kidney, ureter, bladder X-ray
 AXR|Abdominal X-ray
@@ -443,7 +376,6 @@ ddx|Differential diagnosis
 mgmt|Management
 eval|Evaluation
 approx|Approximately
-assoc|Associated
 neg|Negative
 pos|Positive
 nl|Normal

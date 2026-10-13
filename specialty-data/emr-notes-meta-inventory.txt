@@ -1,58 +1,20 @@
 TBil|Total bilirubin|Laboratory Medicine
 CBil|Conjugated bilirubin|Laboratory Medicine
 TProt|Total protein|Laboratory Medicine
-UricA|Uric acid|Laboratory Medicine
-AN-GAP|Anion gap|Laboratory Medicine
-Ab-Scr|Antibody screen|Lab Specimens & Blood Bank
-CaIo|Ionized calcium|Laboratory Medicine
-TRPI|Troponin I|Laboratory Medicine
-TropnT|Troponin T|Laboratory Medicine
-RetiCt|Reticulocyte count|Laboratory Medicine
-Plt-Ct|Platelet count|Laboratory Medicine
-SedRat|Erythrocyte sedimentation rate|Laboratory Medicine
-GramSt|Gram stain|Laboratory Medicine
-RBCMor|Red blood cell morphology|Laboratory Medicine
-AtyLym|Atypical lymphocytes|Laboratory Medicine
-Poik|Poikilocytosis|Laboratory Medicine
-Neut|Neutrophils|Laboratory Medicine
-Lym|Lymphocytes|Laboratory Medicine
-Baso|Basophils|Laboratory Medicine
-NtAbs|Absolute neutrophil count|Laboratory Medicine
-LymAbs|Absolute lymphocyte count|Laboratory Medicine
-EoAbs|Absolute eosinophil count|Laboratory Medicine
-BAbs|Absolute basophil count|Laboratory Medicine
-MonoAbs|Absolute monocyte count|Laboratory Medicine
 RDW-SD|Red cell distribution width, standard deviation|Laboratory Medicine
 RDW-CV|Red cell distribution width, coefficient of variation|Laboratory Medicine
-GluWB|Glucose, whole blood|Laboratory Medicine
-BedGluc|Bedside glucose|Laboratory Medicine
-pH-Ven|Venous pH|Laboratory Medicine
 CKMB-RI|CK-MB relative index|Laboratory Medicine
 eGFRAA|Estimated GFR, African American (older race-based equation)|Laboratory Medicine
 UpH|Urine pH|Laboratory Medicine
-USpGr|Urine specific gravity|Laboratory Medicine
-UGluc|Urine glucose|Laboratory Medicine
-UKeto|Urine ketones|Laboratory Medicine
-UBili|Urine bilirubin|Laboratory Medicine
-UBlood|Urine blood|Laboratory Medicine
-UNitri|Urine nitrite|Laboratory Medicine
-ULuEst|Urine leukocyte esterase|Laboratory Medicine
-UUrob|Urine urobilinogen|Laboratory Medicine
-UAlb|Urine albumin|Laboratory Medicine
 URBC|Urine red blood cells|Laboratory Medicine
 UWBC|Urine white blood cells|Laboratory Medicine
-UBact|Urine bacteria|Laboratory Medicine
-UCath|Urine specimen, catheterized|Lab Specimens & Blood Bank
 UC|Urine culture|Laboratory Medicine
-dip|Urine dipstick|Laboratory Medicine
 LAC|Lactic acid|Laboratory Medicine
 MB|CK-MB (creatine kinase MB isoenzyme)|Laboratory Medicine
 MBT|Maternal blood type|Obstetrics
-tr|Trough level|Pharmacology
 PCV|Packed cell volume (hematocrit)|Laboratory Medicine
 CNS|Coagulase-negative staphylococci|Infectious Disease
 BK|BK polyomavirus|Transplant
-diff|Clostridioides difficile|Infectious Disease
 SS|Sickle cell disease (hemoglobin SS)|Hematology
 SC|Hemoglobin SC disease|Hematology
 CPPD|Chest physiotherapy, percussion and postural drainage|Respiratory Therapy
@@ -98,7 +60,6 @@ HR|High risk|Chart Shorthand
 HD|High dose|Pharmacology
 NEC|Not elsewhere classified|Health Insurance & Billing
 BSA|Broad-spectrum antibiotics|Infectious Disease
-Rec|Recipient|Transplant
 FDG|Fludeoxyglucose|Radiology
 FU|Fluorouracil|Oncology
 NR|Nonreactive|Laboratory Medicine

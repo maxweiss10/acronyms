@@ -1,0 +1,14 @@
+U/L|Units per liter|Laboratory Medicine
+IU/L|International units per liter|Laboratory Medicine
+mIU/mL|Milli-international units per milliliter|Laboratory Medicine
+CFU/mL|Colony-forming units per milliliter|Laboratory Medicine
+PFU|Plaque-forming units|Laboratory Medicine
+TCID50|Median tissue culture infectious dose|Laboratory Medicine
+GPL|IgG phospholipid units (anticardiolipin)|Laboratory Medicine
+MPL|IgM phospholipid units (anticardiolipin)|Laboratory Medicine
+EU/dL|Ehrlich units per deciliter (urobilinogen)|Laboratory Medicine
+AU|Arbitrary units|Laboratory Medicine
+OD|Optical density (ELISA result)|Laboratory Medicine
+IG|Immature granulocytes|Laboratory Medicine
+DBil|Direct bilirubin|Laboratory Medicine
+IBil|Indirect bilirubin|Laboratory Medicine

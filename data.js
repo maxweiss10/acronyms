@@ -583,6 +583,7 @@ OD|Right eye (oculus dexter)|Chart Shorthand, Emergency Medicine, Geriatrics, Ho
 OD|Oocyte donation|Gynecology
 OD|Oligodendroglioma|Oncology, Pathology
 OD|Right eye|Pharmacy Operations
+OD|Optical density (ELISA result)|Laboratory Medicine
 ODs|Overdoses|Addiction Medicine, Toxicology
 ODs|Osmotic demyelination syndrome|Critical Care, Endocrinology, Hepatology, Nephrology, Toxicology
 ODs|Obstructed defecation syndrome|General Surgery
@@ -9616,6 +9617,7 @@ AU|Anastomotic urethroplasty|Urology
 AU|Arterial ulcer|Podiatry, Wound & Ostomy Care
 AU|Antimicrobial use|Infection Prevention
 AU|Both ears|Pharmacy Operations
+AU|Arbitrary units|Laboratory Medicine
 AE|Anagen effluvium|Dermatology
 AE|Adverse event|Chart Shorthand, Evidence-Based Medicine, Gastroenterology, Hepatology, Oncology, Pain Medicine, Pharmacology, Procedures & Sedation, Sleep Medicine
 AE|Adaptive equipment|Occupational Therapy
@@ -15928,6 +15930,7 @@ D bili|Direct bilirubin|Laboratory Medicine
 I bili|Indirect bilirubin|Laboratory Medicine
 Ig|Immunoglobulin|Laboratory Medicine, Pathology, Pharmacology
 Ig|Immune globulin|Public Health
+IG|Immature granulocytes|Laboratory Medicine
 M protein|Monoclonal protein|Laboratory Medicine
 fPSA|Free prostate-specific antigen|Laboratory Medicine, Oncology, Pathology, Urology
 1,25-OH D|1,25-dihydroxyvitamin D|Laboratory Medicine
@@ -17301,6 +17304,7 @@ TRL|Triglyceride-rich lipoprotein|Nutrition
 UL|Tolerable upper intake level|Nutrition, Pharmacology, Public Health
 UL|Unilateral|Otolaryngology
 UL|Upper limb|Orthotics & Prosthetics
+U/L|Units per liter|Laboratory Medicine
 UPF|Ultra-processed food|Nutrition, Public Health
 VLCKD|Very low-calorie ketogenic diet|Nutrition
 VLC|Very low carbohydrate|Nutrition
@@ -26153,4 +26157,14 @@ UWBC|Urine white blood cells|Laboratory Medicine
 VTOP|Voluntary termination of pregnancy|Obstetrics
 WF|White female|Chart Shorthand
 WNWD|Well nourished, well developed|Chart Shorthand
+CFU/mL|Colony-forming units per milliliter|Laboratory Medicine
+DBil|Direct bilirubin|Laboratory Medicine
+EU/dL|Ehrlich units per deciliter (urobilinogen)|Laboratory Medicine
+GPL|IgG phospholipid units (anticardiolipin)|Laboratory Medicine
+IBil|Indirect bilirubin|Laboratory Medicine
+IU/L|International units per liter|Laboratory Medicine
+mIU/mL|Milli-international units per milliliter|Laboratory Medicine
+MPL|IgM phospholipid units (anticardiolipin)|Laboratory Medicine
+PFU|Plaque-forming units|Laboratory Medicine
+TCID50|Median tissue culture infectious dose|Laboratory Medicine
 `;

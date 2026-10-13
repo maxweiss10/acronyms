@@ -387,3 +387,17 @@ N/V|Nausea and vomiting
 LH|Lightheadedness
 BRBPR|Bright red blood per rectum
 CBC w/ diff|Complete blood count with differential
+U/L|Units per liter
+IU/L|International units per liter
+mIU/mL|Milli-international units per milliliter
+CFU/mL|Colony-forming units per milliliter
+PFU|Plaque-forming units
+TCID50|Median tissue culture infectious dose
+GPL|IgG phospholipid units (anticardiolipin)
+MPL|IgM phospholipid units (anticardiolipin)
+EU/dL|Ehrlich units per deciliter (urobilinogen)
+AU|Arbitrary units
+OD|Optical density (ELISA result)
+IG|Immature granulocytes
+DBil|Direct bilirubin
+IBil|Indirect bilirubin

@@ -1,0 +1,457 @@
+# Note shorthand seen in real notes, beyond acronyms: clipped words, drug nicknames, exam strings, unit names.
+# Numbered forms (L5-S1, POD3, G2P1, D5, x3) are read by rule and checked in tests/compounds.txt instead.
+neuro|Neurology
+psych|Psychiatry
+cardio|Cardiology
+pulm|Pulmonology
+nephro|Nephrology
+neph|Nephrology
+gastro|Gastroenterology
+heme|Hematology
+onc|Oncology
+heme/onc|Hematology and oncology
+ortho|Orthopedics
+derm|Dermatology
+endo|Endocrinology
+rheum|Rheumatology
+uro|Urology
+ophtho|Ophthalmology
+optho|Ophthalmology
+gyn|Gynecology
+peds|Pediatrics
+ped|Pediatric
+geri|Geriatrics
+gen surg|General surgery
+nsgy|Neurosurgery
+NSG|Neurosurgery
+IR|Interventional radiology
+rads|Radiology
+path|Pathology
+anesth|Anesthesia
+anes|Anesthesia
+palli|Palliative care
+pall|Palliative care
+chemo|Chemotherapy
+rad onc|Radiation oncology
+XRT|Radiation therapy
+lytes|Electrolytes
+abx|Antibiotics
+meds|Medications
+labs|Laboratory tests
+vitals|Vital signs
+sats|Oxygen saturation
+sat|Saturation
+trop|Troponin
+trops|Troponins
+coags|Coagulation studies
+procal|Procalcitonin
+lac|Lactate
+bicarb|Bicarbonate
+phos|Phosphorus
+mag|Magnesium
+cr|Creatinine
+Cr|Creatinine
+creat|Creatinine
+plt|Platelets
+plts|Platelets
+retic|Reticulocyte count
+diff|Differential
+chem|Chemistry panel
+chem7|Basic metabolic panel
+chem 7|Basic metabolic panel
+chem10|Basic metabolic panel with calcium, magnesium and phosphorus
+H/H|Hemoglobin and hematocrit
+H&H|Hemoglobin and hematocrit
+BCx|Blood culture
+UCx|Urine culture
+SCx|Sputum culture
+Bcx x2|Blood cultures from two sites
+UDS|Urine drug screen
+Utox|Urine toxicology screen
+EtOH|Alcohol
+APAP|Acetaminophen
+ASA|Aspirin
+T&S|Type and screen
+T&C|Type and crossmatch
+iCa|Ionized calcium
+VBG|Venous blood gas
+POC|Point of care
+POCT|Point-of-care testing
+FSBG|Fingerstick blood glucose
+FSBS|Fingerstick blood sugar
+BG|Blood glucose
+BGs|Blood glucose readings
+CBG|Capillary blood glucose
+vanc|Vancomycin
+vanco|Vancomycin
+levo|Levofloxacin
+levo|Levothyroxine
+levo|Norepinephrine (Levophed)
+mero|Meropenem
+pip-tazo|Piperacillin-tazobactam
+pip/tazo|Piperacillin-tazobactam
+zosyn|Piperacillin-tazobactam
+cefepime|Cefepime
+CTX|Ceftriaxone
+CRO|Ceftriaxone
+cipro|Ciprofloxacin
+flagyl|Metronidazole
+bactrim|Trimethoprim-sulfamethoxazole
+TMP-SMX|Trimethoprim-sulfamethoxazole
+dapto|Daptomycin
+amp|Ampicillin
+gent|Gentamicin
+clinda|Clindamycin
+doxy|Doxycycline
+azithro|Azithromycin
+Z-pak|Azithromycin
+augmentin|Amoxicillin-clavulanate
+amox|Amoxicillin
+keflex|Cephalexin
+fluc|Fluconazole
+mica|Micafungin
+ampho|Amphotericin B
+acyclo|Acyclovir
+valgan|Valganciclovir
+neo|Phenylephrine
+vaso|Vasopressin
+epi|Epinephrine
+norepi|Norepinephrine
+dobut|Dobutamine
+dopa|Dopamine
+milri|Milrinone
+nitro|Nitroglycerin
+hep gtt|Heparin infusion
+gtt|Infusion (drip)
+precedex|Dexmedetomidine
+prop|Propofol
+fent|Fentanyl
+dilaudid|Hydromorphone
+HM|Hydromorphone
+oxy|Oxycodone
+norco|Hydrocodone-acetaminophen
+tylenol|Acetaminophen
+toradol|Ketorolac
+zofran|Ondansetron
+reglan|Metoclopramide
+protonix|Pantoprazole
+lasix|Furosemide
+coreg|Carvedilol
+metop|Metoprolol
+lopressor|Metoprolol tartrate
+toprol|Metoprolol succinate
+dilt|Diltiazem
+amio|Amiodarone
+dig|Digoxin
+hep|Heparin
+SQH|Subcutaneous heparin
+lovenox|Enoxaparin
+eliquis|Apixaban
+xarelto|Rivaroxaban
+coumadin|Warfarin
+plavix|Clopidogrel
+brilinta|Ticagrelor
+statin|HMG-CoA reductase inhibitor
+atorva|Atorvastatin
+rosuva|Rosuvastatin
+benzo|Benzodiazepine
+benzos|Benzodiazepines
+ativan|Lorazepam
+haldol|Haloperidol
+seroquel|Quetiapine
+zyprexa|Olanzapine
+keppra|Levetiracetam
+narcan|Naloxone
+benadryl|Diphenhydramine
+KCl|Potassium chloride
+K-dur|Potassium chloride extended release
+MgSO4|Magnesium sulfate
+Mg|Magnesium
+NaHCO3|Sodium bicarbonate
+D10|10% dextrose
+D50|50% dextrose
+D5W|5% dextrose in water
+D5NS|5% dextrose in normal saline
+D5 1/2NS|5% dextrose in half-normal saline
+1/2NS|Half-normal saline
+LR|Lactated Ringer's
+NS|Normal saline
+IVF|Intravenous fluids
+mIVF|Maintenance intravenous fluids
+pRBC|Packed red blood cells
+FFP|Fresh frozen plasma
+cryo|Cryoprecipitate
+insulin gtt|Insulin infusion
+SSI|Sliding scale insulin
+ISS|Insulin sliding scale
+NCAT|Normocephalic, atraumatic
+PERRLA|Pupils equal, round, reactive to light and accommodation
+PERRL|Pupils equal, round, reactive to light
+EOMI|Extraocular movements intact
+MMM|Moist mucous membranes
+RRR|Regular rate and rhythm
+CTAB|Clear to auscultation bilaterally
+CTA|Clear to auscultation
+NTND|Nontender, nondistended
+NT/ND|Nontender, nondistended
+NABS|Normal active bowel sounds
+BS|Bowel sounds
++BS|Bowel sounds present
+WWP|Warm and well perfused
+c/c/e|Clubbing, cyanosis or edema
+CCE|Clubbing, cyanosis, edema
+m/r/g|Murmurs, rubs or gallops
+MRG|Murmurs, rubs, gallops
+m/g/r|Murmurs, gallops or rubs
+NAD|No acute distress
+A&Ox3|Alert and oriented to person, place and time
+AAOx3|Awake, alert and oriented to person, place and time
+AOx4|Alert and oriented to person, place, time and situation
+CN II-XII|Cranial nerves 2 through 12
+MAE|Moves all extremities
+MAEW|Moves all extremities well
+FROM|Full range of motion
+NVI|Neurovascularly intact
+WNWD|Well nourished, well developed
+TTP|Tenderness to palpation
+CVAT|Costovertebral angle tenderness
+BLE|Bilateral lower extremities
+BUE|Bilateral upper extremities
+LE|Lower extremity
+UE|Upper extremity
+JVD|Jugular venous distension
+JVP|Jugular venous pressure
+HJR|Hepatojugular reflux
+S1S2|First and second heart sounds
+NBNB|Nonbloody, nonbilious
+CDI|Clean, dry, intact
+C/D/I|Clean, dry, intact
+WNL|Within normal limits
+nml|Normal
+nl|Normal
+USOH|Usual state of health
+ppd|Packs per day
+PPD|Packs per day
+pk-yr|Pack-years
+PY|Pack-years
+IVDU|Intravenous drug use
+IVDA|Intravenous drug abuse
+PWID|People who inject drugs
+MJ|Marijuana
+THC|Tetrahydrocannabinol (cannabis)
+SOB|Shortness of breath
+DOE|Dyspnea on exertion
+MOB|Mother of baby
+FOB|Father of baby
+HCP|Health care proxy
+DPOA|Durable power of attorney
+NOK|Next of kin
+SNF|Skilled nursing facility
+ALF|Assisted living facility
+LTAC|Long-term acute care hospital
+LTACH|Long-term acute care hospital
+IPR|Inpatient rehabilitation
+AIR|Acute inpatient rehabilitation
+HHPT|Home health physical therapy
+HH|Home health
+AMA|Against medical advice
+LWBS|Left without being seen
+DNR/DNI|Do not resuscitate, do not intubate
+FC|Full code
+CMO|Comfort measures only
+POLST|Physician orders for life-sustaining treatment
+MOLST|Medical orders for life-sustaining treatment
+RTC|Return to clinic
+RTED|Return to emergency department
+obs|Observation
+tele|Telemetry
+SDU|Step-down unit
+stepdown|Step-down unit
+MICU|Medical intensive care unit
+SICU|Surgical intensive care unit
+CVICU|Cardiovascular intensive care unit
+NSICU|Neurosurgical intensive care unit
+NICU|Neonatal intensive care unit
+PICU|Pediatric intensive care unit
+CCU|Cardiac care unit
+PACU|Post-anesthesia care unit
+L&D|Labor and delivery
+MBU|Mother-baby unit
+s/p|Status post
+c/o|Complains of
+h/o|History of
+w/u|Workup
+f/u|Follow-up
+r/o|Rule out
+d/t|Due to
+2/2|Secondary to
+a/w|Associated with
+c/w|Consistent with
+w/|With
+w/o|Without
+w/out|Without
+b/l|Bilateral
+n/v|Nausea and vomiting
+n/v/d|Nausea, vomiting and diarrhea
+abd|Abdomen
+b/c|Because
+y/o|Year old
+yo|Year old
+yoF|Year-old female
+yoM|Year-old male
+o/n|Overnight
+d/c'd|Discontinued
+dc'd|Discontinued
+yest|Yesterday
+tmrw|Tomorrow
+wk|Week
+mo|Month
+yr|Year
+hr|Hour
+min|Minutes
+PTA|Prior to arrival
+PTA|Prior to admission
+HD|Hospital day
+POD|Postoperative day
+DOL|Day of life
+PPD|Postpartum day
+ROMI|Rule out myocardial infarction
+r/o MI|Rule out myocardial infarction
+NPO|Nothing by mouth
+NPO p MN|Nothing by mouth after midnight
+ADAT|Advance diet as tolerated
+CLD|Clear liquid diet
+FLD|Full liquid diet
+OOB|Out of bed
+OOBTC|Out of bed to chair
+BRP|Bathroom privileges
+WBAT|Weight bearing as tolerated
+NWB|Non-weight bearing
+TTWB|Toe-touch weight bearing
+PWB|Partial weight bearing
+I/O|Intake and output
+I&O|Intake and output
+UOP|Urine output
+BM|Bowel movement
+LBM|Last bowel movement
+PRBC|Packed red blood cells
+Foley|Indwelling urinary catheter
+PIV|Peripheral intravenous line
+PICC|Peripherally inserted central catheter
+CVC|Central venous catheter
+TLC|Triple-lumen catheter
+A-line|Arterial line
+art line|Arterial line
+NGT|Nasogastric tube
+OGT|Orogastric tube
+PEG|Percutaneous endoscopic gastrostomy
+G-tube|Gastrostomy tube
+J-tube|Jejunostomy tube
+JP|Jackson-Pratt drain
+CT|Chest tube
+ETT|Endotracheal tube
+trach|Tracheostomy
+NC|Nasal cannula
+HFNC|High-flow nasal cannula
+NRB|Non-rebreather mask
+BiPAP|Bilevel positive airway pressure
+RA|Room air
+FiO2|Fraction of inspired oxygen
+SpO2|Peripheral oxygen saturation
+Tmax|Maximum temperature
+Tm|Maximum temperature
+HR|Heart rate
+RR|Respiratory rate
+BP|Blood pressure
+SBP|Systolic blood pressure
+MAP|Mean arterial pressure
+I's and O's|Intake and output
+CXR|Chest X-ray
+KUB|Kidney, ureter, bladder X-ray
+AXR|Abdominal X-ray
+CTA|Computed tomography angiography
+CTAP|CT abdomen and pelvis
+CT A/P|CT abdomen and pelvis
+CTH|CT head
+NCHCT|Non-contrast head CT
+CTPE|CT pulmonary embolism protocol
+MRI|Magnetic resonance imaging
+MRCP|Magnetic resonance cholangiopancreatography
+RUQ US|Right upper quadrant ultrasound
+TTE|Transthoracic echocardiogram
+TEE|Transesophageal echocardiogram
+EKG|Electrocardiogram
+ECG|Electrocardiogram
+EEG|Electroencephalogram
+EGD|Esophagogastroduodenoscopy
+CScope|Colonoscopy
+c-scope|Colonoscopy
+LP|Lumbar puncture
+para|Paracentesis
+thora|Thoracentesis
+HD cath|Hemodialysis catheter
+iHD|Intermittent hemodialysis
+CRRT|Continuous renal replacement therapy
+CVVH|Continuous venovenous hemofiltration
+CVVHD|Continuous venovenous hemodialysis
+SBT|Spontaneous breathing trial
+SAT|Spontaneous awakening trial
+ROSC|Return of spontaneous circulation
+GCS|Glasgow Coma Scale
+RASS|Richmond Agitation-Sedation Scale
+CAM-ICU|Confusion Assessment Method for the ICU
+CIWA|Clinical Institute Withdrawal Assessment
+COWS|Clinical Opiate Withdrawal Scale
+NIHSS|National Institutes of Health Stroke Scale
+mRS|Modified Rankin Scale
+LKW|Last known well
+LKN|Last known normal
+tPA|Tissue plasminogen activator
+TNK|Tenecteplase
+LVO|Large vessel occlusion
+ICH|Intracerebral hemorrhage
+SAH|Subarachnoid hemorrhage
+SDH|Subdural hematoma
+AMS|Altered mental status
+AMS|Acute mountain sickness
+ΔMS|Change in mental status
+LOC|Loss of consciousness
+GLF|Ground-level fall
+MVC|Motor vehicle collision
+PMV|Passy-Muir valve
+EOL|End of life
+GOC|Goals of care
+HPI|History of present illness
+ROS|Review of systems
+PMHx|Past medical history
+A/P|Assessment and plan
+dispo|Disposition
+pt|Patient
+pts|Patients
+ptx|Pneumothorax
+hx|History
+fhx|Family history
+shx|Social history
+sx|Symptoms
+dx|Diagnosis
+tx|Treatment
+rx|Prescription
+bx|Biopsy
+cx|Culture
+fx|Fracture
+ddx|Differential diagnosis
+mgmt|Management
+eval|Evaluation
+approx|Approximately
+assoc|Associated
+neg|Negative
+pos|Positive
+nl|Normal
+sig|Significant
+SOB|Shortness of breath
+CP|Chest pain
+HA|Headache
+N/V|Nausea and vomiting
+LH|Lightheadedness
+BRBPR|Bright red blood per rectum
+CBC w/ diff|Complete blood count with differential

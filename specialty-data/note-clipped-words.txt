@@ -1,0 +1,144 @@
+neuro|Neurology|Chart Shorthand
+neuro|Neurologic exam|Chart Shorthand
+psych|Psychiatry|Chart Shorthand
+psych|Psychiatric|Chart Shorthand
+cardio|Cardiology|Chart Shorthand
+cardio|Cardiovascular|Chart Shorthand
+nephro|Nephrology|Chart Shorthand
+gastro|Gastroenterology|Chart Shorthand
+gastro|Gastroenteritis|Chart Shorthand
+ortho|Orthopedics|Chart Shorthand
+ortho|Orthostatic|Chart Shorthand
+rheum|Rheumatology|Chart Shorthand
+anesth|Anesthesia|Chart Shorthand
+anesth|Anesthesiology|Chart Shorthand
+palli|Palliative care|Chart Shorthand
+palliative|Palliative care|Chart Shorthand
+ped|Pediatric|Chart Shorthand
+ped|Pediatrician|Chart Shorthand
+rad onc|Radiation oncology|Chart Shorthand
+chemo|Chemotherapy|Chart Shorthand
+vitals|Vital signs|Chart Shorthand
+sats|Oxygen saturation|Chart Shorthand
+sat|Oxygen saturation|Chart Shorthand
+procal|Procalcitonin|Chart Shorthand
+creat|Creatinine|Chart Shorthand
+chem|Chemistry panel|Chart Shorthand
+glc|Glucose|Chart Shorthand
+extr|Extremities|Chart Shorthand
+ext|External|Chart Shorthand
+musc|Musculoskeletal|Chart Shorthand
+carb|Carbohydrate|Chart Shorthand
+carbs|Carbohydrates|Chart Shorthand
+def|Deficiency|Chart Shorthand
+stim|Stimulation|Chart Shorthand
+detox|Detoxification|Chart Shorthand
+clin|Clinic|Chart Shorthand
+clin|Clinical|Chart Shorthand
+subcu|Subcutaneous|Chart Shorthand
+pkt|Packet|Chart Shorthand
+loz|Lozenge|Chart Shorthand
+adj|Adjusted|Chart Shorthand
+adj|Adjacent|Chart Shorthand
+sust|Sustained|Chart Shorthand
+var|Variant|Chart Shorthand
+mult|Multiple|Chart Shorthand
+avg|Average|Chart Shorthand
+occ|Occasional|Chart Shorthand
+assoc|Associated|Chart Shorthand
+reg|Regular|Chart Shorthand
+reg|Regular insulin|Chart Shorthand
+reg|Regimen|Chart Shorthand
+rpt|Repeat|Chart Shorthand
+rpt|Report|Chart Shorthand
+asst|Assistant|Chart Shorthand
+asst|Assistance|Chart Shorthand
+alt|Alternating|Chart Shorthand
+deg|Degrees|Chart Shorthand
+inf|Infusion|Chart Shorthand
+est|Estimated|Chart Shorthand
+est|Established patient|Chart Shorthand
+exp|Exploratory|Chart Shorthand
+exp|Exposure|Chart Shorthand
+sed|Sedation|Chart Shorthand
+sed|Sedimentation rate|Chart Shorthand
+gen|General|Chart Shorthand
+lab|Laboratory|Chart Shorthand
+dz|Disease|Chart Shorthand
+fxs|Fractures|Chart Shorthand
+o/w|Otherwise|Chart Shorthand
+w/out|Without|Chart Shorthand
+s/f|Significant for|Chart Shorthand
+usoh|Usual state of health|Chart Shorthand
+nml|Normal|Chart Shorthand
+unk|Unknown|Chart Shorthand
+msg|Message|Chart Shorthand
+tel|Telephone|Chart Shorthand
+dsch|Discharge|Chart Shorthand
+d/ced|Discontinued|Chart Shorthand
+dec|Deceased|Chart Shorthand
+stepdown|Step-down unit|Chart Shorthand
+I's and O's|Intake and output|Chart Shorthand
+cigs|Cigarettes|Chart Shorthand
+WNWD|Well nourished, well developed|Chart Shorthand
+NBNB|Nonbloody, nonbilious|Chart Shorthand
+m/g/r|Murmurs, gallops or rubs|Chart Shorthand
+g/r/m|Gallops, rubs or murmurs|Chart Shorthand
+COR|Heart (cardiac exam heading)|Chart Shorthand
+cv|Costovertebral|Chart Shorthand
+ROMI|Rule out myocardial infarction|Chart Shorthand
+r/o MI|Rule out myocardial infarction|Chart Shorthand
+SSCP|Substernal chest pain|Chart Shorthand
+PPI|Peripheral pulses intact|Chart Shorthand
+NC|Normocephalic|Chart Shorthand
+NC|Noncontributory|Chart Shorthand
+AA|Awake and alert|Chart Shorthand
+la|Lymphadenopathy|Chart Shorthand
+sb|Sternal border|Chart Shorthand
+rt|Rebound tenderness|Chart Shorthand
+ms|Muscle strength|Chart Shorthand
+MS|Musculoskeletal|Chart Shorthand
+MM|Mucous membranes|Chart Shorthand
+HS|Heart sounds|Chart Shorthand
+RR|Regular rhythm|Chart Shorthand
+tw|T wave|Chart Shorthand
+TW|T wave|Chart Shorthand
+ir|Irregular|Chart Shorthand
+bb|Bedbound|Chart Shorthand
+BB|Blow-by oxygen|Respiratory Therapy
+psa|Polysubstance abuse|Chart Shorthand
+vns|Visiting nurse service|Chart Shorthand
+ha|Home health aide|Chart Shorthand
+ap|Abdomen and pelvis|Chart Shorthand
+A/P|Abdomen and pelvis|Radiology
+Tm|Maximum temperature|Chart Shorthand
+Gen|General appearance (exam heading)|Chart Shorthand
+GFR|Grunting, flaring, retracting|Pediatrics
+BB|Baby boy|Maternal-Newborn Nursing
+BG|Baby girl|Maternal-Newborn Nursing
+GM|Grandmother|Chart Shorthand
+GF|Grandfather|Chart Shorthand
+WF|White female|Chart Shorthand
+WM|White male|Chart Shorthand
+ss|Sliding scale|Chart Shorthand
+s/s|Sliding scale|Chart Shorthand
+SS|Single strength|Pharmacology
+DS|Double strength|Pharmacology
+ES|Extra strength|Pharmacology
+s&s|Swish and swallow|Pharmacology
+EA|Each|Pharmacy Operations
+AQ|Aqueous|Pharmacology
+spr|Spray|Pharmacology
+puf|Puff|Pharmacology
+cc|With meals (cum cibo)|Pharmacology
+alk|Alkaline|Chart Shorthand
+ng|Nanogram|Laboratory Medicine
+gm|Gram|Pharmacology
+mm|Millimeter|Chart Shorthand
+msec|Milliseconds|Electrophysiology
+ms|Milliseconds|Electrophysiology
+mV|Millivolt|Electrophysiology
+U/L|Units per liter|Laboratory Medicine
+cts|Counts|Laboratory Medicine
+K|Thousand|Laboratory Medicine
+LM|Left message|Chart Shorthand

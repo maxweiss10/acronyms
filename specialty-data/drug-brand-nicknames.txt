@@ -1,0 +1,160 @@
+vanco|Vancomycin|Pharmacology
+zosyn|Piperacillin-tazobactam|Pharmacology
+pip|Piperacillin|Pharmacology
+cefepime|Cefepime|Pharmacology
+cefaz|Cefazolin|Pharmacology
+ancef|Cefazolin|Pharmacology
+rocephin|Ceftriaxone|Pharmacology
+unasyn|Ampicillin-sulbactam|Pharmacology
+cipro|Ciprofloxacin|Pharmacology
+levaquin|Levofloxacin|Pharmacology
+lvq|Levofloxacin|Pharmacology
+flagyl|Metronidazole|Pharmacology
+bactrim|Trimethoprim-sulfamethoxazole|Pharmacology
+Z-pak|Azithromycin|Pharmacology
+augmentin|Amoxicillin-clavulanate|Pharmacology
+keflex|Cephalexin|Pharmacology
+macrobid|Nitrofurantoin|Pharmacology
+zyvox|Linezolid|Pharmacology
+diflucan|Fluconazole|Pharmacology
+ampho|Amphotericin B|Pharmacology
+acyclo|Acyclovir|Pharmacology
+valtrex|Valacyclovir|Pharmacology
+valgan|Valganciclovir|Pharmacology
+tamiflu|Oseltamivir|Pharmacology
+paxlovid|Nirmatrelvir-ritonavir|Pharmacology
+remdes|Remdesivir|Pharmacology
+norepi|Norepinephrine|Pharmacology
+levophed|Norepinephrine|Pharmacology
+milri|Milrinone|Pharmacology
+nitro|Nitroglycerin|Pharmacology
+nitro gtt|Nitroglycerin infusion|Pharmacology
+nicard|Nicardipine|Pharmacology
+cleviprex|Clevidipine|Pharmacology
+labet|Labetalol|Pharmacology
+hydral|Hydralazine|Pharmacology
+precedex|Dexmedetomidine|Pharmacology
+versed|Midazolam|Pharmacology
+dilaudid|Hydromorphone|Pharmacology
+norco|Hydrocodone-acetaminophen|Pharmacology
+vicodin|Hydrocodone-acetaminophen|Pharmacology
+percocet|Oxycodone-acetaminophen|Pharmacology
+oxycontin|Oxycodone extended release|Pharmacology
+ultram|Tramadol|Pharmacology
+tylenol|Acetaminophen|Pharmacology
+toradol|Ketorolac|Pharmacology
+lyrica|Pregabalin|Pharmacology
+flexeril|Cyclobenzaprine|Pharmacology
+robaxin|Methocarbamol|Pharmacology
+suboxone|Buprenorphine-naloxone|Pharmacology
+subutex|Buprenorphine|Pharmacology
+vivitrol|Extended-release naltrexone|Pharmacology
+narcan|Naloxone|Pharmacology
+zofran|Ondansetron|Pharmacology
+reglan|Metoclopramide|Pharmacology
+compazine|Prochlorperazine|Pharmacology
+phenergan|Promethazine|Pharmacology
+protonix|Pantoprazole|Pharmacology
+pepcid|Famotidine|Pharmacology
+carafate|Sucralfate|Pharmacology
+colace|Docusate|Pharmacology
+dulcolax|Bisacodyl|Pharmacology
+imodium|Loperamide|Pharmacology
+lasix|Furosemide|Pharmacology
+bumex|Bumetanide|Pharmacology
+coreg|Carvedilol|Pharmacology
+metop|Metoprolol|Pharmacology
+lopressor|Metoprolol tartrate|Pharmacology
+toprol|Metoprolol succinate|Pharmacology
+entresto|Sacubitril-valsartan|Pharmacology
+jardiance|Empagliflozin|Pharmacology
+farxiga|Dapagliflozin|Pharmacology
+ozempic|Semaglutide|Pharmacology
+lantus|Insulin glargine|Pharmacology
+humalog|Insulin lispro|Pharmacology
+novolog|Insulin aspart|Pharmacology
+lovenox|Enoxaparin|Pharmacology
+eliquis|Apixaban|Pharmacology
+xarelto|Rivaroxaban|Pharmacology
+coumadin|Warfarin|Pharmacology
+plavix|Clopidogrel|Pharmacology
+brilinta|Ticagrelor|Pharmacology
+bival|Bivalirudin|Pharmacology
+kcentra|Four-factor prothrombin complex concentrate|Pharmacology
+andexxa|Andexanet alfa|Pharmacology
+amicar|Aminocaproic acid|Pharmacology
+statin|HMG-CoA reductase inhibitor|Pharmacology
+atorva|Atorvastatin|Pharmacology
+rosuva|Rosuvastatin|Pharmacology
+synthroid|Levothyroxine|Pharmacology
+methylpred|Methylprednisolone|Pharmacology
+hydrocort|Hydrocortisone|Pharmacology
+fludro|Fludrocortisone|Pharmacology
+ativan|Lorazepam|Pharmacology
+xanax|Alprazolam|Pharmacology
+klonopin|Clonazepam|Pharmacology
+valium|Diazepam|Pharmacology
+ambien|Zolpidem|Pharmacology
+haldol|Haloperidol|Pharmacology
+seroquel|Quetiapine|Pharmacology
+zyprexa|Olanzapine|Pharmacology
+abilify|Aripiprazole|Pharmacology
+risperdal|Risperidone|Pharmacology
+geodon|Ziprasidone|Pharmacology
+zoloft|Sertraline|Pharmacology
+prozac|Fluoxetine|Pharmacology
+lexapro|Escitalopram|Pharmacology
+celexa|Citalopram|Pharmacology
+wellbutrin|Bupropion|Pharmacology
+effexor|Venlafaxine|Pharmacology
+cymbalta|Duloxetine|Pharmacology
+remeron|Mirtazapine|Pharmacology
+depakote|Divalproex (valproate)|Pharmacology
+keppra|Levetiracetam|Pharmacology
+lamictal|Lamotrigine|Pharmacology
+dilantin|Phenytoin|Pharmacology
+vimpat|Lacosamide|Pharmacology
+tegretol|Carbamazepine|Pharmacology
+aricept|Donepezil|Pharmacology
+sinemet|Carbidopa-levodopa|Pharmacology
+benadryl|Diphenhydramine|Pharmacology
+flomax|Tamsulosin|Pharmacology
+pyridium|Phenazopyridine|Pharmacology
+prograf|Tacrolimus|Pharmacology
+tacro|Tacrolimus|Pharmacology
+cellcept|Mycophenolate mofetil|Pharmacology
+myfortic|Mycophenolic acid|Pharmacology
+imuran|Azathioprine|Pharmacology
+plaquenil|Hydroxychloroquine|Pharmacology
+humira|Adalimumab|Pharmacology
+remicade|Infliximab|Pharmacology
+procrit|Epoetin alfa|Pharmacology
+epo|Epoetin alfa|Pharmacology
+aranesp|Darbepoetin alfa|Pharmacology
+neupogen|Filgrastim|Pharmacology
+neulasta|Pegfilgrastim|Pharmacology
+venofer|Iron sucrose|Pharmacology
+feraheme|Ferumoxytol|Pharmacology
+atrovent|Ipratropium|Pharmacology
+symbicort|Budesonide-formoterol|Pharmacology
+advair|Fluticasone-salmeterol|Pharmacology
+spiriva|Tiotropium|Pharmacology
+flovent|Fluticasone inhaler|Pharmacology
+singulair|Montelukast|Pharmacology
+xopenex|Levalbuterol|Pharmacology
+mucomyst|Acetylcysteine|Pharmacology
+kayexalate|Sodium polystyrene sulfonate|Pharmacology
+lokelma|Sodium zirconium cyclosilicate|Pharmacology
+veltassa|Patiromer|Pharmacology
+renvela|Sevelamer carbonate|Pharmacology
+phoslo|Calcium acetate|Pharmacology
+sensipar|Cinacalcet|Pharmacology
+K-dur|Potassium chloride extended release|Pharmacology
+tums|Calcium carbonate|Pharmacology
+depo|Medroxyprogesterone injection (Depo-Provera)|Pharmacology
+depo-medrol|Methylprednisolone acetate injection|Pharmacology
+T3|Acetaminophen with codeine 30 mg (Tylenol #3)|Pharmacology
+dm|Dextromethorphan|Pharmacology
+CPM|Cyclophosphamide|Pharmacology
+CSP|Cyclosporine|Pharmacology
+allo|Allogeneic|Pharmacology

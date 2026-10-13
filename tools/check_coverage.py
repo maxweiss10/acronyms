@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit data.js against an independent checklist (tests/must-have.txt, `ACRONYM|Meaning`).
+"""Audit data.js against independent checklists (tests/must-have.txt and tests/notes-checklist.txt, `ACRONYM|Meaning`).
 
 Reports two kinds of gap:
   MISSING  the acronym is not in the dictionary under any spelling
@@ -20,18 +20,21 @@ for ln in body.splitlines():
     if len(p) == 3:
         have.setdefault(norm(p[0]), []).append(p[1])
 missing, meaning = [], []
-for ln in (root / "tests" / "must-have.txt").read_text().splitlines():
+LISTS = [root / "tests" / f for f in ("must-have.txt", "notes-checklist.txt")]
+checklist = [ln for f in LISTS for ln in f.read_text().splitlines() if not ln.startswith("#")]
+for ln in checklist:
     p = [x.strip() for x in ln.split("|")]
     if len(p) != 2 or not p[0]:
         continue
     a, m = p
     if not re.search(r"[A-Za-z]", a):  # symbols and bare numbers are out of scope
         continue
-    got = have.get(norm(a))
+    k = norm(a)
+    got = have.get(k) or (have.get(k[:-1]) if len(k) > 2 and k.endswith("s") else None)  # site reads plurals
     if not got:
         missing.append(ln)
     elif words(m) and not any(words(m) & words(g) for g in got):
         meaning.append(ln)
 (root / "tests" / "gaps.txt").write_text("\n".join(missing + meaning) + "\n")
-total = sum(1 for l in (root / "tests" / "must-have.txt").read_text().splitlines() if "|" in l)
+total = sum(1 for l in checklist if "|" in l)
 print(f"checked {total}: {len(missing)} acronyms missing, {len(meaning)} meanings missing; see {root / 'tests' / 'gaps.txt'}")

@@ -1,0 +1,92 @@
+# INPUT|words the decoded meaning must contain (checked by tools/check_compounds.js)
+# Dosing schedules glued together; each must decode as a schedule, never as unrelated acronyms
+TIDAC|three times daily before meals
+tid ac|three times daily before meals
+T.I.D.A.C.|three times daily before meals
+BIDPC|twice daily after meals
+QIDACHS|four times daily before meals bedtime
+QACHS|before each meal bedtime
+QAMAC|every morning before meals
+QHSPRN|bedtime as needed
+Q6HPRN|every 6 hours as needed
+q4-6hprn|every 4 to 6 hours as needed
+POBID|by mouth twice daily
+POTIDAC|by mouth three times daily before meals
+POQ6HPRN|by mouth every 6 hours as needed
+SQQHS|subcutaneous bedtime
+IVQ8H|intravenous every 8 hours
+SLPRN|sublingual as needed
+QDX7D|once daily for 7 days
+Q12HX5D|every 12 hours for 5 days
+QIDPCHS|four times daily after meals bedtime
+TIDWM|three times daily with meals
+QW|once weekly
+Q2-4HPRN|every 2 to 4 hours as needed
+# Non-schedule compounds keep working
+MVCAD|multivessel coronary artery disease
+3VCAD|3-vessel coronary artery disease
+# Numbered note patterns, read by rule
+L5-S1|L5 to S1 spinal level
+C5-6|C5 to C6 spinal level
+T12|12th thoracic vertebra
+CN II-XII|cranial nerves 2 through 12
+II-XII|cranial nerves 2 through 12
+CN7|cranial nerve 7
+VI|cranial nerve 6
+G2P1|gravida 2 para 1
+G3P2012|gravida 3 para 2 term preterm abortions living
+G0|gravida 0
+POD3|postoperative day 3
+HD#2|hospital day 2
+DOL5|day of life 5
+PPD1|postpartum day 1
+V2|ECG precordial lead V2
+OM2|obtuse marginal branch 2
+D5|5% dextrose
+D5W|5% dextrose in water
+D5 1/2NS|5% dextrose in half-normal saline
+D10|10% dextrose
+x3|times 3
+AOx3|alert oriented person place time
+A&Ox4|alert oriented person place time situation
+x5days|for 5 days
+x2wk|for 2 weeks
+3x/wk|3 times per week
+q6|every 6 hours
+q12hr|every 12 hours
+q4wk|every 4 weeks
+QOHS|every other
+QBEDTIME|bedtime
+# Initialisms from real-note inventories
+TBil|total bilirubin
+UpH|urine pH
+NBNB|nonbloody nonbilious
+m/g/r|murmurs gallops rubs
+# Glued prefixes, read by rule when not in the dictionary
+spCABG|status post coronary artery bypass
+hxDVT|history deep vein thrombosis
+RPICC|right peripherally inserted central catheter
+LPCOM|left posterior communicating artery
+dPDA|distal posterior descending artery
+AoCRF|acute on chronic respiratory failure
+CABGx3|coronary artery bypass 3
+# Stages, scores and other suffix forms
+CKD3b|chronic kidney disease stage 3b
+CKDIV|chronic kidney disease stage 4
+NYHAIII|NYHA functional class 3
+ASA3E|ASA physical status class 3 emergency
+GCS15|Glasgow Coma Scale score 15
+BI-RADS4|BI-RADS category 4
+LR5|LI-RADS category 5
+CP-B|Child-Pugh class B
+pT2N0M0|tumor T2 nodes N0 metastasis M0 pathologic
+T3N1|tumor T3 nodes N1
+32w2d|32 weeks 2 days gestation
+2LNC|2 liters per minute nasal cannula
+# Families added to the dictionary
+LSFA|left superficial femoral artery
+pLCx|proximal left circumflex
+LIMA-LAD|left internal mammary artery left anterior descending
+AECOPD|acute exacerbation chronic obstructive pulmonary disease
+NAEON|no acute events overnight
+AFRVR|atrial fibrillation rapid ventricular response

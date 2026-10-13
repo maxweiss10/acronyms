@@ -68,27 +68,144 @@ for(let n=1;n<=6;n++){
   add({a:n+"VD",m:n+"-vessel disease",spec:"Cardiology"});
 }
 
+// ---- dosing schedules: frequency + timing + route + PRN glued together (TIDAC, POQ6HPRN, SQQHS) ----
+const SIG={qd:"Once daily",daily:"Daily",bid:"Twice daily",tid:"Three times daily",qid:"Four times daily",
+ qod:"Every other day",qow:"Every other week",qohs:"Every other night at bedtime",qbedtime:"At bedtime",qam:"Every morning",qpm:"Every evening",qhs:"At bedtime",hs:"At bedtime",qn:"Every night",
+ qwk:"Every week",qweek:"Every week",biw:"Twice weekly",tiw:"Three times weekly",qmo:"Every month",
+ ac:"Before meals",pc:"After meals",wm:"With meals",achs:"Before meals and at bedtime",pchs:"After meals and at bedtime",
+ qac:"Before each meal",qpc:"After each meal",prn:"As needed",stat:"Immediately",
+ po:"By mouth",iv:"Intravenous",ivp:"IV push",ivpb:"IV piggyback",im:"Intramuscular",sq:"Subcutaneous",sc:"Subcutaneous",
+ subq:"Subcutaneous",sl:"Sublingual",pr:"Per rectum",top:"Topical",inh:"Inhaled",neb:"Nebulized",td:"Transdermal",ou:"Both eyes"};
+const SIG_ROUTE=new Set("po iv ivp ivpb im sq sc subq sl pr top inh neb td ou".split(" "));
+function sigAtom(k){
+  if(SIG[k]) return SIG[k];
+  let m=k.match(/^q(\d{1,2})h$/); if(m) return m[1]==="1"?"Every hour":`Every ${m[1]} hours`;
+  m=k.match(/^q(\d)(\d{1,2})h$/); if(m&&+m[1]<+m[2]) return `Every ${m[1]} to ${m[2]} hours`;
+  m=k.match(/^q(\d{1,2})(hrs?)?$/); if(m) return m[1]==="1"?"Every hour":`Every ${m[1]} hours`;
+  m=k.match(/^q(\d{1,2})(min|d|wks?|mo)$/); if(m) return `Every ${m[1]} ${{min:"minutes",d:"days",wk:"weeks",wks:"weeks",mo:"months"}[m[2]]}`;
+  m=k.match(/^x(\d{1,2})(d|days?|wks?|weeks?)$/); if(m) return `For ${m[1]} ${/^w/.test(m[2])?"weeks":"days"}`;
+  m=k.match(/^x(\d{1,2})$/); if(m) return m[1]==="1"?"Once":`${m[1]} times`;
+  return null;
+}
+// whole token must split into schedule pieces, at least two, and not only routes
+function sigSegment(w){
+  const n=w.length, best=Array(n+1).fill(null); best[0]=[];
+  for(let i=0;i<n;i++){ if(!best[i]) continue;
+    for(let j=i+1;j<=Math.min(n,i+8);j++){ const k=w.slice(i,j);
+      if(sigAtom(k)&&(!best[j]||best[i].length+1<best[j].length)) best[j]=best[i].concat(k); } }
+  const p=best[n];
+  return p&&p.length>1&&p.some(k=>!SIG_ROUTE.has(k))?p.map(k=>({k,e:{m:sigAtom(k)}})):null;
+}
+
+// ---- numbered note patterns: spine levels, cranial nerves, G/P, hospital days, ECG leads, x3, D5 ----
+// Notes are full of these and no list can spell out every number, so they are read by rule.
+const ROMAN={i:1,ii:2,iii:3,iv:4,v:5,vi:6,vii:7,viii:8,ix:9,x:10,xi:11,xii:12};
+const ORD=n=>n+(n%100>=11&&n%100<=13?"th":["th","st","nd","rd"][n%10]||"th");
+const SPINE={c:["cervical",8],t:["thoracic",12],l:["lumbar",5],s:["sacral",5]};
+const DAYS={hd:"Hospital day",pod:"Postoperative day",ppd:"Postpartum day",dol:"Day of life",ptd:"Post-transplant day",icud:"ICU day",abxd:"Antibiotic day"};
+function pattern(tok){
+  const w=tok.toLowerCase().replace(/[#\s.]/g,""); let m;
+  if((m=w.match(/^([ctls])(\d{1,2})(?:-([ctls])?(\d{1,2}))?$/))){
+    const a=SPINE[m[1]], n=+m[2]; if(n<1||n>a[1]) return null;
+    if(!m[4]) return `${ORD(n)} ${a[0]} vertebra or nerve root (${m[1].toUpperCase()}${n})`;
+    const b=SPINE[m[3]||m[1]], n2=+m[4]; if(n2<1||n2>b[1]) return null;
+    return `${m[1].toUpperCase()}${n} to ${(m[3]||m[1]).toUpperCase()}${n2} spinal level`; }
+  if((m=w.match(/^(?:cn|cranialnerves?)?([ivx]+|\d{1,2})(?:-([ivx]+|\d{1,2}))?$/))&&(w.startsWith("c")||(/^[ivx]+$/.test(m[1])&&(m[2]||!["i","iv","v","x"].includes(m[1]))))){
+    const v=x=>ROMAN[x]||(/^\d+$/.test(x)?+x:0), a=v(m[1]), b=m[2]?v(m[2]):0;
+    if(!a||a>12||(m[2]&&(!b||b>12||b<=a))) return null;
+    if(!w.startsWith("c")&&!m[2]) return `Roman numeral ${a} (in an exam, cranial nerve ${a})`;
+    return b?`Cranial nerves ${a} through ${b}`:`Cranial nerve ${a}`; }
+  if((m=w.match(/^g(\d{1,2})p(?:\(?(\d)(\d)(\d)(\d)\)?|(\d{1,2}))$/)))
+    return m[6]!==undefined?`Gravida ${m[1]}, para ${m[6]}`:`Gravida ${m[1]}, para ${+m[2]+ +m[3]} (TPAL: ${m[2]} term, ${m[3]} preterm, ${m[4]} abortions or miscarriages, ${m[5]} living)`;
+  if((m=w.match(/^g(\d{1,2})$/))) return `Gravida ${m[1]} (${m[1]} pregnanc${m[1]==="1"?"y":"ies"})`;
+  if((m=w.match(/^(hd|pod|ppd|dol|ptd|icud|abxd)(\d{1,3})$/))) return `${DAYS[m[1]]} ${m[2]}`;
+  const RN={i:1,ii:2,iii:3,iv:4,v:5,vi:6};
+  if((m=w.match(/^(ckd|nyha|gold|asa|mp|mallampati|ecog|kps|gcs|nihss|mrs|birads|bi-rads|tirads|ti-rads|tr|lirads|li-rads|lr|pirads|pi-rads|killip|hh|tanner|meld|lungrads|fitz)-?(\d{1,3}|vi|v|iv|i{1,3})([abe])?$/))){
+    const SC={ckd:"Chronic kidney disease stage",nyha:"NYHA functional class",gold:"GOLD spirometric grade",asa:"ASA physical status class",mp:"Mallampati class",mallampati:"Mallampati class",
+      ecog:"ECOG performance status",kps:"Karnofsky performance status",gcs:"Glasgow Coma Scale score",nihss:"NIH Stroke Scale score",mrs:"Modified Rankin Scale score",
+      birads:"BI-RADS category","bi-rads":"BI-RADS category",tirads:"TI-RADS level","ti-rads":"TI-RADS level",tr:"TI-RADS level",lirads:"LI-RADS category","li-rads":"LI-RADS category",lr:"LI-RADS category",
+      pirads:"PI-RADS score","pi-rads":"PI-RADS score",killip:"Killip class",hh:"Hunt and Hess grade",tanner:"Tanner stage",meld:"MELD score",lungrads:"Lung-RADS category",fitz:"Fitzpatrick skin type"};
+    const v=RN[m[2]]||+m[2];
+    return `${SC[m[1]]} ${v}${m[3]==="e"?" (emergency)":m[3]||""}`; }
+  if((m=w.match(/^(cp|child-?pugh)-?([abc])$/))) return `Child-Pugh class ${m[2].toUpperCase()}`;
+  if((m=w.match(/^(yp|yc|p|c|r)?t([0-4]|is|x)([a-d])?n([0-3]|x)([a-c])?(?:m([01]|x)([a-c])?)?$/))){
+    const kind={p:"pathologic",c:"clinical",yp:"pathologic after neoadjuvant therapy",yc:"clinical after neoadjuvant therapy",r:"recurrence"}[m[1]];
+    return `TNM stage: tumor T${m[2]}${m[3]||""}, nodes N${m[4]}${m[5]||""}${m[6]?`, metastasis M${m[6]}${m[7]||""}`:""}${kind?` (${kind})`:""}`; }
+  if((m=w.match(/^(\d{1,2})(?:w|wk|wks)(\d)d?$/))||(m=w.match(/^(\d{1,2})\+(\d)$/))) return `${m[1]} weeks ${m[2]} days gestation`;
+  if((m=w.match(/^(\d{1,2}(?:\.\d)?)l(?:pm)?(nc|fm|vm|nrb)$/))) return `${m[1]} liters per minute by ${{nc:"nasal cannula",fm:"face mask",vm:"Venturi mask",nrb:"non-rebreather mask"}[m[2]]}`;
+  if((m=w.match(/^hfnc(\d{2})\/(\d{2,3})%?$/))) return `High-flow nasal cannula at ${m[1]} L/min, FiO2 ${m[2]}%`;
+  if((m=w.match(/^v([1-6])r?$/))) return `ECG precordial lead V${m[1]}${w.endsWith("r")?" (right-sided)":""}`;
+  if((m=w.match(/^(om|d)([1-3])$/))) return `${m[1]==="om"?"Obtuse marginal":"Diagonal"} branch ${m[2]} (coronary artery)`;
+  if((m=w.match(/^d(5|10|12\.?5|20|25|50|70)(w|ns|lr|1\/2ns|halfns|0?45ns|0?9ns|1\/4ns)?$/))){
+    const sol={w:" in water",ns:" in normal saline",lr:" in lactated Ringer's","1/2ns":" in half-normal saline",halfns:" in half-normal saline","45ns":" in 0.45% saline","045ns":" in 0.45% saline","9ns":" in normal saline","09ns":" in normal saline","1/4ns":" in quarter-normal saline"};
+    return `${m[1].replace("125","12.5")}% dextrose${sol[m[2]]||""}`; }
+  if(/^q/.test(w)&&sigAtom(w.replace(/[-\/]/g,""))) return sigAtom(w.replace(/[-\/]/g,""));
+  if((m=w.match(/^(a&?a?o|aao)x([1-4])$/))) return `Alert and oriented to ${["person","person and place","person, place and time","person, place, time and situation"][m[2]-1]}`;
+  if((m=w.match(/^x(\d{1,2})$/))) return `Times ${m[1]} (${m[1]} times, or ${m[1]} occurrences)`;
+  if((m=w.match(/^x(\d{1,2})(d|days?|wks?|weeks?|mo|months?|h|hrs?)$/))) return `For ${m[1]} ${/^w/.test(m[2])?"weeks":/^m/.test(m[2])?"months":/^h/.test(m[2])?"hours":"days"}`;
+  if((m=w.match(/^(\d)x\/?(d|day|wk|week|mo|month)$/))) return `${m[1]} times per ${/^d/.test(m[2])?"day":/^w/.test(m[2])?"week":"month"}`;
+  return null;
+}
+
+// ---- glued prefixes: side, segment, acuity, history (LSFA, pLAD, AoCHFrEF, spCABG) ----
+// One-letter prefixes only attach to a meaning they can modify: sides to anatomy, acuity to a disease.
+const ANAT=/arter|vein|lobe|extremit|quadrant|ventric|atri|kidney|lung|eye|ear\b|knee|hip|shoulder|joint|ligament|nerve|arthroplasty|amputation|hernia|membrane|pulse|bundle|gland|ovar|tube|duct|breast|foot|hand|wrist|ankle|elbow|carotid|femoral|jugular|cerebral|pleura|effusion|pneumothorax|tonsil|catheter|line|drain/i;
+const DIS=/disease|failure|injury|syndrome|itis\b|infarct|embol|thromb|hemorrhage|hematoma|pain|rejection|ischemi|fibrillation|insufficiency|anemia|infection|hepatitis|stroke|edema|obstruction|retention|delirium|ulcer|cardiomyopathy|pneumonia|lymphoma|leukemia/i;
+const PREFIX=[["fhx","Family history of",null],["aoc","Acute on chronic",DIS],["sp","Status post",null],["hx","History of",null],["ho","History of",null],
+ ["ro","Rule out",null],["cf","Concern for",null],["rec","Recurrent",DIS],["ae","Acute exacerbation of",DIS],["bl","Bilateral",ANAT],
+ ["r","Right",ANAT],["l","Left",ANAT],["b","Bilateral",ANAT],["p","Proximal",ANAT],["m","Mid",ANAT],["d","Distal",ANAT],["a","Acute",DIS],["c","Chronic",DIS]];
+function prefixSplit(k){
+  for(const [p,pm,re] of PREFIX){ if(!k.startsWith(p)) continue; const rest=k.slice(p.length);
+    if(rest.length<2||!LEX[rest]) continue;
+    const es=LEX[rest].filter(e=>e.spec!=="Compound modifier"&&(!re||re.test(e.m)));
+    // a meaning that names a place (ends in artery, vein, lobe ...) beats one that only mentions it
+    const place=e=>re===ANAT&&/(arter(y|ies)|veins?|lobe|extremity|nerve|joint|pulse|membrane|ligament|catheter|line|drain|duct|gland|branch|quadrant)$/i.test(e.m.replace(/\s*\(.*\)$/,""))?1:0;
+    if(es.length) return [{k:p,e:{m:pm}},{k:rest,e:es.sort((x,y)=>place(y)-place(x)||y.spec.split(", ").length-x.spec.split(", ").length)[0]}]; }
+  return null;
+}
+
 // ---- compound splitting (fewest pieces, longer known pieces preferred) ----
-function segment(w){
+// ok(e) limits which entries may serve as pieces; used to keep every piece in one specialty
+function segment(w,ok){
   const n=w.length, best=Array(n+1).fill(null); best[0]={c:0,p:[]};
   for(let i=0;i<n;i++){ if(!best[i]) continue;
     for(let j=i+1;j<=n;j++){
       const k=w.slice(i,j); if(!LEX[k]||k.length<2) continue;
+      const es=ok?LEX[k].filter(ok):LEX[k]; if(!es.length) continue;
       const c=best[i].c+1+(k.length<3?0.5:0);
-      if(!best[j]||c<best[j].c) best[j]={c,p:best[i].p.concat(k)};
+      if(!best[j]||c<best[j].c) best[j]={c,p:best[i].p.concat({k,e:es[0]})};
     } }
-  return best[n]?best[n].p:null;
+  return best[n]||null;
+}
+// Prefer a split whose pieces all come from one specialty (TID + AC in Pharmacology) over a
+// cheaper split stitched from unrelated fields (TI + DAC). Ties go to the more widely used pieces.
+const SPECS=[...new Set(ENTRIES.flatMap(e=>e[2].split(", ")))];
+const wide=r=>r.p.reduce((s,x)=>s+x.e.spec.split(", ").length,0);
+function bestSplit(w){
+  let best=null;
+  for(const s of SPECS){ const r=segment(w,e=>e.spec==="Compound modifier"||e.spec.split(", ").includes(s));
+    if(r&&r.p.length>1&&(!best||r.c<best.c||(r.c===best.c&&wide(r)>wide(best)))) best=r; }
+  if(best) return {p:best.p,sure:true};
+  const g=segment(w); return g&&g.p.length>1?{p:g.p,sure:false}:null;
 }
 // tok keeps the user's casing: "pt" (patient) and "PT" (prothrombin time) rank differently
 function decodeToken(tok){
   const k=norm(tok), tl=tok.toLowerCase(); if(!k) return null;
+  const pm=pattern(tok), pe=pm?[{a:tok,m:pm,spec:"Note pattern"}]:[];
   if(LEX[k]){ const ex=LEX[k].filter(e=>e.a.toLowerCase()===tl);
     const low=tok===tl&&/[a-z]/.test(tl), lc=a=>/[a-z]/.test(a);
     const by=(x,y)=>(y.a===tok)-(x.a===tok)||(low?lc(y.a)-lc(x.a):0)||y.spec.split(", ").length-x.spec.split(", ").length;
-    return {t:tok,exact:(ex.length?ex:LEX[k]).slice().sort(by)}; }
+    return {t:tok,exact:(ex.length?ex:LEX[k]).slice().sort(by).concat(pe)}; }
+  if(pe.length) return {t:tok,exact:pe};
   if(k.length>2&&k.endsWith("s")&&LEX[k.slice(0,-1)]) return decodeToken(tok.slice(0,-1));
-  const seg=segment(k);
-  if(seg&&seg.length>1) return {t:tok,seg:seg.map(s=>({k:s,e:LEX[s][0]}))};
+  const sig=sigSegment(k);
+  if(sig) return {t:tok,seg:sig,why:"dosing schedule"};
+  const ps=prefixSplit(k);
+  if(ps) return {t:tok,seg:ps,why:"prefix + acronym"};
+  const xm=k.match(/^(.+?)x(\d{1,2})$/);
+  if(xm&&LEX[xm[1]]) return {t:tok,seg:[{k:xm[1],e:LEX[xm[1]][0]},{k:"x"+xm[2],e:{m:"\u00d7"+xm[2]}}],why:"acronym times N"};
+  const b=bestSplit(k);
+  if(b) return {t:tok,seg:b.p,why:b.sure?"best guess":"low-confidence guess, pieces from unrelated fields"};
   return {t:tok,none:true};
 }
 
@@ -120,12 +237,12 @@ function render(){
   // decoder: multi-token input, or a single token that is not a whole entry
   if(raw){
     // whole-word lookup first (s/p, c/o, A&Ox3); split on / + & only when the word is not itself an entry
-    const toks=q.value.trim().split(/[\s,;]+/).flatMap(w=>RAW.has(w.toLowerCase())||RAWN.has(norm(w))||!/[\/+&]/.test(w)?[w]:w.split(/[\/+&]+/)).filter(Boolean);
-    if(!RAW.has(raw)&&(toks.length>1||!RAWN.has(n))){
+    const toks=q.value.trim().split(/[\s,;]+/).flatMap(w=>RAW.has(w.toLowerCase())||RAWN.has(norm(w))||pattern(w)||!/[\/+&]/.test(w)?[w]:w.split(/[\/+&]+/)).filter(Boolean);
+    if((!RAW.has(raw)&&(toks.length>1||!RAWN.has(n)))||(toks.length===1&&pattern(typed))){
       toks.filter(w=>!WORDS.has(w)).map(decodeToken).filter(Boolean).forEach(o=>{
         const d=document.createElement("div"); if(o.exact||o.seg) known++;
         if(o.exact) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.exact.map(e=>esc(e.m)+` <span class="g">(${esc(e.spec)})</span>`).join("; ")}`;
-        else if(o.seg) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.seg.map(x=>esc(x.e.m)).join(" + ")} <span class="g">(best guess: ${o.seg.map(x=>esc(x.k.toUpperCase())).join(" + ")})</span>`;
+        else if(o.seg) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.seg.map(x=>esc(x.e.m)).join(" + ")} <span class="g">(${o.why}: ${o.seg.map(x=>esc(x.k.toUpperCase())).join(" + ")})</span>`;
         else d.innerHTML=`<b>${esc(o.t)}</b>: <span class="g">not recognized</span>`;
         dec.append(d);
       });

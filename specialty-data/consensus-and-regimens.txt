@@ -1,0 +1,50 @@
+SPET|Single-photon emission tomography|Radiology
+ABMT|Autologous bone marrow transplantation|Transplant
+CFT|Complement fixation test|Laboratory Medicine
+PSS|Progressive systemic sclerosis|Rheumatology
+WAIS-R|Wechsler Adult Intelligence Scale, Revised|Psychiatry
+WISC-R|Wechsler Intelligence Scale for Children, Revised|Psychiatry
+IDC|Idiopathic dilated cardiomyopathy|Cardiology
+ADD|Attention deficit disorder|Psychiatry
+CGN|Chronic glomerulonephritis|Nephrology
+COCP|Combined oral contraceptive pill|Gynecology
+ADC|AIDS dementia complex|Infectious Disease
+SNB|Sentinel node biopsy|General Surgery
+HFRS|Hemorrhagic fever with renal syndrome|Infectious Disease
+MPD|Myeloproliferative disease|Hematology
+CRD|Chronic renal disease|Nephrology
+CUC|Chronic ulcerative colitis|Gastroenterology
+APKD|Adult polycystic kidney disease|Nephrology
+IVD|Intervertebral disc|Orthopedics
+DCBE|Double-contrast barium enema|Radiology
+ECTR|Endoscopic carpal tunnel release|Orthopedics
+BTB|Breakthrough bleeding|Gynecology
+CHT|Congenital hypothyroidism|Pediatrics
+ECD|Endocardial cushion defect|Cardiology
+CFIDS|Chronic fatigue immune dysfunction syndrome|Chart Shorthand
+SBMA|Spinal and bulbar muscular atrophy|Neurology
+MVPS|Mitral valve prolapse syndrome|Cardiology
+CIMF|Chronic idiopathic myelofibrosis|Hematology
+DTA|Descending thoracic aorta|Cardiac Surgery
+CLS|Capillary leak syndrome|Critical Care
+MMT|Malignant mixed Mullerian tumor|Gynecology
+Px|Physical examination|Chart Shorthand
+OE|On examination|Chart Shorthand
+ACU|Ambulatory care unit|Health Administration
+BCP|Birth control pill|Gynecology
+PTSS|Posttraumatic stress symptoms|Psychiatry
+PVFS|Post-viral fatigue syndrome|Infectious Disease
+TCT|Thrombin clotting time|Laboratory Medicine
+FHS|Fetal heart sounds|Obstetrics
+Ax|Axillary|Chart Shorthand
+ARDSNet|Acute Respiratory Distress Syndrome Network (low tidal volume protocol)|Critical Care
+CLND|Completion lymph node dissection|General Surgery
+CTO|Community treatment order|Psychiatry
+B/F/TAF|Bictegravir, emtricitabine and tenofovir alafenamide|Infectious Disease
+BIC/FTC/TAF|Bictegravir, emtricitabine and tenofovir alafenamide|Infectious Disease
+DTG/ABC/3TC|Dolutegravir, abacavir and lamivudine|Infectious Disease
+CAB/RPV|Cabotegravir and rilpivirine|Infectious Disease
+VOT|Video-observed therapy|Infectious Disease
+SOF/VEL|Sofosbuvir and velpatasvir|Infectious Disease
+G/P|Glecaprevir and pibrentasvir|Infectious Disease
+LDV/SOF|Ledipasvir and sofosbuvir|Infectious Disease

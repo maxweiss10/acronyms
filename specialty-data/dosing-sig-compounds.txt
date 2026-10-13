@@ -1,0 +1,24 @@
+ACHS|Before meals and at bedtime|Chart Shorthand
+QAC|Before each meal|Chart Shorthand
+QACHS|Before each meal and at bedtime|Chart Shorthand
+QDAC|Once daily before meals|Chart Shorthand
+BIDAC|Twice daily before meals|Chart Shorthand
+BIDPC|Twice daily after meals|Chart Shorthand
+TIDAC|Three times daily before meals|Chart Shorthand
+TIDPC|Three times daily after meals|Chart Shorthand
+QAMAC|Every morning before meals|Chart Shorthand
+TIDACHS|Three times daily before meals and at bedtime|Chart Shorthand
+QIDACHS|Four times daily before meals and at bedtime|Chart Shorthand
+QDPRN|Once daily as needed|Chart Shorthand
+Daily PRN|Daily as needed|Chart Shorthand
+BIDPRN|Twice daily as needed|Chart Shorthand
+TIDPRN|Three times daily as needed|Chart Shorthand
+QIDPRN|Four times daily as needed|Chart Shorthand
+QHSPRN|At bedtime as needed|Chart Shorthand
+Q2HPRN|Every 2 hours as needed|Chart Shorthand
+Q3HPRN|Every 3 hours as needed|Chart Shorthand
+Q4HPRN|Every 4 hours as needed|Chart Shorthand
+Q6HPRN|Every 6 hours as needed|Chart Shorthand
+Q8HPRN|Every 8 hours as needed|Chart Shorthand
+Q4-6HPRN|Every 4 to 6 hours as needed|Chart Shorthand
+Q2-4HPRN|Every 2 to 4 hours as needed|Chart Shorthand

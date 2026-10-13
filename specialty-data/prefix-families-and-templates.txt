@@ -1,0 +1,67 @@
+RCFA|Right common femoral artery|Vascular Surgery
+RSFA|Right superficial femoral artery|Vascular Surgery
+RICA|Right internal carotid artery|Neurology
+RMCA|Right middle cerebral artery|Neurology
+RACA|Right anterior cerebral artery|Neurology
+RPCA|Right posterior cerebral artery|Neurology
+RVA|Right vertebral artery|Neurology
+RBKA|Right below-knee amputation|Vascular Surgery
+RAKA|Right above-knee amputation|Vascular Surgery
+LCFA|Left common femoral artery|Vascular Surgery
+LSFA|Left superficial femoral artery|Vascular Surgery
+LICA|Left internal carotid artery|Neurology
+LMCA|Left middle cerebral artery|Neurology
+LACA|Left anterior cerebral artery|Neurology
+LPCA|Left posterior cerebral artery|Neurology
+LVA|Left vertebral artery|Neurology
+LBKA|Left below-knee amputation|Vascular Surgery
+LAKA|Left above-knee amputation|Vascular Surgery
+LTKA|Left total knee arthroplasty|Orthopedics
+LTHA|Left total hip arthroplasty|Orthopedics
+BCCA|Bilateral common carotid artery|Vascular Surgery
+BBKA|Bilateral below-knee amputation|Vascular Surgery
+BAKA|Bilateral above-knee amputation|Vascular Surgery
+BTKA|Bilateral total knee arthroplasty|Orthopedics
+BTHA|Bilateral total hip arthroplasty|Orthopedics
+pLCx|Proximal left circumflex artery|Interventional Cardiology
+mLCx|Mid left circumflex artery|Interventional Cardiology
+dLCx|Distal left circumflex artery|Interventional Cardiology
+LIMA-LAD|Left internal mammary artery to left anterior descending|Cardiac Surgery
+LIMA-D1|Left internal mammary artery to first diagonal|Cardiac Surgery
+RIMA-LAD|Right internal mammary artery to left anterior descending|Cardiac Surgery
+RIMA-RCA|Right internal mammary artery to right coronary artery|Cardiac Surgery
+SVG-LAD|Saphenous vein graft to left anterior descending|Cardiac Surgery
+SVG-D1|Saphenous vein graft to first diagonal|Cardiac Surgery
+SVG-OM|Saphenous vein graft to obtuse marginal|Cardiac Surgery
+SVG-OM1|Saphenous vein graft to first obtuse marginal|Cardiac Surgery
+SVG-RCA|Saphenous vein graft to right coronary artery|Cardiac Surgery
+SVG-PDA|Saphenous vein graft to posterior descending artery|Cardiac Surgery
+AoCHFrEF|Acute on chronic heart failure with reduced ejection fraction|Hospital Medicine
+AoCHFpEF|Acute on chronic heart failure with preserved ejection fraction|Hospital Medicine
+AoCsCHF|Acute on chronic systolic congestive heart failure|Hospital Medicine
+AoCdCHF|Acute on chronic diastolic congestive heart failure|Hospital Medicine
+AoCHRF|Acute on chronic hypoxic respiratory failure|Hospital Medicine
+AoCHCRF|Acute on chronic hypercapnic respiratory failure|Hospital Medicine
+AoCRF|Acute on chronic respiratory failure|Hospital Medicine
+AoCSDH|Acute on chronic subdural hematoma|Hospital Medicine
+AEIPF|Acute exacerbation of idiopathic pulmonary fibrosis|Hospital Medicine
+APE|Acute pulmonary embolism|Hospital Medicine
+AITP|Acute immune thrombocytopenia|Hospital Medicine
+AAMR|Acute antibody-mediated rejection|Hospital Medicine
+CHRF|Chronic hypoxic respiratory failure|Hospital Medicine
+CHCRF|Chronic hypercapnic respiratory failure|Hospital Medicine
+CITP|Chronic immune thrombocytopenia|Hospital Medicine
+CHCV|Chronic hepatitis C|Hospital Medicine
+IMI|Inferior myocardial infarction|Cardiology
+ISTEMI|Inferior ST-elevation myocardial infarction|Cardiology
+ASTEMI|Anterior ST-elevation myocardial infarction|Cardiology
+LMI|Lateral myocardial infarction|Cardiology
+ALMI|Anterolateral myocardial infarction|Cardiology
+ASMI|Anteroseptal myocardial infarction|Cardiology
+RVMI|Right ventricular myocardial infarction|Cardiology
+IDT2DM|Insulin-dependent type 2 diabetes mellitus|Chart Shorthand
+NIDT2DM|Non-insulin-dependent type 2 diabetes mellitus|Chart Shorthand
+NICMP|Nonischemic cardiomyopathy|Chart Shorthand
+ICMP|Ischemic cardiomyopathy|Chart Shorthand
+UENI|Upper extremity noninvasive venous doppler|Radiology
+L/RHC|Left and right heart catheterization|Interventional Cardiology

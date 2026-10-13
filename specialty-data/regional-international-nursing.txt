@@ -1,0 +1,84 @@
+NCHD|Non-consultant hospital doctor|Health Administration
+BST|Basic specialist training|Health Administration
+HST|Higher specialist training|Health Administration
+ANP|Advanced nurse practitioner|Nursing
+AMAU|Acute medical assessment unit|Health Administration
+SAU|Surgical assessment unit|Health Administration
+EAU|Emergency assessment unit|Emergency Medicine
+GPOOH|General practice out of hours|Health Administration
+MO|Medical officer|Health Administration
+RTI|Road traffic injury|Emergency Medicine
+RVD|Retroviral disease (HIV)|Infectious Disease
+CCMT|Comprehensive care, management and treatment (HIV program)|Infectious Disease
+GXP|GeneXpert MTB/RIF test|Infectious Disease
+CM|Cryptococcal meningitis|Infectious Disease
+EPU|Early pregnancy unit|Obstetrics
+DAU|Day assessment unit|Obstetrics
+LUSCS|Lower uterine segment caesarean section|Obstetrics
+FMF|Fetal movements felt|Obstetrics
+RFM|Reduced fetal movements|Obstetrics
+FHHR|Fetal heart heard regular|Obstetrics
+FH|Fetal heart|Obstetrics
+TTH|To take home (discharge medications)|Pharmacology
+IDL|Immediate discharge letter|Health Administration
+OPC|Outpatient clinic|Health Administration
+RV|Review|Chart Shorthand
+R/V|Review|Chart Shorthand
+MDS|Monitored dosage system (blister pack)|Pharmacology
+PGD|Patient group direction|Pharmacology
+WCC|White cell count|Laboratory Medicine
+G&S|Group and save|Lab Specimens & Blood Bank
+BCs|Blood cultures|Laboratory Medicine
+BMs|Capillary blood glucose readings|Laboratory Medicine
+HGT|Haemoglucotest (fingerstick glucose)|Laboratory Medicine
+DTX|Dextrostix (fingerstick glucose)|Laboratory Medicine
+CBS|Capillary blood sugar|Laboratory Medicine
+GRBS|General random blood sugar|Laboratory Medicine
+UFR|Urine full report|Laboratory Medicine
+UFEME|Urine full examination and microscopic examination|Laboratory Medicine
+R/E|Routine examination|Laboratory Medicine
+R/M|Routine and microscopy|Laboratory Medicine
+UR/ME|Urine routine and microscopic examination|Laboratory Medicine
+SE|Serum electrolytes|Laboratory Medicine
+S/E|Serum electrolytes|Laboratory Medicine
+RFTs|Renal function tests|Laboratory Medicine
+SBR|Serum bilirubin|Laboratory Medicine
+MT|Mantoux test|Infectious Disease
+NS1|Dengue non-structural protein 1 antigen|Infectious Disease
+MPS|Malaria parasite smear|Laboratory Medicine
+MPQBC|Malaria parasite by quantitative buffy coat|Laboratory Medicine
+IWMI|Inferior wall myocardial infarction|Cardiology
+ASWMI|Anteroseptal wall myocardial infarction|Cardiology
+ALWMI|Anterolateral wall myocardial infarction|Cardiology
+PWMI|Posterior wall myocardial infarction|Cardiology
+DVD|Double vessel disease|Cardiology
+TVD|Triple vessel disease|Cardiology
+NNJ|Neonatal jaundice|Neonatology
+OPC|Organophosphorus compound|Toxicology
+CRHT|Crisis resolution and home treatment team|Psychiatry
+HTT|Home treatment team|Psychiatry
+CPA|Care programme approach|Psychiatry
+S136|Section 136 place of safety (Mental Health Act)|Psychiatry
+NFA|No fixed abode|Social Work & Case Management
+DST|Decision support tool (continuing healthcare)|Social Work & Case Management
+WZF|Walking zimmer frame|Physical Therapy
+ZF|Zimmer frame|Physical Therapy
+WF|Walking frame|Physical Therapy
+FBC|Fluid balance chart|Nursing
+RIG|Radiologically inserted gastrostomy|Gastroenterology
+CEWS|Children's early warning score|Pediatrics
+TEP|Treatment escalation plan|Palliative Care
+TEAL|Treatment escalation and limitation|Palliative Care
+NFI|Not for intubation|Palliative Care
+NFE|Not for escalation|Palliative Care
+LCP|Liverpool Care Pathway|Palliative Care
+PPC|Preferred place of care|Palliative Care
+PPD|Preferred place of death|Palliative Care
+JIC|Just in case medications|Palliative Care
+SD|Syringe driver|Palliative Care
+PFR|Peak flow rate|Pulmonology
+TOF|Tracheo-oesophageal fistula|Pediatrics
+POP|Plaster of Paris|Orthopedics
+ODP|Operating department practitioner|Perioperative Nursing
+CISC|Clean intermittent self-catheterisation|Urology
+OGV|Oesophagogastric varices|Gastroenterology

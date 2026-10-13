@@ -1,0 +1,101 @@
+TBil|Total bilirubin|Laboratory Medicine
+CBil|Conjugated bilirubin|Laboratory Medicine
+TProt|Total protein|Laboratory Medicine
+RDW-SD|Red cell distribution width, standard deviation|Laboratory Medicine
+RDW-CV|Red cell distribution width, coefficient of variation|Laboratory Medicine
+CKMB-RI|CK-MB relative index|Laboratory Medicine
+eGFRAA|Estimated GFR, African American (older race-based equation)|Laboratory Medicine
+UpH|Urine pH|Laboratory Medicine
+URBC|Urine red blood cells|Laboratory Medicine
+UWBC|Urine white blood cells|Laboratory Medicine
+UC|Urine culture|Laboratory Medicine
+LAC|Lactic acid|Laboratory Medicine
+MB|CK-MB (creatine kinase MB isoenzyme)|Laboratory Medicine
+MBT|Maternal blood type|Obstetrics
+PCV|Packed cell volume (hematocrit)|Laboratory Medicine
+CNS|Coagulase-negative staphylococci|Infectious Disease
+BK|BK polyomavirus|Transplant
+SS|Sickle cell disease (hemoglobin SS)|Hematology
+SC|Hemoglobin SC disease|Hematology
+CPPD|Chest physiotherapy, percussion and postural drainage|Respiratory Therapy
+nho|Notify house officer|Chart Shorthand
+CRI|Chronic renal insufficiency|Nephrology
+CRI|Chronic renal insufficiency|Chart Shorthand
+TMG|Toxic multinodular goiter|Endocrinology
+PBSCT|Peripheral blood stem cell transplant|Transplant
+ENMT|Ears, nose, mouth and throat|Chart Shorthand
+EENT|Eyes, ears, nose and throat|Chart Shorthand
+ICD-9|International Classification of Diseases, 9th revision|Health Insurance & Billing
+PCCU|Pediatric critical care unit|Pediatrics
+NCU|Neuroscience critical care unit|Neurology
+CLS|Child life specialist|Pediatrics
+CCLS|Certified child life specialist|Pediatrics
+ACNP|Acute care nurse practitioner|Nursing
+FNP|Family nurse practitioner|Nursing
+APN|Advanced practice nurse|Nursing
+RN-BC|Registered nurse, board certified|Nursing
+DCS|Department of Children's Services|Social Work & Case Management
+SBE|Self breast exam|Gynecology
+P2|Pulmonic component of the second heart sound|Cardiology
+PPS|Peripheral pulmonary stenosis|Pediatrics
+BT shunt|Blalock-Taussig shunt|Cardiac Surgery
+BT|Blalock-Taussig shunt|Cardiac Surgery
+Cx|Circumflex artery|Cardiology
+PD|Posterior descending artery|Cardiology
+PTs|Posterior tibial pulses|Chart Shorthand
+TV|Transvaginal|Obstetrics
+AV|Anteverted uterus|Gynecology
+LR|Living related donor|Transplant
+SW|Semmes-Weinstein monofilament|Podiatry
+VSS|Videofluoroscopic swallow study|Speech-Language Pathology
+PET|Pressure equalization tubes|Otolaryngology
+PE|Phenytoin equivalents|Pharmacology
+CDE|Cumulative dissipated energy|Ophthalmology
+PS|Photic stimulation|Neurology
+SS|Sleep study|Sleep Medicine
+TM|Thyromegaly|Endocrinology
+TM|Temporomandibular|Dentistry
+HCT|Head CT|Radiology
+HR|High risk|Chart Shorthand
+HD|High dose|Pharmacology
+NEC|Not elsewhere classified|Health Insurance & Billing
+BSA|Broad-spectrum antibiotics|Infectious Disease
+FDG|Fludeoxyglucose|Radiology
+FU|Fluorouracil|Oncology
+NR|Nonreactive|Laboratory Medicine
+BD|Bone density|Radiology
+WM|White matter|Radiology
+SR|Standard risk|Oncology
+AFV|Amniotic fluid volume|Obstetrics
+CxBx|Cervical biopsy|Gynecology
+EMBx|Endometrial biopsy|Gynecology
+DiDi|Dichorionic diamniotic twins|Obstetrics
+Mono-Di|Monochorionic diamniotic twins|Obstetrics
+MoDi|Monochorionic diamniotic twins|Obstetrics
+MoMo|Monochorionic monoamniotic twins|Obstetrics
+EICF|Echogenic intracardiac focus|Obstetrics
+FTNSVD|Full-term normal spontaneous vaginal delivery|Obstetrics
+GFM|Good fetal movement|Obstetrics
+GSUI|Genuine stress urinary incontinence|Gynecology
+HGSIL|High-grade squamous intraepithelial lesion|Gynecology
+LGSIL|Low-grade squamous intraepithelial lesion|Gynecology
+LTL|Laparoscopic tubal ligation|Gynecology
+TL|Tubal ligation|Gynecology
+MMX|Myomectomy|Gynecology
+OMX|Omentectomy|Gynecology
+PPLND|Pelvic and para-aortic lymph node dissection|Gynecology
+PUBS|Percutaneous umbilical blood sampling|Obstetrics
+PUPPS|Pruritic urticarial papules and plaques of pregnancy|Obstetrics
+RA-TLH|Robotic-assisted total laparoscopic hysterectomy|Gynecology
+RBOW|Ruptured bag of water|Obstetrics
+VTOP|Voluntary termination of pregnancy|Obstetrics
+BCM|Birth control method|Gynecology
+BPV|Bleeding per vagina|Obstetrics
+ELF|Elective low forceps|Obstetrics
+LCP|Long, closed, posterior (cervical exam)|Obstetrics
+LPD|Luteal phase defect|Gynecology
+MOD|Mode of delivery|Obstetrics
+P/N/F|Pooling, nitrazine, ferning|Obstetrics
+POPs|Progestin-only pills|Gynecology
+MC|Male child|Obstetrics
+FC|Female child|Obstetrics

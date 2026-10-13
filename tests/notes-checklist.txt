@@ -680,3 +680,87 @@ VOT|Video-observed therapy
 SOF/VEL|Sofosbuvir and velpatasvir
 G/P|Glecaprevir and pibrentasvir
 LDV/SOF|Ledipasvir and sofosbuvir
+NCHD|Non-consultant hospital doctor
+BST|Basic specialist training
+HST|Higher specialist training
+ANP|Advanced nurse practitioner
+AMAU|Acute medical assessment unit
+SAU|Surgical assessment unit
+EAU|Emergency assessment unit
+GPOOH|General practice out of hours
+MO|Medical officer
+RTI|Road traffic injury
+RVD|Retroviral disease (HIV)
+CCMT|Comprehensive care, management and treatment (HIV program)
+GXP|GeneXpert MTB/RIF test
+CM|Cryptococcal meningitis
+EPU|Early pregnancy unit
+DAU|Day assessment unit
+LUSCS|Lower uterine segment caesarean section
+FMF|Fetal movements felt
+RFM|Reduced fetal movements
+FHHR|Fetal heart heard regular
+FH|Fetal heart
+TTH|To take home (discharge medications)
+IDL|Immediate discharge letter
+OPC|Outpatient clinic
+RV|Review
+R/V|Review
+MDS|Monitored dosage system (blister pack)
+PGD|Patient group direction
+WCC|White cell count
+G&S|Group and save
+BCs|Blood cultures
+BMs|Capillary blood glucose readings
+HGT|Haemoglucotest (fingerstick glucose)
+DTX|Dextrostix (fingerstick glucose)
+CBS|Capillary blood sugar
+GRBS|General random blood sugar
+UFR|Urine full report
+UFEME|Urine full examination and microscopic examination
+R/E|Routine examination
+R/M|Routine and microscopy
+UR/ME|Urine routine and microscopic examination
+SE|Serum electrolytes
+S/E|Serum electrolytes
+RFTs|Renal function tests
+SBR|Serum bilirubin
+MT|Mantoux test
+NS1|Dengue non-structural protein 1 antigen
+MPS|Malaria parasite smear
+MPQBC|Malaria parasite by quantitative buffy coat
+IWMI|Inferior wall myocardial infarction
+ASWMI|Anteroseptal wall myocardial infarction
+ALWMI|Anterolateral wall myocardial infarction
+PWMI|Posterior wall myocardial infarction
+DVD|Double vessel disease
+TVD|Triple vessel disease
+NNJ|Neonatal jaundice
+OPC|Organophosphorus compound
+CRHT|Crisis resolution and home treatment team
+HTT|Home treatment team
+CPA|Care programme approach
+S136|Section 136 place of safety (Mental Health Act)
+NFA|No fixed abode
+DST|Decision support tool (continuing healthcare)
+WZF|Walking zimmer frame
+ZF|Zimmer frame
+WF|Walking frame
+FBC|Fluid balance chart
+RIG|Radiologically inserted gastrostomy
+CEWS|Children's early warning score
+TEP|Treatment escalation plan
+TEAL|Treatment escalation and limitation
+NFI|Not for intubation
+NFE|Not for escalation
+LCP|Liverpool Care Pathway
+PPC|Preferred place of care
+PPD|Preferred place of death
+JIC|Just in case medications
+SD|Syringe driver
+PFR|Peak flow rate
+TOF|Tracheo-oesophageal fistula
+POP|Plaster of Paris
+ODP|Operating department practitioner
+CISC|Clean intermittent self-catheterisation
+OGV|Oesophagogastric varices

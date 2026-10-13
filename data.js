@@ -429,6 +429,7 @@ P&PD|Percussion and postural drainage|Respiratory Therapy
 PPD|Postpartum day|Chart Shorthand, Maternal-Newborn Nursing
 PPD|Purified protein derivative (TB skin test)|Chart Shorthand
 PPD|Purified protein derivative|Infection Prevention
+PPD|Preferred place of death|Palliative Care
 PY|Pack-years|Addiction Medicine, Chart Shorthand, Public Health, Vascular Surgery
 PY|Performance year|Health Administration
 PY|Person-years|Public Health
@@ -497,6 +498,7 @@ CM|Circumferential margin|Pathology
 CM|Conus medullaris|Physical Medicine & Rehab
 CM|Case management|Behavioral Health Unit, Health Insurance & Billing, Occupational Therapy, Physical Therapy, Psychiatry, Social Work & Case Management
 cm|Centimeters|Chart Shorthand
+CM|Cryptococcal meningitis|Infectious Disease
 CRA|Community reinforcement approach|Addiction Medicine
 CRA|Cranial angulation|Cardiac Imaging
 CRA|Caries risk assessment|Dentistry
@@ -580,6 +582,8 @@ OPC|Overdose prevention center|Addiction Medicine
 OPC|Oropharyngeal candidiasis|Infectious Disease
 OPC|Oropharyngeal cancer|Oncology
 OPC|Oropharynx clear|Chart Shorthand
+OPC|Outpatient clinic|Health Administration
+OPC|Organophosphorus compound|Toxicology
 OEND|Overdose education and naloxone distribution|Addiction Medicine
 OD|Overdose|Addiction Medicine, EMS & Prehospital, Emergency Medicine, Pharmacology, Toxicology
 OD|Right eye (oculus dexter)|Chart Shorthand, Emergency Medicine, Geriatrics, Hospital Medicine, Nursing, Otolaryngology, Pharmacology
@@ -1119,6 +1123,7 @@ RM|Rapid metabolizer|Genetics, Pharmacology
 RM|Radial margin|Pathology
 RM|Reduction mammaplasty|Plastic Surgery
 RM|Repetition maximum|Sports Medicine
+R/M|Routine and microscopy|Laboratory Medicine
 AKI|Acute kidney injury|Addiction Medicine, Anesthesiology, Cardiac Imaging, Cardiac Surgery, Critical Care, Dialysis Nursing, Emergency Medicine, Gastroenterology, General Surgery, Geriatrics, Heart Failure, Hepatology, Hospital Medicine, Infectious Disease, Interventional Cardiology, Laboratory Medicine, Neonatology, Nephrology, Nursing, Obstetrics, Orthopedics, Pain Medicine, Palliative Care, Pediatrics, Pharmacology, Physical Medicine & Rehab, Plastic Surgery, Radiology, Rheumatology, Sports Medicine, Toxicology, Transplant, Trauma Surgery, Urology, Vascular Surgery
 CK|Creatine kinase|Addiction Medicine, Anesthesiology, Cardiac Surgery, Cardiology, Critical Care, Dermatology, Emergency Medicine, Endocrinology, Genetics, Heart Failure, Hospital Medicine, Interventional Cardiology, Laboratory Medicine, Nephrology, Neurology, Nursing, Orthopedics, Pain Medicine, Pharmacology, Plastic Surgery, Psychiatry, Rheumatology, Sleep Medicine, Sports Medicine, Toxicology, Transplant, Trauma Surgery, Vascular Surgery
 CK|CyberKnife|Oncology
@@ -2129,6 +2134,7 @@ FH|Family history|Addiction Medicine, Allergy & Immunology, Chart Shorthand, Cri
 FH|Familial hypercholesterolemia|Cardiology, Genetics, Hepatology, Interventional Cardiology, Nutrition
 FH|Fundal height|Maternal-Newborn Nursing, Obstetrics
 FH|Funeral home|Chaplaincy & Spiritual Care
+FH|Fetal heart|Obstetrics
 SH|Social history|Addiction Medicine, Chart Shorthand, Critical Care, Dermatology, Electrophysiology, Emergency Medicine, Geriatrics, Nursing, Nutrition, Ophthalmology, Otolaryngology, Pain Medicine, Palliative Care, Pediatrics, Psychiatry, Toxicology, Vascular Surgery
 SH|Supracervical hysterectomy|Obstetrics
 SH|Self-harm|Behavioral Health Unit, Psychiatry
@@ -2651,6 +2657,7 @@ BT|Bladder training|Wound & Ostomy Care
 BT|Breakthrough|Chart Shorthand
 BT|Blalock-Taussig shunt|Cardiac Surgery
 BST|Baseline serum tryptase|Allergy & Immunology
+BST|Basic specialist training|Health Administration
 TKI|Tyrosine kinase inhibitor|Allergy & Immunology, Genetics, Heart Failure, Hematology, Hepatology, Oncology, Pharmacology, Transplant, Urology
 FcεRI|High-affinity IgE receptor|Allergy & Immunology
 FcεRII|Low-affinity IgE receptor|Allergy & Immunology
@@ -2769,6 +2776,7 @@ CPA|Cyclophosphamide|Oncology
 CPA|Constant paralytic angle|Ophthalmology
 CPA|Central posterior-anterior mobilization|Physical Therapy
 CPA|Collaborative practice agreement|Pharmacy Operations
+CPA|Care programme approach|Psychiatry
 EGPA|Eosinophilic granulomatosis with polyangiitis|Allergy & Immunology, Dermatology, Nephrology, Otolaryngology, Pathology, Pulmonology, Rheumatology, Vascular Surgery
 GPA|Granulomatosis with polyangiitis|Allergy & Immunology, Dermatology, Nephrology, Ophthalmology, Otolaryngology, Pulmonology, Rheumatology, Vascular Surgery
 GPA|Ganglionated plexus ablation|Electrophysiology
@@ -3125,6 +3133,8 @@ RV|Right ventricle|Anesthesiology, Cardiac Imaging, Cardiac Surgery, Cardiology,
 RV|Right ventricular|Cardiac Surgery
 RV|Renal vein|Radiology
 RV|Return visit|Chart Shorthand
+RV|Review|Chart Shorthand
+R/V|Review|Chart Shorthand
 mRNA|Messenger RNA|Allergy & Immunology, Genetics
 mRNA|Messenger ribonucleic acid (vaccine platform)|Public Health
 DTH|Delayed-type hypersensitivity|Allergy & Immunology
@@ -3176,6 +3186,7 @@ NOMID|Neonatal-onset multisystem inflammatory disease|Allergy & Immunology, Rheu
 CINCA|Chronic infantile neurologic cutaneous articular syndrome|Allergy & Immunology
 FMF|Familial Mediterranean fever|Allergy & Immunology, Nephrology, Rheumatology
 FMF|Folliculotropic mycosis fungoides|Dermatology
+FMF|Fetal movements felt|Obstetrics
 TRAPS|Tumor necrosis factor receptor-associated periodic syndrome|Allergy & Immunology, Dermatology, Rheumatology
 HIDS|Hyper-IgD syndrome|Allergy & Immunology
 HIDS|Hyperimmunoglobulin D syndrome|Dermatology
@@ -3704,6 +3715,7 @@ V/Q|Ventilation-perfusion ratio|Respiratory Therapy
 PPC|Postoperative pulmonary complications|Anesthesiology, Cardiac Surgery, General Surgery
 PPC|Pancreatic pseudocyst|Gastroenterology
 PPC|Primary peritoneal carcinoma|Oncology, Pathology
+PPC|Preferred place of care|Palliative Care
 VILI|Ventilator-induced lung injury|Anesthesiology, Critical Care, Pulmonology, Respiratory Therapy
 TACO|Transfusion-associated circulatory overload|Anesthesiology, Critical Care, Hematology, Hospital Medicine, Lab Specimens & Blood Bank, Laboratory Medicine, Nursing, Pathology, Transplant, Trauma Surgery, Vascular Surgery
 OHS|Obesity hypoventilation syndrome|Anesthesiology, Critical Care, Hospital Medicine, Pulmonology, Respiratory Therapy, Sleep Medicine
@@ -4236,6 +4248,7 @@ TOF|Time of flight|Neurology, Radiology
 TOF|Time-of-flight PET|Radiology
 TOF|Train-of-four neuromuscular monitoring|Trauma Surgery
 TOF|Time-of-flight MR angiography|Vascular Surgery
+TOF|Tracheo-oesophageal fistula|Pediatrics
 TOFR|Train-of-four ratio|Anesthesiology
 TOFC|Train-of-four count|Anesthesiology
 PTC|Post-tetanic count|Anesthesiology, Critical Care, Perioperative Nursing
@@ -5525,6 +5538,7 @@ BMS|Bare-metal stent|Cardiac Imaging, Cardiac Surgery, Cardiology, Electrophysio
 BMS|Burning mouth syndrome|Dentistry
 BMS|Bowel movements|Gastroenterology
 BMS|Bowel management system|Nursing, Wound & Ostomy Care
+BMs|Capillary blood glucose readings|Laboratory Medicine
 BVS|Bioresorbable vascular scaffold|Cardiac Imaging, Interventional Cardiology
 BVS|Bladder volume scan|Chart Shorthand
 DCB|Drug-coated balloon|Cardiac Imaging, Cardiology, Interventional Cardiology, Vascular Surgery
@@ -5715,6 +5729,7 @@ RVD|Right ventricular diameter|Cardiac Imaging
 RVD|Right ventricular dysfunction|Heart Failure, Pulmonology
 RVD|Lenalidomide, bortezomib and dexamethasone regimen|Hematology, Oncology
 RVD|Reference vessel diameter|Interventional Cardiology
+RVD|Retroviral disease (HIV)|Infectious Disease
 RVD1|Right ventricular basal diameter|Cardiac Imaging
 RVD2|Right ventricular mid diameter|Cardiac Imaging
 RVD3|Right ventricular longitudinal diameter|Cardiac Imaging
@@ -5987,6 +6002,7 @@ CAV|Cyclophosphamide, doxorubicin and vincristine regimen|Oncology
 PGD|Primary graft dysfunction|Cardiac Surgery, Heart Failure, Transplant
 PGD|Preimplantation genetic diagnosis|Genetics
 PGD|Prolonged grief disorder|Chaplaincy & Spiritual Care, Palliative Care
+PGD|Patient group direction|Pharmacology
 ACR|Acute cellular rejection|Cardiac Surgery, Heart Failure, Hepatology, Nephrology, Pathology, Transplant
 ACR|Albumin-to-creatinine ratio|Endocrinology, Laboratory Medicine, Nephrology, Rheumatology
 ACR|American College of Rheumatology|Evidence-Based Medicine
@@ -6448,6 +6464,7 @@ AMI|Acute mesenteric ischemia|Critical Care, Gastroenterology, Vascular Surgery
 AMI|Amitriptyline|Psychiatry
 AMI|Agonist-antagonist myoneural interface|Orthotics & Prosthetics
 ANP|Atrial natriuretic peptide|Cardiology, Heart Failure, Laboratory Medicine, Nephrology, Pharmacology
+ANP|Advanced nurse practitioner|Nursing
 APB|Atrial premature beat|Cardiology, Electrophysiology
 APB|Abductor pollicis brevis|Occupational Therapy, Orthopedics, Physical Medicine & Rehab, Plastic Surgery
 APD|Action potential duration|Cardiology, Electrophysiology
@@ -7443,6 +7460,7 @@ FF|Fundus firm|Maternal-Newborn Nursing
 FF|Formula feeding|Maternal-Newborn Nursing
 UFR|Ultrafiltration rate|Critical Care, Dialysis Nursing, Nephrology
 UFR|Urinary flow rate|Urology
+UFR|Urine full report|Laboratory Medicine
 NUF|Net ultrafiltration|Critical Care, Dialysis Nursing
 BFR|Blood flow rate|Critical Care, Dialysis Nursing
 BFR|Blood flow restriction|Sports Medicine
@@ -8137,6 +8155,8 @@ SE|Shared epitope|Rheumatology
 SE|Sleep efficiency|Sleep Medicine
 SE|Self-expanding|Vascular Surgery
 S&E|Seen and examined|Chart Shorthand
+SE|Serum electrolytes|Laboratory Medicine
+S/E|Serum electrolytes|Laboratory Medicine
 RSE|Refractory status epilepticus|Critical Care, Neurology
 SRSE|Super-refractory status epilepticus|Critical Care, Neurology
 NCSE|Nonconvulsive status epilepticus|Critical Care, Neurology, Neurosurgery
@@ -8905,6 +8925,7 @@ MO|Molybdenum|Nutrition
 MO|Medial oblique (view)|Podiatry
 Mo|Mother|Chart Shorthand
 mo|Month|Chart Shorthand
+MO|Medical officer|Health Administration
 DO|Disto-occlusal|Dentistry
 DO|Discitis-osteomyelitis|Neurosurgery
 DO|Distraction osteogenesis|Otolaryngology, Plastic Surgery
@@ -9585,6 +9606,7 @@ GS|Gleason score|Oncology, Urology
 GS|Glaucoma suspect|Ophthalmology
 GS|Glute set|Physical Therapy
 GS|Grip strength|Occupational Therapy
+G&S|Group and save|Lab Specimens & Blood Bank
 AFB|Acid-fast bacilli|Dermatology, Infection Prevention, Infectious Disease, Lab Specimens & Blood Bank, Laboratory Medicine, Otolaryngology, Pathology, Podiatry, Procedures & Sedation, Public Health, Pulmonology, Respiratory Therapy
 AFB|Axillofemoral bypass|Vascular Surgery
 AFB|Air-fluidized bed|Wound & Ostomy Care
@@ -10266,6 +10288,7 @@ TEP|Transesophageal pacing|Electrophysiology
 TEP|Totally extraperitoneal repair|General Surgery
 TEP|Tracheoesophageal puncture|Otolaryngology, Pulmonology, Speech-Language Pathology
 TEP|Tracheoesophageal prosthesis|Speech-Language Pathology
+TEP|Treatment escalation plan|Palliative Care
 EMT|Emergency medical technician|EMS & Prehospital, Emergency Medicine, Public Health, Trauma Surgery
 EMT|Endometrial thickness|Gynecology
 EMT|Epithelial-mesenchymal transition|Pathology
@@ -10748,6 +10771,7 @@ TRT|Targeted radionuclide therapy|Oncology
 TRT|Total recording time|Sleep Medicine
 TTh|Testosterone therapy|Endocrinology, Urology
 TTh|Tension-type headache|Neurology, Pain Medicine
+TTH|To take home (discharge medications)|Pharmacology
 LOH|Late-onset hypogonadism|Endocrinology, Urology
 LOH|Loss of heterozygosity|Genetics, Oncology, Pathology
 LOH|Loop of Henle|Nephrology
@@ -11019,6 +11043,7 @@ ACA|Anticentromere antibody|Rheumatology
 DST|Dexamethasone suppression test|Endocrinology, Laboratory Medicine, Psychiatry
 DST|Dermal sinus tract|Neurosurgery
 DST|Daylight saving time|Sleep Medicine
+DST|Decision support tool (continuing healthcare)|Social Work & Case Management
 ODST|Overnight dexamethasone suppression test|Endocrinology
 LDDST|Low-dose dexamethasone suppression test|Endocrinology
 HDDST|High-dose dexamethasone suppression test|Endocrinology
@@ -11202,6 +11227,7 @@ FCS|Family and Children's Services (San Francisco)|Social Work & Case Management
 F/C/S|Fevers, chills, sweats|Chart Shorthand
 IDL|Intermediate-density lipoprotein|Endocrinology
 IDL|Indirect laryngoscopy|Otolaryngology
+IDL|Immediate discharge letter|Health Administration
 non-HDL-C|Non-high-density lipoprotein cholesterol|Endocrinology, Laboratory Medicine, Nutrition, Pharmacology
 apoB|Apolipoprotein B|Endocrinology, Interventional Cardiology, Laboratory Medicine, Vascular Surgery
 apoA1|Apolipoprotein A-I|Endocrinology
@@ -11227,6 +11253,7 @@ WDT|Water deprivation test|Endocrinology
 HST|Hypertonic saline test|Endocrinology
 HST|Horseshoe tear|Ophthalmology
 HST|Home sleep test|Otolaryngology, Respiratory Therapy, Sleep Medicine
+HST|Higher specialist training|Health Administration
 IVI|Intravenous insulin infusion|Endocrinology
 IVI|Intravitreal injection|Ophthalmology
 I/VI|Grade 1 of 6 murmur|Chart Shorthand
@@ -11457,6 +11484,7 @@ TPC|Tunneled pleural catheter|Procedures & Sedation
 pSBO|Partial small bowel obstruction|Gastroenterology, Radiology
 SBR|Small bowel resection|Gastroenterology, General Surgery, Pathology, Trauma Surgery
 SBR|Strict bed rest|Nursing, Occupational Therapy
+SBR|Serum bilirubin|Laboratory Medicine
 SIBO|Small intestinal bacterial overgrowth|Gastroenterology, Hepatology, Infectious Disease, Nutrition
 IMO|Intestinal methanogen overgrowth|Gastroenterology
 SIFO|Small intestinal fungal overgrowth|Gastroenterology
@@ -11714,6 +11742,7 @@ CPN|Community psychiatric nurse|Psychiatry
 BCS|Budd-Chiari syndrome|Gastroenterology, Hematology
 BCS|Breast-conserving surgery|General Surgery, Oncology, Pathology, Plastic Surgery
 BCS|Biopharmaceutics classification system|Pharmacology
+BCs|Blood cultures|Laboratory Medicine
 SMA-artery|Superior mesenteric artery|Gastroenterology
 SMAS|Superior mesenteric artery syndrome|Gastroenterology
 SMAS|Superficial musculoaponeurotic system|Otolaryngology, Plastic Surgery
@@ -12820,6 +12849,7 @@ CDR-SB|Clinical dementia rating sum of boxes|Geriatrics, Neurology
 BIMS|Brief interview for mental status|Geriatrics, Palliative Care
 MDS|Minimum data set|Geriatrics, Health Administration, Health Insurance & Billing, Occupational Therapy, Physical Therapy, Social Work & Case Management, Speech-Language Pathology
 MDS|Myelodysplastic syndrome|Hematology, Hospital Medicine, Laboratory Medicine, Oncology, Palliative Care, Pathology, Transplant
+MDS|Monitored dosage system (blister pack)|Pharmacology
 4AT|4 A's test for delirium screening|Geriatrics, Psychiatry
 4AT|4 As Test for delirium|Nursing
 Mini-Cog|Brief cognitive screen using three-word recall and clock drawing|Geriatrics
@@ -12850,6 +12880,7 @@ nfvPPA|Nonfluent variant primary progressive aphasia|Geriatrics, Neurology
 nfvPPA|Nonfluent/agrammatic variant primary progressive aphasia|Speech-Language Pathology
 lvPPA|Logopenic variant primary progressive aphasia|Geriatrics, Neurology, Speech-Language Pathology
 CBS|Corticobasal syndrome|Geriatrics, Neurology
+CBS|Capillary blood sugar|Laboratory Medicine
 aMCI|Amnestic mild cognitive impairment|Geriatrics
 naMCI|Non-amnestic mild cognitive impairment|Geriatrics
 NCD|Neurocognitive disorder|Behavioral Health Unit, Geriatrics, Psychiatry
@@ -13219,6 +13250,7 @@ HSG|Hysterosalpingogram|Gynecology, Radiology
 HPV-DNA|Human papillomavirus DNA test|Gynecology, Infectious Disease
 POP|Progestin-only pill|Gynecology, Maternal-Newborn Nursing, Obstetrics, Pharmacology
 POP|Pelvic organ prolapse|Gynecology, Physical Therapy, Urology, Wound & Ostomy Care
+POP|Plaster of Paris|Orthopedics
 IUD|Intrauterine device|Gynecology, Hospital Medicine, Maternal-Newborn Nursing, Obstetrics, Pharmacology, Public Health, Radiology
 LNG-IUD|Levonorgestrel intrauterine device|Gynecology, Maternal-Newborn Nursing, Obstetrics
 LARC|Long-acting reversible contraception|Gynecology, Maternal-Newborn Nursing, Obstetrics, Pharmacology, Public Health
@@ -15644,6 +15676,7 @@ NTZ|Natalizumab|Neurology
 BZN|Benznidazole|Infectious Disease
 RIG|Rabies immune globulin|Infectious Disease, Pharmacology, Plastic Surgery, Public Health
 Rig|Ambulance|EMS & Prehospital
+RIG|Radiologically inserted gastrostomy|Gastroenterology
 ABHR|Alcohol-based hand rub|Infection Prevention, Infectious Disease, Public Health
 MRSA screen|Nasal screening for methicillin-resistant Staphylococcus aureus|Infectious Disease
 SDD-GI|Selective digestive decontamination|Infectious Disease
@@ -17457,6 +17490,7 @@ SD|Seat depth|Occupational Therapy
 SD|Semantic dementia|Speech-Language Pathology
 SD|Spiritual distress|Chaplaincy & Spiritual Care
 SD|Shoulder disarticulation|Orthotics & Prosthetics
+SD|Syringe driver|Palliative Care
 UtA|Uterine artery|Obstetrics
 UTA|Unable to assess|Occupational Therapy
 U/S|Ultrasound|Maternal-Newborn Nursing, Obstetrics, Perioperative Nursing, Physical Therapy, Podiatry, Procedures & Sedation
@@ -17635,6 +17669,7 @@ VenR|Venetoclax and rituximab regimen|Oncology
 VenO|Venetoclax and obinutuzumab regimen|Oncology
 VenAza|Venetoclax and azacitidine|Oncology
 DVd|Daratumumab, bortezomib and dexamethasone regimen|Oncology
+DVD|Double vessel disease|Cardiology
 IsaKd|Isatuximab, carfilzomib and dexamethasone|Oncology
 IsaPd|Isatuximab, pomalidomide and dexamethasone|Oncology
 EloPd|Elotuzumab, pomalidomide and dexamethasone|Oncology
@@ -18931,6 +18966,7 @@ CTCAE|Common Terminology Criteria for Adverse Events|Evidence-Based Medicine, On
 RP2D|Recommended phase 2 dose|Evidence-Based Medicine, Oncology, Pharmacology
 VRL|Vinorelbine|Oncology
 DTX|Docetaxel|Oncology, Pharmacology
+DTX|Dextrostix (fingerstick glucose)|Laboratory Medicine
 DDP|Cisplatin|Oncology
 DDP|Dorsal dartos plication|Urology
 CAPE|Capecitabine|Oncology, Pharmacology
@@ -19372,6 +19408,7 @@ SCFE|Slipped capital femoral epiphysis|Orthopedics, Pediatrics, Physical Medicin
 SUFE|Slipped upper femoral epiphysis|Orthopedics, Sports Medicine
 LCP|Legg-Calve-Perthes disease|Orthopedics
 LCP|Long, closed, posterior (cervical exam)|Obstetrics
+LCP|Liverpool Care Pathway|Palliative Care
 ONFH|Osteonecrosis of the femoral head|Orthopedics
 IandD|Incision and drainage|Orthopedics
 AAROM|Active assisted range of motion|Orthopedics, Physical Medicine & Rehab, Physical Therapy
@@ -19649,6 +19686,7 @@ PE tubes|Pressure equalization tubes|Otolaryngology, Pediatrics
 M&T|Myringotomy and tubes|Otolaryngology
 MT|Manual therapy|Physical Therapy
 MT|Metatarsal|Podiatry
+MT|Mantoux test|Infectious Disease
 TPL|Tympanoplasty|Otolaryngology
 TPL|Third party liability|Health Insurance & Billing, Social Work & Case Management
 PORP|Partial ossicular replacement prosthesis|Otolaryngology
@@ -20006,6 +20044,7 @@ NOTR|Notice of termination or revocation|Palliative Care
 CNMP|Chronic non-malignant pain|Palliative Care
 MPS|Myofascial pain syndrome|Palliative Care, Physical Medicine & Rehab, Rheumatology, Sports Medicine
 MPS|Mucopolysaccharidosis|Sleep Medicine
+MPS|Malaria parasite smear|Laboratory Medicine
 CK8/18|Cytokeratin 8/18 (simple epithelial marker)|Pathology
 CK903|Cytokeratin clone 34betaE12 (high-molecular-weight cytokeratin)|Pathology
 HMWCK|High-molecular-weight cytokeratin|Pathology
@@ -20245,6 +20284,7 @@ ASAP|As soon as possible|Pharmacology, Pharmacy Operations, Trauma Surgery, Vasc
 FEA|Flat epithelial atypia|Pathology
 UDH|Usual ductal hyperplasia|Pathology
 NFA|No further action|Pathology
+NFA|No fixed abode|Social Work & Case Management
 SqCC|Squamous cell carcinoma|Pathology
 AdCA|Adenocarcinoma|Pathology
 pRCC|Papillary renal cell carcinoma|Pathology, Urology
@@ -20311,6 +20351,7 @@ ASQ|Ages and stages questionnaires|Speech-Language Pathology
 WCC|Well-child check|Pediatrics
 WCC|Wound care center|Wound & Ostomy Care
 WCC|Wound care certified|Wound & Ostomy Care
+WCC|White cell count|Laboratory Medicine
 AGN|Acute glomerulonephritis|Pediatrics
 FTA|Fluorescent treponemal antibody|Pediatrics
 MEE|Middle ear effusion|Pediatrics
@@ -20815,6 +20856,7 @@ LF I|Le Fort I|Plastic Surgery
 LF II|Le Fort II|Plastic Surgery
 LF III|Le Fort III|Plastic Surgery
 ZF|Zygomatic fracture|Plastic Surgery
+ZF|Zimmer frame|Physical Therapy
 OF|Orbital fracture|Plastic Surgery
 BOF|Blowout fracture|Plastic Surgery
 FSF|Frontal sinus fracture|Plastic Surgery
@@ -20834,6 +20876,7 @@ SSV|Small saphenous vein|Plastic Surgery, Radiology, Vascular Surgery
 DPA arch|Deep palmar arch|Plastic Surgery
 SPA arch|Superficial palmar arch|Plastic Surgery
 ODP|Implantable Doppler probe|Plastic Surgery
+ODP|Operating department practitioner|Perioperative Nursing
 TCA peel|Trichloroacetic acid peel|Plastic Surgery
 MtF|Male-to-female|Plastic Surgery
 MtF|Modulation transfer function|Radiology
@@ -21182,6 +21225,7 @@ PEEPi|Intrinsic positive end-expiratory pressure|Pulmonology
 PEEPi|Intrinsic positive end-expiratory pressure (auto-PEEP)|Respiratory Therapy
 RTI|Respiratory tract infection|Pulmonology
 RTI|Routine task inventory|Occupational Therapy
+RTI|Road traffic injury|Emergency Medicine
 RV/TLC|Ratio of residual volume to total lung capacity|Pulmonology, Respiratory Therapy
 SRBD|Sleep-related breathing disorder|Pulmonology, Sleep Medicine
 SSc-ILD|Systemic sclerosis-associated interstitial lung disease|Pulmonology, Rheumatology
@@ -22300,6 +22344,7 @@ RE|Retrograde ejaculation|Urology
 Re|Effective reproduction number|Evidence-Based Medicine
 RE|Random effects|Evidence-Based Medicine
 re:|Regarding|Chart Shorthand
+R/E|Routine examination|Laboratory Medicine
 IPP|Inflatable penile prosthesis|Urology
 IC inj|Intracavernosal injection|Urology
 VED|Vacuum erection device|Urology
@@ -26219,6 +26264,7 @@ usoh|Usual state of health|Chart Shorthand
 UWBC|Urine white blood cells|Laboratory Medicine
 VTOP|Voluntary termination of pregnancy|Obstetrics
 WF|White female|Chart Shorthand
+WF|Walking frame|Physical Therapy
 WNWD|Well nourished, well developed|Chart Shorthand
 CFU/mL|Colony-forming units per milliliter|Laboratory Medicine
 DBil|Direct bilirubin|Laboratory Medicine
@@ -26371,6 +26417,7 @@ ElCS|Elective caesarean section|Obstetrics
 EmCS|Emergency caesarean section|Obstetrics
 ERPC|Evacuation of retained products of conception|Obstetrics
 FBC|Full blood count|Laboratory Medicine
+FBC|Fluid balance chart|Nursing
 FHS|Fetal heart sounds|Obstetrics
 FY1|Foundation year 1 doctor|Health Administration
 GUM|Genitourinary medicine|Health Administration
@@ -26411,4 +26458,41 @@ UWSD|Underwater seal drain|Pulmonology
 VOT|Video-observed therapy|Infectious Disease
 WAIS-R|Wechsler Adult Intelligence Scale, Revised|Psychiatry
 WISC-R|Wechsler Intelligence Scale for Children, Revised|Psychiatry
+ALWMI|Anterolateral wall myocardial infarction|Cardiology
+AMAU|Acute medical assessment unit|Health Administration
+ASWMI|Anteroseptal wall myocardial infarction|Cardiology
+CCMT|Comprehensive care, management and treatment (HIV program)|Infectious Disease
+CEWS|Children's early warning score|Pediatrics
+CISC|Clean intermittent self-catheterisation|Urology
+CRHT|Crisis resolution and home treatment team|Psychiatry
+DAU|Day assessment unit|Obstetrics
+EAU|Emergency assessment unit|Emergency Medicine
+EPU|Early pregnancy unit|Obstetrics
+FHHR|Fetal heart heard regular|Obstetrics
+GPOOH|General practice out of hours|Health Administration
+GRBS|General random blood sugar|Laboratory Medicine
+GXP|GeneXpert MTB/RIF test|Infectious Disease
+HGT|Haemoglucotest (fingerstick glucose)|Laboratory Medicine
+HTT|Home treatment team|Psychiatry
+IWMI|Inferior wall myocardial infarction|Cardiology
+JIC|Just in case medications|Palliative Care
+LUSCS|Lower uterine segment caesarean section|Obstetrics
+MPQBC|Malaria parasite by quantitative buffy coat|Laboratory Medicine
+NCHD|Non-consultant hospital doctor|Health Administration
+NFE|Not for escalation|Palliative Care
+NFI|Not for intubation|Palliative Care
+NNJ|Neonatal jaundice|Neonatology
+NS1|Dengue non-structural protein 1 antigen|Infectious Disease
+OGV|Oesophagogastric varices|Gastroenterology
+PFR|Peak flow rate|Pulmonology
+PWMI|Posterior wall myocardial infarction|Cardiology
+RFM|Reduced fetal movements|Obstetrics
+RFTs|Renal function tests|Laboratory Medicine
+S136|Section 136 place of safety (Mental Health Act)|Psychiatry
+SAU|Surgical assessment unit|Health Administration
+TEAL|Treatment escalation and limitation|Palliative Care
+TVD|Triple vessel disease|Cardiology
+UFEME|Urine full examination and microscopic examination|Laboratory Medicine
+UR/ME|Urine routine and microscopic examination|Laboratory Medicine
+WZF|Walking zimmer frame|Physical Therapy
 `;

@@ -12,3 +12,7 @@ Grossman Liu L, Grossman RH, Mitchell EG, et al. A deep database of medical abbr
 for natural language processing. *Sci Data* 8, 149 (2021). https://github.com/lisavirginia/clinical-abbreviations
 Licensed CC BY 4.0. Entries were rewritten, filtered (institution names, physician initials, typos dropped)
 and assigned specialties here; they are not a verbatim copy.
+
+`consensus-and-regimens.txt` holds acronyms that two or more independent Meta-Inventory sources agree on,
+at least one of them a clinical list (Wikipedia clinical abbreviations, Berman pathology, or the
+note-derived inventories), filtered to clinical vocabulary and checked against the dictionary.

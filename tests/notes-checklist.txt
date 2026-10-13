@@ -517,3 +517,166 @@ TEB|Thoracic electrical bioimpedance
 ATNR|Asymmetric tonic neck reflex
 SGC|Swan-Ganz catheter
 CHEM-7|Basic metabolic panel (7 tests)
+FBC|Full blood count
+U&E|Urea and electrolytes
+U&Es|Urea and electrolytes
+TDS|Three times a day (ter die sumendum)
+BD|Twice a day (bis die)
+OD|Once daily (omni die)
+ON|Every night (omni nocte)
+OM|Every morning (omni mane)
+TTO|To take out (discharge medications)
+TTA|To take away (discharge medications)
+OGD|Oesophagogastroduodenoscopy
+A&E|Accident and emergency department
+HDU|High dependency unit
+MAU|Medical assessment unit
+AMU|Acute medical unit
+SHO|Senior house officer
+SpR|Specialist registrar
+FY1|Foundation year 1 doctor
+DN|District nurse
+DNACPR|Do not attempt cardiopulmonary resuscitation
+ReSPECT|Recommended Summary Plan for Emergency Care and Treatment
+TCI|To come in (planned admission)
+IECOPD|Infective exacerbation of COPD
+BNO|Bowels not opened
+BO|Bowels opened
+PU|Passed urine
+NOFF|Neck of femur fracture
+CSU|Catheter specimen of urine
+BM|Capillary blood glucose (BM stick)
+IPD|Inpatient department
+K/C/O|Known case of
+KCO|Known case of
+O/E|On examination
+P/A|Per abdomen
+RS|Respiratory system
+AEBE|Air entry bilaterally equal
+NVBS|Normal vesicular breath sounds
+BSL|Blood sugar level
+RBS|Random blood sugar
+PPBS|Postprandial blood sugar
+KFT|Kidney function test
+DLC|Differential leukocyte count
+MHD|Maintenance hemodialysis
+SOS|If needed (si opus sit)
+AODM|Adult-onset diabetes mellitus
+COAD|Chronic obstructive airways disease
+COLD|Chronic obstructive lung disease
+CAH|Chronic active hepatitis
+IUCD|Intrauterine contraceptive device
+COCP|Combined oral contraceptive pill
+USS|Ultrasound scan
+CAT|Computed axial tomography
+GUM|Genitourinary medicine
+GP|General practitioner
+OPD|Outpatient department
+NSD|Normal spontaneous delivery
+OBS|Organic brain syndrome
+ARC|AIDS-related complex
+IRDS|Infant respiratory distress syndrome
+HBP|High blood pressure
+TBC|Tuberculosis
+DPT|Diphtheria, pertussis and tetanus vaccine
+PC|Presenting complaint
+HPC|History of presenting complaint
+EDN|Electronic discharge notification
+SDEC|Same day emergency care
+UTC|Urgent treatment centre
+MIU|Minor injuries unit
+OOH|Out of hours
+CCOT|Critical care outreach team
+OPA|Outpatient appointment
+D&V|Diarrhoea and vomiting
+RTC|Road traffic collision
+CAMHS|Child and adolescent mental health services
+CPN|Community psychiatric nurse
+AMHP|Approved mental health professional
+MHA|Mental Health Act
+DoLS|Deprivation of Liberty Safeguards
+MCA|Mental Capacity Act
+LPA|Lasting power of attorney
+IMCA|Independent mental capacity advocate
+DTOC|Delayed transfer of care
+MFFD|Medically fit for discharge
+EPAU|Early pregnancy assessment unit
+ERPC|Evacuation of retained products of conception
+EmCS|Emergency caesarean section
+ElCS|Elective caesarean section
+ARM|Artificial rupture of membranes
+MOH|Massive obstetric haemorrhage
+PET|Pre-eclamptic toxaemia
+SCBU|Special care baby unit
+NNU|Neonatal unit
+DC|Differential count
+PS|Peripheral smear
+MP|Malaria parasite
+QBC|Quantitative buffy coat (malaria test)
+CBNAAT|Cartridge-based nucleic acid amplification test
+ATT|Antitubercular therapy
+CTVS|Cardiothoracic and vascular surgery
+FTND|Full-term normal delivery
+MTP|Medical termination of pregnancy
+POG|Period of gestation
+ICC|Intercostal catheter
+UWSD|Underwater seal drain
+RMO|Resident medical officer
+CTU|Clinical teaching unit
+MRP|Most responsible physician
+ASHD|Arteriosclerotic heart disease
+HCVD|Hypertensive cardiovascular disease
+CAL|Chronic airflow limitation
+SDAT|Senile dementia of the Alzheimer type
+MID|Multi-infarct dementia
+RLF|Retrolental fibroplasia
+SPET|Single-photon emission tomography
+ABMT|Autologous bone marrow transplantation
+CFT|Complement fixation test
+PSS|Progressive systemic sclerosis
+WAIS-R|Wechsler Adult Intelligence Scale, Revised
+WISC-R|Wechsler Intelligence Scale for Children, Revised
+IDC|Idiopathic dilated cardiomyopathy
+ADD|Attention deficit disorder
+CGN|Chronic glomerulonephritis
+COCP|Combined oral contraceptive pill
+ADC|AIDS dementia complex
+SNB|Sentinel node biopsy
+HFRS|Hemorrhagic fever with renal syndrome
+MPD|Myeloproliferative disease
+CRD|Chronic renal disease
+CUC|Chronic ulcerative colitis
+APKD|Adult polycystic kidney disease
+IVD|Intervertebral disc
+DCBE|Double-contrast barium enema
+ECTR|Endoscopic carpal tunnel release
+BTB|Breakthrough bleeding
+CHT|Congenital hypothyroidism
+ECD|Endocardial cushion defect
+CFIDS|Chronic fatigue immune dysfunction syndrome
+SBMA|Spinal and bulbar muscular atrophy
+MVPS|Mitral valve prolapse syndrome
+CIMF|Chronic idiopathic myelofibrosis
+DTA|Descending thoracic aorta
+CLS|Capillary leak syndrome
+MMT|Malignant mixed Mullerian tumor
+Px|Physical examination
+OE|On examination
+ACU|Ambulatory care unit
+BCP|Birth control pill
+PTSS|Posttraumatic stress symptoms
+PVFS|Post-viral fatigue syndrome
+TCT|Thrombin clotting time
+FHS|Fetal heart sounds
+Ax|Axillary
+ARDSNet|Acute Respiratory Distress Syndrome Network (low tidal volume protocol)
+CLND|Completion lymph node dissection
+CTO|Community treatment order
+B/F/TAF|Bictegravir, emtricitabine and tenofovir alafenamide
+BIC/FTC/TAF|Bictegravir, emtricitabine and tenofovir alafenamide
+DTG/ABC/3TC|Dolutegravir, abacavir and lamivudine
+CAB/RPV|Cabotegravir and rilpivirine
+VOT|Video-observed therapy
+SOF/VEL|Sofosbuvir and velpatasvir
+G/P|Glecaprevir and pibrentasvir
+LDV/SOF|Ledipasvir and sofosbuvir

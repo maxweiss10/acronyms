@@ -1,0 +1,113 @@
+FBC|Full blood count|Laboratory Medicine
+U&E|Urea and electrolytes|Laboratory Medicine
+U&Es|Urea and electrolytes|Laboratory Medicine
+TDS|Three times a day (ter die sumendum)|Pharmacology
+BD|Twice a day (bis die)|Pharmacology
+OD|Once daily (omni die)|Pharmacology
+ON|Every night (omni nocte)|Pharmacology
+OM|Every morning (omni mane)|Pharmacology
+TTO|To take out (discharge medications)|Pharmacology
+TTA|To take away (discharge medications)|Pharmacology
+OGD|Oesophagogastroduodenoscopy|Gastroenterology
+A&E|Accident and emergency department|Health Administration
+HDU|High dependency unit|Health Administration
+MAU|Medical assessment unit|Health Administration
+AMU|Acute medical unit|Health Administration
+SHO|Senior house officer|Health Administration
+SpR|Specialist registrar|Health Administration
+FY1|Foundation year 1 doctor|Health Administration
+DN|District nurse|Health Administration
+DNACPR|Do not attempt cardiopulmonary resuscitation|Palliative Care
+ReSPECT|Recommended Summary Plan for Emergency Care and Treatment|Palliative Care
+TCI|To come in (planned admission)|Health Administration
+IECOPD|Infective exacerbation of COPD|Pulmonology
+BNO|Bowels not opened|Chart Shorthand
+BO|Bowels opened|Chart Shorthand
+PU|Passed urine|Chart Shorthand
+NOFF|Neck of femur fracture|Orthopedics
+CSU|Catheter specimen of urine|Laboratory Medicine
+BM|Capillary blood glucose (BM stick)|Laboratory Medicine
+IPD|Inpatient department|Health Administration
+K/C/O|Known case of|Chart Shorthand
+KCO|Known case of|Chart Shorthand
+O/E|On examination|Chart Shorthand
+P/A|Per abdomen|Chart Shorthand
+RS|Respiratory system|Chart Shorthand
+AEBE|Air entry bilaterally equal|Pulmonology
+NVBS|Normal vesicular breath sounds|Pulmonology
+BSL|Blood sugar level|Laboratory Medicine
+RBS|Random blood sugar|Laboratory Medicine
+PPBS|Postprandial blood sugar|Laboratory Medicine
+KFT|Kidney function test|Laboratory Medicine
+DLC|Differential leukocyte count|Laboratory Medicine
+MHD|Maintenance hemodialysis|Nephrology
+SOS|If needed (si opus sit)|Pharmacology
+AODM|Adult-onset diabetes mellitus|Endocrinology
+COAD|Chronic obstructive airways disease|Pulmonology
+COLD|Chronic obstructive lung disease|Pulmonology
+CAH|Chronic active hepatitis|Gastroenterology
+IUCD|Intrauterine contraceptive device|Obstetrics
+COCP|Combined oral contraceptive pill|Obstetrics
+USS|Ultrasound scan|Radiology
+CAT|Computed axial tomography|Radiology
+GUM|Genitourinary medicine|Health Administration
+GP|General practitioner|Health Administration
+OPD|Outpatient department|Health Administration
+NSD|Normal spontaneous delivery|Obstetrics
+OBS|Organic brain syndrome|Psychiatry
+ARC|AIDS-related complex|Infectious Disease
+IRDS|Infant respiratory distress syndrome|Obstetrics
+HBP|High blood pressure|Chart Shorthand
+TBC|Tuberculosis|Infectious Disease
+DPT|Diphtheria, pertussis and tetanus vaccine|Chart Shorthand
+PC|Presenting complaint|Chart Shorthand
+HPC|History of presenting complaint|Chart Shorthand
+EDN|Electronic discharge notification|Health Administration
+SDEC|Same day emergency care|Health Administration
+UTC|Urgent treatment centre|Health Administration
+MIU|Minor injuries unit|Health Administration
+OOH|Out of hours|Health Administration
+CCOT|Critical care outreach team|Health Administration
+OPA|Outpatient appointment|Health Administration
+D&V|Diarrhoea and vomiting|Gastroenterology
+RTC|Road traffic collision|Emergency Medicine
+CAMHS|Child and adolescent mental health services|Psychiatry
+CPN|Community psychiatric nurse|Psychiatry
+AMHP|Approved mental health professional|Psychiatry
+MHA|Mental Health Act|Psychiatry
+DoLS|Deprivation of Liberty Safeguards|Psychiatry
+MCA|Mental Capacity Act|Psychiatry
+LPA|Lasting power of attorney|Psychiatry
+IMCA|Independent mental capacity advocate|Psychiatry
+DTOC|Delayed transfer of care|Health Administration
+MFFD|Medically fit for discharge|Health Administration
+EPAU|Early pregnancy assessment unit|Obstetrics
+ERPC|Evacuation of retained products of conception|Obstetrics
+EmCS|Emergency caesarean section|Obstetrics
+ElCS|Elective caesarean section|Obstetrics
+ARM|Artificial rupture of membranes|Obstetrics
+MOH|Massive obstetric haemorrhage|Obstetrics
+PET|Pre-eclamptic toxaemia|Obstetrics
+SCBU|Special care baby unit|Obstetrics
+NNU|Neonatal unit|Obstetrics
+DC|Differential count|Laboratory Medicine
+PS|Peripheral smear|Laboratory Medicine
+MP|Malaria parasite|Laboratory Medicine
+QBC|Quantitative buffy coat (malaria test)|Laboratory Medicine
+CBNAAT|Cartridge-based nucleic acid amplification test|Laboratory Medicine
+ATT|Antitubercular therapy|Infectious Disease
+CTVS|Cardiothoracic and vascular surgery|Health Administration
+FTND|Full-term normal delivery|Obstetrics
+MTP|Medical termination of pregnancy|Obstetrics
+POG|Period of gestation|Obstetrics
+ICC|Intercostal catheter|Pulmonology
+UWSD|Underwater seal drain|Pulmonology
+RMO|Resident medical officer|Health Administration
+CTU|Clinical teaching unit|Health Administration
+MRP|Most responsible physician|Health Administration
+ASHD|Arteriosclerotic heart disease|Cardiology
+HCVD|Hypertensive cardiovascular disease|Cardiology
+CAL|Chronic airflow limitation|Pulmonology
+SDAT|Senile dementia of the Alzheimer type|Psychiatry
+MID|Multi-infarct dementia|Psychiatry
+RLF|Retrolental fibroplasia|Obstetrics

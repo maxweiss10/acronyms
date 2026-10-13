@@ -401,3 +401,119 @@ OD|Optical density (ELISA result)
 IG|Immature granulocytes
 DBil|Direct bilirubin
 IBil|Indirect bilirubin
+RCFA|Right common femoral artery
+RSFA|Right superficial femoral artery
+RICA|Right internal carotid artery
+RMCA|Right middle cerebral artery
+RACA|Right anterior cerebral artery
+RPCA|Right posterior cerebral artery
+RVA|Right vertebral artery
+RBKA|Right below-knee amputation
+RAKA|Right above-knee amputation
+LCFA|Left common femoral artery
+LSFA|Left superficial femoral artery
+LICA|Left internal carotid artery
+LMCA|Left middle cerebral artery
+LACA|Left anterior cerebral artery
+LPCA|Left posterior cerebral artery
+LVA|Left vertebral artery
+LBKA|Left below-knee amputation
+LAKA|Left above-knee amputation
+LTKA|Left total knee arthroplasty
+LTHA|Left total hip arthroplasty
+BCCA|Bilateral common carotid artery
+BBKA|Bilateral below-knee amputation
+BAKA|Bilateral above-knee amputation
+BTKA|Bilateral total knee arthroplasty
+BTHA|Bilateral total hip arthroplasty
+pLCx|Proximal left circumflex artery
+mLCx|Mid left circumflex artery
+dLCx|Distal left circumflex artery
+LIMA-LAD|Left internal mammary artery to left anterior descending
+LIMA-D1|Left internal mammary artery to first diagonal
+RIMA-LAD|Right internal mammary artery to left anterior descending
+RIMA-RCA|Right internal mammary artery to right coronary artery
+SVG-LAD|Saphenous vein graft to left anterior descending
+SVG-D1|Saphenous vein graft to first diagonal
+SVG-OM|Saphenous vein graft to obtuse marginal
+SVG-OM1|Saphenous vein graft to first obtuse marginal
+SVG-RCA|Saphenous vein graft to right coronary artery
+SVG-PDA|Saphenous vein graft to posterior descending artery
+AoCHFrEF|Acute on chronic heart failure with reduced ejection fraction
+AoCHFpEF|Acute on chronic heart failure with preserved ejection fraction
+AoCsCHF|Acute on chronic systolic congestive heart failure
+AoCdCHF|Acute on chronic diastolic congestive heart failure
+AoCHRF|Acute on chronic hypoxic respiratory failure
+AoCHCRF|Acute on chronic hypercapnic respiratory failure
+AoCRF|Acute on chronic respiratory failure
+AoCSDH|Acute on chronic subdural hematoma
+AEIPF|Acute exacerbation of idiopathic pulmonary fibrosis
+APE|Acute pulmonary embolism
+AITP|Acute immune thrombocytopenia
+AAMR|Acute antibody-mediated rejection
+CHRF|Chronic hypoxic respiratory failure
+CHCRF|Chronic hypercapnic respiratory failure
+CITP|Chronic immune thrombocytopenia
+CHCV|Chronic hepatitis C
+IMI|Inferior myocardial infarction
+ISTEMI|Inferior ST-elevation myocardial infarction
+ASTEMI|Anterior ST-elevation myocardial infarction
+LMI|Lateral myocardial infarction
+ALMI|Anterolateral myocardial infarction
+ASMI|Anteroseptal myocardial infarction
+RVMI|Right ventricular myocardial infarction
+IDT2DM|Insulin-dependent type 2 diabetes mellitus
+NIDT2DM|Non-insulin-dependent type 2 diabetes mellitus
+NICMP|Nonischemic cardiomyopathy
+ICMP|Ischemic cardiomyopathy
+UENI|Upper extremity noninvasive venous doppler
+L/RHC|Left and right heart catheterization
+QOW|Every other week
+ASX|Asymptomatic
+ATB|Antibiotic
+BIB|Brought in by
+BIBA|Brought in by ambulance
+BIBEMS|Brought in by EMS
+ESM|Ejection systolic murmur
+EUP|Extrauterine pregnancy
+HBD|Has been drinking
+ITU|Intensive therapy unit
+IUT|Intrauterine transfusion
+NFR|Not for resuscitation
+NYD|Not yet diagnosed
+OCG|Oral cholecystogram
+PEB|Cisplatin, etoposide and bleomycin regimen
+PWP|Pulmonary wedge pressure
+RNY|Roux-en-Y
+RNYGB|Roux-en-Y gastric bypass
+SMA-7|Sequential multichannel analysis, 7 tests (basic metabolic panel)
+SOA|Swelling of ankles
+SXR|Skull X-ray
+TGV|Transposition of the great vessels
+TKVO|To keep vein open
+KVO|Keep vein open
+TUR|Transurethral resection
+URA|Unilateral renal agenesis
+BRA|Bilateral renal agenesis
+VEB|Ventricular ectopic beat
+WAP|Wandering atrial pacemaker
+WN|Well nourished
+WOI|Without incident
+EPH|Edema, proteinuria, hypertension (preeclampsia triad)
+EMF|Endomyocardial fibrosis
+EEE|Eastern equine encephalitis
+WEE|Western equine encephalitis
+VEE|Venezuelan equine encephalitis
+hPL|Human placental lactogen
+ALG|Antilymphocyte globulin
+BOM|Bilateral otitis media
+BSU|Bartholin, Skene and urethral glands
+GOT|Glutamic-oxaloacetic transaminase (AST)
+GPT|Glutamic-pyruvic transaminase (ALT)
+DIU|Death in utero
+JODM|Juvenile-onset diabetes mellitus
+MMK|Marshall-Marchetti-Krantz procedure
+TEB|Thoracic electrical bioimpedance
+ATNR|Asymmetric tonic neck reflex
+SGC|Swan-Ganz catheter
+CHEM-7|Basic metabolic panel (7 tests)

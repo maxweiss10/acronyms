@@ -1771,7 +1771,6 @@ WM|Withdrawal management|Addiction Medicine, Social Work & Case Management
 WM|Waldenstrom macroglobulinemia (lymphoplasmacytic lymphoma)|Hematology, Laboratory Medicine, Pathology
 WM|Working memory|Speech-Language Pathology
 W/M|Wet-to-moist dressing|Wound & Ostomy Care
-WM|With meals|Chart Shorthand
 WM|White male|Chart Shorthand
 WM|White matter|Radiology
 LOC|Level of care|Addiction Medicine, Behavioral Health Unit, Chart Shorthand, Health Administration, Health Insurance & Billing, Palliative Care, Physical Medicine & Rehab, Psychiatry, Social Work & Case Management
@@ -5464,6 +5463,7 @@ RAO|Right anterior oblique|Cardiac Imaging, Cardiology, Interventional Cardiolog
 RAO|Retinal artery occlusion|Vascular Surgery
 CAU|Caudal angulation|Cardiac Imaging
 LMCA|Left main coronary artery|Cardiac Imaging, Cardiac Surgery, Cardiology, Critical Care, Interventional Cardiology, Pathology
+LMCA|Left middle cerebral artery|Neurology
 LM|Left main coronary artery|Cardiac Imaging, Cardiac Surgery, Heart Failure, Radiology
 LM|Left main|Cardiology, Interventional Cardiology
 LM|Lentigo maligna|Dermatology, Plastic Surgery
@@ -5603,6 +5603,7 @@ HyperK|Hyperkalemia|Critical Care, Endocrinology, Heart Failure, Nephrology, Tox
 LVA|Left ventricular aneurysm|Cardiac Imaging, Cardiac Surgery
 LVA|Low voltage area|Electrophysiology
 LVA|Lymphaticovenous anastomosis|Plastic Surgery, Vascular Surgery
+LVA|Left vertebral artery|Neurology
 LVT|Left ventricular thrombus|Cardiac Imaging, Cardiology, Heart Failure
 LAAT|Left atrial appendage thrombus|Cardiac Imaging
 LAAO|Left atrial appendage occlusion|Cardiac Imaging, Cardiac Surgery, Cardiology, Electrophysiology, Heart Failure, Interventional Cardiology, Neurology, Radiology
@@ -9433,6 +9434,7 @@ SGC|Soluble guanylate cyclase|Heart Failure, Pharmacology, Pulmonology
 SGC|Salivary gland carcinoma|Oncology
 SGC|Salivary gland cancer|Otolaryngology
 SGC|Sebaceous carcinoma|Pathology
+SGC|Swan-Ganz catheter|Critical Care
 BCNS|Basal cell nevus syndrome|Dermatology, Oncology
 HHI|Hedgehog inhibitor|Dermatology
 HHI|Hedgehog pathway inhibitor|Oncology
@@ -9906,6 +9908,7 @@ LBBP|Left bundle branch pacing|Electrophysiology
 HBP|His bundle pacing|Electrophysiology, Heart Failure, Interventional Cardiology
 HBP|Hepatobiliary phase|Hepatology, Radiology
 RVA|Right ventricular apex|Electrophysiology
+RVA|Right vertebral artery|Neurology
 WACA|Wide area circumferential ablation|Electrophysiology
 CTI ablation|Cavotricuspid isthmus ablation|Electrophysiology
 EP study|Electrophysiology study|Electrophysiology
@@ -16068,6 +16071,7 @@ HH|Heart healthy diet|Nursing
 HH|Critically high result flag|Lab Specimens & Blood Bank
 Chem 7|Seven-test basic chemistry panel|Laboratory Medicine
 Chem 7|Basic metabolic panel|Chart Shorthand
+CHEM-7|Basic metabolic panel (7 tests)|Laboratory Medicine
 Chem 10|Ten-test chemistry panel|Laboratory Medicine
 Chem 10|Basic metabolic panel plus calcium, magnesium, phosphorus|Chart Shorthand
 LFPs|Liver function panel|Laboratory Medicine
@@ -17218,6 +17222,7 @@ LAZ|Lazertinib|Oncology
 LC-FAOD|Long-chain fatty acid oxidation disorder|Nutrition
 LCFA|Long-chain fatty acid|Nutrition
 LCFA|Lateral circumflex femoral artery|Orthopedics, Plastic Surgery
+LCFA|Left common femoral artery|Vascular Surgery
 LGIT|Low glycemic index treatment|Nutrition
 Leu|Leucine|Nutrition
 Leu|Leuprolide|Oncology
@@ -22668,8 +22673,9 @@ BHSA|Behavioral Health Services Act|Social Work & Case Management
 BHT|Bronchial hygiene therapy|Respiratory Therapy
 BHU|Behavioral health unit|Behavioral Health Unit, Social Work & Case Management
 Bias flow|Continuous circuit flow on HFOV|Respiratory Therapy
-BIBA|Brought in by ambulance|Chart Shorthand
+BIBA|Brought in by ambulance|Chart Shorthand, Emergency Medicine
 BIBEMS|Brought in by emergency medical services|Chart Shorthand
+BIBEMS|Brought in by EMS|Emergency Medicine
 BIBP|Brought in by police|Chart Shorthand
 BIL|Bilateral|Occupational Therapy
 Bilat|Bilateral|Orthotics & Prosthetics, Podiatry, Wound & Ostomy Care
@@ -24344,6 +24350,7 @@ UE str|Upper extremity strength|Occupational Therapy
 UE WB|Upper extremity weight bearing|Occupational Therapy
 UEFI|Upper extremity functional index|Occupational Therapy
 UENI|Upper extremity noninvasive study|Chart Shorthand
+UENI|Upper extremity noninvasive venous doppler|Radiology
 UESO|Upper esophageal sphincter opening|Speech-Language Pathology
 UFOV|Useful field of view|Occupational Therapy
 UHDDS|Uniform Hospital Discharge Data Set|Health Insurance & Billing
@@ -26054,59 +26061,28 @@ yr|Year|Chart Shorthand
 yrs|Years|Chart Shorthand
 Zio|Zio patch ambulatory monitor|Chart Shorthand
 labs|Laboratory tests|Chart Shorthand
-ACHSPRN|Before meals and at bedtime as needed|Chart Shorthand
-ACPRN|Before meals as needed|Chart Shorthand
 BIDAC|Twice daily before meals|Chart Shorthand
-BIDACHS|Twice daily before meals and at bedtime|Chart Shorthand
 BIDPC|Twice daily after meals|Chart Shorthand
-BIDPCHS|Twice daily after meals and at bedtime|Chart Shorthand
 BIDPRN|Twice daily as needed|Chart Shorthand
-BIDWM|Twice daily with meals|Chart Shorthand
 Daily PRN|Daily as needed|Chart Shorthand
-HSPRN|At bedtime as needed|Chart Shorthand
-PCHS|After meals and at bedtime|Chart Shorthand
-PCPRN|After meals as needed|Chart Shorthand
-Q12HPRN|Every 12 hours as needed|Chart Shorthand
-Q1HPRN|Every hour as needed|Chart Shorthand
 Q2-4HPRN|Every 2 to 4 hours as needed|Chart Shorthand
-Q24HPRN|Every 24 hours as needed|Chart Shorthand
 Q2HPRN|Every 2 hours as needed|Chart Shorthand
 Q3HPRN|Every 3 hours as needed|Chart Shorthand
 Q4-6HPRN|Every 4 to 6 hours as needed|Chart Shorthand
 Q4HPRN|Every 4 hours as needed|Chart Shorthand
-Q6-8HPRN|Every 6 to 8 hours as needed|Chart Shorthand
 Q6HPRN|Every 6 hours as needed|Chart Shorthand
 Q8HPRN|Every 8 hours as needed|Chart Shorthand
 QACHS|Before each meal and at bedtime|Chart Shorthand
 QAMAC|Every morning before meals|Chart Shorthand
-QAMPC|Every morning after meals|Chart Shorthand
-QAMPRN|Every morning as needed|Chart Shorthand
-QAMWM|Every morning with meals|Chart Shorthand
 QDAC|Once daily before meals|Chart Shorthand
-QDPC|Once daily after meals|Chart Shorthand
 QDPRN|Once daily as needed|Chart Shorthand
-QDWM|Once daily with meals|Chart Shorthand
-QHSAC|At bedtime and before meals|Chart Shorthand
 QHSPRN|At bedtime as needed|Chart Shorthand
-QIDAC|Four times daily before meals|Chart Shorthand
 QIDACHS|Four times daily before meals and at bedtime|Chart Shorthand
-QIDPC|Four times daily after meals|Chart Shorthand
-QIDPCHS|Four times daily after meals and at bedtime|Chart Shorthand
 QIDPRN|Four times daily as needed|Chart Shorthand
-QIDWM|Four times daily with meals|Chart Shorthand
-QODPRN|Every other day as needed|Chart Shorthand
-QPC|After each meal|Chart Shorthand
-QPMAC|Every evening before meals|Chart Shorthand
-QPMPC|Every evening after meals|Chart Shorthand
-QPMPRN|Every evening as needed|Chart Shorthand
-QPMWM|Every evening with meals|Chart Shorthand
 TIDAC|Three times daily before meals|Chart Shorthand
 TIDACHS|Three times daily before meals and at bedtime|Chart Shorthand
 TIDPC|Three times daily after meals|Chart Shorthand
-TIDPCHS|Three times daily after meals and at bedtime|Chart Shorthand
 TIDPRN|Three times daily as needed|Chart Shorthand
-TIDWM|Three times daily with meals|Chart Shorthand
-WMPRN|With meals as needed|Chart Shorthand
 ACNP|Acute care nurse practitioner|Nursing
 AFV|Amniotic fluid volume|Obstetrics
 BT shunt|Blalock-Taussig shunt|Cardiac Surgery
@@ -26167,4 +26143,110 @@ mIU/mL|Milli-international units per milliliter|Laboratory Medicine
 MPL|IgM phospholipid units (anticardiolipin)|Laboratory Medicine
 PFU|Plaque-forming units|Laboratory Medicine
 TCID50|Median tissue culture infectious dose|Laboratory Medicine
+AAMR|Acute antibody-mediated rejection|Hospital Medicine
+AEIPF|Acute exacerbation of idiopathic pulmonary fibrosis|Hospital Medicine
+AITP|Acute immune thrombocytopenia|Hospital Medicine
+ALMI|Anterolateral myocardial infarction|Cardiology
+AoCdCHF|Acute on chronic diastolic congestive heart failure|Hospital Medicine
+AoCHCRF|Acute on chronic hypercapnic respiratory failure|Hospital Medicine
+AoCHFpEF|Acute on chronic heart failure with preserved ejection fraction|Hospital Medicine
+AoCHFrEF|Acute on chronic heart failure with reduced ejection fraction|Hospital Medicine
+AoCHRF|Acute on chronic hypoxic respiratory failure|Hospital Medicine
+AoCRF|Acute on chronic respiratory failure|Hospital Medicine
+AoCsCHF|Acute on chronic systolic congestive heart failure|Hospital Medicine
+AoCSDH|Acute on chronic subdural hematoma|Hospital Medicine
+APE|Acute pulmonary embolism|Hospital Medicine
+ASMI|Anteroseptal myocardial infarction|Cardiology
+ASTEMI|Anterior ST-elevation myocardial infarction|Cardiology
+BAKA|Bilateral above-knee amputation|Vascular Surgery
+BBKA|Bilateral below-knee amputation|Vascular Surgery
+BCCA|Bilateral common carotid artery|Vascular Surgery
+BTHA|Bilateral total hip arthroplasty|Orthopedics
+BTKA|Bilateral total knee arthroplasty|Orthopedics
+CHCRF|Chronic hypercapnic respiratory failure|Hospital Medicine
+CHCV|Chronic hepatitis C|Hospital Medicine
+CHRF|Chronic hypoxic respiratory failure|Hospital Medicine
+CITP|Chronic immune thrombocytopenia|Hospital Medicine
+dLCx|Distal left circumflex artery|Interventional Cardiology
+ICMP|Ischemic cardiomyopathy|Chart Shorthand
+IDT2DM|Insulin-dependent type 2 diabetes mellitus|Chart Shorthand
+IMI|Inferior myocardial infarction|Cardiology
+ISTEMI|Inferior ST-elevation myocardial infarction|Cardiology
+L/RHC|Left and right heart catheterization|Interventional Cardiology
+LACA|Left anterior cerebral artery|Neurology
+LAKA|Left above-knee amputation|Vascular Surgery
+LBKA|Left below-knee amputation|Vascular Surgery
+LICA|Left internal carotid artery|Neurology
+LIMA-D1|Left internal mammary artery to first diagonal|Cardiac Surgery
+LIMA-LAD|Left internal mammary artery to left anterior descending|Cardiac Surgery
+LMI|Lateral myocardial infarction|Cardiology
+LPCA|Left posterior cerebral artery|Neurology
+LSFA|Left superficial femoral artery|Vascular Surgery
+LTHA|Left total hip arthroplasty|Orthopedics
+LTKA|Left total knee arthroplasty|Orthopedics
+mLCx|Mid left circumflex artery|Interventional Cardiology
+NICMP|Nonischemic cardiomyopathy|Chart Shorthand
+NIDT2DM|Non-insulin-dependent type 2 diabetes mellitus|Chart Shorthand
+pLCx|Proximal left circumflex artery|Interventional Cardiology
+RACA|Right anterior cerebral artery|Neurology
+RAKA|Right above-knee amputation|Vascular Surgery
+RBKA|Right below-knee amputation|Vascular Surgery
+RCFA|Right common femoral artery|Vascular Surgery
+RICA|Right internal carotid artery|Neurology
+RIMA-LAD|Right internal mammary artery to left anterior descending|Cardiac Surgery
+RIMA-RCA|Right internal mammary artery to right coronary artery|Cardiac Surgery
+RMCA|Right middle cerebral artery|Neurology
+RPCA|Right posterior cerebral artery|Neurology
+RSFA|Right superficial femoral artery|Vascular Surgery
+RVMI|Right ventricular myocardial infarction|Cardiology
+SVG-D1|Saphenous vein graft to first diagonal|Cardiac Surgery
+SVG-LAD|Saphenous vein graft to left anterior descending|Cardiac Surgery
+SVG-OM|Saphenous vein graft to obtuse marginal|Cardiac Surgery
+SVG-OM1|Saphenous vein graft to first obtuse marginal|Cardiac Surgery
+SVG-PDA|Saphenous vein graft to posterior descending artery|Cardiac Surgery
+SVG-RCA|Saphenous vein graft to right coronary artery|Cardiac Surgery
+ALG|Antilymphocyte globulin|Transplant
+ASX|Asymptomatic|Chart Shorthand
+ATB|Antibiotic|Chart Shorthand
+ATNR|Asymmetric tonic neck reflex|Pediatrics
+BIB|Brought in by|Emergency Medicine
+BOM|Bilateral otitis media|Otolaryngology
+BRA|Bilateral renal agenesis|Nephrology
+BSU|Bartholin, Skene and urethral glands|Gynecology
+DIU|Death in utero|Obstetrics
+EEE|Eastern equine encephalitis|Infectious Disease
+EMF|Endomyocardial fibrosis|Cardiology
+EPH|Edema, proteinuria, hypertension (preeclampsia triad)|Obstetrics
+ESM|Ejection systolic murmur|Cardiology
+EUP|Extrauterine pregnancy|Obstetrics
+GOT|Glutamic-oxaloacetic transaminase (AST)|Laboratory Medicine
+GPT|Glutamic-pyruvic transaminase (ALT)|Laboratory Medicine
+HBD|Has been drinking|Emergency Medicine
+hPL|Human placental lactogen|Obstetrics
+ITU|Intensive therapy unit|Critical Care
+IUT|Intrauterine transfusion|Obstetrics
+JODM|Juvenile-onset diabetes mellitus|Endocrinology
+MMK|Marshall-Marchetti-Krantz procedure|Urology
+NFR|Not for resuscitation|Palliative Care
+NYD|Not yet diagnosed|Chart Shorthand
+OCG|Oral cholecystogram|Radiology
+PEB|Cisplatin, etoposide and bleomycin regimen|Oncology
+PWP|Pulmonary wedge pressure|Critical Care
+QOW|Every other week|Chart Shorthand
+RNY|Roux-en-Y|General Surgery
+RNYGB|Roux-en-Y gastric bypass|General Surgery
+SMA-7|Sequential multichannel analysis, 7 tests (basic metabolic panel)|Laboratory Medicine
+SOA|Swelling of ankles|Chart Shorthand
+SXR|Skull X-ray|Radiology
+TEB|Thoracic electrical bioimpedance|Cardiology
+TGV|Transposition of the great vessels|Cardiology
+TKVO|To keep vein open|Nursing
+TUR|Transurethral resection|Urology
+URA|Unilateral renal agenesis|Nephrology
+VEB|Ventricular ectopic beat|Cardiology
+VEE|Venezuelan equine encephalitis|Infectious Disease
+WAP|Wandering atrial pacemaker|Cardiology
+WEE|Western equine encephalitis|Infectious Disease
+WN|Well nourished|Chart Shorthand
+WOI|Without incident|Chart Shorthand
 `;

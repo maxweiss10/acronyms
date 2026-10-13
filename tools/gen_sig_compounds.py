@@ -1,50 +1,24 @@
 #!/usr/bin/env python3
-"""Generate specialty-data/dosing-sig-compounds.txt: every run-together dosing schedule.
+"""Write specialty-data/dosing-sig-compounds.txt: run-together dosing schedules seen in real orders.
 
-Prescribers glue a frequency to a meal/bedtime timing or to PRN (TIDAC, BIDPC, QHSPRN,
-Q6HPRN, QAMAC). Each piece is in the dictionary on its own, but the glued forms were never
-listed, so a search for TIDAC found nothing. This builds the whole frequency x timing grid
-so no member of the family is left out. One spelling per form is enough: search ignores
-spaces, dots and dashes, so "TID AC", "T.I.D. A.C." and "tid-ac" all find TIDAC.
+Prescribers glue a frequency to meal timing or PRN (TIDAC, BIDPC, QHSPRN, Q6HPRN). Only forms
+that are actually written are listed; any other combination is still read by the schedule
+parser in index.html, so it does not need an entry. Search ignores spaces, dots and dashes,
+so "TID AC", "T.I.D. A.C." and "tid-ac" all find TIDAC.
 Usage: tools/gen_sig_compounds.py && tools/add_specialties.py specialty-data/dosing-sig-compounds.txt
 """
 import pathlib
 root = pathlib.Path(__file__).resolve().parent.parent
-SPEC = "Chart Shorthand"
-
-DAILY = [("QD", "Once daily"), ("BID", "Twice daily"), ("TID", "Three times daily"),
-         ("QID", "Four times daily"), ("QAM", "Every morning"), ("QPM", "Every evening")]
-MEAL = [("AC", "before meals"), ("PC", "after meals"), ("WM", "with meals")]
-BED = [("ACHS", "before meals and at bedtime"), ("PCHS", "after meals and at bedtime")]
-PRN_BASE = DAILY + [("Daily ", "Daily"), ("QHS", "At bedtime"), ("HS", "At bedtime"), ("QOD", "Every other day"),
-                    ("ACHS", "Before meals and at bedtime")] + \
-           [("Q1H", "Every hour")] + [(f"Q{n}H", f"Every {n} hours") for n in (2, 3, 4, 6, 8, 12, 24)] + \
-           [("Q4-6H", "Every 4 to 6 hours"), ("Q6-8H", "Every 6 to 8 hours"), ("Q2-4H", "Every 2 to 4 hours")]
-
-rows = []
-add = lambda a, m: rows.append(f"{a}|{m}|{SPEC}")
-# timing on its own
-add("ACHS", "Before meals and at bedtime")
-add("PCHS", "After meals and at bedtime")
-add("QAC", "Before each meal")
-add("QPC", "After each meal")
-add("QACHS", "Before each meal and at bedtime")
-add("WM", "With meals")
-# frequency + meal timing (TIDAC, BIDPC, QAMAC ...)
-for f, fm in DAILY:
-    for t, tm in MEAL:
-        add(f + t, f"{fm} {tm}")
-for f, fm in [("BID", "Twice daily"), ("TID", "Three times daily"), ("QID", "Four times daily")]:
-    for t, tm in BED:
-        add(f + t, f"{fm} {tm}")
-add("QHSAC", "At bedtime and before meals")
-# frequency + PRN (Q6HPRN, BIDPRN, QHSPRN ...)
-for f, fm in PRN_BASE:
-    add(f + "PRN", f"{fm} as needed")
-# meal timing + PRN
-for t, tm in MEAL:
-    add(t + "PRN", f"{tm[0].upper() + tm[1:]} as needed")
-
+FORMS = [("ACHS", "Before meals and at bedtime"), ("QAC", "Before each meal"), ("QACHS", "Before each meal and at bedtime"),
+         ("QDAC", "Once daily before meals"), ("BIDAC", "Twice daily before meals"), ("BIDPC", "Twice daily after meals"),
+         ("TIDAC", "Three times daily before meals"), ("TIDPC", "Three times daily after meals"),
+         ("QAMAC", "Every morning before meals"), ("TIDACHS", "Three times daily before meals and at bedtime"),
+         ("QIDACHS", "Four times daily before meals and at bedtime"),
+         ("QDPRN", "Once daily as needed"), ("Daily PRN", "Daily as needed"), ("BIDPRN", "Twice daily as needed"),
+         ("TIDPRN", "Three times daily as needed"), ("QIDPRN", "Four times daily as needed"), ("QHSPRN", "At bedtime as needed"),
+         ("Q2HPRN", "Every 2 hours as needed"), ("Q3HPRN", "Every 3 hours as needed"), ("Q4HPRN", "Every 4 hours as needed"),
+         ("Q6HPRN", "Every 6 hours as needed"), ("Q8HPRN", "Every 8 hours as needed"),
+         ("Q4-6HPRN", "Every 4 to 6 hours as needed"), ("Q2-4HPRN", "Every 2 to 4 hours as needed")]
 out = root / "specialty-data" / "dosing-sig-compounds.txt"
-out.write_text("\n".join(dict.fromkeys(rows)) + "\n")
-print(f"wrote {len(dict.fromkeys(rows))} lines to {out}")
+out.write_text("".join(f"{a}|{m}|Chart Shorthand\n" for a, m in FORMS))
+print(f"wrote {len(FORMS)} lines to {out}")

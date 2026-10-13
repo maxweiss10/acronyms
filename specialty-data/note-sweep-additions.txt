@@ -1,0 +1,49 @@
+QOW|Every other week|Chart Shorthand
+ASX|Asymptomatic|Chart Shorthand
+ATB|Antibiotic|Chart Shorthand
+BIB|Brought in by|Emergency Medicine
+BIBA|Brought in by ambulance|Emergency Medicine
+BIBEMS|Brought in by EMS|Emergency Medicine
+ESM|Ejection systolic murmur|Cardiology
+EUP|Extrauterine pregnancy|Obstetrics
+HBD|Has been drinking|Emergency Medicine
+ITU|Intensive therapy unit|Critical Care
+IUT|Intrauterine transfusion|Obstetrics
+NFR|Not for resuscitation|Palliative Care
+NYD|Not yet diagnosed|Chart Shorthand
+OCG|Oral cholecystogram|Radiology
+PEB|Cisplatin, etoposide and bleomycin regimen|Oncology
+PWP|Pulmonary wedge pressure|Critical Care
+RNY|Roux-en-Y|General Surgery
+RNYGB|Roux-en-Y gastric bypass|General Surgery
+SMA-7|Sequential multichannel analysis, 7 tests (basic metabolic panel)|Laboratory Medicine
+SOA|Swelling of ankles|Chart Shorthand
+SXR|Skull X-ray|Radiology
+TGV|Transposition of the great vessels|Cardiology
+TKVO|To keep vein open|Nursing
+KVO|Keep vein open|Nursing
+TUR|Transurethral resection|Urology
+URA|Unilateral renal agenesis|Nephrology
+BRA|Bilateral renal agenesis|Nephrology
+VEB|Ventricular ectopic beat|Cardiology
+WAP|Wandering atrial pacemaker|Cardiology
+WN|Well nourished|Chart Shorthand
+WOI|Without incident|Chart Shorthand
+EPH|Edema, proteinuria, hypertension (preeclampsia triad)|Obstetrics
+EMF|Endomyocardial fibrosis|Cardiology
+EEE|Eastern equine encephalitis|Infectious Disease
+WEE|Western equine encephalitis|Infectious Disease
+VEE|Venezuelan equine encephalitis|Infectious Disease
+hPL|Human placental lactogen|Obstetrics
+ALG|Antilymphocyte globulin|Transplant
+BOM|Bilateral otitis media|Otolaryngology
+BSU|Bartholin, Skene and urethral glands|Gynecology
+GOT|Glutamic-oxaloacetic transaminase (AST)|Laboratory Medicine
+GPT|Glutamic-pyruvic transaminase (ALT)|Laboratory Medicine
+DIU|Death in utero|Obstetrics
+JODM|Juvenile-onset diabetes mellitus|Endocrinology
+MMK|Marshall-Marchetti-Krantz procedure|Urology
+TEB|Thoracic electrical bioimpedance|Cardiology
+ATNR|Asymmetric tonic neck reflex|Pediatrics
+SGC|Swan-Ganz catheter|Critical Care
+CHEM-7|Basic metabolic panel (7 tests)|Laboratory Medicine

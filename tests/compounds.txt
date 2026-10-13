@@ -62,3 +62,31 @@ TBil|total bilirubin
 UpH|urine pH
 NBNB|nonbloody nonbilious
 m/g/r|murmurs gallops rubs
+# Glued prefixes, read by rule when not in the dictionary
+spCABG|status post coronary artery bypass
+hxDVT|history deep vein thrombosis
+RPICC|right peripherally inserted central catheter
+LPCOM|left posterior communicating artery
+dPDA|distal posterior descending artery
+AoCRF|acute on chronic respiratory failure
+CABGx3|coronary artery bypass 3
+# Stages, scores and other suffix forms
+CKD3b|chronic kidney disease stage 3b
+CKDIV|chronic kidney disease stage 4
+NYHAIII|NYHA functional class 3
+ASA3E|ASA physical status class 3 emergency
+GCS15|Glasgow Coma Scale score 15
+BI-RADS4|BI-RADS category 4
+LR5|LI-RADS category 5
+CP-B|Child-Pugh class B
+pT2N0M0|tumor T2 nodes N0 metastasis M0 pathologic
+T3N1|tumor T3 nodes N1
+32w2d|32 weeks 2 days gestation
+2LNC|2 liters per minute nasal cannula
+# Families added to the dictionary
+LSFA|left superficial femoral artery
+pLCx|proximal left circumflex
+LIMA-LAD|left internal mammary artery left anterior descending
+AECOPD|acute exacerbation chronic obstructive pulmonary disease
+NAEON|no acute events overnight
+AFRVR|atrial fibrillation rapid ventricular response

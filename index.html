@@ -70,7 +70,7 @@ for(let n=1;n<=6;n++){
 
 // ---- dosing schedules: frequency + timing + route + PRN glued together (TIDAC, POQ6HPRN, SQQHS) ----
 const SIG={qd:"Once daily",daily:"Daily",bid:"Twice daily",tid:"Three times daily",qid:"Four times daily",
- qod:"Every other day",qohs:"Every other night at bedtime",qbedtime:"At bedtime",qam:"Every morning",qpm:"Every evening",qhs:"At bedtime",hs:"At bedtime",qn:"Every night",
+ qod:"Every other day",qow:"Every other week",qohs:"Every other night at bedtime",qbedtime:"At bedtime",qam:"Every morning",qpm:"Every evening",qhs:"At bedtime",hs:"At bedtime",qn:"Every night",
  qwk:"Every week",qweek:"Every week",biw:"Twice weekly",tiw:"Three times weekly",qmo:"Every month",
  ac:"Before meals",pc:"After meals",wm:"With meals",achs:"Before meals and at bedtime",pchs:"After meals and at bedtime",
  qac:"Before each meal",qpc:"After each meal",prn:"As needed",stat:"Immediately",
@@ -119,6 +119,21 @@ function pattern(tok){
     return m[6]!==undefined?`Gravida ${m[1]}, para ${m[6]}`:`Gravida ${m[1]}, para ${+m[2]+ +m[3]} (TPAL: ${m[2]} term, ${m[3]} preterm, ${m[4]} abortions or miscarriages, ${m[5]} living)`;
   if((m=w.match(/^g(\d{1,2})$/))) return `Gravida ${m[1]} (${m[1]} pregnanc${m[1]==="1"?"y":"ies"})`;
   if((m=w.match(/^(hd|pod|ppd|dol|ptd|icud|abxd)(\d{1,3})$/))) return `${DAYS[m[1]]} ${m[2]}`;
+  const RN={i:1,ii:2,iii:3,iv:4,v:5,vi:6};
+  if((m=w.match(/^(ckd|nyha|gold|asa|mp|mallampati|ecog|kps|gcs|nihss|mrs|birads|bi-rads|tirads|ti-rads|tr|lirads|li-rads|lr|pirads|pi-rads|killip|hh|tanner|meld|lungrads|fitz)-?(\d{1,3}|vi|v|iv|i{1,3})([abe])?$/))){
+    const SC={ckd:"Chronic kidney disease stage",nyha:"NYHA functional class",gold:"GOLD spirometric grade",asa:"ASA physical status class",mp:"Mallampati class",mallampati:"Mallampati class",
+      ecog:"ECOG performance status",kps:"Karnofsky performance status",gcs:"Glasgow Coma Scale score",nihss:"NIH Stroke Scale score",mrs:"Modified Rankin Scale score",
+      birads:"BI-RADS category","bi-rads":"BI-RADS category",tirads:"TI-RADS level","ti-rads":"TI-RADS level",tr:"TI-RADS level",lirads:"LI-RADS category","li-rads":"LI-RADS category",lr:"LI-RADS category",
+      pirads:"PI-RADS score","pi-rads":"PI-RADS score",killip:"Killip class",hh:"Hunt and Hess grade",tanner:"Tanner stage",meld:"MELD score",lungrads:"Lung-RADS category",fitz:"Fitzpatrick skin type"};
+    const v=RN[m[2]]||+m[2];
+    return `${SC[m[1]]} ${v}${m[3]==="e"?" (emergency)":m[3]||""}`; }
+  if((m=w.match(/^(cp|child-?pugh)-?([abc])$/))) return `Child-Pugh class ${m[2].toUpperCase()}`;
+  if((m=w.match(/^(yp|yc|p|c|r)?t([0-4]|is|x)([a-d])?n([0-3]|x)([a-c])?(?:m([01]|x)([a-c])?)?$/))){
+    const kind={p:"pathologic",c:"clinical",yp:"pathologic after neoadjuvant therapy",yc:"clinical after neoadjuvant therapy",r:"recurrence"}[m[1]];
+    return `TNM stage: tumor T${m[2]}${m[3]||""}, nodes N${m[4]}${m[5]||""}${m[6]?`, metastasis M${m[6]}${m[7]||""}`:""}${kind?` (${kind})`:""}`; }
+  if((m=w.match(/^(\d{1,2})(?:w|wk|wks)(\d)d?$/))||(m=w.match(/^(\d{1,2})\+(\d)$/))) return `${m[1]} weeks ${m[2]} days gestation`;
+  if((m=w.match(/^(\d{1,2}(?:\.\d)?)l(?:pm)?(nc|fm|vm|nrb)$/))) return `${m[1]} liters per minute by ${{nc:"nasal cannula",fm:"face mask",vm:"Venturi mask",nrb:"non-rebreather mask"}[m[2]]}`;
+  if((m=w.match(/^hfnc(\d{2})\/(\d{2,3})%?$/))) return `High-flow nasal cannula at ${m[1]} L/min, FiO2 ${m[2]}%`;
   if((m=w.match(/^v([1-6])r?$/))) return `ECG precordial lead V${m[1]}${w.endsWith("r")?" (right-sided)":""}`;
   if((m=w.match(/^(om|d)([1-3])$/))) return `${m[1]==="om"?"Obtuse marginal":"Diagonal"} branch ${m[2]} (coronary artery)`;
   if((m=w.match(/^d(5|10|12\.?5|20|25|50|70)(w|ns|lr|1\/2ns|halfns|0?45ns|0?9ns|1\/4ns)?$/))){
@@ -129,6 +144,23 @@ function pattern(tok){
   if((m=w.match(/^x(\d{1,2})$/))) return `Times ${m[1]} (${m[1]} times, or ${m[1]} occurrences)`;
   if((m=w.match(/^x(\d{1,2})(d|days?|wks?|weeks?|mo|months?|h|hrs?)$/))) return `For ${m[1]} ${/^w/.test(m[2])?"weeks":/^m/.test(m[2])?"months":/^h/.test(m[2])?"hours":"days"}`;
   if((m=w.match(/^(\d)x\/?(d|day|wk|week|mo|month)$/))) return `${m[1]} times per ${/^d/.test(m[2])?"day":/^w/.test(m[2])?"week":"month"}`;
+  return null;
+}
+
+// ---- glued prefixes: side, segment, acuity, history (LSFA, pLAD, AoCHFrEF, spCABG) ----
+// One-letter prefixes only attach to a meaning they can modify: sides to anatomy, acuity to a disease.
+const ANAT=/arter|vein|lobe|extremit|quadrant|ventric|atri|kidney|lung|eye|ear\b|knee|hip|shoulder|joint|ligament|nerve|arthroplasty|amputation|hernia|membrane|pulse|bundle|gland|ovar|tube|duct|breast|foot|hand|wrist|ankle|elbow|carotid|femoral|jugular|cerebral|pleura|effusion|pneumothorax|tonsil|catheter|line|drain/i;
+const DIS=/disease|failure|injury|syndrome|itis\b|infarct|embol|thromb|hemorrhage|hematoma|pain|rejection|ischemi|fibrillation|insufficiency|anemia|infection|hepatitis|stroke|edema|obstruction|retention|delirium|ulcer|cardiomyopathy|pneumonia|lymphoma|leukemia/i;
+const PREFIX=[["fhx","Family history of",null],["aoc","Acute on chronic",DIS],["sp","Status post",null],["hx","History of",null],["ho","History of",null],
+ ["ro","Rule out",null],["cf","Concern for",null],["rec","Recurrent",DIS],["ae","Acute exacerbation of",DIS],["bl","Bilateral",ANAT],
+ ["r","Right",ANAT],["l","Left",ANAT],["b","Bilateral",ANAT],["p","Proximal",ANAT],["m","Mid",ANAT],["d","Distal",ANAT],["a","Acute",DIS],["c","Chronic",DIS]];
+function prefixSplit(k){
+  for(const [p,pm,re] of PREFIX){ if(!k.startsWith(p)) continue; const rest=k.slice(p.length);
+    if(rest.length<2||!LEX[rest]) continue;
+    const es=LEX[rest].filter(e=>e.spec!=="Compound modifier"&&(!re||re.test(e.m)));
+    // a meaning that names a place (ends in artery, vein, lobe ...) beats one that only mentions it
+    const place=e=>re===ANAT&&/(arter(y|ies)|veins?|lobe|extremity|nerve|joint|pulse|membrane|ligament|catheter|line|drain|duct|gland|branch|quadrant)$/i.test(e.m.replace(/\s*\(.*\)$/,""))?1:0;
+    if(es.length) return [{k:p,e:{m:pm}},{k:rest,e:es.sort((x,y)=>place(y)-place(x)||y.spec.split(", ").length-x.spec.split(", ").length)[0]}]; }
   return null;
 }
 
@@ -168,6 +200,10 @@ function decodeToken(tok){
   if(k.length>2&&k.endsWith("s")&&LEX[k.slice(0,-1)]) return decodeToken(tok.slice(0,-1));
   const sig=sigSegment(k);
   if(sig) return {t:tok,seg:sig,why:"dosing schedule"};
+  const ps=prefixSplit(k);
+  if(ps) return {t:tok,seg:ps,why:"prefix + acronym"};
+  const xm=k.match(/^(.+?)x(\d{1,2})$/);
+  if(xm&&LEX[xm[1]]) return {t:tok,seg:[{k:xm[1],e:LEX[xm[1]][0]},{k:"x"+xm[2],e:{m:"\u00d7"+xm[2]}}],why:"acronym times N"};
   const b=bestSplit(k);
   if(b) return {t:tok,seg:b.p,why:b.sure?"best guess":"low-confidence guess, pieces from unrelated fields"};
   return {t:tok,none:true};

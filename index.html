@@ -151,16 +151,34 @@ function pattern(tok){
 // One-letter prefixes only attach to a meaning they can modify: sides to anatomy, acuity to a disease.
 const ANAT=/arter|vein|lobe|extremit|quadrant|ventric|atri|kidney|lung|eye|ear\b|knee|hip|shoulder|joint|ligament|nerve|arthroplasty|amputation|hernia|membrane|pulse|bundle|gland|ovar|tube|duct|breast|foot|hand|wrist|ankle|elbow|carotid|femoral|jugular|cerebral|pleura|effusion|pneumothorax|tonsil|catheter|line|drain/i;
 const DIS=/disease|failure|injury|syndrome|itis\b|infarct|embol|thromb|hemorrhage|hematoma|pain|rejection|ischemi|fibrillation|insufficiency|anemia|infection|hepatitis|stroke|edema|obstruction|retention|delirium|ulcer|cardiomyopathy|pneumonia|lymphoma|leukemia/i;
-const PREFIX=[["fhx","Family history of",null],["aoc","Acute on chronic",DIS],["sp","Status post",null],["hx","History of",null],["ho","History of",null],
- ["ro","Rule out",null],["cf","Concern for",null],["rec","Recurrent",DIS],["ae","Acute exacerbation of",DIS],["bl","Bilateral",ANAT],
+// What each history-style prefix usually governs. Used to rank meanings, never to filter:
+// s/p wants a procedure (SPLAP = s/p laparoscopic, not left atrial pressure), c/f and r/o a disease.
+const PROC=/ectom|otomy|ostomy|plasty|pexy|\btransplant|\breplacement|\brepair|\bbypass|\bgraft|\bcathet|\bresection|\bamputation|\bimplant|\bpacemaker|\bdefibrillator|\bresynchron|\btherapy|scop|\bbiopsy|\bablation|\bshunt|\bstent|\bintervention|\bsurgery|\bsection|\bfusion|\blaparo|\bthoraco|\bcrani|\blamin|\bligation|\bembolization|\bgastrostomy|\btracheostomy|\bdialysis|\bradiation|\bchemo|\bcardioversion|\bclosure|\bclipping|\bcoiling|\benucleation|\bvagotomy|\banastomosis|\bprocedure|\bfixation|\barthroplasty|\breduction|\bdrainage|\bdebridement|\bpancreat|\bERCP|\bdelivery|\bcesarean/i;
+const COND=new RegExp(DIS.source+"|tension|lipidemia|diabet|cancer|carcinoma|asthma|apnea|cirrhosis|fracture|abuse|use disorder|dementia|seizure|epilepsy|accident|fibrosis|tumor|malignan|depress|bipolar|schizo|stenosis|aneurysm|dissection|arrhythmi|block|tachycardia","i");
+const PREFIX=[["fhx","Family history of",null,COND],["aoc","Acute on chronic",DIS],["sp","Status post",null,PROC],["hx","History of",null,COND],["ho","History of",null,COND],
+ ["ro","Rule out",null,COND],["cf","Concern for",null,COND],["rec","Recurrent",DIS],["ae","Acute exacerbation of",DIS],["bl","Bilateral",ANAT],
  ["r","Right",ANAT],["l","Left",ANAT],["b","Bilateral",ANAT],["p","Proximal",ANAT],["m","Mid",ANAT],["d","Distal",ANAT],["a","Acute",DIS],["c","Chronic",DIS]];
+// prefixes that stand on their own in a note; only these may take an unknown or multi-piece remainder
+const LEAD=new Set(["fhx","sp","hx","ho","ro","cf"]);
 function prefixSplit(k){
-  for(const [p,pm,re] of PREFIX){ if(!k.startsWith(p)) continue; const rest=k.slice(p.length);
-    if(rest.length<2||!LEX[rest]) continue;
+  for(const [p,pm,re,pref] of PREFIX){ if(!k.startsWith(p)) continue; const rest=k.slice(p.length);
+    if(rest.length<2) continue;
+    const head={k:p,e:{a:p,m:pm,spec:"Compound modifier"}};
+    if(!LEX[rest]){
+      if(!LEAD.has(p)||rest.length<3) continue;
+      // s/p + LAP + CCY: the remainder splits cleanly inside one field
+      // the first piece must fit the prefix (s/p wants a procedure), so s/p CCHO + LE never appears
+      const r=segment(rest,e=>e.spec!=="Compound modifier"&&(!pref||pref.test(e.m)));
+      if(r&&r.p.length>1) return [head].concat(r.p);
+      const b=bestSplit(rest); if(b&&b.sure&&(!pref||pref.test(b.p[0].e.m))) return [head].concat(b.p);
+      // s/p + chole: a clipped word is not an acronym; show it as written rather than invent a split
+      if(p==="sp"&&/^[a-z]+$/.test(rest)) return [head,{k:rest,e:{a:rest,m:rest+" (written word, not an acronym)",spec:""}}];
+      continue; }
     const es=LEX[rest].filter(e=>e.spec!=="Compound modifier"&&(!re||re.test(e.m)));
     // a meaning that names a place (ends in artery, vein, lobe ...) beats one that only mentions it
     const place=e=>re===ANAT&&/(arter(y|ies)|veins?|lobe|extremity|nerve|joint|pulse|membrane|ligament|catheter|line|drain|duct|gland|branch|quadrant)$/i.test(e.m.replace(/\s*\(.*\)$/,""))?1:0;
-    if(es.length) return [{k:p,e:{m:pm}},{k:rest,e:es.sort((x,y)=>place(y)-place(x)||y.spec.split(", ").length-x.spec.split(", ").length)[0]}]; }
+    const fit=e=>pref&&pref.test(e.m)?1:0;
+    if(es.length) return [head,es.sort((x,y)=>fit(y)-fit(x)||place(y)-place(x)||y.spec.split(", ").length-x.spec.split(", ").length)[0]].map((x,i)=>i?{k:rest,e:x}:x); }
   return null;
 }
 

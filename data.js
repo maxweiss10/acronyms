@@ -26495,4 +26495,5 @@ TVD|Triple vessel disease|Cardiology
 UFEME|Urine full examination and microscopic examination|Laboratory Medicine
 UR/ME|Urine routine and microscopic examination|Laboratory Medicine
 WZF|Walking zimmer frame|Physical Therapy
+x-lap|Exploratory laparotomy|General Surgery
 `;

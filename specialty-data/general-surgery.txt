@@ -636,3 +636,4 @@ PAT|Penetrating abdominal trauma|General Surgery
 BAT|Blunt abdominal trauma|General Surgery
 ACS|Acute coronary syndrome|General Surgery
 CEA|Carotid endarterectomy|General Surgery
+x-lap|Exploratory laparotomy|General Surgery

@@ -90,3 +90,19 @@ LIMA-LAD|left internal mammary artery left anterior descending
 AECOPD|acute exacerbation chronic obstructive pulmonary disease
 NAEON|no acute events overnight
 AFRVR|atrial fibrillation rapid ventricular response
+# History-style prefixes glued to what follows: the meaning must fit the prefix
+SPCABG|status post coronary artery bypass grafting
+SPLAP|status post laparoscopic
+SPLAPCCY|status post laparoscopic cholecystectomy
+SPXLAP|status post exploratory laparotomy
+SPCHOLE|status post chole
+SPCCHOLE|status post cchole
+SPCHEMO|status post chemo
+SPTIPS|status post transjugular intrahepatic portosystemic shunt
+CFSBP|concern for spontaneous bacterial peritonitis
+ROSBP|rule out spontaneous bacterial peritonitis
+HXDVTPE|history of deep vein thrombosis pulmonary embolism
+HXHTNHLD|history of hypertension hyperlipidemia
+FHXDM|family history of diabetes mellitus
+ROACS|rule out acute coronary syndrome
+HOESRD|history of end stage renal disease

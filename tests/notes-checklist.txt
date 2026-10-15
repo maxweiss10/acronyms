@@ -802,3 +802,18 @@ GPO|Good for parts only (slang for a moribund patient)
 CNS-QNS|Central nervous system, quantity not sufficient (derogatory slang)
 NPS|New parent syndrome (slang for anxious first-time parents)
 KIV|Keep in view
+ART|Assuming room temperature (EMS slang for a patient long dead)
+CC|Cancel Christmas (slang for a patient expected to die)
+PBS|Pretty bad shape (EMS slang)
+PCL|Pre-code looking (EMS slang for a patient about to arrest)
+MUH|Messed-up heart (EMS slang)
+HIBGIA|Had it before, got it again (EMS slang for a recurrent problem)
+FRT|Found right there (EMS slang, death at the scene)
+SRT|Stayed right there (EMS slang, death at the scene)
+FMPS|Fluff my pillow syndrome (derogatory nursing slang for a demanding patient)
+BONITA|Big ol' needle in the a** (nursing slang for an intramuscular injection)
+AALFD|Another a**hole looking for drugs (derogatory slang for drug-seeking)
+PAFO|Pissed and fell over (UK slang for a drunken fall)
+SHPOS|Subhuman piece of s*** (derogatory slang, from The House of God)
+DSB|Drug-seeking behavior
+EDP|Emotionally disturbed person

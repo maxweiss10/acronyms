@@ -36,3 +36,18 @@ GPO|Good for parts only (slang for a moribund patient)|Hospital Slang
 CNS-QNS|Central nervous system, quantity not sufficient (derogatory slang)|Hospital Slang
 NPS|New parent syndrome (slang for anxious first-time parents)|Hospital Slang
 KIV|Keep in view|Chart Shorthand
+ART|Assuming room temperature (EMS slang for a patient long dead)|Hospital Slang
+CC|Cancel Christmas (slang for a patient expected to die)|Hospital Slang
+PBS|Pretty bad shape (EMS slang)|Hospital Slang
+PCL|Pre-code looking (EMS slang for a patient about to arrest)|Hospital Slang
+MUH|Messed-up heart (EMS slang)|Hospital Slang
+HIBGIA|Had it before, got it again (EMS slang for a recurrent problem)|Hospital Slang
+FRT|Found right there (EMS slang, death at the scene)|Hospital Slang
+SRT|Stayed right there (EMS slang, death at the scene)|Hospital Slang
+FMPS|Fluff my pillow syndrome (derogatory nursing slang for a demanding patient)|Hospital Slang
+BONITA|Big ol' needle in the a** (nursing slang for an intramuscular injection)|Hospital Slang
+AALFD|Another a**hole looking for drugs (derogatory slang for drug-seeking)|Hospital Slang
+PAFO|Pissed and fell over (UK slang for a drunken fall)|Hospital Slang
+SHPOS|Subhuman piece of s*** (derogatory slang, from The House of God)|Hospital Slang
+DSB|Drug-seeking behavior|Emergency Medicine
+EDP|Emotionally disturbed person|EMS & Prehospital

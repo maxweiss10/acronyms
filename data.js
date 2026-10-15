@@ -1413,6 +1413,7 @@ ART|Atraumatic restorative treatment|Dentistry
 ART|Assisted reproductive technology|Gynecology, Maternal-Newborn Nursing, Urology
 ART|Adaptive radiation therapy|Oncology
 ART|Adjuvant radiotherapy|Oncology
+ART|Assuming room temperature (EMS slang for a patient long dead)|Hospital Slang
 DAA|Direct-acting antiviral|Addiction Medicine, Gastroenterology, Hepatology, Infectious Disease, Pharmacology, Public Health, Transplant
 DAA|Difficult airway algorithm|Anesthesiology
 DAA|Direct anterior approach|Orthopedics
@@ -2172,6 +2173,7 @@ CC|Clean catch urine|Lab Specimens & Blood Bank
 C/C|Complete dilation and complete effacement|Maternal-Newborn Nursing
 CC|Cross-cover|Chart Shorthand
 cc|With meals (cum cibo)|Pharmacology
+CC|Cancel Christmas (slang for a patient expected to die)|Hospital Slang
 MSE|Mental status examination|Addiction Medicine, Behavioral Health Unit, Neurology, Psychiatry
 MSE|Medical screening examination (EMTALA)|Social Work & Case Management
 MSE|Medical screening examination|Health Insurance & Billing
@@ -10041,6 +10043,7 @@ SCL|Supracricoid laryngectomy|Otolaryngology
 PCL|Paced cycle length|Electrophysiology
 PCL|Plasma cell leukemia|Oncology, Pathology
 PCL|Posterior cruciate ligament|Orthopedics, Orthotics & Prosthetics, Pain Medicine, Physical Medicine & Rehab, Physical Therapy, Radiology, Sports Medicine, Trauma Surgery
+PCL|Pre-code looking (EMS slang for a patient about to arrest)|Hospital Slang
 BCL|Basic cycle length|Electrophysiology
 BCL|Bilateral cleft lip|Plastic Surgery
 A-H|Atrial to His interval|Electrophysiology
@@ -10704,6 +10707,7 @@ SRT|Speech reception threshold|Otolaryngology
 SRT|Sleep restriction therapy|Sleep Medicine
 SRT|Salvage radiation therapy|Urology
 SRT|Spaced retrieval training|Speech-Language Pathology
+SRT|Stayed right there (EMS slang, death at the scene)|Hospital Slang
 GKRS|Gamma knife radiosurgery|Endocrinology, Neurosurgery, Oncology, Ophthalmology, Pain Medicine
 CVF|Confrontation visual fields|Endocrinology, Ophthalmology
 CVF|Colovesical fistula|Wound & Ostomy Care
@@ -12450,6 +12454,7 @@ DEE|Developmental and epileptic encephalopathy|Genetics, Neurology
 DGS|DiGeorge syndrome|Genetics
 DNA|Deoxyribonucleic acid|Genetics
 DSB|Double-strand break|Genetics
+DSB|Drug-seeking behavior|Emergency Medicine
 DWM|Dandy-Walker malformation|Genetics
 DZ|Dizygotic (fraternal twins)|Genetics
 DZ|Disseminated zoster|Infection Prevention, Infectious Disease
@@ -12963,6 +12968,7 @@ POMA|Performance-oriented mobility assessment|Geriatrics, Physical Therapy
 DGI|Dynamic gait index|Geriatrics, Orthotics & Prosthetics, Physical Medicine & Rehab, Physical Therapy
 DGI|Disseminated gonococcal infection|Infectious Disease
 FRT|Functional reach test|Geriatrics, Occupational Therapy, Physical Medicine & Rehab, Physical Therapy
+FRT|Found right there (EMS slang, death at the scene)|Hospital Slang
 4MGS|Four-meter gait speed|Geriatrics
 FES|Falls efficacy scale|Geriatrics
 FES|Functional electrical stimulation|Occupational Therapy, Orthotics & Prosthetics, Physical Medicine & Rehab, Physical Therapy
@@ -14156,6 +14162,7 @@ PBS|Peripheral blood smear|Hematology, Laboratory Medicine, Pathology
 PBS|Pencil beam scanning|Oncology
 PBS|Painful bladder syndrome|Pain Medicine, Urology
 PBS|Phosphate-buffered saline|Pathology
+PBS|Pretty bad shape (EMS slang)|Hospital Slang
 BMBx|Bone marrow biopsy|Hematology, Laboratory Medicine, Oncology, Pathology
 BMA|Bone marrow aspirate|Hematology, Laboratory Medicine, Pathology, Podiatry, Procedures & Sedation
 BMA|Bimalleolar ankle fracture|Orthopedics
@@ -26534,4 +26541,11 @@ TTFO|Told to f*** off (derogatory slang)|Hospital Slang
 TUBE|Totally unnecessary breast examination (derogatory slang)|Hospital Slang
 UBI|Unexplained beer injury (slang)|Hospital Slang
 WOMBAT|Waste of money, brains and time (derogatory slang)|Hospital Slang
+AALFD|Another a**hole looking for drugs (derogatory slang for drug-seeking)|Hospital Slang
+BONITA|Big ol' needle in the a** (nursing slang for an intramuscular injection)|Hospital Slang
+FMPS|Fluff my pillow syndrome (derogatory nursing slang for a demanding patient)|Hospital Slang
+HIBGIA|Had it before, got it again (EMS slang for a recurrent problem)|Hospital Slang
+MUH|Messed-up heart (EMS slang)|Hospital Slang
+PAFO|Pissed and fell over (UK slang for a drunken fall)|Hospital Slang
+SHPOS|Subhuman piece of s*** (derogatory slang, from The House of God)|Hospital Slang
 `;

@@ -793,7 +793,6 @@ WOMBAT|Waste of money, brains and time (derogatory slang)
 PITA|Pain in the a** (derogatory slang for a difficult patient)
 TMB|Too many birthdays (slang for frailty of old age)
 DBI|Dirt bag index (derogatory slang)
-GPO|Good for parts only (slang for a moribund patient)
 CNS-QNS|Central nervous system, quantity not sufficient (derogatory slang)
 NPS|New parent syndrome (slang for anxious first-time parents)
 KIV|Keep in view

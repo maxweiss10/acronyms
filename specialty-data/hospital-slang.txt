@@ -27,7 +27,6 @@ WOMBAT|Waste of money, brains and time (derogatory slang)|Hospital Slang
 PITA|Pain in the a** (derogatory slang for a difficult patient)|Hospital Slang
 TMB|Too many birthdays (slang for frailty of old age)|Hospital Slang
 DBI|Dirt bag index (derogatory slang)|Hospital Slang
-GPO|Good for parts only (slang for a moribund patient)|Hospital Slang
 CNS-QNS|Central nervous system, quantity not sufficient (derogatory slang)|Hospital Slang
 NPS|New parent syndrome (slang for anxious first-time parents)|Hospital Slang
 KIV|Keep in view|Chart Shorthand

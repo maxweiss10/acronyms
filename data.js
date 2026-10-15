@@ -13620,7 +13620,6 @@ FTE|Full-time equivalent|Health Administration
 FTE|Fallopian tube epithelium|Pathology
 FSA|Flexible spending account|Health Administration, Health Insurance & Billing, Public Health
 GPO|Group purchasing organization|Health Administration, Pharmacy Operations
-GPO|Good for parts only (slang for a moribund patient)|Hospital Slang
 GL|General ledger|Health Administration
 GL|Glycemic load|Nutrition
 GL|Germline|Oncology

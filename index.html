@@ -255,7 +255,7 @@ const TOTAL=new Set(ENTRIES.map(e=>e[0])).size, fmt=x=>x.toLocaleString("en-US")
 const VOCAB=new Set(ENTRIES.flatMap(e=>e[1].toLowerCase().match(/[a-z]{4,}/g)||[]));
 const plain=w=>/^[A-Za-z][a-z]{3,}$/.test(w)&&VOCAB.has(w.toLowerCase())&&!RAW.has(w.toLowerCase())&&!RAWN.has(norm(w));
 // specialty tags run home first; h counts the co-equal homes (default 1). The decoder line names only the homes.
-const homeLabel=(spec,h)=>{const t=spec.split(", "), k=Math.max(+h||1,t.length===2?2:1);
+const homeLabel=(spec,h)=>{const t=spec.split(", "), k=t.length<=3?t.length:Math.max(+h||1,1);
   return t.slice(0,k).join(", ")+(t.length>k?` +${t.length-k} more`:"");};
 const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
@@ -297,7 +297,7 @@ function render(){
   t.innerHTML="";
   rows.slice(0,400).forEach(([a,m,s,h])=>{
     const tr=document.createElement("tr");
-    [a,m,s].forEach((v,i)=>{const td=document.createElement("td"); if(i===2){td.className="sp"; const full=v.split(", "); const ab=full.map(x=>SPEC_ABBR[x]||x); td.title=v; const k=Math.max(+h||1,ab.length===2?2:1);  // tags run home first; h = how many are co-equal homes
+    [a,m,s].forEach((v,i)=>{const td=document.createElement("td"); if(i===2){td.className="sp"; const full=v.split(", "); const ab=full.map(x=>SPEC_ABBR[x]||x); td.title=v; const k=ab.length<=3?ab.length:Math.max(+h||1,1);  // up to 3 tags: show them all  // tags run home first; h = how many are co-equal homes
           if(ab.length>k){td.textContent=ab.slice(0,k).join(", ")+" "; const b=document.createElement("button"); b.className="more"; b.textContent=`+${ab.length-k} more`; b.onclick=()=>{td.textContent=ab.join(", ");}; td.append(b);} else td.textContent=ab.join(", ");} else td.textContent=v; tr.append(td);});
     t.append(tr);
   });

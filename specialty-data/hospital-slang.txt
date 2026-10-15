@@ -1,0 +1,38 @@
+LOL|Little old lady (slang)|Hospital Slang
+LOLINAD|Little old lady in no apparent distress (slang)|Hospital Slang
+LOLFDGB|Little old lady, fall down go boom (slang for an elderly fall)|Hospital Slang
+FDGB|Fall down go boom (slang for a fall)|Hospital Slang
+GOK|God only knows (slang for an unclear diagnosis)|Hospital Slang
+GORK|God only really knows (slang; also an unresponsive or heavily sedated patient)|Hospital Slang
+GOMER|Get out of my emergency room (derogatory slang for a frequent, chronically ill patient)|Hospital Slang
+FLK|Funny-looking kid (dated slang for dysmorphic features)|Hospital Slang
+NFN|Normal for Norfolk (derogatory UK slang)|Hospital Slang
+NFH|Normal for here (slang)|Hospital Slang
+CTD|Circling the drain (slang for a patient expected to die soon)|Hospital Slang
+FTD|Fixing to die (slang for a patient expected to die soon)|Hospital Slang
+AGMI|Ain't gonna make it (slang for a poor prognosis)|Hospital Slang
+BUNDY|But unfortunately not dead yet (derogatory slang)|Hospital Slang
+TFBUNDY|Totally f***ed but unfortunately not dead yet (derogatory slang)|Hospital Slang
+DRT|Dead right there (EMS slang for obvious death at the scene)|Hospital Slang
+DFO|Done fell out (slang for a collapse or syncope)|Hospital Slang
+PFO|Pissed and fell over (UK slang for a drunken fall)|Hospital Slang
+PGT|Pissed, got thumped (UK slang for an assault while drunk)|Hospital Slang
+UBI|Unexplained beer injury (slang)|Hospital Slang
+HBD|Has been drinking (slang)|Hospital Slang
+FOS|Full of stool (slang for constipation; also used as an insult)|Hospital Slang
+TTFO|Told to f*** off (derogatory slang)|Hospital Slang
+PRATFO|Patient reassured and told to f*** off (derogatory slang)|Hospital Slang
+TEETH|Tried everything else, try homeopathy (slang)|Hospital Slang
+TATT|Tired all the time (UK general practice shorthand)|Hospital Slang
+LOBNH|Lights on but nobody home (derogatory slang for poor responsiveness)|Hospital Slang
+PPP|Piss-poor protoplasm (derogatory slang for a frail patient)|Hospital Slang
+WOMBAT|Waste of money, brains and time (derogatory slang)|Hospital Slang
+PITA|Pain in the a** (derogatory slang for a difficult patient)|Hospital Slang
+TMB|Too many birthdays (slang for frailty of old age)|Hospital Slang
+DBI|Dirt bag index (derogatory slang)|Hospital Slang
+TUBE|Totally unnecessary breast examination (derogatory slang)|Hospital Slang
+GLM|Good-looking mum (derogatory slang)|Hospital Slang
+GPO|Good for parts only (slang for a moribund patient)|Hospital Slang
+CNS-QNS|Central nervous system, quantity not sufficient (derogatory slang)|Hospital Slang
+NPS|New parent syndrome (slang for anxious first-time parents)|Hospital Slang
+KIV|Keep in view|Chart Shorthand

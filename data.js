@@ -302,6 +302,7 @@ NPS|Net promoter score|Health Administration
 NPS|Nail-patella syndrome|Nephrology
 NPS|Neuropathic pain scale|Pain Medicine
 NPS|Neuropsychiatric symptoms|Psychiatry
+NPS|New parent syndrome (slang for anxious first-time parents)|Hospital Slang
 MDMA|3,4-methylenedioxymethamphetamine (ecstasy)|Addiction Medicine, Psychiatry, Toxicology
 MDMA|Methylenedioxymethamphetamine|Pharmacology
 MDA|3,4-methylenedioxyamphetamine|Addiction Medicine, Toxicology
@@ -4592,6 +4593,7 @@ NICU|Neonatal intensive care unit|Anesthesiology, Critical Care, Emergency Medic
 NICU|Neurologic intensive care unit|Neurosurgery
 RDS|Respiratory distress syndrome|Anesthesiology, Maternal-Newborn Nursing, Neonatology, Nursing, Obstetrics, Pathology, Pediatrics, Pulmonology, Radiology, Respiratory Therapy
 PFO|Patent foramen ovale|Anesthesiology, Cardiac Imaging, Cardiac Surgery, Cardiology, Electrophysiology, Heart Failure, Hospital Medicine, Interventional Cardiology, Maternal-Newborn Nursing, Neonatology, Neurology, Neurosurgery, Pediatrics, Physical Medicine & Rehab, Pulmonology, Radiology, Transplant, Vascular Surgery
+PFO|Pissed and fell over (UK slang for a drunken fall)|Hospital Slang
 ASD|Atrial septal defect|Anesthesiology, Cardiac Imaging, Cardiac Surgery, Cardiology, Electrophysiology, Heart Failure, Hospital Medicine, Interventional Cardiology, Maternal-Newborn Nursing, Neonatology, Nursing, Obstetrics, Pediatrics, Radiology, Transplant
 ASD|Autism spectrum disorder|Behavioral Health Unit, Dentistry, Genetics, Neurology, Pediatrics, Physical Medicine & Rehab, Psychiatry, Public Health, Sleep Medicine, Speech-Language Pathology
 ASD|Adult spinal deformity|Neurosurgery
@@ -5650,6 +5652,7 @@ SEC|Squamous epithelial cells|Lab Specimens & Blood Bank
 LAA EV|Left atrial appendage emptying velocity|Cardiac Imaging, Electrophysiology
 DRT|Device-related thrombus|Cardiac Imaging, Electrophysiology
 DRT|Dermal regeneration template|Podiatry
+DRT|Dead right there (EMS slang for obvious death at the scene)|Hospital Slang
 PVL|Paravalvular leak|Cardiac Imaging, Cardiac Surgery, Interventional Cardiology
 PVL|Paravalvular leakage|Cardiac Surgery
 PVL|Portal vein ligation|Hepatology
@@ -9407,6 +9410,7 @@ PPP|Postpartum psychosis|Obstetrics
 PPP|Preperitoneal pelvic packing|Trauma Surgery
 PPP|Penile prosthesis placement|Urology
 PPP|Peak plantar pressure|Podiatry
+PPP|Piss-poor protoplasm (derogatory slang for a frail patient)|Hospital Slang
 PPPP|Palmoplantar pustular psoriasis|Dermatology
 PASI|Psoriasis Area and Severity Index|Dermatology, Rheumatology
 PASI75|75 percent improvement in Psoriasis Area and Severity Index|Dermatology
@@ -9796,6 +9800,7 @@ PNI|Prognostic nutritional index|Nutrition
 TIL|Tumor-infiltrating lymphocytes|Dermatology, Oncology, Pathology
 TILs|Tumor-infiltrating lymphocytes|Dermatology, Oncology, Pathology
 TMB|Tumor mutational burden|Dermatology, Genetics, Hepatology, Laboratory Medicine, Oncology, Pathology
+TMB|Too many birthdays (slang for frailty of old age)|Hospital Slang
 HFUS|High-frequency ultrasound|Dermatology
 TBP|Total body photography|Dermatology
 TBP|Transmission-based precautions|Infection Prevention, Infectious Disease, Nursing
@@ -9908,6 +9913,7 @@ CTD|Connective tissue disease|Dermatology, Hospital Medicine, Pain Medicine, Pod
 CTD|Cyclophosphamide, thalidomide and dexamethasone regimen|Oncology
 CTD|Chronic tic disorder|Psychiatry
 CTD|Cumulative trauma disorder|Occupational Therapy
+CTD|Circling the drain (slang for a patient expected to die soon)|Hospital Slang
 AL|Light chain (primary) amyloidosis|Dermatology, Electrophysiology, Heart Failure, Nephrology, Oncology, Pathology, Transplant
 AL|Assisted living|Geriatrics, Health Administration, Occupational Therapy, Social Work & Case Management
 AL|Artemether-lumefantrine|Infectious Disease, Pharmacology
@@ -12473,6 +12479,7 @@ FSGS|Focal segmental glomerulosclerosis|Genetics, Laboratory Medicine, Nephrolog
 FSHD|Facioscapulohumeral muscular dystrophy|Genetics, Neurology
 FTD|Frontotemporal dementia|Genetics, Geriatrics, Neurology, Palliative Care, Pathology, Psychiatry, Sleep Medicine, Speech-Language Pathology
 FTD|Formal thought disorder|Psychiatry
+FTD|Fixing to die (slang for a patient expected to die soon)|Hospital Slang
 FXPI|Fragile X premutation|Genetics
 FXPOI|Fragile X-associated primary ovarian insufficiency|Genetics
 FXS|Fragile X syndrome|Genetics
@@ -12623,6 +12630,7 @@ PGS|Posterior glottic stenosis|Otolaryngology
 PGS-A|Preimplantation genetic screening for aneuploidy|Genetics
 PGT|Preimplantation genetic testing|Genetics, Gynecology, Oncology
 PGT|Pharmacogenetic testing|Pharmacology
+PGT|Pissed, got thumped (UK slang for an assault while drunk)|Hospital Slang
 PGT-A|Preimplantation genetic testing for aneuploidy|Genetics, Gynecology
 PGT-M|Preimplantation genetic testing for monogenic disorders|Genetics, Gynecology
 PGT-SR|Preimplantation genetic testing for structural rearrangements|Genetics, Gynecology
@@ -12985,6 +12993,7 @@ FWB|Free water bolus|Nursing
 STOPP|Screening tool of older persons' potentially inappropriate prescriptions|Geriatrics
 STOPP|Screening Tool of Older Persons' Prescriptions|Pharmacology
 DBI|Drug burden index|Geriatrics, Pharmacology
+DBI|Dirt bag index (derogatory slang)|Hospital Slang
 MAI|Medication appropriateness index|Geriatrics
 MAI|Mycobacterium avium-intracellulare|Infectious Disease
 NaSSA|Noradrenergic and specific serotonergic antidepressant|Geriatrics, Psychiatry
@@ -13605,6 +13614,7 @@ FTE|Full-time equivalent|Health Administration
 FTE|Fallopian tube epithelium|Pathology
 FSA|Flexible spending account|Health Administration, Health Insurance & Billing, Public Health
 GPO|Group purchasing organization|Health Administration, Pharmacy Operations
+GPO|Good for parts only (slang for a moribund patient)|Hospital Slang
 GL|General ledger|Health Administration
 GL|Glycemic load|Nutrition
 GL|Germline|Oncology
@@ -15529,6 +15539,7 @@ DAIR|Debridement, antibiotics, and implant retention|Infectious Disease, Orthope
 DFO|Diabetic foot osteomyelitis|Infectious Disease, Podiatry, Wound & Ostomy Care
 DFO|Distal femoral osteotomy|Orthopedics, Sports Medicine
 DFO|Deferoxamine|Pharmacology, Toxicology
+DFO|Done fell out (slang for a collapse or syncope)|Hospital Slang
 ABE|Acute bacterial endocarditis|Infectious Disease
 ABE|Acute bilirubin encephalopathy|Neonatology
 ABE|Assisted breech extraction|Obstetrics
@@ -15613,6 +15624,7 @@ FOS|Fosfomycin|Infectious Disease, Pharmacology
 FOS|Fosphenytoin|Neonatology
 FOS|Focal onset seizure|Neurology
 FOS|Fructooligosaccharide|Nutrition
+FOS|Full of stool (slang for constipation; also used as an insult)|Hospital Slang
 LVX|Levofloxacin|Chart Shorthand, Infectious Disease, Pharmacology
 MXF|Moxifloxacin|Chart Shorthand, Infectious Disease, Pharmacology
 FQ|Fluoroquinolone|Chart Shorthand, Infectious Disease, Ophthalmology, Otolaryngology, Pharmacology
@@ -21163,6 +21175,7 @@ MCAR|Missing completely at random|Evidence-Based Medicine, Public Health
 MNAR|Missing not at random|Evidence-Based Medicine, Public Health
 GEE|Generalized estimating equations|Evidence-Based Medicine, Public Health
 GLM|Generalized linear model|Evidence-Based Medicine, Public Health
+GLM|Good-looking mum (derogatory slang)|Hospital Slang
 ANOVA|Analysis of variance|Evidence-Based Medicine, Public Health
 ANCOVA|Analysis of covariance|Evidence-Based Medicine, Public Health
 DAG|Directed acyclic graph|Evidence-Based Medicine, Public Health
@@ -24702,6 +24715,7 @@ WTM|Wet-to-moist dressing|Wound & Ostomy Care
 9:00|Clock position 9|Wound & Ostomy Care
 9:1|Blood to citrate ratio required in coagulation tubes|Lab Specimens & Blood Bank
 @ teeth|Depth at the teeth|Procedures & Sedation
+TEETH|Tried everything else, try homeopathy (slang)|Hospital Slang
 Ab ID|Antibody identification|Lab Specimens & Blood Bank
 AB plasma|Group AB universal donor plasma|Lab Specimens & Blood Bank
 Ab screen|Antibody screen|Lab Specimens & Blood Bank, Maternal-Newborn Nursing
@@ -26042,6 +26056,7 @@ Neph|Nephrology|Chart Shorthand
 Net even|Net even fluid balance|Chart Shorthand
 NFD|No focal deficits|Chart Shorthand
 NFN|Nothing further needed|Chart Shorthand
+NFN|Normal for Norfolk (derogatory UK slang)|Hospital Slang
 Nic patch|Nicotine patch|Chart Shorthand
 NNTR|Nothing new to report|Chart Shorthand
 No comps|No complications|Chart Shorthand
@@ -26355,6 +26370,7 @@ EUP|Extrauterine pregnancy|Obstetrics
 GOT|Glutamic-oxaloacetic transaminase (AST)|Laboratory Medicine
 GPT|Glutamic-pyruvic transaminase (ALT)|Laboratory Medicine
 HBD|Has been drinking|Emergency Medicine
+HBD|Has been drinking (slang)|Hospital Slang
 hPL|Human placental lactogen|Obstetrics
 ITU|Intensive therapy unit|Critical Care
 IUT|Intrauterine transfusion|Obstetrics
@@ -26496,4 +26512,26 @@ UFEME|Urine full examination and microscopic examination|Laboratory Medicine
 UR/ME|Urine routine and microscopic examination|Laboratory Medicine
 WZF|Walking zimmer frame|Physical Therapy
 x-lap|Exploratory laparotomy|General Surgery
+AGMI|Ain't gonna make it (slang for a poor prognosis)|Hospital Slang
+BUNDY|But unfortunately not dead yet (derogatory slang)|Hospital Slang
+CNS-QNS|Central nervous system, quantity not sufficient (derogatory slang)|Hospital Slang
+FDGB|Fall down go boom (slang for a fall)|Hospital Slang
+FLK|Funny-looking kid (dated slang for dysmorphic features)|Hospital Slang
+GOK|God only knows (slang for an unclear diagnosis)|Hospital Slang
+GOMER|Get out of my emergency room (derogatory slang for a frequent, chronically ill patient)|Hospital Slang
+GORK|God only really knows (slang; also an unresponsive or heavily sedated patient)|Hospital Slang
+KIV|Keep in view|Chart Shorthand
+LOBNH|Lights on but nobody home (derogatory slang for poor responsiveness)|Hospital Slang
+LOL|Little old lady (slang)|Hospital Slang
+LOLFDGB|Little old lady, fall down go boom (slang for an elderly fall)|Hospital Slang
+LOLINAD|Little old lady in no apparent distress (slang)|Hospital Slang
+NFH|Normal for here (slang)|Hospital Slang
+PITA|Pain in the a** (derogatory slang for a difficult patient)|Hospital Slang
+PRATFO|Patient reassured and told to f*** off (derogatory slang)|Hospital Slang
+TATT|Tired all the time (UK general practice shorthand)|Hospital Slang
+TFBUNDY|Totally f***ed but unfortunately not dead yet (derogatory slang)|Hospital Slang
+TTFO|Told to f*** off (derogatory slang)|Hospital Slang
+TUBE|Totally unnecessary breast examination (derogatory slang)|Hospital Slang
+UBI|Unexplained beer injury (slang)|Hospital Slang
+WOMBAT|Waste of money, brains and time (derogatory slang)|Hospital Slang
 `;

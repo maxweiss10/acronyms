@@ -353,6 +353,7 @@ SIR|Society of Interventional Radiology|Procedures & Sedation
 DAPT|Dual antiplatelet therapy|Procedures & Sedation
 Abx|Antibiotics|Procedures & Sedation
 Fluoro|Fluoroscopy|Procedures & Sedation
+Fluoro time|Fluoroscopy time|Procedures & Sedation
 DAP|Dose-area product|Procedures & Sedation
 mGy|Milligray|Procedures & Sedation
 CIN|Contrast-induced nephropathy|Procedures & Sedation

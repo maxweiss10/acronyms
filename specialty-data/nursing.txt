@@ -667,6 +667,7 @@ FOB|Fecal occult blood|Nursing
 HOB elevated|Head of bed elevated|Nursing
 UTD|Up to date|Nursing
 CBR|Complete bed rest|Nursing
+OOB to chair|Out of bed to chair|Nursing
 SBA|Stand-by assist|Nursing
 CGA|Contact guard assist|Nursing
 Min A|Minimal assistance|Nursing

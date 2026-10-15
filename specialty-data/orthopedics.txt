@@ -683,6 +683,7 @@ DCE|Distal clavicle excision|Orthopedics
 ACJR|Acromioclavicular joint reconstruction|Orthopedics
 ARCR|Arthroscopic rotator cuff repair|Orthopedics
 SCR|Superior capsular reconstruction|Orthopedics
+LHBT tenodesis|Long head of biceps tendon tenodesis|Orthopedics
 ABS|Arthroscopic Bankart repair|Orthopedics
 OSA|Osteochondral allograft shoulder|Orthopedics
 FTRCT|Full-thickness rotator cuff tear|Orthopedics

@@ -4214,6 +4214,7 @@ D/I|Dry and intact|Wound & Ostomy Care
 DI|Dual (urinary and fecal) incontinence|Wound & Ostomy Care
 DI|Deterioration Index|Chart Shorthand
 TURP|Transurethral resection of the prostate|Urology, Pathology, Oncology, Nephrology, Anesthesiology, General Surgery, Perioperative Nursing, Nursing, Hospital Medicine
+TUR syndrome|Transurethral resection syndrome (hyponatremia from irrigant absorption)|Anesthesiology
 BSA|Body surface area|Oncology, Pharmacology, Pharmacy Operations, Dermatology, Cardiac Imaging, Plastic Surgery, Nephrology, Cardiology, Heart Failure, Interventional Cardiology, Pediatrics, Nutrition, Rheumatology, Transplant, Radiology, Critical Care, Trauma Surgery, Anesthesiology, Emergency Medicine, Evidence-Based Medicine, Palliative Care, Nursing, Hospital Medicine
 BSA|Bovine serum albumin|Pathology
 BSA|Broad-spectrum antibiotics|Infectious Disease
@@ -5794,6 +5795,7 @@ AAD|Acute aortic dissection|Vascular Surgery, Cardiology|2
 AAD|Autoimmune Addison disease|Endocrinology
 AAD|Antibiotic-associated diarrhea|Infectious Disease
 AoAn|Aortic annulus|Cardiac Imaging
+SoV height|Sinus of Valsalva height|Cardiac Imaging
 ABI|Ankle-brachial index|Vascular Surgery, Podiatry, Wound & Ostomy Care, Interventional Cardiology, Cardiology, Cardiac Imaging, Radiology, Dermatology, Plastic Surgery, General Surgery, Trauma Surgery, Orthopedics, Rheumatology, Physical Medicine & Rehab, Physical Therapy, Sports Medicine, Pain Medicine, Geriatrics, Hospital Medicine
 ABI|Abiraterone|Oncology
 ABI|Auditory brainstem implant|Otolaryngology
@@ -12108,6 +12110,7 @@ DPYD|Dihydropyrimidine dehydrogenase deficiency testing|Oncology, Gastroenterolo
 VEGF|Vascular endothelial growth factor|Oncology, Hepatology, Urology, Gastroenterology
 HER2|Human epidermal growth factor receptor 2|Oncology, Pathology, Laboratory Medicine, Pharmacology, General Surgery, Gastroenterology, Gynecology, Heart Failure, Plastic Surgery
 CPS-PDL1|Combined positive score for programmed death-ligand 1|Oncology, Pathology, Gastroenterology|2
+ICI colitis|Immune checkpoint inhibitor colitis|Gastroenterology
 ICIH|Immune checkpoint inhibitor hepatitis|Gastroenterology
 MC-colitis|Microscopic colitis|Gastroenterology
 CC-colitis|Collagenous colitis|Gastroenterology
@@ -13153,6 +13156,7 @@ POAG|Primary open-angle glaucoma|Ophthalmology, Geriatrics
 PACG|Primary angle-closure glaucoma|Ophthalmology, Geriatrics
 IOL|Intraocular lens|Ophthalmology, Geriatrics
 IOL|Induction of labor|Obstetrics, Maternal-Newborn Nursing, Neonatology, Gynecology
+CHF exacerbation|Congestive heart failure exacerbation|Cardiology, Geriatrics
 SPMSQ|Short portable mental status questionnaire|Geriatrics
 BOMC|Blessed orientation-memory-concentration test|Geriatrics
 7MS|Seven-minute screen for cognitive impairment|Geriatrics
@@ -14072,6 +14076,7 @@ HHD|Heart healthy diet|Nutrition
 HHD|Handheld dynamometer|Sports Medicine
 HHD|Home hemodialysis|Nephrology, Dialysis Nursing
 SDB|Sleep-disordered breathing|Sleep Medicine, Pulmonology, Otolaryngology, Respiratory Therapy, Heart Failure
+BiV pacing|Biventricular pacing|Heart Failure
 PICM|Pacing-induced cardiomyopathy|Heart Failure
 tMCS|Temporary mechanical circulatory support|Heart Failure, Interventional Cardiology|2
 RPMs|Revolutions per minute|Heart Failure
@@ -14118,6 +14123,7 @@ PRWP|Poor R-wave progression|Cardiology, Heart Failure
 GCM|Giant cell myocarditis|Heart Failure, Pathology
 GCM|Gastrocnemius|Physical Medicine & Rehab
 GCM|Gastrocnemius muscle|Plastic Surgery
+ICI myocarditis|Immune checkpoint inhibitor myocarditis|Heart Failure
 VEGFi|Vascular endothelial growth factor inhibitor|Oncology, Pharmacology, Heart Failure
 MIS-C|Multisystem inflammatory syndrome in children|Pediatrics, Rheumatology, Infectious Disease, Heart Failure, Public Health
 COVID|Coronavirus disease|Infectious Disease, Heart Failure, Obstetrics
@@ -15248,6 +15254,7 @@ BSL-4|Biosafety level 4|Infectious Disease
 UVGI|Ultraviolet germicidal irradiation|Infection Prevention, Infectious Disease
 PVP-I|Povidone-iodine|Wound & Ostomy Care, Infectious Disease
 CHG bath|Chlorhexidine gluconate bathing|Infectious Disease
+CHG bath|Chlorhexidine gluconate bath|Nursing
 MUP|Mupirocin|Infectious Disease
 MUP|Motor unit potential|Physical Medicine & Rehab, Neurology, Sports Medicine|2
 MUP|Medically underserved population|Health Insurance & Billing
@@ -17198,6 +17205,7 @@ HOB elevated|Head of bed elevated|Nursing
 CBR|Complete bed rest|Nursing
 CBR|Clinical benefit rate|Oncology, Evidence-Based Medicine
 CBR|Crude birth rate|Public Health
+OOB to chair|Out of bed to chair|Nursing
 TDWB|Toe-down weight bearing|Nursing
 TDWB|Touch-down weight bearing|Physical Therapy, Occupational Therapy, Orthotics & Prosthetics, Podiatry, Nursing
 FROM|Full range of motion|Orthopedics, Chart Shorthand, Podiatry, Nursing
@@ -17926,6 +17934,7 @@ menin i|Menin inhibitor|Oncology
 Menini|Menin inhibitor|Oncology
 SMOi|Smoothened inhibitor|Oncology
 CDK4/6|Cyclin-dependent kinase 4/6|Oncology
+CDK4/6 inhibitor|Cyclin-dependent kinase 4/6 inhibitor|Oncology
 CDK7i|CDK7 inhibitor|Oncology
 ATRi|ATR kinase inhibitor|Oncology
 WEE1i|WEE1 inhibitor|Oncology
@@ -18364,6 +18373,8 @@ SSTR-PET|Somatostatin receptor positron emission tomography|Radiology, Oncology|
 In-111|Indium-111|Radiology, Oncology
 99mTc|Technetium-99m|Radiology, Oncology
 99mTc-MDP|Technetium-99m methylene diphosphonate bone scan tracer|Radiology, Oncology
+Tc-99m sestamibi|Technetium-99m sestamibi|Oncology
+F-18 fluciclovine|Fluorine-18 fluciclovine|Oncology
 18F-DCFPyL|Fluorine-18 piflufolastat PSMA tracer|Radiology, Oncology|2
 18F-PSMA|Fluorine-18 labeled PSMA tracer|Radiology, Oncology|2
 F-18 PSMA|Fluorine-18 labeled PSMA tracer|Radiology, Oncology|2
@@ -18378,6 +18389,7 @@ FET-PET|Fluoroethyltyrosine positron emission tomography|Radiology, Oncology|2
 18F-FDOPA|Fluorine-18 fluorodihydroxyphenylalanine|Radiology, Oncology|2
 F-DOPA PET|Fluorodihydroxyphenylalanine positron emission tomography|Radiology, Oncology|2
 FMISO|Fluoromisonidazole (hypoxia imaging agent)|Radiology, Oncology
+C-11 choline|Carbon-11 choline|Oncology
 11C-choline|Carbon-11 choline|Radiology, Oncology|2
 11C-methionine|Carbon-11 methionine|Radiology, Oncology|2
 FAPI|Fibroblast activation protein inhibitor imaging agent|Radiology, Oncology|2
@@ -18461,6 +18473,7 @@ T2/FLAIR|T2-weighted fluid-attenuated inversion recovery|Radiology, Oncology
 MRU|Magnetic resonance urography|Radiology, Oncology
 MRU|Magnetic resonance urogram|Urology
 MR-elastography|Magnetic resonance elastography|Radiology, Oncology
+w/ contrast|With contrast|Oncology
 w/o contrast|Without contrast|Radiology, Oncology
 MRI-rectal|Rectal magnetic resonance imaging|Radiology, Oncology
 MRF|Mesorectal fascia|Oncology
@@ -19666,6 +19679,7 @@ SA bursa|Subacromial bursa|Orthopedics
 GHOA|Glenohumeral osteoarthritis|Orthopedics
 ACJR|Acromioclavicular joint reconstruction|Orthopedics
 ARCR|Arthroscopic rotator cuff repair|Orthopedics
+LHBT tenodesis|Long head of biceps tendon tenodesis|Orthopedics
 FTRCT|Full-thickness rotator cuff tear|Orthopedics
 PTRCT|Partial-thickness rotator cuff tear|Orthopedics
 PASTA|Partial articular-sided supraspinatus tendon avulsion|Orthopedics
@@ -21311,6 +21325,7 @@ SAT/SBT|Paired spontaneous awakening and breathing trials|Respiratory Therapy
 VFD|Ventilator-free days|Evidence-Based Medicine, Pulmonology, Respiratory Therapy
 VFD|Visual field deficit|Occupational Therapy
 UIP pattern|Usual interstitial pneumonia pattern|Pulmonology
+NSIP pattern|Nonspecific interstitial pneumonia pattern|Pulmonology
 IPAF|Interstitial pneumonia with autoimmune features|Pulmonology, Rheumatology|2
 ASS|Antisynthetase syndrome|Rheumatology, Pulmonology|2
 MDA5|Melanoma differentiation-associated gene 5 antibody|Pulmonology
@@ -22189,6 +22204,7 @@ CDCXM|Complement-dependent cytotoxicity crossmatch|Transplant
 VXM|Virtual crossmatch|Transplant
 SSOP|Sequence-specific oligonucleotide probe|Transplant
 GIO|Glucocorticoid-induced osteoporosis|Endocrinology, Rheumatology, Transplant|2
+CNI toxicity|Calcineurin inhibitor toxicity|Transplant
 CNI-TMA|Calcineurin inhibitor-associated thrombotic microangiopathy|Transplant
 C4d|Complement component 4d|Transplant
 EIV|External iliac vein|Transplant
@@ -22285,6 +22301,7 @@ CIRF|Clinically insignificant residual fragments|Urology
 UA stone|Uric acid stone|Urology
 24hr urine|Twenty-four-hour urine collection|Nephrology, Urology|2
 24-hr urine|24-hour urine collection|Lab Specimens & Blood Bank
+K citrate|Potassium citrate|Urology
 KCit|Potassium citrate|Urology
 OAB-wet|Overactive bladder with urgency incontinence|Urology
 OAB-wet|Overactive bladder with urge incontinence|Wound & Ostomy Care
@@ -22701,6 +22718,7 @@ AMPnoPRO|Amputee mobility predictor without prosthesis|Orthotics & Prosthetics
 AMPPRO|Amputee mobility predictor with prosthesis|Orthotics & Prosthetics, Physical Therapy
 AMPS|Assessment of motor and process skills|Occupational Therapy
 AMSTAR|A measurement tool to assess systematic reviews|Evidence-Based Medicine
+AMSTAR 2|A measurement tool to assess systematic reviews 2|Evidence-Based Medicine
 Angio|Angiography|Radiology, Podiatry
 Angio|Angiogram|Radiology, Procedures & Sedation
 ANOC|Annual Notice of Change|Health Insurance & Billing
@@ -22757,6 +22775,7 @@ AVQI|Acoustic voice quality index|Speech-Language Pathology
 AVSS|Afebrile, vital signs stable|Chart Shorthand, Maternal-Newborn Nursing
 AVT|Auditory-verbal therapy|Speech-Language Pathology
 AWOL|Absent without leave|Behavioral Health Unit, Social Work & Case Management
+Ax crutches|Axillary crutches|Physical Therapy
 Ax1|Assist of one|Occupational Therapy, Nursing
 Ax2|Assist of two|Occupational Therapy, Nursing
 AxO|Alert and oriented|Chart Shorthand
@@ -23496,6 +23515,7 @@ incr|Increase|Chart Shorthand
 incr|Increased|Chart Shorthand
 incr WOB|Increased work of breathing|Pulmonology, Chart Shorthand
 inpt|Inpatient|Chart Shorthand
+inpt status|Inpatient status|Chart Shorthand
 insp wheeze|Inspiratory wheeze|Pulmonology, Chart Shorthand
 int|Interval|Chart Shorthand
 INT|Intermittent infusion device (saline lock)|Nursing
@@ -23620,6 +23640,7 @@ LMSW|Licensed master social worker|Social Work & Case Management
 Lo-MV|Low minute ventilation alarm|Respiratory Therapy
 LOCF|Last observation carried forward|Evidence-Based Medicine
 LoE|Level of evidence|Evidence-Based Medicine
+LOE A|Level of evidence A (high-quality evidence from more than one RCT or meta-analyses)|Evidence-Based Medicine
 LOE B-NR|Level of evidence B, nonrandomized (moderate-quality evidence from nonrandomized studies)|Evidence-Based Medicine
 LOE B-R|Level of evidence B, randomized (moderate-quality evidence from one or more RCTs)|Evidence-Based Medicine
 LOE C-EO|Level of evidence C, expert opinion|Evidence-Based Medicine
@@ -23883,6 +23904,7 @@ OCAIRS|Occupational circumstances assessment interview and rating scale|Occupati
 OCEBM|Oxford Centre for Evidence-Based Medicine|Evidence-Based Medicine
 OCME|Office of the Chief Medical Examiner|Chaplaincy & Spiritual Care
 OFM|Oronasal face mask|Respiratory Therapy
+OGT output|Orogastric tube output|Chart Shorthand
 OIG|Office of Inspector General|Health Insurance & Billing
 OLE|Open-label extension|Evidence-Based Medicine
 OLS|Ordinary least squares|Evidence-Based Medicine
@@ -23908,6 +23930,7 @@ OPTN|Organ Procurement and Transplantation Network|Transplant, Dialysis Nursing,
 OPUS|Orthotics and prosthetics users survey|Orthotics & Prosthetics
 ORLA|Oral reading for language in aphasia|Speech-Language Pathology
 OSH|Outside hospital|Chart Shorthand
+OSH records|Outside hospital records|Chart Shorthand
 OSH transfer|Transfer from outside hospital|Chart Shorthand
 OSHA|Occupational Safety and Health Administration|Infection Prevention, Respiratory Therapy
 OSHPD|Office of Statewide Health Planning and Development (California, now HCAI)|Health Insurance & Billing
@@ -24202,6 +24225,7 @@ s/p 1 dose|Status post one dose|Chart Shorthand
 s/p 2u pRBC|Status post 2 units of packed red blood cells|Chart Shorthand
 s/s asp|Signs and symptoms of aspiration|Speech-Language Pathology
 s/z ratio|Sustained s to sustained z duration ratio|Speech-Language Pathology
+SACH foot|Solid ankle cushion heel foot|Orthotics & Prosthetics
 SAFE foot|Stationary attachment flexible endoskeletal foot|Orthotics & Prosthetics
 SAFER-HOME|Safety assessment of function and the environment for rehabilitation, home outcome measurement and evaluation|Occupational Therapy
 SAFO|Solid ankle-foot orthosis|Orthotics & Prosthetics
@@ -25127,6 +25151,7 @@ flange|Flange (coupling ring of two-piece ostomy system)|Wound & Ostomy Care
 Float|Float pool nurse|Nursing
 Float pool|Nurses deployed to units by daily need|Nursing
 Flow|Flow cytometry|Pathology, Hematology, Procedures & Sedation|2
+Fluoro time|Fluoroscopy time|Procedures & Sedation
 Flush|Saline flush of an IV catheter|Nursing
 Fly car|Non-transporting response vehicle carrying a paramedic|EMS & Prehospital
 foam dsg|Foam dressing|Wound & Ostomy Care
@@ -25475,6 +25500,7 @@ OOB2C|Out of bed to chair|Nursing
 OOH-DNR|Out-of-hospital do not resuscitate order|EMS & Prehospital
 OOS|Out of service|EMS & Prehospital
 OPIM|Other potentially infectious materials|Infection Prevention
+OPO notified|Organ procurement organization notified|Nursing
 OPO referral|Referral to the organ procurement organization|Transplant, Nursing
 OR RN|Operating room registered nurse|Perioperative Nursing
 ORC/collagen|Oxidized regenerated cellulose-collagen dressing|Wound & Ostomy Care
@@ -25985,6 +26011,7 @@ Home w/ HH|Home with home health|Chart Shorthand
 Hosp|Hospital|Chart Shorthand
 hsTn|High-sensitivity troponin|Cardiology, Chart Shorthand
 Husb|Husband|Chart Shorthand
+Hx of|History of|Chart Shorthand
 Hypotn|Hypotension|Chart Shorthand
 IM letter|Important Message from Medicare notice|Chart Shorthand
 IMM|Important Message from Medicare|Chart Shorthand

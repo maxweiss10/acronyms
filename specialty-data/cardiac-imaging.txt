@@ -560,6 +560,7 @@ BOLD|Blood oxygen level-dependent imaging|Cardiac Imaging
 AAD|Aortic annulus diameter|Cardiac Imaging
 AoAn|Aortic annulus|Cardiac Imaging
 SoV|Sinus of Valsalva|Cardiac Imaging
+SoV height|Sinus of Valsalva height|Cardiac Imaging
 PAD|Peripheral artery disease|Cardiac Imaging
 ABI|Ankle-brachial index|Cardiac Imaging
 TBI|Toe-brachial index|Cardiac Imaging

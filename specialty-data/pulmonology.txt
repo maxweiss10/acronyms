@@ -576,6 +576,7 @@ NIF|Negative inspiratory force|Pulmonology
 VFD|Ventilator-free days|Pulmonology
 LPV|Lung-protective ventilation|Pulmonology
 UIP pattern|Usual interstitial pneumonia pattern|Pulmonology
+NSIP pattern|Nonspecific interstitial pneumonia pattern|Pulmonology
 IPAF|Interstitial pneumonia with autoimmune features|Pulmonology
 PPFE|Pleuroparenchymal fibroelastosis|Pulmonology
 AFOP|Acute fibrinous and organizing pneumonia|Pulmonology

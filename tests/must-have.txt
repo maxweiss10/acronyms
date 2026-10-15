@@ -1706,6 +1706,7 @@ LBD|Lower body dressing
 UBD|Upper body dressing
 OOB|Out of bed
 OOBTC|Out of bed to chair
+OOB to chair|Out of bed to chair
 OOBC|Out of bed to chair
 BR|Bed rest
 BRP|Bathroom privileges
@@ -2744,6 +2745,7 @@ Hep|Hepatitis
 Renal fxn|Renal function
 Fxn|Function
 fxn|Function
+Hx of|History of
 Cr bump|Small creatinine rise
 BL Cr|Baseline creatinine
 b/l|Baseline

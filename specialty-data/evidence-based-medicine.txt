@@ -213,6 +213,7 @@ QoE|Quality of evidence|Evidence-Based Medicine
 LoE|Level of evidence|Evidence-Based Medicine
 LOE|Level of evidence|Evidence-Based Medicine
 COR|Class of recommendation|Evidence-Based Medicine
+LOE A|Level of evidence A (high-quality evidence from more than one RCT or meta-analyses)|Evidence-Based Medicine
 LOE B-R|Level of evidence B, randomized (moderate-quality evidence from one or more RCTs)|Evidence-Based Medicine
 LOE B-NR|Level of evidence B, nonrandomized (moderate-quality evidence from nonrandomized studies)|Evidence-Based Medicine
 LOE C-LD|Level of evidence C, limited data|Evidence-Based Medicine
@@ -234,6 +235,7 @@ NCCN 2B|NCCN category 2B (lower-level evidence, consensus)|Evidence-Based Medici
 NCCN 3|NCCN category 3 (major disagreement about appropriateness)|Evidence-Based Medicine
 CEBM|Centre for Evidence-Based Medicine (Oxford)|Evidence-Based Medicine
 OCEBM|Oxford Centre for Evidence-Based Medicine|Evidence-Based Medicine
+AMSTAR 2|A measurement tool to assess systematic reviews 2|Evidence-Based Medicine
 RoB 2|Cochrane risk of bias tool for randomized trials, version 2|Evidence-Based Medicine
 RoB|Risk of bias|Evidence-Based Medicine
 ROBINS-I|Risk of bias in non-randomized studies of interventions|Evidence-Based Medicine

@@ -154,6 +154,7 @@ CAM|Computer-aided manufacturing|Orthotics & Prosthetics
 AM|Additive manufacturing (3D printing)|Orthotics & Prosthetics
 3DP|3D printing|Orthotics & Prosthetics
 SACH|Solid ankle cushion heel (foot)|Orthotics & Prosthetics
+SACH foot|Solid ankle cushion heel foot|Orthotics & Prosthetics
 SAFE|Stationary attachment flexible endoskeletal (foot)|Orthotics & Prosthetics
 SAFE foot|Stationary attachment flexible endoskeletal foot|Orthotics & Prosthetics
 ESAR|Energy storing and return (foot)|Orthotics & Prosthetics

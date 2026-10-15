@@ -2,8 +2,8 @@
 """Fold one or more specialty-data/*.txt files into data.js.
 
 An acronym+meaning pair that already exists (same acronym spelling and case; meaning compared case/punctuation-insensitively) gets the new
-specialty appended to the end of its list (the list runs home specialty first; an optional 4th field
-counts the leading co-equal homes, so appending never disturbs it). A new meaning is inserted after the last existing line
+weight (4th field) raised by one: tags are the 1-3 home specialties only, and the weight = how many
+lists carry the meaning, used to rank common meanings first. A new meaning is inserted after the last existing line
 for that acronym, or appended at the end. Usage: tools/add_specialties.py file.txt ...
 """
 import re, sys, pathlib
@@ -41,9 +41,10 @@ for f in sys.argv[1:]:
                 r = i[1]
             else:
                 r = rows[i]
-            specs = r[2].split(", ")
-            if sp not in specs:
-                r[2] = ", ".join(specs + [sp]); merged += 1
+            # tags are home specialties only; another list carrying the meaning raises its weight (4th field) instead
+            if sp not in r[2].split(", "):
+                if len(r) < 4: r.append("1")
+                r[3] = str(int(r[3]) + 1); merged += 1
             continue
         r = [a, mn, sp]
         if norm(a) in last:

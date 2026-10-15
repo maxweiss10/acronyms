@@ -57,7 +57,7 @@ const PARTS=[
 // lexicon: normalized acronym -> [{a,m,spec}]
 const LEX={};
 const add=(e)=>{const k=norm(e.a); if(!k) return; (LEX[k]=LEX[k]||[]).push(e);};
-ENTRIES.forEach(([a,m,s,h])=>add({a,m,spec:s,h}));
+ENTRIES.forEach(([a,m,s,w])=>add({a,m,spec:s,w:+w||1}));
 PARTS.forEach(add);
 add({a:"MVCAD",m:"Multivessel coronary artery disease",spec:"Cardiology"});
 add({a:"SVCAD",m:"Single-vessel coronary artery disease",spec:"Cardiology"});
@@ -180,7 +180,7 @@ function prefixSplit(k){
     // a meaning that names a place (ends in artery, vein, lobe ...) beats one that only mentions it
     const place=e=>re===ANAT&&/(arter(y|ies)|veins?|lobe|extremity|nerve|joint|pulse|membrane|ligament|catheter|line|drain|duct|gland|branch|quadrant)$/i.test(e.m.replace(/\s*\(.*\)$/,""))?1:0;
     const fit=e=>pref&&pref.test(e.m)?1:0;
-    if(es.length) return [head,es.sort((x,y)=>fit(y)-fit(x)||place(y)-place(x)||y.spec.split(", ").length-x.spec.split(", ").length)[0]].map((x,i)=>i?{k:rest,e:x}:x); }
+    if(es.length) return [head,es.sort((x,y)=>fit(y)-fit(x)||place(y)-place(x)||(y.w||1)-(x.w||1))[0]].map((x,i)=>i?{k:rest,e:x}:x); }
   return null;
 }
 
@@ -200,7 +200,7 @@ function segment(w,ok){
 // Prefer a split whose pieces all come from one specialty (TID + AC in Pharmacology) over a
 // cheaper split stitched from unrelated fields (TI + DAC). Ties go to the more widely used pieces.
 const SPECS=[...new Set(ENTRIES.flatMap(e=>e[2].split(", ")))];
-const wide=r=>r.p.reduce((s,x)=>s+x.e.spec.split(", ").length,0);
+const wide=r=>r.p.reduce((s,x)=>s+(x.e.w||1),0);
 function bestSplit(w){
   let best=null;
   for(const s of SPECS){ const r=segment(w,e=>e.spec==="Compound modifier"||e.spec.split(", ").includes(s));
@@ -214,7 +214,7 @@ function decodeToken(tok){
   const pm=pattern(tok), pe=pm?[{a:tok,m:pm,spec:"Note pattern"}]:[];
   if(LEX[k]){ const ex=LEX[k].filter(e=>e.a.toLowerCase()===tl);
     const low=tok===tl&&/[a-z]/.test(tl), lc=a=>/[a-z]/.test(a);
-    const by=(x,y)=>(y.a===tok)-(x.a===tok)||(low?lc(y.a)-lc(x.a):0)||y.spec.split(", ").length-x.spec.split(", ").length;
+    const by=(x,y)=>(y.a===tok)-(x.a===tok)||(low?lc(y.a)-lc(x.a):0)||(y.w||1)-(x.w||1);
     return {t:tok,exact:(ex.length?ex:LEX[k]).slice().sort(by).concat(pe)}; }
   if(pe.length) return {t:tok,exact:pe};
   if(k.length>2&&k.endsWith("s")&&LEX[k.slice(0,-1)]) return decodeToken(tok.slice(0,-1));
@@ -254,9 +254,8 @@ const TOTAL=new Set(ENTRIES.map(e=>e[0])).size, fmt=x=>x.toLocaleString("en-US")
 // the second word is skipped instead of being split into unrelated acronym pieces
 const VOCAB=new Set(ENTRIES.flatMap(e=>e[1].toLowerCase().match(/[a-z]{4,}/g)||[]));
 const plain=w=>/^[A-Za-z][a-z]{3,}$/.test(w)&&VOCAB.has(w.toLowerCase())&&!RAW.has(w.toLowerCase())&&!RAWN.has(norm(w));
-// specialty tags run home first; h counts the co-equal homes (default 1). The decoder line names only the homes.
-const homeLabel=(spec,h)=>{const t=spec.split(", "), k=t.length<=3?t.length:Math.max(+h||1,1);
-  return t.slice(0,k).join(", ")+(t.length>k?` +${t.length-k} more`:"");};
+// entries carry 1-3 home specialties
+const homeLabel=(spec)=>spec;
 const esc=s=>s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 function render(){
@@ -270,7 +269,7 @@ function render(){
     if((!RAW.has(raw)&&(toks.length>1||!RAWN.has(n)))||(toks.length===1&&pattern(typed))){
       toks.filter(w=>!WORDS.has(w)&&!plain(w)).map(decodeToken).filter(Boolean).forEach(o=>{
         const d=document.createElement("div"); if(o.exact||o.seg) known++;
-        if(o.exact) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.exact.map(e=>esc(e.m)+` <span class="g">(${esc(homeLabel(e.spec,e.h))})</span>`).join("; ")}`;
+        if(o.exact) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.exact.map(e=>esc(e.m)+` <span class="g">(${esc(homeLabel(e.spec))})</span>`).join("; ")}`;
         else if(o.seg) d.innerHTML=`<b>${esc(o.t)}</b>: ${o.seg.map(x=>esc(x.e.m)).join(" + ")} <span class="g">(${o.why}: ${o.seg.map(x=>esc(x.k.toUpperCase())).join(" + ")})</span>`;
         else d.innerHTML=`<b>${esc(o.t)}</b>: <span class="g">not recognized</span>`;
         dec.append(d);
@@ -286,17 +285,17 @@ function render(){
       let s=9;
       if(e[0].toLowerCase()===raw) s=0; else if(na===n) s=1; else if(na.startsWith(n)) s=2;
       return [s,e];
-    }).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||(x[0]===0?(y[1][0]===typed)-(x[1][0]===typed):0)||(x[0]===1&&PUN(raw)?PUN(y[1][0])-PUN(x[1][0]):0)||(x[0]<2?y[1][2].split(", ").length-x[1][2].split(", ").length:0)||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
+    }).filter(x=>x[0]<9).sort((x,y)=>x[0]-y[0]||(x[0]===0?(y[1][0]===typed)-(x[1][0]===typed):0)||(x[0]===1&&PUN(raw)?PUN(y[1][0])-PUN(x[1][0]):0)||(x[0]<2?(+y[1][3]||1)-(+x[1][3]||1):0)||x[1][0].localeCompare(y[1][0])).map(x=>x[1]);
   } else rows=sp?rows.slice().sort((x,y)=>x[0].localeCompare(y[0])):[];  // empty box: no list unless a specialty is picked
   if(raw&&!rows.length&&n.length>2&&n.endsWith("s")&&RAWN.has(n.slice(0,-1))){const k=n.slice(0,-1);
-    rows=ENTRIES.filter(e=>norm(e[0])===k).sort((x,y)=>y[2].split(", ").length-x[2].split(", ").length).map(([a,m,s])=>[a+"s",m+" (plural)",s]);}
+    rows=ENTRIES.filter(e=>norm(e[0])===k).sort((x,y)=>(+y[3]||1)-(+x[3]||1)).map(([a,m,s,w])=>[a+"s",m+" (plural)",s,w]);}
   else if(raw&&!rows.length&&INIT[n]) rows=[...INIT[n].values()].map(([a,m,s])=>[a,m+" (matched by initials)",s]);
   if(sp) rows=rows.filter(e=>e[2].split(", ").includes(sp));
 
   t.innerHTML="";
-  rows.slice(0,400).forEach(([a,m,s,h])=>{
+  rows.slice(0,400).forEach(([a,m,s])=>{
     const tr=document.createElement("tr");
-    [a,m,s].forEach((v,i)=>{const td=document.createElement("td"); if(i===2){td.className="sp"; const full=v.split(", "); const ab=full.map(x=>SPEC_ABBR[x]||x); td.title=v; const k=ab.length<=3?ab.length:Math.max(+h||1,1);  // up to 3 tags: show them all  // tags run home first; h = how many are co-equal homes
+    [a,m,s].forEach((v,i)=>{const td=document.createElement("td"); if(i===2){td.className="sp"; const full=v.split(", "); const ab=full.map(x=>SPEC_ABBR[x]||x); td.title=v; const k=3;  // entries carry 1-3 home specialties; anything past that folds behind +N more  // tags run home first; h = how many are co-equal homes
           if(ab.length>k){td.textContent=ab.slice(0,k).join(", ")+" "; const b=document.createElement("button"); b.className="more"; b.textContent=`+${ab.length-k} more`; b.onclick=()=>{td.textContent=ab.join(", ");}; td.append(b);} else td.textContent=ab.join(", ");} else td.textContent=v; tr.append(td);});
     t.append(tr);
   });

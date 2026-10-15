@@ -817,3 +817,10 @@ PAFO|Pissed and fell over (UK slang for a drunken fall)
 SHPOS|Subhuman piece of s*** (derogatory slang, from The House of God)
 DSB|Drug-seeking behavior
 EDP|Emotionally disturbed person
+PASG|Pneumatic anti-shock garment
+ALS-1|Advanced life support, level 1 (EMS billing level)
+ALS-2|Advanced life support, level 2 (EMS billing level)
+BLS-E|Basic life support, emergency (EMS billing level)
+BLS-NE|Basic life support, non-emergency (EMS billing level)
+SCT|Specialty care transport
+ADON|Assistant director of nursing

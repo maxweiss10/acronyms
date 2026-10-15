@@ -26548,4 +26548,10 @@ HIBGIA|Had it before, got it again (EMS slang for a recurrent problem)|Hospital 
 MUH|Messed-up heart (EMS slang)|Hospital Slang
 PAFO|Pissed and fell over (UK slang for a drunken fall)|Hospital Slang
 SHPOS|Subhuman piece of s*** (derogatory slang, from The House of God)|Hospital Slang
+ADON|Assistant director of nursing|Nursing
+ALS-1|Advanced life support, level 1 (EMS billing level)|EMS & Prehospital
+ALS-2|Advanced life support, level 2 (EMS billing level)|EMS & Prehospital
+BLS-E|Basic life support, emergency (EMS billing level)|EMS & Prehospital
+BLS-NE|Basic life support, non-emergency (EMS billing level)|EMS & Prehospital
+PASG|Pneumatic anti-shock garment|EMS & Prehospital
 `;

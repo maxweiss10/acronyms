@@ -1,0 +1,7 @@
+PASG|Pneumatic anti-shock garment|EMS & Prehospital
+ALS-1|Advanced life support, level 1 (EMS billing level)|EMS & Prehospital
+ALS-2|Advanced life support, level 2 (EMS billing level)|EMS & Prehospital
+BLS-E|Basic life support, emergency (EMS billing level)|EMS & Prehospital
+BLS-NE|Basic life support, non-emergency (EMS billing level)|EMS & Prehospital
+SCT|Specialty care transport|EMS & Prehospital
+ADON|Assistant director of nursing|Nursing

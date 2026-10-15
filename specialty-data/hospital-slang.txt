@@ -10,8 +10,6 @@ NFH|Normal for here (slang)|Hospital Slang
 CTD|Circling the drain (slang for a patient expected to die soon)|Hospital Slang
 FTD|Fixing to die (slang for a patient expected to die soon)|Hospital Slang
 AGMI|Ain't gonna make it (slang for a poor prognosis)|Hospital Slang
-BUNDY|But unfortunately not dead yet (derogatory slang)|Hospital Slang
-TFBUNDY|Totally f***ed but unfortunately not dead yet (derogatory slang)|Hospital Slang
 DRT|Dead right there (EMS slang for obvious death at the scene)|Hospital Slang
 DFO|Done fell out (slang for a collapse or syncope)|Hospital Slang
 PFO|Pissed and fell over (UK slang for a drunken fall)|Hospital Slang
@@ -43,7 +41,6 @@ FRT|Found right there (EMS slang, death at the scene)|Hospital Slang
 SRT|Stayed right there (EMS slang, death at the scene)|Hospital Slang
 FMPS|Fluff my pillow syndrome (derogatory nursing slang for a demanding patient)|Hospital Slang
 BONITA|Big ol' needle in the a** (nursing slang for an intramuscular injection)|Hospital Slang
-AALFD|Another a**hole looking for drugs (derogatory slang for drug-seeking)|Hospital Slang
 PAFO|Pissed and fell over (UK slang for a drunken fall)|Hospital Slang
 SHPOS|Subhuman piece of s*** (derogatory slang, from The House of God)|Hospital Slang
 DSB|Drug-seeking behavior|Emergency Medicine

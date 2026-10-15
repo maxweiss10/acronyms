@@ -26519,7 +26519,6 @@ UR/ME|Urine routine and microscopic examination|Laboratory Medicine
 WZF|Walking zimmer frame|Physical Therapy
 x-lap|Exploratory laparotomy|General Surgery
 AGMI|Ain't gonna make it (slang for a poor prognosis)|Hospital Slang
-BUNDY|But unfortunately not dead yet (derogatory slang)|Hospital Slang
 CNS-QNS|Central nervous system, quantity not sufficient (derogatory slang)|Hospital Slang
 FDGB|Fall down go boom (slang for a fall)|Hospital Slang
 GOK|God only knows (slang for an unclear diagnosis)|Hospital Slang
@@ -26534,11 +26533,9 @@ NFH|Normal for here (slang)|Hospital Slang
 PITA|Pain in the a** (derogatory slang for a difficult patient)|Hospital Slang
 PRATFO|Patient reassured and told to f*** off (derogatory slang)|Hospital Slang
 TATT|Tired all the time (UK general practice shorthand)|Hospital Slang
-TFBUNDY|Totally f***ed but unfortunately not dead yet (derogatory slang)|Hospital Slang
 TTFO|Told to f*** off (derogatory slang)|Hospital Slang
 UBI|Unexplained beer injury (slang)|Hospital Slang
 WOMBAT|Waste of money, brains and time (derogatory slang)|Hospital Slang
-AALFD|Another a**hole looking for drugs (derogatory slang for drug-seeking)|Hospital Slang
 BONITA|Big ol' needle in the a** (nursing slang for an intramuscular injection)|Hospital Slang
 FMPS|Fluff my pillow syndrome (derogatory nursing slang for a demanding patient)|Hospital Slang
 HIBGIA|Had it before, got it again (EMS slang for a recurrent problem)|Hospital Slang

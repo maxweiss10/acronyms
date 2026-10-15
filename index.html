@@ -21,6 +21,7 @@
   #dec{margin-top:12px}
   #dec div{padding:6px 8px;border:1px solid #000;margin-bottom:6px}
   .g{font-size:14px;color:#444}
+  .more{font:inherit;font-size:12px;border:0;background:none;padding:0;color:#0431FF;text-decoration:underline;cursor:pointer}
   #none{display:none;margin-top:12px}
   #tot{font-variant:normal;font-weight:normal;font-size:13px;color:#444}
   #count{font-size:14px;color:#444;margin-top:6px}
@@ -288,7 +289,7 @@ function render(){
   t.innerHTML="";
   rows.slice(0,400).forEach(([a,m,s])=>{
     const tr=document.createElement("tr");
-    [a,m,s].forEach((v,i)=>{const td=document.createElement("td"); if(i===2){td.className="sp"; const full=v.split(", "); const ab=full.map(x=>SPEC_ABBR[x]||x); td.textContent=ab.length>3?ab.slice(0,3).join(", ")+` +${ab.length-3}`:ab.join(", "); td.title=v;} else td.textContent=v; tr.append(td);});
+    [a,m,s].forEach((v,i)=>{const td=document.createElement("td"); if(i===2){td.className="sp"; const full=v.split(", "); const ab=full.map(x=>SPEC_ABBR[x]||x); td.title=v; if(ab.length>3){td.textContent=ab.slice(0,3).join(", ")+" "; const b=document.createElement("button"); b.className="more"; b.textContent=`+${ab.length-3} more`; b.onclick=()=>{td.textContent=ab.join(", ");}; td.append(b);} else td.textContent=ab.join(", ");} else td.textContent=v; tr.append(td);});
     t.append(tr);
   });
   count.textContent = rows.length>400 ? `Showing 400 of ${rows.length}. Narrow your search.` : (rows.length? `${rows.length} match${rows.length===1?"":"es"}` : "");

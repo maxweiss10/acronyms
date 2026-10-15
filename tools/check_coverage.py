@@ -17,7 +17,7 @@ words = lambda s: _w(s.lower()) | _w(s.lower().replace("-", ""))
 have = {}
 for ln in body.splitlines():
     p = ln.split("|")
-    if len(p) == 3:
+    if len(p) in (3, 4):  # 4th field: how many leading specialty tags are co-equal homes
         have.setdefault(norm(p[0]), []).append(p[1])
 missing, meaning = [], []
 LISTS = [root / "tests" / f for f in ("must-have.txt", "notes-checklist.txt")]

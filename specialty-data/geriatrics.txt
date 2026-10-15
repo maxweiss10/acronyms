@@ -563,7 +563,6 @@ IOL|Intraocular lens|Geriatrics
 OD|Right eye|Geriatrics
 OS|Left eye|Geriatrics
 OU|Both eyes|Geriatrics
-CHF exacerbation|Congestive heart failure exacerbation|Geriatrics
 AMS|Altered mental status|Geriatrics
 MS|Mental status|Geriatrics
 A&O|Alert and oriented|Geriatrics

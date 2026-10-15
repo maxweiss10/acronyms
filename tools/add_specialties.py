@@ -2,7 +2,8 @@
 """Fold one or more specialty-data/*.txt files into data.js.
 
 An acronym+meaning pair that already exists (same acronym spelling and case; meaning compared case/punctuation-insensitively) gets the new
-specialty appended to its list. A new meaning is inserted after the last existing line
+specialty appended to the end of its list (the list runs home specialty first; an optional 4th field
+counts the leading co-equal homes, so appending never disturbs it). A new meaning is inserted after the last existing line
 for that acronym, or appended at the end. Usage: tools/add_specialties.py file.txt ...
 """
 import re, sys, pathlib
@@ -14,10 +15,10 @@ head, body, tail = src[:m.start(1)], m.group(1), src[m.end(1):]
 lines = [l for l in body.split("\n") if l.strip()]
 norm = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
 rows = [l.split("|") for l in lines]
-idx = {(a.strip(), norm(mn)): i for i, (a, mn, s) in enumerate(rows)}  # case matters: pt vs PT
+idx = {(r[0].strip(), norm(r[1])): i for i, r in enumerate(rows)}  # case matters: pt vs PT
 last = {}
-for i, (a, mn, s) in enumerate(rows):
-    last[norm(a)] = i
+for i, r in enumerate(rows):
+    last[norm(r[0])] = i
 added = merged = bad = 0
 inserts = {}  # index -> list of new rows to place after it
 appends = []
@@ -42,7 +43,7 @@ for f in sys.argv[1:]:
                 r = rows[i]
             specs = r[2].split(", ")
             if sp not in specs:
-                r[2] = ", ".join(sorted(specs + [sp])); merged += 1
+                r[2] = ", ".join(specs + [sp]); merged += 1
             continue
         r = [a, mn, sp]
         if norm(a) in last:

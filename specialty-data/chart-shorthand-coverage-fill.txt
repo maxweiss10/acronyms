@@ -285,7 +285,6 @@ Silent asp|Silent aspiration|Chart Shorthand
 Fall w/o injury|Fall without injury|Chart Shorthand
 Accu|Fingerstick glucose|Chart Shorthand
 Renal fxn|Renal function|Chart Shorthand
-Hx of|History of|Chart Shorthand
 BL Cr|Baseline creatinine|Chart Shorthand
 xN|Times N|Chart Shorthand
 Mgt|Management|Chart Shorthand

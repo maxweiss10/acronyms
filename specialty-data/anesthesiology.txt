@@ -406,7 +406,6 @@ SIADH|Syndrome of inappropriate antidiuretic hormone secretion|Anesthesiology
 DI|Diabetes insipidus|Anesthesiology
 ADH|Antidiuretic hormone|Anesthesiology
 TURP|Transurethral resection of the prostate|Anesthesiology
-TUR syndrome|Transurethral resection syndrome (hyponatremia from irrigant absorption)|Anesthesiology
 BSA|Body surface area|Anesthesiology
 TBSA|Total body surface area|Anesthesiology
 SSI|Surgical site infection|Anesthesiology

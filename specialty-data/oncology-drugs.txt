@@ -423,7 +423,6 @@ Menini|Menin inhibitor|Oncology
 HHi|Hedgehog pathway inhibitor|Oncology
 SMOi|Smoothened inhibitor|Oncology
 CDK4/6|Cyclin-dependent kinase 4/6|Oncology
-CDK4/6 inhibitor|Cyclin-dependent kinase 4/6 inhibitor|Oncology
 CDK7i|CDK7 inhibitor|Oncology
 ATRi|ATR kinase inhibitor|Oncology
 WEE1i|WEE1 inhibitor|Oncology

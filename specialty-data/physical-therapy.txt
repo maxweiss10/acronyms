@@ -82,7 +82,6 @@ SPC|Single-point cane|Physical Therapy
 QC|Quad cane|Physical Therapy
 LBQC|Large-base quad cane|Physical Therapy
 SBQC|Small-base quad cane|Physical Therapy
-Ax crutches|Axillary crutches|Physical Therapy
 FAC|Forearm crutches|Physical Therapy
 LC|Lofstrand crutches|Physical Therapy
 AD|Assistive device|Physical Therapy

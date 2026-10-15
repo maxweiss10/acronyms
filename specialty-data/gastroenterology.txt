@@ -946,7 +946,6 @@ PD-L1|Programmed death-ligand 1|Gastroenterology
 CPS-PDL1|Combined positive score for programmed death-ligand 1|Gastroenterology
 ICI|Immune checkpoint inhibitor|Gastroenterology
 irAE|Immune-related adverse event|Gastroenterology
-ICI colitis|Immune checkpoint inhibitor colitis|Gastroenterology
 ICIH|Immune checkpoint inhibitor hepatitis|Gastroenterology
 MC-colitis|Microscopic colitis|Gastroenterology
 CC-colitis|Collagenous colitis|Gastroenterology

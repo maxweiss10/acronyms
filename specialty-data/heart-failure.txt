@@ -369,7 +369,6 @@ CRT|Cardiac resynchronization therapy|Heart Failure
 CRT-D|Cardiac resynchronization therapy with defibrillator|Heart Failure
 CRT-P|Cardiac resynchronization therapy with pacemaker|Heart Failure
 BiV|Biventricular|Heart Failure
-BiV pacing|Biventricular pacing|Heart Failure
 LBBAP|Left bundle branch area pacing|Heart Failure
 HBP|His bundle pacing|Heart Failure
 CSP|Conduction system pacing|Heart Failure
@@ -644,7 +643,6 @@ SIHD|Stable ischemic heart disease|Heart Failure
 CCS|Chronic coronary syndrome|Heart Failure
 GCM|Giant cell myocarditis|Heart Failure
 EM|Eosinophilic myocarditis|Heart Failure
-ICI myocarditis|Immune checkpoint inhibitor myocarditis|Heart Failure
 ICI|Immune checkpoint inhibitor|Heart Failure
 irAE|Immune-related adverse event|Heart Failure
 HER2|Human epidermal growth factor receptor 2|Heart Failure

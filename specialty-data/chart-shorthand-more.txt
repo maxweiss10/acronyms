@@ -125,7 +125,6 @@ coll|Collateral (history from another source)|Chart Shorthand
 CR|Chart review|Chart Shorthand
 OSH|Outside hospital|Chart Shorthand
 OSR|Outside records|Chart Shorthand
-OSH records|Outside hospital records|Chart Shorthand
 CE|Care Everywhere (Epic outside records)|Chart Shorthand
 s/a|See above|Chart Shorthand
 SA|See above|Chart Shorthand
@@ -261,7 +260,6 @@ CT output|Chest tube output|Chart Shorthand
 NGT|Nasogastric tube|Chart Shorthand
 OGT|Orogastric tube|Chart Shorthand
 NGT output|Nasogastric tube output|Chart Shorthand
-OGT output|Orogastric tube output|Chart Shorthand
 MP|Maculopapular|Chart Shorthand
 MP rash|Maculopapular rash|Chart Shorthand
 PI|Pressure injury|Nursing
@@ -302,7 +300,6 @@ amb|Ambulating|Chart Shorthand
 amb in hall|Ambulating in hallway|Chart Shorthand
 OOB|Out of bed|Chart Shorthand
 OOBTC|Out of bed to chair|Nursing
-OOB to chair|Out of bed to chair|Nursing
 EOB|Edge of bed|Nursing
 SBA|Standby assist|Nursing
 CGA|Contact guard assist|Nursing
@@ -570,7 +567,6 @@ OSH transfer|Transfer from outside hospital|Chart Shorthand
 ED boarding|Admitted patient held in ED awaiting bed|Chart Shorthand
 boarder|Admitted patient held in ED or off-unit|Chart Shorthand
 obs status|Observation status|Chart Shorthand
-inpt status|Inpatient status|Chart Shorthand
 IP status|Inpatient status|Chart Shorthand
 ADT order|Admission, discharge, or transfer order|Chart Shorthand
 tx|Transport|Chart Shorthand

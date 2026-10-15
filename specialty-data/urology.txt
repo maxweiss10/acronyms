@@ -239,7 +239,6 @@ PH|Primary hyperoxaluria|Urology
 PHPT|Primary hyperparathyroidism|Urology
 24hr urine|Twenty-four-hour urine collection|Urology
 HCTZ|Hydrochlorothiazide|Urology
-K citrate|Potassium citrate|Urology
 KCit|Potassium citrate|Urology
 NaHCO3|Sodium bicarbonate|Urology
 AHA|Acetohydroxamic acid|Urology

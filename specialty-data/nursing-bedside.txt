@@ -73,7 +73,6 @@ VIP score|Visual infusion phlebitis score|Nursing
 CLABSI|Central line-associated bloodstream infection|Nursing
 CRBSI|Catheter-related bloodstream infection|Nursing
 CHG|Chlorhexidine gluconate|Nursing
-CHG bath|Chlorhexidine gluconate bath|Nursing
 CHG wipes|Chlorhexidine gluconate cleansing cloths|Nursing
 CHG dsg|Chlorhexidine gluconate-impregnated dressing|Nursing
 CHG dressing|Chlorhexidine gluconate-impregnated dressing|Nursing
@@ -355,7 +354,6 @@ Dangle|Sit at the edge of the bed with legs hanging|Nursing
 EOB|Edge of bed|Nursing
 OOB|Out of bed|Nursing
 OOBTC|Out of bed to chair|Nursing
-OOB to chair|Out of bed to chair|Nursing
 OOB2C|Out of bed to chair|Nursing
 OOB ad lib|Out of bed as desired|Nursing
 Amb|Ambulate|Nursing
@@ -636,6 +634,5 @@ ME case|Medical examiner case|Nursing
 Coroner|Official who investigates reportable deaths|Nursing
 Coroner case|Death reportable to the coroner|Nursing
 OPO|Organ procurement organization|Nursing
-OPO notified|Organ procurement organization notified|Nursing
 OPO referral|Referral to the organ procurement organization|Nursing
 TOD|Time of death|Nursing

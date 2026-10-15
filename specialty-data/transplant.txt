@@ -467,7 +467,6 @@ Mg|Magnesium|Transplant
 K|Potassium|Transplant
 PRES|Posterior reversible encephalopathy syndrome|Transplant
 CNS|Central nervous system|Transplant
-CNI toxicity|Calcineurin inhibitor toxicity|Transplant
 CNI-TMA|Calcineurin inhibitor-associated thrombotic microangiopathy|Transplant
 SCC|Squamous cell carcinoma|Transplant
 BCC|Basal cell carcinoma|Transplant

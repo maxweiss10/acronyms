@@ -428,10 +428,8 @@ Tc-99m|Technetium-99m|Oncology
 99mTc|Technetium-99m|Oncology
 99mTc-MDP|Technetium-99m methylene diphosphonate bone scan tracer|Oncology
 MDP|Methylene diphosphonate|Oncology
-Tc-99m sestamibi|Technetium-99m sestamibi|Oncology
 MIBI|Methoxyisobutylisonitrile (sestamibi)|Oncology
 sestamibi|Technetium-99m sestamibi scan agent|Oncology
-F-18 fluciclovine|Fluorine-18 fluciclovine|Oncology
 18F-DCFPyL|Fluorine-18 piflufolastat PSMA tracer|Oncology
 18F-PSMA|Fluorine-18 labeled PSMA tracer|Oncology
 F-18 PSMA|Fluorine-18 labeled PSMA tracer|Oncology
@@ -447,7 +445,6 @@ FDOPA|Fluorodihydroxyphenylalanine|Oncology
 18F-FDOPA|Fluorine-18 fluorodihydroxyphenylalanine|Oncology
 F-DOPA PET|Fluorodihydroxyphenylalanine positron emission tomography|Oncology
 FMISO|Fluoromisonidazole (hypoxia imaging agent)|Oncology
-C-11 choline|Carbon-11 choline|Oncology
 11C-choline|Carbon-11 choline|Oncology
 11C-methionine|Carbon-11 methionine|Oncology
 FAPI|Fibroblast activation protein inhibitor imaging agent|Oncology
@@ -569,7 +566,6 @@ Gd|Gadolinium|Oncology
 GBCA|Gadolinium-based contrast agent|Oncology
 IV contrast|Intravenous contrast|Oncology
 PO contrast|Oral contrast|Oncology
-w/ contrast|With contrast|Oncology
 w/o contrast|Without contrast|Oncology
 MRI-pelvis|Magnetic resonance imaging of the pelvis|Oncology
 MRI-rectal|Rectal magnetic resonance imaging|Oncology

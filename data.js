@@ -9412,6 +9412,7 @@ PPP|Postpartum psychosis|Obstetrics
 PPP|Preperitoneal pelvic packing|Trauma Surgery
 PPP|Penile prosthesis placement|Urology
 PPP|Peak plantar pressure|Podiatry
+PPP|Piss-poor protoplasm (derogatory slang for a frail patient)|Hospital Slang
 PPPP|Palmoplantar pustular psoriasis|Dermatology
 PASI|Psoriasis Area and Severity Index|Dermatology, Rheumatology
 PASI75|75 percent improvement in Psoriasis Area and Severity Index|Dermatology
@@ -12998,6 +12999,7 @@ FWB|Free water bolus|Nursing
 STOPP|Screening tool of older persons' potentially inappropriate prescriptions|Geriatrics
 STOPP|Screening Tool of Older Persons' Prescriptions|Pharmacology
 DBI|Drug burden index|Geriatrics, Pharmacology
+DBI|Dirt bag index (derogatory slang)|Hospital Slang
 MAI|Medication appropriateness index|Geriatrics
 MAI|Mycobacterium avium-intracellulare|Infectious Disease
 NaSSA|Noradrenergic and specific serotonergic antidepressant|Geriatrics, Psychiatry
@@ -26060,6 +26062,7 @@ Neph|Nephrology|Chart Shorthand
 Net even|Net even fluid balance|Chart Shorthand
 NFD|No focal deficits|Chart Shorthand
 NFN|Nothing further needed|Chart Shorthand
+NFN|Normal for Norfolk (derogatory UK slang)|Hospital Slang
 Nic patch|Nicotine patch|Chart Shorthand
 NNTR|Nothing new to report|Chart Shorthand
 No comps|No complications|Chart Shorthand
@@ -26516,21 +26519,32 @@ UR/ME|Urine routine and microscopic examination|Laboratory Medicine
 WZF|Walking zimmer frame|Physical Therapy
 x-lap|Exploratory laparotomy|General Surgery
 AGMI|Ain't gonna make it (slang for a poor prognosis)|Hospital Slang
+BUNDY|But unfortunately not dead yet (derogatory slang)|Hospital Slang
+CNS-QNS|Central nervous system, quantity not sufficient (derogatory slang)|Hospital Slang
 FDGB|Fall down go boom (slang for a fall)|Hospital Slang
 GOK|God only knows (slang for an unclear diagnosis)|Hospital Slang
 GOMER|Get out of my emergency room (derogatory slang for a frequent, chronically ill patient)|Hospital Slang
 GORK|God only really knows (slang; also an unresponsive or heavily sedated patient)|Hospital Slang
 KIV|Keep in view|Chart Shorthand
+LOBNH|Lights on but nobody home (derogatory slang for poor responsiveness)|Hospital Slang
 LOL|Little old lady (slang)|Hospital Slang
 LOLFDGB|Little old lady, fall down go boom (slang for an elderly fall)|Hospital Slang
 LOLINAD|Little old lady in no apparent distress (slang)|Hospital Slang
 NFH|Normal for here (slang)|Hospital Slang
+PITA|Pain in the a** (derogatory slang for a difficult patient)|Hospital Slang
+PRATFO|Patient reassured and told to f*** off (derogatory slang)|Hospital Slang
 TATT|Tired all the time (UK general practice shorthand)|Hospital Slang
+TFBUNDY|Totally f***ed but unfortunately not dead yet (derogatory slang)|Hospital Slang
+TTFO|Told to f*** off (derogatory slang)|Hospital Slang
 UBI|Unexplained beer injury (slang)|Hospital Slang
+WOMBAT|Waste of money, brains and time (derogatory slang)|Hospital Slang
+AALFD|Another a**hole looking for drugs (derogatory slang for drug-seeking)|Hospital Slang
 BONITA|Big ol' needle in the a** (nursing slang for an intramuscular injection)|Hospital Slang
+FMPS|Fluff my pillow syndrome (derogatory nursing slang for a demanding patient)|Hospital Slang
 HIBGIA|Had it before, got it again (EMS slang for a recurrent problem)|Hospital Slang
 MUH|Messed-up heart (EMS slang)|Hospital Slang
 PAFO|Pissed and fell over (UK slang for a drunken fall)|Hospital Slang
+SHPOS|Subhuman piece of s*** (derogatory slang, from The House of God)|Hospital Slang
 ADON|Assistant director of nursing|Nursing
 ALS-1|Advanced life support, level 1 (EMS billing level)|EMS & Prehospital
 ALS-2|Advanced life support, level 2 (EMS billing level)|EMS & Prehospital
